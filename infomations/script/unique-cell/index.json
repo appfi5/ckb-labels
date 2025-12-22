@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema.json",
+  "name": "Unique Cell",
+  "description": "A unique cell can be created on the Nervos CKB through TypeID which makes sure the unique cell cannot be updated or destroyed.",
+  "rfc": "",
+  "website": "",
+  "sourceUrl": "https://github.com/ckb-cell/unique-cell/",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "data1",
+        "dataHash": "0x2c8c11c985da60b0a330c61a85507416d6382c130ba67f0c47ab071e00aec628",
+        "typeHash": "",
+        "codeHash": "0x2c8c11c985da60b0a330c61a85507416d6382c130ba67f0c47ab071e00aec628",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0xcc2518c2c1384f2473c96f63c4e74074984296f358512ee7f54c848d4c135040",
+        "typeHash": "0x8e341bcfec6393dcd41e635733ff2dca00a6af546949f70c57a706c0f344df8b",
+        "codeHash": "0x8e341bcfec6393dcd41e635733ff2dca00a6af546949f70c57a706c0f344df8b",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

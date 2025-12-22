@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema.json",
+  "name": "Btc Time Lock",
+  "description": "A lock require n confirmations of Bitcoin transaction to unlock the cell.",
+  "rfc": "https://github.com/ckb-cell/RGBPlusPlus-design/blob/main/docs/lockscript-design-prd-en.md#btc_time_lock",
+  "website": "",
+  "sourceUrl": "",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0xfac2c0484baf71419420c6abcbd4a54c4f6061eb34fe703e8f254dbeb0439699",
+        "typeHash": "0x70d64497a075bd651e98ac030455ea200637ee325a12ad08aff03f1a117e5a62",
+        "codeHash": "0x70d64497a075bd651e98ac030455ea200637ee325a12ad08aff03f1a117e5a62",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0xd3db94edf2a2d040fb4f0fc93f21e721ef181719717384598c536fd1cfc3ad58",
+        "typeHash": "0x80a09eca26d77cea1f5a69471c59481be7404febf40ee90f886c36a948385b55",
+        "codeHash": "0x80a09eca26d77cea1f5a69471c59481be7404febf40ee90f886c36a948385b55",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

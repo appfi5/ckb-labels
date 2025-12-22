@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema.json",
+  "name": "Godwoken Stake Lock",
+  "description": "A block producer is required to provide a stake cell to perform the RollupSubmitBlock action.",
+  "rfc": "",
+  "website": "https://github.com/godwokenrises/godwoken/tree/develop/gwos#stake-lock",
+  "sourceUrl": "https://github.com/godwokenrises/godwoken/tree/develop/gwos/contracts/stake-lock",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0x107f292ab7eeaaa9d412a2719f6a264985e90f935e557cf895f267909835e8a9",
+        "typeHash": "0xb619184ab9142c51b0ee75f4e24bcec3d077eefe513115bad68836d06738fd2c",
+        "codeHash": "0xb619184ab9142c51b0ee75f4e24bcec3d077eefe513115bad68836d06738fd2c",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0x107f292ab7eeaaa9d412a2719f6a264985e90f935e557cf895f267909835e8a9",
+        "typeHash": "0x7f5a09b8bd0e85bcf2ccad96411ccba2f289748a1c16900b0635c2ed9126f288",
+        "codeHash": "0x7f5a09b8bd0e85bcf2ccad96411ccba2f289748a1c16900b0635c2ed9126f288",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

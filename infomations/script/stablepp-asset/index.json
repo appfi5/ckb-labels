@@ -1,0 +1,22 @@
+{
+  "$schema": "../schema.json",
+  "name": "Stable++ Asset",
+  "description": "",
+  "rfc": "",
+  "website": "https://www.stablepp.xyz/stablecoin",
+  "sourceUrl": "",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0xec32ad0c478ab011f9d089a900f3d06c91338a1954e45d9d8152c74859f99945",
+        "typeHash": "0x26a33e0815888a4a0614a0b7d09fa951e0993ff21e55905510104a0b1312032b",
+        "codeHash": "0x26a33e0815888a4a0614a0b7d09fa951e0993ff21e55905510104a0b1312032b",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": []
+  }
+}

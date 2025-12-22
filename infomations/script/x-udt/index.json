@@ -1,0 +1,51 @@
+{
+  "$schema": "../schema.json",
+  "name": "xUDT",
+  "description": "Extensible UDT that derived from sUDT's programmability to support a wider range of scenarios",
+  "rfc": "",
+  "website": "https://blog.cryptape.com/enhance-sudts-programmability-with-xudt#heading-xudt-cell",
+  "sourceUrl": "https://github.com/nervosnetwork/ckb-production-scripts/blob/master/c/xudt_rce.c",
+  "decoderType": "udt",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "@bfa35a9c",
+        "hashType": "type",
+        "dataHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+        "typeHash": "0xbfa35a9c38a676682b65ade8f02be164d48632281477e36f8dc2f41f79e56bfc",
+        "codeHash": "0xbfa35a9c38a676682b65ade8f02be164d48632281477e36f8dc2f41f79e56bfc",
+        "deprecated": false,
+        "cellDeps": []
+      },
+      {
+        "tag": "@50bd8d66",
+        "hashType": "data1",
+        "dataHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+        "typeHash": "",
+        "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "@25c29dc3",
+        "hashType": "type",
+        "dataHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+        "typeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+        "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+        "deprecated": false,
+        "cellDeps": []
+      },
+      {
+        "tag": "@cc9dc33e",
+        "hashType": "type",
+        "dataHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+        "typeHash": "0xcc9dc33ef234e14bc788c43a4848556a5fb16401a04662fc55db9bb201987037",
+        "codeHash": "0xcc9dc33ef234e14bc788c43a4848556a5fb16401a04662fc55db9bb201987037",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

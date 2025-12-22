@@ -1,0 +1,22 @@
+{
+  "$schema": "../schema.json",
+  "name": "M-NFT Issuer",
+  "description": "",
+  "rfc": "",
+  "website": "",
+  "sourceUrl": "",
+  "deployments": {
+    "mainnet": [],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0x3af02bb0be50befa6bb0496442804c5418a1b0a10f415764b613b8c43ef87bbc",
+        "typeHash": "0xb59879b6ea6fff985223117fa499ce84f8cfb028c4ffdfdf5d3ec19e905a11ed",
+        "codeHash": "0xb59879b6ea6fff985223117fa499ce84f8cfb028c4ffdfdf5d3ec19e905a11ed",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

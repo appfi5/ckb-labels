@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema.json",
+  "name": "UDT Limit Order",
+  "description": "UDT Limit Order is a general purpose UDT based Limit Order, developed as part of iCKB.",
+  "rfc": "https://github.com/ickb/proposal#limit-order-script",
+  "website": "",
+  "sourceUrl": "https://github.com/ickb/v1-core/tree/454cfa966052a621c4e8b67001718c29ee8191a2/scripts/contracts/limit_order",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "data1",
+        "dataHash": "0x49dfb6afee5cc8ac4225aeea8cb8928b150caf3cd92fea33750683c74b13254a",
+        "typeHash": "",
+        "codeHash": "0x49dfb6afee5cc8ac4225aeea8cb8928b150caf3cd92fea33750683c74b13254a",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "data1",
+        "dataHash": "0x49dfb6afee5cc8ac4225aeea8cb8928b150caf3cd92fea33750683c74b13254a",
+        "typeHash": "",
+        "codeHash": "0x49dfb6afee5cc8ac4225aeea8cb8928b150caf3cd92fea33750683c74b13254a",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../schema.json",
+  "name": "Godwoken Challenge Lock",
+  "description": "When a Godwoken node found that an invalid state exists in the Rollup, the node can send the RollupEnterChallenge action to the Rollup cell and generate a challenging cell.",
+  "rfc": "",
+  "website": "https://github.com/godwokenrises/godwoken/tree/develop/gwos#challenge-lock",
+  "sourceUrl": "https://github.com/godwokenrises/godwoken/tree/develop/gwos/contracts/challenge-lock",
+  "deployments": {
+    "mainnet": [],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0xbaaae1cc39656301d65d2ac8151a21f967b344a18c9d6e967ac0945761401efd",
+        "typeHash": "0x5a86c3bf1e8648b6a6f8abe6875720ccf9745ab225b68fa7c195f9d6635dea80",
+        "codeHash": "0x5a86c3bf1e8648b6a6f8abe6875720ccf9745ab225b68fa7c195f9d6635dea80",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

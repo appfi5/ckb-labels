@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema.json",
+  "name": "RGB++",
+  "description": "RGB++ Lock",
+  "rfc": "",
+  "website": "",
+  "sourceUrl": "",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0x1c629e18b5b072b44c8befe045ce78ea662bac8dafe614e89629e6b688601324",
+        "typeHash": "0xbc6c568a1a0d0a09f6844dc9d74ddb4343c32143ff25f727c59edf4fb72d6936",
+        "codeHash": "0xbc6c568a1a0d0a09f6844dc9d74ddb4343c32143ff25f727c59edf4fb72d6936",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0x7e458568bc12ba00bfb10ec1805a485ee1c14b16f4a6930ce1498e2e36e6374a",
+        "typeHash": "0xd07598deec7ce7b5665310386b4abd06a6d48843e953c5cc2112ad0d5a220364",
+        "codeHash": "0xd07598deec7ce7b5665310386b4abd06a6d48843e953c5cc2112ad0d5a220364",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

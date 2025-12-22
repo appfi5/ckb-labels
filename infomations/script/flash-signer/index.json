@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema.json",
+  "name": "FlashSigner",
+  "description": "",
+  "rfc": "",
+  "website": "",
+  "sourceUrl": "",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0x0d5da9effc2aa91aa2d813fef14c746ce263e0cb70cf8f4d064569ab047a5768",
+        "typeHash": "0x081dbffa88dab54ba426d231ca64eb760cea2fe9e16761a1da400da1b2cbe128",
+        "codeHash": "0x081dbffa88dab54ba426d231ca64eb760cea2fe9e16761a1da400da1b2cbe128",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0xe822b7e218bcb85efa3f47c540236f16ac8afda82187fd28b30d05f503812da5",
+        "typeHash": "0x577a5e5930e2ecdd6200765f3442e6119dc99e87df474f22f13cab819c80b242",
+        "codeHash": "0x577a5e5930e2ecdd6200765f3442e6119dc99e87df474f22f13cab819c80b242",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

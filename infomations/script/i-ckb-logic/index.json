@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema.json",
+  "name": "iCKB Logic",
+  "description": "iCKB Logic tokenizes NervosDAO deposits into the iCKB xUDT token.",
+  "rfc": "https://github.com/ickb/proposal",
+  "website": "https://ickb.org/",
+  "sourceUrl": "https://github.com/ickb/v1-core/tree/454cfa966052a621c4e8b67001718c29ee8191a2/scripts/contracts/ickb_logic",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "data1",
+        "dataHash": "0x2a8100ab5990fa055ab1b50891702e1e895c7bd1df6322cd725c1a6115873bd3",
+        "typeHash": "",
+        "codeHash": "0x2a8100ab5990fa055ab1b50891702e1e895c7bd1df6322cd725c1a6115873bd3",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "data1",
+        "dataHash": "0x2a8100ab5990fa055ab1b50891702e1e895c7bd1df6322cd725c1a6115873bd3",
+        "typeHash": "",
+        "codeHash": "0x2a8100ab5990fa055ab1b50891702e1e895c7bd1df6322cd725c1a6115873bd3",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema.json",
+  "name": "OMNI Lock",
+  "description": "Omnilock is a lock script designed for interoperability. It comes with built-in support for verification of transaction signing methods used in Bitcoin, Ethereum, EOS, and Dogecoin. Omnilock is also extensible, so more verification algorithms can be added in future.",
+  "rfc": "https://github.com/nervosnetwork/rfcs/tree/master/rfcs/0042-omnilock",
+  "website": "",
+  "sourceUrl": "",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "v2",
+        "hashType": "type",
+        "dataHash": "0x768f306681da232ceb0b94f436c5f813377179762a831c5ad8797bd4fd2d118d",
+        "typeHash": "0x9b819793a64463aed77c615d6cb226eea5487ccfc0783043a587254cda2b6f26",
+        "codeHash": "0x9b819793a64463aed77c615d6cb226eea5487ccfc0783043a587254cda2b6f26",
+        "deprecated": false,
+        "cellDeps": []
+      },
+      {
+        "tag": "v1",
+        "hashType": "type",
+        "dataHash": "0xf18e295b6a9286108639df659b822b1cc75216776df3d52ac9ed11a1dadadee5",
+        "typeHash": "0xa4398768d87bd17aea1361edc3accd6a0117774dc4ebc813bfa173e8ac0d086d",
+        "codeHash": "0xa4398768d87bd17aea1361edc3accd6a0117774dc4ebc813bfa173e8ac0d086d",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "v2",
+        "hashType": "type",
+        "dataHash": "0x6b29b6f10346b43c540e53806ba88ba0fe3a0c3a29d7448ef555840c8f8318fa",
+        "typeHash": "0xf329effd1c475a2978453c8600e1eaf0bc2087ee093c3ee64cc96ec6847752cb",
+        "codeHash": "0xf329effd1c475a2978453c8600e1eaf0bc2087ee093c3ee64cc96ec6847752cb",
+        "deprecated": false,
+        "cellDeps": []
+      },
+      {
+        "tag": "v1",
+        "hashType": "type",
+        "dataHash": "0x1bf147d1c95a5ad51016bd426c33f364257e685af54df26fc69ec40e3ae267d1",
+        "typeHash": "0x79f90bb5e892d80dd213439eeab551120eb417678824f282b4ffb5f21bad2e1e",
+        "codeHash": "0x79f90bb5e892d80dd213439eeab551120eb417678824f282b4ffb5f21bad2e1e",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

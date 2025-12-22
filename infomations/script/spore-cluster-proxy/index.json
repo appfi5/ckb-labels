@@ -1,0 +1,22 @@
+{
+  "$schema": "../schema.json",
+  "name": "Spore Cluster Proxy",
+  "description": "",
+  "rfc": "",
+  "website": "",
+  "sourceUrl": "",
+  "deployments": {
+    "mainnet": [],
+    "testnet": [
+      {
+        "tag": "v2 preview",
+        "hashType": "data1",
+        "dataHash": "0x4349889bda064adab8f49f7dd8810d217917f7df28e9b2a1df0b74442399670a",
+        "typeHash": "0xf07d2a034728c60244b745fc261eed9edad10a57e05aa740819288ed404b716c",
+        "codeHash": "0x4349889bda064adab8f49f7dd8810d217917f7df28e9b2a1df0b74442399670a",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

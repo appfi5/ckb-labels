@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema.json",
+  "name": "Godwoken Custodian Lock",
+  "description": "Rollup uses the custodian lock to hold the deposited assets.",
+  "rfc": "",
+  "website": "https://github.com/godwokenrises/godwoken/tree/develop/gwos#custodian-lock",
+  "sourceUrl": "https://github.com/godwokenrises/godwoken/tree/develop/gwos/contracts/custodian-lock",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0xa254fee1ed74ae1e2e9b30df6607b27e6368aa950e5c0b8eaf33267c6c8addb0",
+        "typeHash": "0x000f87062a2fe9bb4a6cc475212ea11014b84deb32e0375ee51e6ec4a553e009",
+        "codeHash": "0x000f87062a2fe9bb4a6cc475212ea11014b84deb32e0375ee51e6ec4a553e009",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0xa254fee1ed74ae1e2e9b30df6607b27e6368aa950e5c0b8eaf33267c6c8addb0",
+        "typeHash": "0x85ae4db0dd83f428a31deb342e4000af37ce2c9645d9e619df00096e3c50a2bb",
+        "codeHash": "0x85ae4db0dd83f428a31deb342e4000af37ce2c9645d9e619df00096e3c50a2bb",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

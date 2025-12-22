@@ -1,0 +1,187 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "name": {
+      "description": "Script Name",
+      "type": "string",
+      "minLength": 1
+    },
+    "description": {
+      "type": "string"
+    },
+    "rfc": {
+      "type": "string"
+    },
+    "website": {
+      "type": "string"
+    },
+    "sourceUrl": {
+      "type": "string"
+    },
+    "decoderType": {
+      "description": "Type for cell decoder",
+      "type": "string",
+      "enum": [
+        "udt",
+        "spore",
+        "spore-cluster",
+        "dao",
+        "ckbfs"
+      ]
+    },
+    "deployments": {
+      "type": "object",
+      "properties": {
+        "mainnet": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "tag": {
+                "description": "tag for multi deployments, eg. v1, v2, @0000",
+                "type": "string"
+              },
+              "deprecated": {
+                "type": "boolean"
+              },
+              "hashType": {
+                "type": "string",
+                "enum": [
+                  "type",
+                  "data",
+                  "data1",
+                  "data2"
+                ]
+              },
+              "dataHash": {
+                "type": "string"
+              },
+              "typeHash": {
+                "type": "string"
+              },
+              "codeHash": {
+                "type": "string",
+                "minLength": 1
+              },
+              "cellDeps": {
+                "description": "cellDeps is not validate yet",
+                "type": "array",
+                "items": {}
+              },
+              "outPoint": {
+                "type": "object",
+                "properties": {
+                  "txHash": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "index": {
+                    "type": "number"
+                  }
+                },
+                "required": [
+                  "txHash",
+                  "index"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "deprecated",
+              "hashType",
+              "dataHash",
+              "typeHash",
+              "codeHash",
+              "cellDeps"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "testnet": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "tag": {
+                "description": "tag for multi deployments, eg. v1, v2, @0000",
+                "type": "string"
+              },
+              "deprecated": {
+                "type": "boolean"
+              },
+              "hashType": {
+                "type": "string",
+                "enum": [
+                  "type",
+                  "data",
+                  "data1",
+                  "data2"
+                ]
+              },
+              "dataHash": {
+                "type": "string"
+              },
+              "typeHash": {
+                "type": "string"
+              },
+              "codeHash": {
+                "type": "string",
+                "minLength": 1
+              },
+              "cellDeps": {
+                "description": "cellDeps is not validate yet",
+                "type": "array",
+                "items": {}
+              },
+              "outPoint": {
+                "type": "object",
+                "properties": {
+                  "txHash": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "index": {
+                    "type": "number"
+                  }
+                },
+                "required": [
+                  "txHash",
+                  "index"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "deprecated",
+              "hashType",
+              "dataHash",
+              "typeHash",
+              "codeHash",
+              "cellDeps"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "mainnet",
+        "testnet"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "$schema",
+    "name",
+    "description",
+    "rfc",
+    "website",
+    "sourceUrl",
+    "deployments"
+  ],
+  "additionalProperties": false
+}

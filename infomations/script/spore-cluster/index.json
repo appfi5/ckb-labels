@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema.json",
+  "name": "Spore Cluster",
+  "description": "",
+  "rfc": "",
+  "website": "",
+  "sourceUrl": "",
+  "decoderType": "spore-cluster",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "data1",
+        "dataHash": "0x7366a61534fa7c7e6225ecc0d828ea3b5366adec2b58206f2ee84995fe030075",
+        "typeHash": "",
+        "codeHash": "0x7366a61534fa7c7e6225ecc0d828ea3b5366adec2b58206f2ee84995fe030075",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "v1 latest",
+        "hashType": "data1",
+        "dataHash": "0x598d793defef36e2eeba54a9b45130e4ca92822e1d193671f490950c3b856080",
+        "typeHash": "0x143949d2ee9d0b5fa570d188d30f40f958cca2e17e2c154f663de0627488cc5f",
+        "codeHash": "0x598d793defef36e2eeba54a9b45130e4ca92822e1d193671f490950c3b856080",
+        "deprecated": false,
+        "cellDeps": []
+      },
+      {
+        "tag": "v2 preview",
+        "hashType": "data1",
+        "dataHash": "0x0bbe768b519d8ea7b96d58f1182eb7e6ef96c541fbd9526975077ee09f049058",
+        "typeHash": "0xc11dd38a124e544722bb6f473cb1224022f39919960dbddc364fc0e71ace3c5e",
+        "codeHash": "0x0bbe768b519d8ea7b96d58f1182eb7e6ef96c541fbd9526975077ee09f049058",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

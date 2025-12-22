@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema.json",
+  "name": "Type ID",
+  "description": "",
+  "rfc": "",
+  "website": "",
+  "sourceUrl": "",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "",
+        "typeHash": "0x00000000000000000000000000000000000000000000000000545950455f4944",
+        "codeHash": "0x00000000000000000000000000000000000000000000000000545950455f4944",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "",
+        "typeHash": "0x00000000000000000000000000000000000000000000000000545950455f4944",
+        "codeHash": "0x00000000000000000000000000000000000000000000000000545950455f4944",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

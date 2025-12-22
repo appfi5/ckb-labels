@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BEAF",
+  "symbol": "BEAF",
+  "icon": "beaf.jpeg",
+  "decimal": 0,
+  "tags": [
+    "supply-limited",
+    "rgb++"
+  ],
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3w55dn90d36gqd9fxn4vfddsmmrzy7k04qpp9sfy5560ejtzl5l5qqqqqq8422du",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xc639759e988445217e4c08b2e7b416082d9de0cb061194e2f7f35a89bb6fbf4f"
+  },
+  "typeHash": "0xfbd235ba8e5b1f8f7df6bd51e8756d52c05ef358d30e7bcfee8a73b6a9c185c9"
+}

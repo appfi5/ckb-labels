@@ -1,0 +1,24 @@
+{
+  "name": "ckb-labels",
+  "version": "1.0.0",
+  "description": "labels about udt, script, etc.",
+  "homepage": "https://github.com/appfi5/ckb-labels#readme",
+  "bugs": {
+    "url": "https://github.com/appfi5/ckb-labels/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appfi5/ckb-labels.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@ckb-ccc/core": "^1.12.2",
+    "@types/node": "^24.10.1",
+    "typescript": "^5.9.3",
+    "zod": "^4.1.13"
+  }
+}

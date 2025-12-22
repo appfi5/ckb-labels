@@ -1,0 +1,51 @@
+{
+  "$schema": "../schema.json",
+  "name": "CKBFS",
+  "description": "CKBFS is a protocol designed to describe a witnesses based file storage system.",
+  "rfc": "https://github.com/code-monad/ckbfs/blob/master/RFC.md",
+  "website": "https://talk.nervos.org/t/ckbfs-protocol-a-standard-for-witnesses-based-content-storage-system/8342",
+  "sourceUrl": "https://github.com/code-monad/ckbfs",
+  "decoderType": "ckbfs",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "v2",
+        "hashType": "data1",
+        "dataHash": "0x31e6376287d223b8c0410d562fb422f04d1d617b2947596a14c3d2efb7218d3a",
+        "typeHash": "0xfd2058c9a0c0183354cf637e25d2707ffa9bb6fa2ba9b29f4ebc6be3e54ad7eb",
+        "codeHash": "0x31e6376287d223b8c0410d562fb422f04d1d617b2947596a14c3d2efb7218d3a",
+        "deprecated": false,
+        "cellDeps": []
+      },
+      {
+        "tag": "v3",
+        "hashType": "data1",
+        "dataHash": "0xb5d13ffe0547c78021c01fe24dce2e959a1ed8edbca3cb93dd2e9f57fb56d695",
+        "typeHash": "0xcc5411e8b70e551d7a3dd806256533cff6bc12118b48dd7b2d5d2292c3651add",
+        "codeHash": "0xb5d13ffe0547c78021c01fe24dce2e959a1ed8edbca3cb93dd2e9f57fb56d695",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "v2",
+        "hashType": "data1",
+        "dataHash": "0x31e6376287d223b8c0410d562fb422f04d1d617b2947596a14c3d2efb7218d3a",
+        "typeHash": "0x7c6dcab8268201f064dc8676b5eafa60ca2569e5c6209dcbab0eb64a9cb3aaa3",
+        "codeHash": "0x31e6376287d223b8c0410d562fb422f04d1d617b2947596a14c3d2efb7218d3a",
+        "deprecated": false,
+        "cellDeps": []
+      },
+      {
+        "tag": "v3",
+        "hashType": "data1",
+        "dataHash": "0xb5d13ffe0547c78021c01fe24dce2e959a1ed8edbca3cb93dd2e9f57fb56d695",
+        "typeHash": "0xaebf5a7b541da9603c2066a9768d3d18fea2e7f3c1943821611545155fecc671",
+        "codeHash": "0xb5d13ffe0547c78021c01fe24dce2e959a1ed8edbca3cb93dd2e9f57fb56d695",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

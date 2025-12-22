@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema.json",
+  "name": "Unipass V3",
+  "description": "UniPass Wallet is a smart contract wallet solution that supports on-chain Email social recovery.",
+  "rfc": "",
+  "website": "https://www.unipass.id",
+  "sourceUrl": "",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0x641aa0316014005d147b907e7fad7b5223ed0b9a4704b48a6dc592b838bdcde6",
+        "typeHash": "0xd01f5152c267b7f33b9795140c2467742e8424e49ebe2331caec197f7281b60a",
+        "codeHash": "0xd01f5152c267b7f33b9795140c2467742e8424e49ebe2331caec197f7281b60a",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0xdcfa6069acc7b2c49c11a4e31ba553c5c1ed443b8dcc3651e957e19bb87c2bfc",
+        "typeHash": "0x3e1eb7ed4809b2d60650be96a40abfbdafb3fb942b7b37ec7709e64e2cd0a783",
+        "codeHash": "0x3e1eb7ed4809b2d60650be96a40abfbdafb3fb942b7b37ec7709e64e2cd0a783",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

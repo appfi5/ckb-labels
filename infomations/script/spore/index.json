@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema.json",
+  "name": "Spore",
+  "description": "Spore Protocol infuses digital assets with enduring value backed by tokenomics, redeemable at any time. Ensures true on-chain ownership, privacy, creative freedom and frictionless interaction.",
+  "rfc": "https://github.com/sporeprotocol/spore-contract/blob/master/docs/RFC.md",
+  "website": "https://spore.pro/",
+  "sourceUrl": "https://github.com/sporeprotocol/spore-contract",
+  "decoderType": "spore",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "data1",
+        "dataHash": "0x4a4dce1df3dffff7f8b2cd7dff7303df3b6150c9788cb75dcf6747247132b9f5",
+        "typeHash": "",
+        "codeHash": "0x4a4dce1df3dffff7f8b2cd7dff7303df3b6150c9788cb75dcf6747247132b9f5",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "v2 preview",
+        "hashType": "data1",
+        "dataHash": "0x685a60219309029d01310311dba953d67029170ca4848a4ff638e57002130a0d",
+        "typeHash": "0x406f121d5d0f2a51deb8eb708c905010c795ce039d90bac8a7e13663803df10f",
+        "codeHash": "0x685a60219309029d01310311dba953d67029170ca4848a4ff638e57002130a0d",
+        "deprecated": false,
+        "cellDeps": []
+      },
+      {
+        "tag": "v1 latest",
+        "hashType": "data1",
+        "dataHash": "0xbbad126377d45f90a8ee120da988a2d7332c78ba8fd679aab478a19d6c133494",
+        "typeHash": "0x3a91036008d2e1286719ca7b3e50b6d0bc829f40b54fbac51071c66f7f81572d",
+        "codeHash": "0xbbad126377d45f90a8ee120da988a2d7332c78ba8fd679aab478a19d6c133494",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

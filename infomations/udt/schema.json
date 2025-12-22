@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "name": {
+      "description": "UDT Name",
+      "type": "string",
+      "minLength": 1
+    },
+    "symbol": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 20
+    },
+    "icon": {
+      "type": "string"
+    },
+    "decimal": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "rgb++",
+          "layer-1-asset",
+          "layer-2-asset",
+          "supply-limited"
+        ]
+      }
+    },
+    "manager": {
+      "type": "string"
+    },
+    "type": {
+      "type": "object",
+      "properties": {
+        "codeHash": {
+          "type": "string",
+          "minLength": 1
+        },
+        "hashType": {
+          "type": "string",
+          "enum": [
+            "type",
+            "data",
+            "data1",
+            "data2"
+          ]
+        },
+        "args": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "codeHash",
+        "hashType",
+        "args"
+      ],
+      "additionalProperties": false
+    },
+    "typeHash": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "required": [
+    "$schema",
+    "name",
+    "symbol",
+    "decimal",
+    "type",
+    "typeHash"
+  ],
+  "additionalProperties": false
+}
