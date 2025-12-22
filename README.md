@@ -1,4 +1,4 @@
-# CKB Lables
+# CKB Labels
 include labels about UDT, Script, etc.
 
 
