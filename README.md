@@ -2,6 +2,5 @@
 include labels about UDT, Script, etc.
 
 
-## Todo
-* [ ] ci to validate infomation
-* [ ] issue template for submit udt / script info
+## How to submit information?
+You can submit new information to us through GitHub issues; we have prepared a template for you to fill out.
