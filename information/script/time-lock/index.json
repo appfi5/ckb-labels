@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema.json",
+  "name": "TimeLock",
+  "description": "Since-based lock (time/block/epoch) with additional lock script verification.",
+  "rfc": "",
+  "website": "",
+  "sourceUrl": "https://github.com/ckb-devrel/ckb-proxy-locks",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "data1",
+        "dataHash": "0x6fac4b2e89360a1e692efcddcb3a28656d8446549fb83da6d896db8b714f4451",
+        "typeHash": "",
+        "codeHash": "0x6fac4b2e89360a1e692efcddcb3a28656d8446549fb83da6d896db8b714f4451",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "data1",
+        "dataHash": "0x6fac4b2e89360a1e692efcddcb3a28656d8446549fb83da6d896db8b714f4451",
+        "typeHash": "",
+        "codeHash": "0x6fac4b2e89360a1e692efcddcb3a28656d8446549fb83da6d896db8b714f4451",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

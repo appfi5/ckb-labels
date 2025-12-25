@@ -1,0 +1,74 @@
+[
+    {
+        "owner_address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgtdsmhc9ypfly762f8v0h89whugz6frwgfakvd8",
+        "project": "dCKB"
+    },
+    {
+        "owner_address": "ckb1qpw9q60tppt7l3j7r09qcp7lxnp3vcanvgha8pmvsa3jplykxn32sqt8jrsz9nj0ustcxqk3aqq6dmcmzzznn8cts6ysl",
+        "project": "Godwoken"
+    },
+    {
+        "owner_address": "ckb1qpw9q60tppt7l3j7r09qcp7lxnp3vcanvgha8pmvsa3jplykxn32sqw3m00fy99pev0rwlymvsawt35qmcxtjhqfect6v",
+        "project": "mNFT/COTA"
+    },
+    {
+        "owner_address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgf6h63q3q823m3a6ua9fyptzz5nukzgaszcu993",
+        "project": "NRC 721"
+    },
+    {
+        "owner_address": "ckb1qpw9q60tppt7l3j7r09qcp7lxnp3vcanvgha8pmvsa3jplykxn32sqdu82cqamnxx4gtluzz9zd9phwk23jl3xgtgyxmz",
+        "project": "Godwoken"
+    },
+    {
+        "owner_address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqghpvldftznwn9cuchm7fp4jezsxde794swfshw8",
+        "project": "Unipass"
+    },
+    {
+        "owner_address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0as5tywcqgtrrcygwvhzqz2tq3syantwct45td0",
+        "project": "Unique Cell"
+    },
+    {
+        "owner_address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvm08fck4gr8qgk9dj944c5m0glrh3y95sp856gp",
+        "project": "Omiga"
+    },
+    {
+        "owner_address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfqmf4hphl9jkrw3934mwe6m3a2nx88rzgrd9gqh",
+        "project": "DOB Decoder"
+    },
+    {
+        "owner_address": "ckb1qpw9q60tppt7l3j7r09qcp7lxnp3vcanvgha8pmvsa3jplykxn32sqwjyxle04qau4ez5wu5l6zjh4jy9jpxqvqxatv9l",
+        "project": "ccBTC"
+    },
+    {
+        "owner_address": "ckb1qpw9q60tppt7l3j7r09qcp7lxnp3vcanvgha8pmvsa3jplykxn32sqw54hj3qr83ztyu605d5y4wtlrp2v5nppcdpjaey",
+        "project": "Nostr"
+    },
+    {
+        "owner_address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwu0gcv2l5taaytru7jd7c24sgv6e0d7vq9jdjyk",
+        "project": "Devrel"
+    },
+    {
+        "owner_address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqv2xh9dex2yaevvtde4heqck607nwxmgncj5t0xe",
+        "project": "stable++"
+    },
+    {
+        "owner_address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvajw9mtmkwxhndjfjwmtah2tp5xpxytpca2q4h9",
+        "project": "ckbfs"
+    },
+    {
+        "owner_address": "ckb1qpw9q60tppt7l3j7r09qcp7lxnp3vcanvgha8pmvsa3jplykxn32sqgwvhnrqkx9ka45f2cnc90fy30m3scpupqggwawq",
+        "project": "d.id"
+    },
+    {
+        "owner_address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtfejh9dywg8td3wu25pr7dk2hhjnyxvsql063lf",
+        "project": "CKBFS V3"
+    },
+    {
+        "owner_address": "ckb1qqmvjudc6s0mm992hjnhm367sfnjntycg3a5d7g7qpukz4wamvxjjq4fh9z7k2pwm9sy236cge4tw8la45m2jyqk8gdfe",
+        "project": "RGB++"
+    },
+    {
+        "owner_address": "ckb1qpw9q60tppt7l3j7r09qcp7lxnp3vcanvgha8pmvsa3jplykxn32sqt9nql36afq2sax7xp22q65ld9w9hhdd9sycs0zx",
+        "project": "JoyID"
+    }
+]

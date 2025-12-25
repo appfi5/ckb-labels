@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema.json",
+  "name": "COTA",
+  "description": "A Compact Token Aggregator Standard for Extremely Low Cost NFTs and FTs",
+  "rfc": "https://www.cotadev.io/docs/protocols/cota_main",
+  "website": "https://www.cotadev.io/",
+  "sourceUrl": "https://github.com/nervina-labs",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0xeafc5d23a45ce68e5fd9e50cfb85664c5832519292577caf9a51bdde6c5729b3",
+        "typeHash": "0x1122a4fb54697cf2e6e3a96c9d80fd398a936559b90954c6e88eb7ba0cf652df",
+        "codeHash": "0x1122a4fb54697cf2e6e3a96c9d80fd398a936559b90954c6e88eb7ba0cf652df",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0xc62a0a74809b40a7be31a62143efb556c78ffeacf4b7ce734dd317b04359101d",
+        "typeHash": "0x89cd8003a0eaf8e65e0c31525b7d1d5c1becefd2ea75bb4cff87810ae37764d8",
+        "codeHash": "0x89cd8003a0eaf8e65e0c31525b7d1d5c1becefd2ea75bb4cff87810ae37764d8",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

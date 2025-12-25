@@ -1,0 +1,511 @@
+[
+    {
+        "id": 2,
+        "history_ids": [],
+        "name": "SECP256K1/blake160"
+    },
+    {
+        "id": 3,
+        "history_ids": [],
+        "name": "Nervos DAO"
+    },
+    {
+        "id": 5,
+        "history_ids": [],
+        "name": "SECP256k1/Multisig"
+    },
+    {
+        "id": 3142156,
+        "history_ids": [3063299, 3063323],
+        "name": "PW Lock"
+    },
+    {
+        "ids": [3321259],
+        "name": "Simple UDT"
+    },
+    {
+        "id": 3321261,
+        "history_ids": [],
+        "name": "Anyone-Can-Pay Lock deprecated"
+    },
+    {
+        "id": 4123227,
+        "history_ids": [],
+        "name": "Anyone-Can-Pay Lock"
+    },
+    {
+        "id": 6423482,
+        "history_ids": [],
+        "name": "CHEQUE"
+    },
+    {
+        "id": 8499440,
+        "history_ids": [8280847],
+        "name": "Force Bridge"
+    },
+    {
+        "id": 9839516,
+        "history_ids": [],
+        "name": "dCKB"
+    },
+    {
+        "id": 9839518,
+        "history_ids": [],
+        "name": "Udt Owner"
+    },
+    {
+        "id": 9839521,
+        "history_ids": [],
+        "name": "Dao Info"
+    },
+    {
+        "id": 10228837,
+        "history_ids": [],
+        "name": "GW - custodian"
+    },
+    {
+        "id": 10229017,
+        "history_ids": [],
+        "name": "GW Lock"
+    },
+    {
+        "id": 10229053,
+        "history_ids": [],
+        "name": "GW REACT"
+    },
+    {
+        "id": 11346801,
+        "history_ids": [5443914, 6147278, 6892128, 7174754, 8497559],
+        "name": "mNFT Issuer"
+    },
+    {
+        "id": 11346802,
+        "history_ids": [5443859, 6147279, 6892129, 7174755, 8497560],
+        "name": "mNFT Class"
+    },
+    {
+        "id": 11346803,
+        "history_ids": [5444023, 6147280, 6892130, 7174756, 8497561],
+        "name": "mNFT"
+    },
+    {
+        "id": 12941604,
+        "history_ids": [],
+        "name": "AlwaysSuccess - unipass"
+    },
+    {
+        "id": 13747822,
+        "history_ids": [13746590],
+        "name": "Flashsigner"
+    },
+    {
+        "id": 13993553,
+        "history_ids": [12947821, 12948094, 13282159, 13391777, 13398548, 13407338, 13408165, 13443081],
+        "name": "Unipass V3"
+    },
+    {
+        "id": 17930473,
+        "history_ids": [],
+        "name": "Kollect's Factory"
+    },
+    {
+        "id": 21641349,
+        "history_ids": [],
+        "name": "Godwoken Custodian Lock deprecated"
+    },
+    {
+        "id": 21641380,
+        "history_ids": [],
+        "name": "Godwoken Deposit Lock deprecated"
+    },
+    {
+        "id": 21641410,
+        "history_ids": [],
+        "name": "Godwoken Withdrawal Lock deprecated"
+    },
+    {
+        "id": 21641431,
+        "history_ids": [],
+        "name": "Godwoken Challenge Lock deprecated"
+    },
+    {
+        "id": 21641457,
+        "history_ids": [],
+        "name": "Godwoken Stake Lock deprecated"
+    },
+    {
+        "id": 21641497,
+        "history_ids": [],
+        "name": "OMNI Lock V1 deprecated"
+    },
+    {
+        "id": 21641516,
+        "history_ids": [],
+        "name": "Godwoken State Validator deprecated"
+    },
+    {
+        "id": 21641587,
+        "history_ids": [],
+        "name": "Godwoken ETH Account Lock deprecated"
+    },
+    {
+        "id": 21643836,
+        "history_ids": [],
+        "name": "Godwoken Custodian Lock"
+    },
+    {
+        "id": 21643857,
+        "history_ids": [],
+        "name": "Godwoken Deposit Lock"
+    },
+    {
+        "id": 21643881,
+        "history_ids": [],
+        "name": "Godwoken Withdrawal Lock"
+    },
+    {
+        "id": 21643901,
+        "history_ids": [],
+        "name": "Godwoken Challenge Lock"
+    },
+    {
+        "id": 21643947,
+        "history_ids": [],
+        "name": "Godwoken Stake Lock"
+    },
+    {
+        "id": 21643966,
+        "history_ids": [],
+        "name": "OMNI Lock V1"
+    },
+    {
+        "id": 21643989,
+        "history_ids": [],
+        "name": "Godwoken State Validator"
+    },
+    {
+        "id": 21644062,
+        "history_ids": [],
+        "name": "Godwoken ETH Account Lock"
+    },
+    {
+        "id": 35876276,
+        "history_ids": [15980257, 17136998, 19513598, 20346467, 20391461, 22028220],
+        "name": "COTA registry"
+    },
+    {
+        "id": 35876277,
+        "history_ids": [15980258, 15980852, 17136999, 19513599, 20346468, 20391462, 22028221],
+        "name": "COTA"
+    },
+    {
+        "id": 49560675,
+        "history_ids": [],
+        "name": "xUDT"
+    },
+    {
+        "id": 52416905,
+        "history_ids": [20719232],
+        "name": "OMNI Lock V2"
+    },
+    {
+        "id": 52465409,
+        "history_ids": [],
+        "name": "Spore Cluster"
+    },
+    {
+        "id": 52554239,
+        "history_ids": [],
+        "name": "Spore"
+    },
+    {
+        "id": 56160583,
+        "history_ids": [],
+        "name": "Unique Cell deprecated"
+    },
+    {
+        "id": 56368078,
+        "history_ids": [],
+        "name": "Unique Cell deprecated"
+    },
+    {
+        "id": 56368440,
+        "history_ids": [],
+        "name": "Unique Cell deprecated"
+    },
+    {
+        "id": 56368597,
+        "history_ids": [],
+        "name": "Unique Cell"
+    },
+    {
+        "id": 58196969,
+        "history_ids": [],
+        "name": "DOB Decoder"
+    },
+    {
+        "id": 60240282,
+        "history_ids": [60219993],
+        "name": "ccBTC Asset"
+    },
+    {
+        "id": 60375581,
+        "history_ids": [],
+        "name": "DOB Decoder"
+    },
+    {
+        "id": 61292232,
+        "history_ids": [],
+        "name": "DOB/0 Decoder"
+    },
+    {
+        "id": 62499040,
+        "history_ids": [],
+        "name": "Nostr"
+    },
+    {
+        "id": 62932234,
+        "history_ids": [],
+        "name": "AlwaysSuccess"
+    },
+    {
+        "id": 62932235,
+        "history_ids": [],
+        "name": "InputTypeProxyLock"
+    },
+    {
+        "id": 62932236,
+        "history_ids": [],
+        "name": "OutputTypeProxyLock"
+    },
+    {
+        "id": 62932237,
+        "history_ids": [],
+        "name": "LockProxyLock"
+    },
+    {
+        "id": 62932238,
+        "history_ids": [],
+        "name": "SingleUseLock"
+    },
+    {
+        "id": 62932239,
+        "history_ids": [],
+        "name": "TypeBurnLock"
+    },
+    {
+        "id": 65297749,
+        "history_ids": [],
+        "name": "SECP256k1/Multisig V1.5"
+    },
+    {
+        "id": 66144485,
+        "history_ids": [],
+        "name": "iCKB Logic"
+    },
+    {
+        "id": 66144486,
+        "history_ids": [],
+        "name": "iCKB Limit Order"
+    },
+    {
+        "id": 66144487,
+        "history_ids": [],
+        "name": "iCKB Owned-Owner"
+    },
+    {
+        "id": 69286482,
+        "history_ids": [],
+        "name": "EasyToDiscoverType"
+    },
+    {
+        "id": 69286483,
+        "history_ids": [],
+        "name": "TimeLock"
+    },
+    {
+        "id": 69450734,
+        "history_ids": [],
+        "name": "Stable++ Asset"
+    },
+    {
+        "id": 69450735,
+        "history_ids": [],
+        "name": "Stable++ Intent Lock"
+    },
+    {
+        "id": 69450983,
+        "history_ids": [],
+        "name": "Stable++ Vault Lock"
+    },
+    {
+        "id": 69452661,
+        "history_ids": [69450393],
+        "name": "Stable++ Pool"
+    },
+    {
+        "id": 71255423,
+        "history_ids": [70721293],
+        "name": "ckb-adler32"
+    },
+    {
+        "id": 71255424,
+        "history_ids": [70721294],
+        "name": "CKBFS V2"
+    },
+    {
+        "id": 74076619,
+        "history_ids": [],
+        "name": "USDI Asset"
+    },
+    {
+        "id": 76232058,
+        "history_ids": [],
+        "name": "AlwaysSuccess - d.id"
+    },
+    {
+        "id": 76232257,
+        "history_ids": [7786471, 66343432],
+        "name": "THQ"
+    },
+    {
+        "id": 76233235,
+        "history_ids": [9748089,
+            13979925,
+            42938503,
+            41343804,
+            39396852,
+            22936110,
+            23717643,
+            66328008,
+            18343758,
+            35864277,
+            8460252,
+            8186265,
+            15652106,
+            47416518,
+            32558570,
+            61416393,
+            7788563,
+            76230949,
+            66335227,
+            32556992,
+            52790578,
+            76231305,
+            65258234,
+            11781280,
+            6608135,
+            20637827
+        ],
+        "name": "CONFIG - d.id"
+    },
+    {
+        "id": 76233254,
+        "history_ids": [
+            6724727,
+            76231995,
+            7788632,
+            52553128,
+            20657848,
+            26226715,
+            24151883,
+            23141817,
+            35864350,
+            47416886,
+            18404143,
+            18344248,
+            61416752,
+            49464552,
+            11781534,
+            6656028,
+            66351748,
+            23717804,
+            43808596,   
+            22937169,
+            52790214,
+            58096503,
+            42938875,
+            7662614,
+            13784446,
+            38657704,
+            15652171,
+            20660331,
+            66345312,
+            39397264,
+            32557386,
+            21018308,
+            28649561,
+            9746676,
+            38657191,
+            41344329,
+            20638303,
+            6987642,
+            8053988,
+            66331341,
+            11335535,
+            12713793,
+            65258345,
+            20700442,
+            52559213,
+            12912952,
+            13979990,
+            15704231,
+            8460718
+        ],
+        "name": "ACCOUNT - d.id"
+    },
+    {
+        "id": 76233389,
+        "history_ids": [
+            61378193,
+            62754118,
+            61681118,
+            66335838,
+            61417240,
+            66346463,
+            76232186,
+            65258710
+        ],
+        "name": "DID"
+    },
+    {
+        "id": 80624134,
+        "history_ids": [],
+        "name": "SECP256k1/Multisig V2"
+    },
+    {
+        "id": 82685679,
+        "history_ids": [],
+        "name": "DAS LOCK"
+    },
+    {
+        "id": 86985323,
+        "history_ids": [],
+        "name": "CKBFS V3"
+    },
+    {
+        "id": 90229564,
+        "history_ids": [56159759],
+        "name": "Btc Time Lock"
+    },
+    {
+        "id": 90229568,
+        "history_ids": [56160116],
+        "name": "RGB++ Lock"
+    },
+    {
+        "id": 91487379,
+        "history_ids": [
+            45273130,
+            45280119,
+            87251842,
+            87246498
+        ],
+        "name": "JoyID"
+    },
+    {
+        "id": 91752817,
+        "history_ids": [],
+        "name": "Web5 DID"
+    }
+]
