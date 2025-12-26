@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x7f432f3aaf5b0fb97f311cdd5121b5ed9adb70e6460513473adabb7e2bcfc4eb",
+    "symbol": "JJJ",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "JJJ Test Token",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwghswyjklulr3t64572q4l9r99gsz8qzgt0xm0q",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x5ca67ce91b347a8431772fc020a3404a7274925695d00baac9a70f7c8ee5970e"
+    }
+  }
+}

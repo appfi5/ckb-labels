@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xfe3702720b09a510664decab65c98382e2dbd459cd5bcf86a5b29b33e460c40d",
+    "symbol": "BTB",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "BTB",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkc7f9jxyzjwpynav8yslxculvsyurfeemvfm6js9yflmqn64ge0sqqqqqqzfr3u5",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x311e53c95d04a1249dac4c25ebbbfc9b16a94865d69557591025e5035113a17b"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x8437d079a54b4de1107f7f3bd981388c0ff7fd46aa3c76dba62136199d8e1c69",
+    "symbol": "EZBZ",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Eazybankz usd",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxnfuxczqncd2e5xat8e25lxhzuukcr05uzrvl90",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x2e2b6386319a58c03b514cbad30d630715505ada89486d46c7e00d82178b4372"
+    }
+  }
+}

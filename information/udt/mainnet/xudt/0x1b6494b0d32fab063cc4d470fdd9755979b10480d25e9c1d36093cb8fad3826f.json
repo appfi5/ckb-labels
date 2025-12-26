@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1b6494b0d32fab063cc4d470fdd9755979b10480d25e9c1d36093cb8fad3826f",
+    "symbol": "NBCKB",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "NIUBI",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqqueyl4s0qu9rturlyv676y6vvnzwa8na3r8t76qll8az3cvl93zyerk3ar",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xee342f342526777cabd9a68bfbe0b4930e10052f15d82ddc672fe2188711bf2a"
+    }
+  }
+}

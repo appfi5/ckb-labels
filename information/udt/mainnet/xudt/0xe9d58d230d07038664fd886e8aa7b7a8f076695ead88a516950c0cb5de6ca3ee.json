@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe9d58d230d07038664fd886e8aa7b7a8f076695ead88a516950c0cb5de6ca3ee",
+    "symbol": "B",
+    "decimal": 4,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "B",
+    "icon": null,
+    "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq3jtqlgu55hutnjmu3uqkk04yz72u4wfdsehapwyrcs4ga3vre05q8qt5z8",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xd013018a6b29b3461503817c22a4a87beeadc04091d7af8b77a7bc9afb304004"
+    }
+  }
+}

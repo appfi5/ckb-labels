@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xa2351a5b3eede86bdf7c1df6a1b4915f6042365a5a35f9e768b722ea99fb28c9",
+    "name": "Cexco",
+    "symbol": "22",
+    "decimal": 8,
+    "description": null,
+    "icon": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgph8hsdk43vcaxg9wlze2mc2e940cfxtz3qq93ah8vckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgph8hsdk43vcaxg9wlze2mc2e940cfxtz3qq93ah8v",
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x966d8e805d41ebfbaf2189eca76d2cc365d0cae11808097c6b35a3b9a1080b2c"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x4c982486bbad80578196187382c9ac382def644a6aa960e9573a552e631a584f",
+    "symbol": "PIIG",
+    "decimal": 6,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "PIIG",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3xlhkaxa6cjm85d9nrwjgqqvgafg25ed94uma8fc6e7kc9n0mm8qqqqqqq4dwe7a",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xb44e4d8eae5a29a8c33ed3d64b07973d1602e67391e747a6131eca1dae53fceb"
+    }
+  }
+}

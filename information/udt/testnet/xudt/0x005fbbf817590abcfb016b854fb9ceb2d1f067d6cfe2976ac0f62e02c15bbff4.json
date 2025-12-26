@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x005fbbf817590abcfb016b854fb9ceb2d1f067d6cfe2976ac0f62e02c15bbff4",
+    "symbol": "RGTT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGB++ Test Token",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqqjyk975fjy3felqvzp7cf7gr90nsg5et953z2r8hnh2jmpgaz5cnlc5xac",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xb14ad9ac44164d6fb09701f46e274c6607e33372f7f22930f4997930516bd5c9"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xb936bdaa125dce06575752f0b1dbb18f13b674b9bc8ab9cbc9cf9ab74fd5d620",
+    "symbol": "OMIGASAT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Omiga Inscription",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxc48am46wzadeynywyahvk5lmczwn8rpspvszqh",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xf194c25d5161326b4d77357071fe1fef01097d78fa5c1eb52b3434c7f09b7c9e"
+    }
+  }
+}

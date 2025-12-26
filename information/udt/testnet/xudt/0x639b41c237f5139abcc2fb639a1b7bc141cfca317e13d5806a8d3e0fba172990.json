@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x639b41c237f5139abcc2fb639a1b7bc141cfca317e13d5806a8d3e0fba172990",
+    "symbol": "basa3",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "basa3",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqpnedj3uw3eu2j7s47f0v687tclk7sc88uv569czekppn8uu23yg7hvn3m6",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x7c39db84c09fcb6d87244211faf784a5628415967b44c5efb832ab6047b4c8e3"
+    }
+  }
+}

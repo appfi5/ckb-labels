@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xcd1c64a97f986ca4db7d84a138eab338bd3eb9ec4ea9d04bc697caf1244ce54f",
+    "symbol": "R-RSK",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "R-RSK",
+    "icon": null,
+    "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qtkxuet29htrf3e3vgrunx25y67sm00tlnl2ff5kwqzt8v",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xf0b84aa3cd3bc03a8c650f620651daedb93035d90d20956b5b0bec0c409fc904"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x76d0d81adcddf23114746e28ed8846bfc664fafb54051c7a79fb02b41f9e7932",
+    "symbol": "ckDAI",
+    "decimal": 18,
+    "description": "",
+    "operatorWebsite": "",
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "ckDAI",
+    "icon": "../../../icons/testnet/sudt/0x76d0d81adcddf23114746e28ed8846bfc664fafb54051c7a79fb02b41f9e7932.png",
+    "manager": "ckt1qn7e29wuzh8z8pd2hpd0yxnv38tuqql2cy2ae0get28jntv3d2e3vvcfujyy3afy8h4jukyc7rv9v9hz5azft3zqrkx47pdetrn0rwyy2c8kf8xalktptwux0dvgdx7u6cmv9swsy4kappmrptygvxwa5v6n07y83zwa4g3nlvy8yz",
+    "type": {
+      "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+      "hashType": "type",
+      "args": "0xe18b390fbeffbe7c7a03119b54a6493d29ea428d2e1dda3efa016110c0cc1125"
+    }
+  }
+}

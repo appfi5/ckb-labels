@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x70cbcda2297ec63d243e1bc82db16dbc2fddab1b01d5932800d8e6152a18b6ff",
+    "symbol": "JOKER",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "JOKER",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3u33qgg4mspeegdnmzsvxzm7ukela9pmhtdgudfx5zwfzclq5uvuqqqqqqlzndmg",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xec67e0b3ab7d8d1f3b712c4da729c57fb277929ed683e7744901eec6dd05c83a"
+    }
+  }
+}

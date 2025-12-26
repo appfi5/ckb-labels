@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x918b235dbf37aac1ce31009658c30b915ebd8c61429167022f4b0247e14a1ba4",
+    "symbol": "CKB",
+    "decimal": 0,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "CKB",
+    "icon": null,
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqkmnlksfe0ltpgwcdypax9l0j9cpr3j7n5laaf3gl0rz4s2s84l0c9vs3la",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xc74a666d778580c6c074512984d117b2141352db347c4d03ebafd8bda47f5731"
+    }
+  }
+}

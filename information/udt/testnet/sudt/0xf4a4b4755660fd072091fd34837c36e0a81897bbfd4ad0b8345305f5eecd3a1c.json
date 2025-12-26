@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xf4a4b4755660fd072091fd34837c36e0a81897bbfd4ad0b8345305f5eecd3a1c",
+    "symbol": "test11111",
+    "decimal": 10,
+    "description": "fhjoiwerhf",
+    "operatorWebsite": "https://www.baidu.com",
+    "udtType": 0,
+    "published": true,
+    "email": "286065910@qq.com",
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qq6pngwqn6e9vlm92th84rk0l4jp2h8lurchjmnwv8kq3rt5psf4vqwfsppfzydepklnz0vapy0fdc3mr7ncudsgu2sxm",
+    "type": {
+      "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+      "hashType": "type",
+      "args": "0x65b8ec2c73e29c3ac5a259eb5c440a25cd752c890bf5f6a2414484dfd25a71de"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xb04f3f0128440b5aad5ab37e021878a7aefae5cdcd9e6b0fbbd6d940cadf8707",
+    "symbol": "DE2TA",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "DE2TA",
+    "icon": null,
+    "manager": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x1398e93dfa02103c7b5c6465b2115963b78fbe08b7328b53a45400e70d9b06ca"
+    }
+  }
+}

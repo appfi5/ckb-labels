@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x867f4e651e4a91cfcead335f95b98a2ecc9cc1afd33a4664453806b2261c5cb5",
+    "symbol": "OPCAT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "OPCAT",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqqypuzd2dt0n3yuw3w9lrmkhkhsp9zwts0st8jktv02k352cknhlxcrj6t9",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xe2b36a5df84de1e55dcb7f90b75ea92f56fa1899fb5922e34707709e07f5a9ee"
+    }
+  }
+}

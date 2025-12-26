@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x263eb1c98620912f176dac328bf43ac18779b7cab36d793414f378cc1e59a0db",
+    "symbol": "ETHA",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "etha",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxalla2k7wm6j4a85ddvzs5r6e2xh3nscydgk4ks",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x5ad0be0add1f6d52d6ae5930d0abb3e977ca4e2e4e6d954ce497f05274578701"
+    }
+  }
+}

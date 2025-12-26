@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe30ffd0f4fc52b86bb9b12e88cc7251427e9d29ade9e0e22fc893af273a9824c",
+    "symbol": "SHITCKB",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "ckb shitcoin",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8vzunn246udc7xdh6cmt4yexnnvqejwwuu9t5ay",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x1dcc7311c0c99e23ea16eda39dc79f735aacdb630c0296223c8e5da43a4d3de3"
+    }
+  }
+}

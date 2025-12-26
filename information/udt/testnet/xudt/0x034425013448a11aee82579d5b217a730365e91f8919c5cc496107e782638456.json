@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x034425013448a11aee82579d5b217a730365e91f8919c5cc496107e782638456",
+    "symbol": "OOOOA",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "OOOOA TOKEN",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtzwn2fskeyg65mnt663zc0mzr0dr9x2dq9xgt7n",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xf729d03fdcae95a65fc9baafb5c5aed51d44afd410b0b589f38fe507465836a4"
+    }
+  }
+}

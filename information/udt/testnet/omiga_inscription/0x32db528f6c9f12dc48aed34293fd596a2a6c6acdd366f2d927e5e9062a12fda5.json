@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x32db528f6c9f12dc48aed34293fd596a2a6c6acdd366f2d927e5e9062a12fda5",
+    "symbol": "HETTY",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Hetty",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqysmpcwlh2fhxf0fvx67hjldzjgwr780xc9urj7f",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x6c375ec60c4bf2ed8da85978916934deb614f96390769c6ae4fc7569fe42899d"
+    }
+  }
+}

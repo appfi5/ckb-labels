@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xeacf63e50728d71e4c9a38f1b99481a5571fe79b9c7a901c06ad31593b997571",
+    "symbol": "SOS",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "SOS TEST",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhc5gdyyldexd0jl6ax4zy39m88mmu333yrtdgpsdeg73qj68jevyqqqqqqwexunc",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xdfc57dbaf3cd944c7d30d9ad9ee65c658f4f9addd9f97c212eadf3cac8c04791"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xc2e923394fec9a738e4ef860dc5608f182cce0f2991076e49dfb060bd1e3c467",
+    "symbol": "BNBS",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "NervosCKB BNBS",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8s4dalpnejnzrr8k3n0rdvfhzfu3535mgghr9u2",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x3035db3db6b5099b794274c26d17f11dd75e90ab8c2dd09b98d583de65916f9b"
+    }
+  }
+}

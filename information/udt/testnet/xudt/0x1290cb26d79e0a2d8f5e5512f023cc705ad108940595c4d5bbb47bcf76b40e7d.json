@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1290cb26d79e0a2d8f5e5512f023cc705ad108940595c4d5bbb47bcf76b40e7d",
+    "symbol": "GHH",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "XUDT Test Token",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqv8dkfc95t2qqpcm5h8p67k9rr6vklvknqnpfpaz",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xaca4b44aad923386588265109c47e74ac25589d447ed4ffb4d973cace3cb46dd"
+    }
+  }
+}

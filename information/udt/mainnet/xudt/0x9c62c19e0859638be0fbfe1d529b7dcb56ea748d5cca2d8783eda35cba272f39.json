@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x9c62c19e0859638be0fbfe1d529b7dcb56ea748d5cca2d8783eda35cba272f39",
+    "symbol": "FlashPurr",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "FlashPurr",
+    "icon": null,
+    "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkcv50z203vxrxt864renjaw32gdvpmh8w6usw0hd3ezxzz8r3dhvqqqqqqpeaqg0",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xe7a134786fa8d752464591b83d015eae5dc944269cccb58ac3ee21171d07cc2a"
+    }
+  }
+}

@@ -23,6 +23,23 @@
       "minimum": 0,
       "maximum": 8
     },
+    "operatorWebsite": {
+      "type": "string"
+    },
+    "udtType": {
+      "type": "number",
+      "enum": [0, 4, 5, 6, 8]
+    },
+    "published": {
+      "type": "boolean"
+    },
+    "famous": {
+      "type": "boolean"
+    },
+    "email": {
+      "type": "string",
+      "format": "email"
+    },
     "tags": {
       "type": "array",
       "items": {
@@ -76,6 +93,8 @@
     "name",
     "symbol",
     "decimal",
+    "udtType",
+    "published",
     "type",
     "typeHash"
   ],

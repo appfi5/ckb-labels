@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xbb15656821da5c25785644b69ff681e593ad0286729b1c9daf444fbf024dc301",
+    "symbol": "PUNK",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "cryptopunks",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqx3ahksntmyrqn72jvhq5cl0xcmqty9k6q0dlh9d",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xccfec516f0689dbab5a1be0ef136f75f241dc3eee4e708b95b27c98d9c036858"
+    }
+  }
+}

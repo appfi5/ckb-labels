@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x31330f264b707a37dca110a95d0fa5fea57a00945d6c917437b7bc454fe16ecf",
+    "name": "TTK121",
+    "symbol": "TTK121",
+    "decimal": 8,
+    "description": null,
+    "icon": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "manager": null,
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x1f7775250ff4fc3256a9f942213af8010619104852f90873c4443a0582e67035"
+    }
+  }
+}

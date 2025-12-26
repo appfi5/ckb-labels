@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6d3b262090c0dd4cd3e3b78094b723f277b782b7afa52eab5c66f23ed69c3f7e",
+    "symbol": "Capy",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Capybara",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqpg5gh5wv7pwqafzxaw00yyacyg3amcsqtvgg6fzy09zgk7s8n22xfx0r6e",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x27f6ba84d19f482782f83dc488233b648034d7aa250e338c652f57d592976d61"
+    }
+  }
+}

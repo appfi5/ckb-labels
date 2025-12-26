@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x8e8fbdf421b843bd7b6c9c0e6d859e30587f8f1ed869073a22cf3cc1d85cf99e",
+    "symbol": "TTKB",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "TTKB",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkctdhhtxasfv3nsce8z7p8k07jy8t6clzzxwzj3xac7tv90wa7tuqqqqqqufr3hv",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x47df5fca6a78805f82276db2bac4c3c04bc0a458f348424a200b708b86cb0f1c"
+    }
+  }
+}

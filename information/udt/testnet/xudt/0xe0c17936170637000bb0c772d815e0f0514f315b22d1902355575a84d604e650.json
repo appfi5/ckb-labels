@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe0c17936170637000bb0c772d815e0f0514f315b22d1902355575a84d604e650",
+    "symbol": "JDJY",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "JDJY",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqta2wx6me0p9lhms4dacdv32jecte2qwmsjkl0h0",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xe0746f298896bd22ba2b43cb43ac95761d6177250ad8745fb4148dbdc963c89c"
+    }
+  }
+}

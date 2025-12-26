@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1f1ff73b2c4621fda8ee8062e69bc1667046953ecfdb575e0f6770fd2f7b9797",
+    "symbol": "yyds",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "unds",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgf5v5twqh7k06mt5s3x0ksk9x4urmckqqye9wsh",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x4df9c368901dd245d228b2d31697a9f5f94e56502c08565b9c3871c443df1022"
+    }
+  }
+}

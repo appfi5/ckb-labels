@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x25e18a80ee1e55765425fc707f6b5112eb3d1de7e1dc8b94e0d8a4576493dae5",
+    "symbol": "DIA+",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "DIA",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0sfeajvcjm8wjn4kl2g3k332u5djr2rmggfg7ek",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x021c6aebb2860b872d3ff1a166eede34978c2ee173987bba70b8de25a71ddda3"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe61c4556550141a15bd988323e6eea579ff6a76e3b65258ec920ba6cf63eb73f",
+    "symbol": "COMP",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "COMP",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqpn0aqvvhwcfwslzglqr60e9easllxcgnt8429qu02jndur7gdq2k3t6wxq",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x3cbf5527c1f12f2d20202a27c5c9497b123319ea05d7de6ee02d6c3f589fbac1"
+    }
+  }
+}

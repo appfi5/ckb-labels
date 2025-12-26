@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x7abd2f9f73c5b6d2e39c29393d94502a43cfca1bd7d3ddb82fa14576cb0105b6",
+    "symbol": "Ape++",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Ape++",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqp5clqesqhcc7gc3h4700wmy8njplna0fta5wdcqewqah4fpagnldx2km5s",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x49020f0d22ff4f1357ba45bafb922c39f36622228b3d18155ed7878071fa6707"
+    }
+  }
+}

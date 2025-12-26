@@ -1,0 +1,21 @@
+{
+  "udt": {
+    "typeHash": "0x8328e4b543901b123b17f4e5f5b5af2a98a3901627feddef21a0a539b3a3fe35",
+    "symbol": "RBG++",
+    "decimal": 8,
+    "description": "",
+    "operatorWebsite": "https://explorer.nervos.org/xudts",
+    "udtType": 5,
+    "published": true,
+    "email": "Mhank1028@gmail.com",
+    "name": "RBG++",
+    "icon": "../../icons/mainnet/xudt/0x8328e4b543901b123b17f4e5f5b5af2a98a3901627feddef21a0a539b3a3fe35.png",
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqp0k2xzfeldx6qyzmrlkmyhnse26fhq6paumw62dcy4qxs99szjd9ykxecc",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x6e1af00ede836ea45e7ac2fdba8bd9962ffa590112b55b289d081b4a58923471"
+    },
+    "famous": true
+  }
+}

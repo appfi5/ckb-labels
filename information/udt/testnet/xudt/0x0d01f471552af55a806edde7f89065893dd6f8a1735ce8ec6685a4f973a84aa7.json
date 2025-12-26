@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x0d01f471552af55a806edde7f89065893dd6f8a1735ce8ec6685a4f973a84aa7",
+    "symbol": "3rgrg",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "rg3",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvx5mkkv4k6p0jd909nc99x3mm76w9l9zg5ge4pn",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x430e0faf1fd875c55ec6fde72e04f9252213fac98a963369a2fc5028305a2228"
+    }
+  }
+}

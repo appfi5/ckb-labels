@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x78e21efcf107e7886eadeadecd1a01cfb88f1e5617f4438685db55b3a540d202",
+    "symbol": "UBBQT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Unique BBQ TEST",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqga7eurwgfm534kew3092y28sp3mwlqpqcptqy24",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x30d3fbec9ceba691770d57c6d06bdb98cf0f82bef0ca6e87687a118d6ce1e7b7"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x94f27db5151690cd99939ad1a4a02f32c72b37ef6f2813cefd92fa668c413b77",
+    "symbol": "EPIC",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "EPIC",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqp8693t3rqkpukqrnvn5qr0djevmxs6nwmdxhzw6sapw7s7kp9ga88lymmf",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xfbe14d2e95e6ee4248a0a0360ebec0d475c6f07ce36f68b06b6a4e07eee2b68a"
+    }
+  }
+}

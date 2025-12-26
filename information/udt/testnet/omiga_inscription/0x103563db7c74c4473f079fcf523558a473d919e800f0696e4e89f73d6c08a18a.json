@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x103563db7c74c4473f079fcf523558a473d919e800f0696e4e89f73d6c08a18a",
+    "symbol": "RATS",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Ratscoin",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8s4dalpnejnzrr8k3n0rdvfhzfu3535mgghr9u2",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x20df38e764f36ed421079cee6b884b7296f9361fcbd6b2116d0c18b979d2869e"
+    }
+  }
+}

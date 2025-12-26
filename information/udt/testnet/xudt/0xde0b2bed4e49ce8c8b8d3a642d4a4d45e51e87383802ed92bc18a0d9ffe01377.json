@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xde0b2bed4e49ce8c8b8d3a642d4a4d45e51e87383802ed92bc18a0d9ffe01377",
+    "symbol": "hero",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "my home hero",
+    "icon": null,
+    "manager": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x3596c441e9bfdef0b54088dfd6ddedc80e774128614f72896d6337e4be1e1678"
+    }
+  }
+}

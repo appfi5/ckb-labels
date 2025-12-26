@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x9cc455afcd5cb1f2ab6667258084f8c74df7e4d3ada4e66fde8649875bcea1a0",
+    "symbol": "DDLO",
+    "decimal": 6,
+    "description": "zjcaee",
+    "operatorWebsite": "http://app.rivtower.com",
+    "udtType": 5,
+    "published": true,
+    "email": "jianglei@rivtower.com",
+    "name": "DDLO",
+    "icon": "",
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqjefv38cw9c9ankprpe438f2mracz06r7n87dprhtlc9kkx8uxzfv9j4270",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x5a4df40a0573079ae70559b06c68ed024654553ce19d4276d8079085f500ae61"
+    }
+  }
+}

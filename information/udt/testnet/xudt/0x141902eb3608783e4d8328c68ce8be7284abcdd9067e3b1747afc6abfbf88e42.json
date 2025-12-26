@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x141902eb3608783e4d8328c68ce8be7284abcdd9067e3b1747afc6abfbf88e42",
+    "symbol": "yep",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "yepdr",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qsy2e8yvtzsgerwtqw0hx86q0dmjes2ghannfz6vfgur2rc3ka2j5qqqqqqf5uhy3",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xe01784ced02f730b221d31490958224ef46bb7e0f50454c6d78500cd8c369c1b"
+    }
+  }
+}

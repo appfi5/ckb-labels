@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x7070fde803dc9d7ac0cfa4fe4554345d9394a46af16ec0ca9e82fbdb4316ab37",
+    "symbol": "HELL",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy9rpkwdykw5070naqkfekt8c5mucldj8vjm83d3",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x37e39700378172a99191355061baa94ef0ae2f27f10afdd7552b42fca808d0e7"
+    }
+  }
+}

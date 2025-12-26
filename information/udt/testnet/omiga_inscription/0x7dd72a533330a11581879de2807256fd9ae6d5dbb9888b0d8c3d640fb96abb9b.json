@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x7dd72a533330a11581879de2807256fd9ae6d5dbb9888b0d8c3d640fb96abb9b",
+    "symbol": "OCKB",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "OmigaCKB",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqx0hd927wsf5pccu009j2krtqmhly4q2sg5wl5tp",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x3c6f460ea45dc2df2f2b24009bee1227144cb64894cdab3a47133f6445c014ca"
+    }
+  }
+}

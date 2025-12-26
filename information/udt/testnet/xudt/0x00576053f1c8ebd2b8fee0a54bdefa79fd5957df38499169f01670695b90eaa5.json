@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x00576053f1c8ebd2b8fee0a54bdefa79fd5957df38499169f01670695b90eaa5",
+    "symbol": "fuck-2",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "fuck coin-2",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqpr6raxcjasj2afunavdfknflfntspl8ynl7h2el4svwdvtkeprc2dcu5ck",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x1aa2fa8414064b5d2b9fd7b9474b91da2ee9b5955184f6778e3b96c0168b37a3"
+    }
+  }
+}

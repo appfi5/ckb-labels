@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd2371236066124cdac01a5646ac1f76329372e384f91b28fb3f02075929f28fb",
+    "symbol": "R-RUNES•X•BITCOIN",
+    "decimal": 0,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "R-RUNES•X•BITCOIN",
+    "icon": null,
+    "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qfdchesktvfn5glut3ppf45ha7j83ekvrpcxscrqvps8gcngvsxcfyj6",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x2c341b65d65458110d38b4788fcdfbab3128c2d2c08c561f0a7616974fbb43b5"
+    }
+  }
+}

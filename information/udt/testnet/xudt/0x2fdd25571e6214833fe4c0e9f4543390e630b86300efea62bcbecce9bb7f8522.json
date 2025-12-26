@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x2fdd25571e6214833fe4c0e9f4543390e630b86300efea62bcbecce9bb7f8522",
+    "symbol": "DETH",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "DETH",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qk4u92zzkp79ttgzdnwfmun8wkwa8866nedhl0esx7gz4f6tqd35uqqqqqq29zreq",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xb669c2c0b7b74ee27616e1a32cf17a44e8657ac6b2d0fede183d61e2981af221"
+    }
+  }
+}

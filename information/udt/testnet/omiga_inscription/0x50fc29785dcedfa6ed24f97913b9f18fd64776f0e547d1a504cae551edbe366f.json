@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x50fc29785dcedfa6ed24f97913b9f18fd64776f0e547d1a504cae551edbe366f",
+    "symbol": "MSK",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Miskeen",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9fu5rnv6666zfek7p9369x86pqrf25zxuakm0j7",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xe5542f4f229e0989cafee62e329be0c30bab8fa28ea035f69699686983de5bf7"
+    }
+  }
+}

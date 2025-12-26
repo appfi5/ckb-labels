@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd33a7b247a2fee8252bcced2661210d09df6bbd357f8732ea7cc53c01e583790",
+    "symbol": "GDUF",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "GDUF",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqpvgktwtemnffyeega2gnam2h952mvs0t08a9sfh25dxphxg20wjw8xyg4q",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xdd33c6702730d7e1dfa3411c5e563f732faf7b73ff6a94c033a52cfd48ef6504"
+    }
+  }
+}

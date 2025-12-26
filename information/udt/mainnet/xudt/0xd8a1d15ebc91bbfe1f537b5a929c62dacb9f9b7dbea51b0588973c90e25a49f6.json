@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd8a1d15ebc91bbfe1f537b5a929c62dacb9f9b7dbea51b0588973c90e25a49f6",
+    "symbol": "sats",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "sats",
+    "icon": null,
+    "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qdrvlz8sn5z94z5n7vu4zrxk79qptnc85rnv968xv5kk09",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x024d5344da8666467bd57d34a41263c83644d0ac8a28c254448f8abffc0102a9"
+    }
+  }
+}

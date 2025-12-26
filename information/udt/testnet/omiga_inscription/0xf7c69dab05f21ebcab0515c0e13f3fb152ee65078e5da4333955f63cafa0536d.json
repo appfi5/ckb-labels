@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xf7c69dab05f21ebcab0515c0e13f3fb152ee65078e5da4333955f63cafa0536d",
+    "symbol": "USDT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "USD",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8vzunn246udc7xdh6cmt4yexnnvqejwwuu9t5ay",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xacc59144e4e92eb3dab152e5fed22cefd8aa60fb33d2ff00ab9f6fac59f46078"
+    }
+  }
+}

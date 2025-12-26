@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xeb54371dcf4d3726a77eebc11f0ef5d282a8abfcacb2e49abd9c177cfcbf562a",
+    "symbol": "CRYPTOAMIN",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "1000",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9ldjhhtxx8m22nu9rzyf67xgemvypsl8cqd80sl",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x72546f6df790ec8bdc9ba84cf58eb5ea9888dbb9a5456938404934ee44e6dac6"
+    }
+  }
+}

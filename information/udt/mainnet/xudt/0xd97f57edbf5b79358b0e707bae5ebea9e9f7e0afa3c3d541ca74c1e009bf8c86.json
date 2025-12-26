@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd97f57edbf5b79358b0e707bae5ebea9e9f7e0afa3c3d541ca74c1e009bf8c86",
+    "symbol": "THAI",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "THAI",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqp3dvax5updz6cr0ta0ad4qzuwdd84llpxcw7paf4z6p9gt2sf9nkusfawh",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x90da34a6bb98af2dca37113939e7ae35c3974e08df60d7ac95eb0a7c362f3df6"
+    }
+  }
+}

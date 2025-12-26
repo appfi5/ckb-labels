@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x73b496d2195831c1f031abed41de928c3142ca61d819c41e2f488cd7fd358122",
+    "symbol": "suib",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "suibian",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2rxjx2lwnjmr6t5wv0hslj380juqxwghcjpmtdl",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xfa5193a6866ee06849ed69b90e72a617f1fea8646f41175fa2e8b7643b7b01f8"
+    }
+  }
+}

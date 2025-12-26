@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1c1e1940bc5639e7828a82ff8f578612713da56702614ff988d545bcc61f8fb0",
+    "symbol": "WEED",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "CKB Weed",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8sw0vv7exgra5gsfncwg4yayyvudk4jwvzzf85v",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xa197921c4c075d6b16aa7d60ef4a57d84e9015d1d81c82ebc8134eaabaa2df15"
+    }
+  }
+}

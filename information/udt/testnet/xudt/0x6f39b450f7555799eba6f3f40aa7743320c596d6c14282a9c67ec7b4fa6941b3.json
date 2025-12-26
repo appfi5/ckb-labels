@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6f39b450f7555799eba6f3f40aa7743320c596d6c14282a9c67ec7b4fa6941b3",
+    "symbol": "asda",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "asdas",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqttk2x0g9znajtc2zl944xm509zyh9r57cztpy4m",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x44d166d74f8642a5b756ff8d2195f6c27f3a3d7c9be2c726730ce2b5219ae758"
+    }
+  }
+}

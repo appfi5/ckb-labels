@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1f1bf5dde941e0bc384defcd2c7f139f59082f735cdea7c2625f77c680f4644a",
+    "symbol": "CARAS",
+    "decimal": 8,
+    "description": "Tutorial coin by Jonathan Caras",
+    "operatorWebsite": " https://medium.com/nervos-ckb-israel/minting-sudt-on-nervos-testnet-via-the-command-line-75c4693efdad",
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "Caras Coin",
+    "icon": "../../../icons/testnet/sudt/0x1f1bf5dde941e0bc384defcd2c7f139f59082f735cdea7c2625f77c680f4644a.png",
+    "manager": "ckt1qyq28r846gr5xzg8pg2gyplelhtapp40exvqj6ad52",
+    "type": {
+      "codeHash": "0x48dbf59b4c7ee1547238021b4869bceedf4eea6b43772e5d66ef8865b6ae7212",
+      "hashType": "data",
+      "args": "0x53d22825d8e8e0057b43c6dfb57133e054db159a2497c81e78a9dfbcdba0208f"
+    }
+  }
+}

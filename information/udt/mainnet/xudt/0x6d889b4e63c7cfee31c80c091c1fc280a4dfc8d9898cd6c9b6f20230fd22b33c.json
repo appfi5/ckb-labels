@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6d889b4e63c7cfee31c80c091c1fc280a4dfc8d9898cd6c9b6f20230fd22b33c",
+    "symbol": "LP-UTXOSwap V1",
+    "decimal": 8,
+    "description": "",
+    "operatorWebsite": "https://explorer.nervos.org",
+    "udtType": 5,
+    "published": true,
+    "email": "Mhank1028@gmail.com",
+    "name": null,
+    "icon": "",
+    "manager": "ckb1qrgqep8saj8agswr30pls73hra28ry8jlnlc3ejzh3dl2ju7xxpjxqgqq8mhax7wy8pjazjp85dyh8jpzd4g4u59py8f4qer",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xec07e06ef93a3aa536c3f51a0cbd423c13b2e8d3e40059307d7743c275316efb00000040"
+    }
+  }
+}

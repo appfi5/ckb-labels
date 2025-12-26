@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x068cc03f926a6ab8a64563470319bf5ab4b1dc322c1d515cd10933b2ef88e29d",
+    "symbol": "CHERR",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "CHERRYYY",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqt6cfcc6t66pmrzyzxf6q79hcypx0d8qkcxvhvdv",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x5bf82576a94c1a98c74c7aa4f05a0722cfd3cff66d2dbc1e9a2285134137c6f2"
+    }
+  }
+}

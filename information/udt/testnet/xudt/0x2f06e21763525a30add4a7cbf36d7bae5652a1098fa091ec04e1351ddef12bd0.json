@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x2f06e21763525a30add4a7cbf36d7bae5652a1098fa091ec04e1351ddef12bd0",
+    "symbol": "BBC+-",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "BIGD",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqg0kupjmgud3krzu4m6wq0ja2d85qfq6ecqyh8sq",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x2b93c56f0655edfbac76b1f67f58936134cf5d0f98504d462e7497ef366382c5"
+    }
+  }
+}

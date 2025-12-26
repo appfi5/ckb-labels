@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x978496e2125c0d28bba4db2ae9f172b4232ee7cd54d8dd45c737e1e10b8126bb",
+    "symbol": "CKBIRD",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "CKB: USBird",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyeyp2hjfwu7px7srvnt3vk7aqa3lh4w8qjlvtu3",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x94bda799219bd420a40889cc40d29dae69eed680948a9311601e52dc5351268d"
+    }
+  }
+}

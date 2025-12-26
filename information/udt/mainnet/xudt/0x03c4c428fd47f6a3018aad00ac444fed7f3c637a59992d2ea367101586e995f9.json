@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x03c4c428fd47f6a3018aad00ac444fed7f3c637a59992d2ea367101586e995f9",
+    "symbol": "wzrd",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "wzrdtoken",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgcqqqqqn0czs5h8fgew8jq7x693n5893ut7supkvy76tjge9um6qnm9g60ycrmm6",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x27aaf2afba6aced52559f85927acc63a5005c30eb3904ee536cf3e3cabbec025"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x93ebbb01b30fd96d4998341f44c0a781aafbf43ccb41979607c7c095ef82786c",
+    "symbol": "MI",
+    "decimal": 2,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "mi",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8jtteppzs0mqazqhzl5py7kulkm37gxev5rxmrd",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x137bf59091ff50bdba2e234ce80f915e4add298414661ddc245d5ea986625df0"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe65b4aa3a579e9c8f66da077275689dd0459a29e0cabe4a6e288b0ccd6b7cd2f",
+    "symbol": "TTK1224",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "TTK1224",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q57pmkn06patkfwa6ylh4wzd9c34u2apntez9gx3tdld9lgk8ddyyqqqqqqr377d2",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xc082d0249d3b52e025cddf567f99b1f2e5e0d55feced58b7c1a4899e4cf6e016"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x9fa0a4f43a33a321ebb5bdfb6e126b0eace197c6240a962fa78d87462776f474",
+    "symbol": "IKE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "IKE",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyaqwgzrj8p9stp293u0mkqsmqcf74mqmyzutjkd",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x19ddd9b0dcd23ae9b4e2bbc305bfc1346c5f5cad12a459b9120631e6253604d2"
+    }
+  }
+}

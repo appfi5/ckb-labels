@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x17fe3a3e69c3e54ed4ca409cdddbb15f36057db32bf820a52c1d40458de3cb62",
+    "symbol": "STC",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "SiTa Coin",
+    "icon": null,
+    "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qk0zs844wxpr4luuud5kuy8sjvq0lqcgvup8jj5lce2c7nmtld7qqqqqqqqn6aus0",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x8fc437325536dbd55c3059211357dd5f61f437c477d1d7b477b0309ddaece1eb"
+    }
+  }
+}

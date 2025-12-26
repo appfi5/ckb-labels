@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x0378e2aec38c39cc037b2f63d655546dd459d86905f355efa273c6b73c4c8a3a",
+    "symbol": "DECILM1",
+    "decimal": 254,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "DECILM1",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwzfjljnchgm40ze7wxpcf9xrqz997przc2nthcy",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x8d967bbcfab382ac6944e7834458e644a878a63b820a41cd46c8b569843ffd4d"
+    }
+  }
+}

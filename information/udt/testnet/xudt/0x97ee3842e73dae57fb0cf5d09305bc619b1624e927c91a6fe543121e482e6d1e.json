@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x97ee3842e73dae57fb0cf5d09305bc619b1624e927c91a6fe543121e482e6d1e",
+    "symbol": "CCC",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "CCC",
+    "icon": null,
+    "manager": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x778af8d606a4cb13f08a7fecc63c4e606198051ef18069d51bc50b07160f8365"
+    }
+  }
+}

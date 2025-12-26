@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x4d7d9c4c5b4c0f4827e76ba84f6dc2d6556cab340b48823699517d1f260d37ee",
+    "symbol": "CKBB",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "ck20",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8dmfvayljmydly44jle6xencljeh6gqsqkr7ztz",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x5c9af25d10a6ae70f750d3f4dd92f0f6cfdd4a01d60e01d9278ef7a7b424ae20"
+    }
+  }
+}

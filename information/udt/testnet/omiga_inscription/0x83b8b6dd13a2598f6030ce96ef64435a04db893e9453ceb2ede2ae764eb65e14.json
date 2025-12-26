@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x83b8b6dd13a2598f6030ce96ef64435a04db893e9453ceb2ede2ae764eb65e14",
+    "symbol": "BITX",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "bitcoin in x",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqx3ahksntmyrqn72jvhq5cl0xcmqty9k6q0dlh9d",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x00847a0876cb3adef35d8a344d3ed0ae21333bb0d2c83ffecfd261e485f41370"
+    }
+  }
+}

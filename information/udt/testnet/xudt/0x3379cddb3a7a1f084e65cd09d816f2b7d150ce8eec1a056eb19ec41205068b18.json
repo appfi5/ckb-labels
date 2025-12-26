@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x3379cddb3a7a1f084e65cd09d816f2b7d150ce8eec1a056eb19ec41205068b18",
+    "symbol": "MTK",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "My Test Token",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf3qmfcfm7ac0jwwrned6ucfqz22cm3yvs6g3h08",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xd01a483070c16e48044dbb12ba7b844eae14d1a0bab2d813c9a7e63d768066bd"
+    }
+  }
+}

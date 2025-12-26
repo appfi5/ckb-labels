@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x92abdbbb10bbb019c4a742c7fbf870571b15989f24c40554f12937eb63f35fb9",
+    "symbol": "CKB",
+    "decimal": 0,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGB++",
+    "icon": null,
+    "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjrwpgg2k2jqq2xl00y6ezpz52yt2gc25mlzndr7v00wlmqj7xcvsqqqqqqwmm5ev",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x5d1419d842108fbd8c7143eb72ba90a5767ffa28ff16e3a2c34b841e127dc1c8"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x3a5ab9608a5f75cf6420cc674be45e2840b2627e31e48664faaa60bc787680e9",
+    "symbol": "CKBFI",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "CKBFI",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5dv963sh7lyh2euze0y5hk9j24tz62sjef9q0znwxs0xw4ukecyyqqqqqqq8sxvq",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x576831c9099d199af6f6bf2e95c7e5ca3dcf4e5c0e27a82b44587aef731923c7"
+    }
+  }
+}

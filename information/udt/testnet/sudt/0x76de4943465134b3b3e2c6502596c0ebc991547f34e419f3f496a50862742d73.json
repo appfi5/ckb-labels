@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x76de4943465134b3b3e2c6502596c0ebc991547f34e419f3f496a50862742d73",
+    "symbol": "zxr",
+    "decimal": 9,
+    "description": "xxxx",
+    "operatorWebsite": "www.zxr.com",
+    "udtType": 0,
+    "published": true,
+    "email": "simonsage.tl@gmail.com",
+    "name": "zxr",
+    "icon": "",
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtzdk3z44ljlceeku0p79turdmwm39mdjcnc5c6u",
+    "type": {
+      "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+      "hashType": "type",
+      "args": "0x05673d28d7ecc02f0cffda03cdb1d5fa10d26bfa0a67dea175da28a815e7aea4"
+    }
+  }
+}

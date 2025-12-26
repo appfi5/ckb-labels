@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x2dada6c97affc581fed2c05b35f018e831abde445dc583855c11abdf9f9a1232",
+    "symbol": "R-DOG•GO•TO•THE•MOON",
+    "decimal": 5,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "R-DOG•GO•TO•THE•MOON",
+    "icon": null,
+    "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qfdchesktvfn5glut3ppf45ha7j83ekvrpcxscrqvps8geszf7t0m",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x56c6bf662e9ad86252c3bdfff15d8f44f99125d9110810aecccb74f284a575f4"
+    }
+  }
+}

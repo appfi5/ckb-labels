@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x388fc29a1a803e021952737bc32ff2c6b871fe46517ed764727d438a30472b10",
+    "symbol": "Rich",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Zhifu",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqqs7z79e308h7k5e0v50kw3g9czuj2762x0eclmlsjjx9wqcx3pp32jr877",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xa28eb3cb42a21ffe99c15c259a035d9c054f009f57fb2c5963375aa441be899a"
+    }
+  }
+}

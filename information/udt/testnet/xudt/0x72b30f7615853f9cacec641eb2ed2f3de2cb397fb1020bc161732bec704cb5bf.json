@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x72b30f7615853f9cacec641eb2ed2f3de2cb397fb1020bc161732bec704cb5bf",
+    "symbol": "PTR",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Moeda do Pedro ",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3rgtk8a5lgvrk32lyy0r7t8qgvvqn2p4ukpe5knuzjlf3uya4eacqqqqqqlc2jnv",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x67fed5209749a9a01077c610921662dfa4b3ccda14af74193ddeabb2ca991e62"
+    }
+  }
+}

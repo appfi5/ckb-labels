@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x2e6f76df80b390d1cc42419cd455cc0e13652002dda08aec4a9767023a62ff97",
+    "symbol": "SOL",
+    "decimal": 9,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "SOL",
+    "icon": null,
+    "manager": "ckt1qqcyvyzy40qa0ee42uzg2p6lw7vmrdjjtqtpg3avg84g3c9c8n8usqtgqy08g5rzccxwga4pztpfawt55q95dhlwamhwamhwamhwamhwamhwamhwamhwamhwamhwamhwamhwamhwacgcaugn",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x629aebcdebd3ac1196953310878193c2d7f12e62974c3f6fff00daa392025285"
+    }
+  }
+}

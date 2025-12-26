@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xa197375a5f59347671b5908489cf8ef5addd612198b6aa2abcbe8e4e2ae9a912",
+    "symbol": null,
+    "decimal": 48,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "EYBWyb",
+    "icon": null,
+    "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhkg4klsvkpwr3j87lu8t0ucaeulv3a43yxxl7mup50vs99wqumxsqqqqqqdmqupn",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x5aef893f11e74a89c3a14d0ff9e2ec5490255b57b7687ba4d2b9628390818350"
+    }
+  }
+}

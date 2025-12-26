@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x58d692b3e9bfc71da86f61bfd49607ab819e1de3e27e43c05d1d958a3b7a9427",
+    "symbol": "LAUNCHPAD2",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy3nh3gca538ec8mmgp2mjzm5va799npkyeczjmj",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xaee12c8933b5b2dad0c83acb4a5c5d666db91a0ff388cc7192f629bd10568cfa"
+    }
+  }
+}

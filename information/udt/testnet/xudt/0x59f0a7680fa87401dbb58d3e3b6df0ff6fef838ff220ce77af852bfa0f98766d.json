@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x59f0a7680fa87401dbb58d3e3b6df0ff6fef838ff220ce77af852bfa0f98766d",
+    "symbol": "",
+    "decimal": 2,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "ulzlulz",
+    "icon": "",
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqkngk26wg5cytkryg4u0nmsnqlxelleccqsg67x6yqeuv5tncn9yyh6th9n",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xe48daa692d2a974e9e750c35d92f21f41a2347a2c66fc690d7b67ff3f610167f"
+    }
+  }
+}

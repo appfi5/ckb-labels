@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x372ae5c09e54a74525c964811739d432517e2c7f0c28d000ea62049d1fe10393",
+    "symbol": "ccli",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "XUDT Test Token",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqty55xklvk6xxh2c7ylarphrq00adwf9lswvx9ea",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x7b027d3f5fddf3eb7cef3f2815e525f6dce57d5c7d5fde46d057a4abb526008c"
+    }
+  }
+}

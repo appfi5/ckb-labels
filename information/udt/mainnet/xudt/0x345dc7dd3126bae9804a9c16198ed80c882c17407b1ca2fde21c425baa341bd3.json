@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x345dc7dd3126bae9804a9c16198ed80c882c17407b1ca2fde21c425baa341bd3",
+    "symbol": "RARE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RARE",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqpz4kzgvs89jt8cff7k8gf2zhc85c3qmemmdsxh7885uzmgnucs40cjsx7u",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x8a8335241e24f2eedfef36876e1b5719ed68c938b33800e6007ad160fd0b13fd"
+    }
+  }
+}

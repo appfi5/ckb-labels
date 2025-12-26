@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xa8e9e9aba282a9c2e92bf9f5116e0d7869f1f890262e8c6534e4e55554c29dba",
+    "symbol": "XMAN",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "X-Man",
+    "icon": null,
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq4ksqpufwldg9l3sehp65ty0lhn84gy44px9yutnw7apmsxd2nedcwzfx7d",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x186644237e76811f8b437779ccb765e194d4bbbb008e63cccf12bf1da62538c5"
+    }
+  }
+}

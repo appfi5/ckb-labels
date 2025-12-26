@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x914ad8799e7adefe203e4aed93dac88f4577a86c26c2b153f5a538a91fd06091",
+    "symbol": "HHG",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Hgh",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qh08ggy9jcx7hj8vxu7w0r66kzqngv66furtnze700eak2yzx044gqqqqqq65m3ds",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x774f1649fd8835242ddf04529c9734ad05f4fdeaf0b852b54da43137ca51bd35"
+    }
+  }
+}

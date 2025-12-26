@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x8cf49a0b613f9dc15470d98673985459c3cea0304b4c470a7d01cacc1bc7b7b5",
+    "symbol": "TT9",
+    "decimal": 0,
+    "description": "",
+    "operatorWebsite": "http://tt9.com",
+    "udtType": 0,
+    "published": true,
+    "email": "rauxbc@gmail.com",
+    "name": "TT9_Name",
+    "icon": "",
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfl2zp92pgmsjkmh9axe4tvth8mdqfyahgzw4m6w",
+    "type": {
+      "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+      "hashType": "type",
+      "args": "0x4b557a044a2389feb6ec4951a1a3600bf679c23279e9ac8b5ec3b39f3cc2241c"
+    }
+  }
+}

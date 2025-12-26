@@ -1,0 +1,21 @@
+{
+  "udt": {
+    "typeHash": "0x8409e3353023f9e146a34f16708d01367870c42bc92356718b5b474cd8ebfabd",
+    "symbol": "WBNB|bsc",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "Wrapped WBNB (ForceBridge from BSC)",
+    "icon": "https://cryptologos.cc/logos/binance-coin-bnb-logo.svg?v=002",
+    "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqtfudy7ndgjymk7020nj67qhjutzs5t20jeaks6smuk99jmrsr4msz2sqqqqrq7rzvg6yxezz89p5yepnxeprqvtzgsckxsnpg4pyvvjyv5crsepexymnxcnrxqun2ccnrdnqv",
+    "type": {
+      "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+      "hashType": "type",
+      "args": "0x29f425f897896c15ca11fd154d8e22ac56b5f49e683d0c88979ad44752fcd520"
+    },
+    "famous": true
+  }
+}

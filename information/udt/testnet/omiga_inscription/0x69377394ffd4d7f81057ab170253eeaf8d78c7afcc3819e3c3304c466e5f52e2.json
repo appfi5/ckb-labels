@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x69377394ffd4d7f81057ab170253eeaf8d78c7afcc3819e3c3304c466e5f52e2",
+    "symbol": "KICK",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgphn6ghwk2xhzpw50p2mck0xahqzr68qc6qqq2su4j",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x6d399c2a01cfa43ffa981c0db1302b63ea23e2fccf7e9b75d5cdbf10e9baaf5c"
+    }
+  }
+}

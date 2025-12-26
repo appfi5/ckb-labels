@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd77ed24cf260d587e04c0bed25720c15ef904dcaac01a4f13f869136c64a9280",
+    "symbol": "ICKBI",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "ickbi",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq90gzsc5s37uhutrrzrd06ahkq9lpmkg8v0eqskv",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x957eae38c16a43ed42e540bd244e06e6d8acf2c2203bbe1555c3c4ffa96238ad"
+    }
+  }
+}

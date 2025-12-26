@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x292b71cd4d5874ffa0d4bd19f164ea8cdfd973554bf1425932430f60c3d13400",
+    "symbol": "SHOCK",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "SHOCK",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqttcv6luupxvfgcg8npzxrf53vvt4726ugnyt28w",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x48f5a6afa2cb209e9588fb9d8cc5f214f2eeb56b49dc7d831acbe6f22e823fbd"
+    }
+  }
+}

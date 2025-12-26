@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xff465d57fff5bfabad9006f26bd699a50b6804fe8c9d13a5ef10408d2917d597",
+    "symbol": "Bringer1",
+    "decimal": 9,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Bringer1",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3upx4vg95mytnkdyx9x5w82cvr6fn7z9wvygfnpt9555w0e6sthvqqqqqq8l7pl9",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x045de82f7e6db78251f25feaaa50594c4db2ca237d1ea9c98a2de751badb6c9a"
+    }
+  }
+}

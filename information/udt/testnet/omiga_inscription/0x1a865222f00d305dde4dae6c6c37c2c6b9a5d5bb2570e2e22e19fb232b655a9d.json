@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1a865222f00d305dde4dae6c6c37c2c6b9a5d5bb2570e2e22e19fb232b655a9d",
+    "symbol": "JOYID INSCRIPTION",
+    "decimal": 7,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyfs5pcxz6f47u67fqhekywvwxmcnmd7ugt40m59",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x7d0db85aa454bc42e8d65ed02c6c14cc0e703ef87c7082759f5f42492e151002"
+    }
+  }
+}

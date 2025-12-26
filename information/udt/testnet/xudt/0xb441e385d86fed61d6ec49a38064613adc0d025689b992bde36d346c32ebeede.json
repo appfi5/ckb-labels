@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xb441e385d86fed61d6ec49a38064613adc0d025689b992bde36d346c32ebeede",
+    "symbol": "BMNN",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Bat Man",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgrjga53shnha9u5n0nuq29puh0hgfulaggzw348",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x1f111724d3dbc701e03d34c0ced4935ac886638f5871a232604b8cf45cb765ca"
+    }
+  }
+}

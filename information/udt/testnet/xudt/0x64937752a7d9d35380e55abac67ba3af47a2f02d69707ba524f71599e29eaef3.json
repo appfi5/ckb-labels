@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x64937752a7d9d35380e55abac67ba3af47a2f02d69707ba524f71599e29eaef3",
+    "symbol": "G+++",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "gg++",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfg2jjt054t363z5t2yltamx6mr9dg5dhstr2k5g",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xe7e346ec94bab23769a231512b1884b94334ad806c93eb293c3a01a527f734cd"
+    }
+  }
+}

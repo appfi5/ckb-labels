@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xceb40447829f909eef64a731e36cbe53f367e26e1f4ec93a28d4e8553df621d6",
+    "symbol": "Norse",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Njord",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqqtw83vz8y9vvx7mhcnnugkxtswc8ekscupv36x50rn4u6vzdnr9tdsdlc9",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xabd66479b66c95d4bf82a2f6a6c26ca4717ea9987a85c998013a4372ba7066ea"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xa8b69151db2de6031203da9189c955ddb9c311fa7557f3f6e583d149b6681301",
+    "symbol": "RT",
+    "decimal": 8,
+    "description": "",
+    "operatorWebsite": "",
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "Rebase Token",
+    "icon": null,
+    "manager": "ckt1qjr2r35c0f9vhcdgslx2fjwa9tylevr5qka7mfgmscd33wlhfykyhp09gqw99tkwn6mpf7vhktevyrulcy9xw82pdvd",
+    "type": {
+      "codeHash": "0x48dbf59b4c7ee1547238021b4869bceedf4eea6b43772e5d66ef8865b6ae7212",
+      "hashType": "data",
+      "args": "0x8d24922aa4a5df0a9aa6cf855ea917c1cbb9efe5a66f2f744f0ec4543964974a"
+    }
+  }
+}

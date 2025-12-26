@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x3ec45ffc023fa7c6b3b5c91b645a21930250973e3b9d853c5a4f553f2c8dde36",
+    "symbol": "HORA",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Horaverse",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq984zyvtzttuxdecd2ztxtq4m6qtyj5rkc77mn46",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xfa492b3b941e5a43a1f1885b69409b97483a664be03084807e4928fad5a36dc4"
+    }
+  }
+}

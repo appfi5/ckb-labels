@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6b56e64e51d671bd6be3fe100df6e330192ce16e5815099890394070148b7a2e",
+    "symbol": "BLUEBERRY",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "BLUEBERRY",
+    "icon": null,
+    "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3jlg2g7524v7gz2gh3pl60wfs9m0edv5kqk7yaznv4h0pynv2fpuqqqqqqd9vktu",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x230c3e352b648496ba12a9da19b4aab290ce6a85f59ac6b440f44ce1979431f3"
+    }
+  }
+}

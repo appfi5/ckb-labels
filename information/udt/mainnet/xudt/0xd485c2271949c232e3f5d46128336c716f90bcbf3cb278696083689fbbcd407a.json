@@ -1,0 +1,21 @@
+{
+  "udt": {
+    "typeHash": "0xd485c2271949c232e3f5d46128336c716f90bcbf3cb278696083689fbbcd407a",
+    "symbol": "iCKB",
+    "decimal": 8,
+    "description": "The iCKB token is a liquid representation of deposits in the iCKB protocol that allows for fast withdrawals while maintaining the benefits of traditional NervosDAO deposits without the need for re-staking",
+    "operatorWebsite": "ickb.org",
+    "udtType": 5,
+    "published": true,
+    "email": "lo59hmwqq@ickb.org",
+    "name": "iCKB",
+    "icon": "../../icons/xudt/0xd485c2271949c232e3f5d46128336c716f90bcbf3cb278696083689fbbcd407a.png",
+    "manager": null,
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xb73b6ab39d79390c6de90a09c96b290c331baf1798ed6f97aed02590929734e800000080"
+    },
+    "famous": true
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x7e4984779a7e489fba295b41afd090005bc0cd3a136cb2772ae71b3e15b0ea7f",
+    "symbol": "BLTH",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Bridge Lock Test H",
+    "icon": null,
+    "manager": "ckt1qrh997sd0twu0vkv9yxfcteegu3gst4qn3dpulz29p4q4094a7zazqf3xycnzvf6xycs4qwhfq",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x46c1e23e6316e5146dfb1999e72335f08003468b40f6b0b15aca58602d27e4a8"
+    }
+  }
+}

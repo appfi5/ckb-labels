@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6cf80e790ffd5dfdd1967f9891dd0ae43d309db0d8682e03464fded851fd8973",
+    "symbol": "michael-rgb-77",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "michael-rgb-77",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2fnngkdjt3wxrs8p0ww36f55pn0fxqyzccftufd",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xb23473adb427264a47e86ace3f186c7dc959969c908f44f889f4af33fdf8105807"
+    }
+  }
+}

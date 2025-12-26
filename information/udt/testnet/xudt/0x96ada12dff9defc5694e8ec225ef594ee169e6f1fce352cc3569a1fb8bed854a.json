@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x96ada12dff9defc5694e8ec225ef594ee169e6f1fce352cc3569a1fb8bed854a",
+    "symbol": "我是耐心漢人博主之日更創作的第1天 1.aaa.com",
+    "decimal": 0,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "我是耐心漢人博主之日更創作的第1天 1.aaa.com",
+    "icon": null,
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqsq96z3370xljd4rmmtahyqpuyaxr6pa5zwne49m8dysg0e4zft6gsqj6fg",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x07a2e644ff9f56dde1ff22110bd99155d837dcc1666d47a25eed0774849d443d"
+    }
+  }
+}

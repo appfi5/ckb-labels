@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x94e5d856bd45654ba15e907eb705a2bcbf1a5a6d117b4d3ed76283d735988e4d",
+    "symbol": "BPC",
+    "decimal": 8,
+    "description": "",
+    "operatorWebsite": "https://www.crealabs.io/projects",
+    "udtType": 5,
+    "published": true,
+    "email": "root@crealabs.io",
+    "name": "BIPCoin",
+    "icon": "../../icons/mainnet/xudt/0x94e5d856bd45654ba15e907eb705a2bcbf1a5a6d117b4d3ed76283d735988e4d.png",
+    "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq3ev7wpr5dghkxs9eamjvacuqum7tmrjcmh43kd4p0qu57vw47m7uzqrrhz",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x3b33b01e43d051d3cd1bbb83085c2476702503cd7f2a7cf54464de3a6aecc4b0"
+    }
+  }
+}

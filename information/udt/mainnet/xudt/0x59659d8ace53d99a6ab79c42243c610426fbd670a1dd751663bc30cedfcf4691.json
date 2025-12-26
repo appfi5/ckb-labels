@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x59659d8ace53d99a6ab79c42243c610426fbd670a1dd751663bc30cedfcf4691",
+    "symbol": "Crown",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Crown",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqg4qqqqpm40u6wjmhf8wyxcdwr2t95xgmunye0hasacghmkh377l4eg9tgd29y9es",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x0d7ee593c30e9ddf5983d5f45ae9290b7786433cb8c552bcf4e47405b1c824dc"
+    }
+  }
+}

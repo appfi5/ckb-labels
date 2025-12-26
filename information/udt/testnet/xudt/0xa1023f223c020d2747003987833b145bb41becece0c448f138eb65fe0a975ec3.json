@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xa1023f223c020d2747003987833b145bb41becece0c448f138eb65fe0a975ec3",
+    "symbol": "Auf",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "AAU",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qsqy3pn0um2nuq9hzf3mxtdy6n4k576q0fz68rqkyuz7exc4mk7usqqqqqqh0nuqp",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x534e68cc7178b6e8cbf7d7349367be1306a44cfafd63943373911b500d0b7ea8"
+    }
+  }
+}

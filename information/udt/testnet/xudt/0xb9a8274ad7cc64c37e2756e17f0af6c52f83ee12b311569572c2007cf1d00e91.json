@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xb9a8274ad7cc64c37e2756e17f0af6c52f83ee12b311569572c2007cf1d00e91",
+    "symbol": "fhbvffg100",
+    "decimal": 0,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "fhbvffg100",
+    "icon": null,
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq4v56ryxxdy2rvjxkhv8rugnr0txw95wwdvpsky2urejp7kpdnq5qk4k8c5",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x6ead9e3f9cdc34adccd9ac215974d108db2ff8448d5f700a8d9190d9f0d8b8f8"
+    }
+  }
+}

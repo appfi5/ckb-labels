@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd533350b5eb29729c3cdbc18b15d51229210b1dc2018d35f090afa101c5f4e9d",
+    "symbol": "CKBTOMOON",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "tomoon",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8vzunn246udc7xdh6cmt4yexnnvqejwwuu9t5ay",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x9c606de0a1d2ae3501d2d2ea98decb0ae4a7f684647e65f2c5efdc8f2ad20ca6"
+    }
+  }
+}

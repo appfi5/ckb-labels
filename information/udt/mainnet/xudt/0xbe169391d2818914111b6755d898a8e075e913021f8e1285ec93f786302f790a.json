@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xbe169391d2818914111b6755d898a8e075e913021f8e1285ec93f786302f790a",
+    "symbol": "Brc30",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Runes",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgnqqqqqtq4kn086lrffapmhx967w49kznqqrvdyc9zytndnp9z9uwllen4n49h43",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x365fc3b7f79fcdf466dca45b589fad299a919d6296d75451f5e021b70d1e0344"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x49a8a82b6f1b651f573fed935a41f248038166e6677c375385843d3b03301ba4",
+    "symbol": "MINA",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9jedq8zehp2ksddssmwcwluhea2mv5fj5pne7jc",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x526ca3d2d8348ff4baca8775974c5a1593349386ec08ce45569363d8b30dd89e"
+    }
+  }
+}

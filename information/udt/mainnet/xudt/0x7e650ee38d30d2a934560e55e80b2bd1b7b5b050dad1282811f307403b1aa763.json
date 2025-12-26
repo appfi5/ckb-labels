@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x7e650ee38d30d2a934560e55e80b2bd1b7b5b050dad1282811f307403b1aa763",
+    "symbol": "Dream",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Dream",
+    "icon": null,
+    "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfmhp7rj7snyetykeurh3slduv303s5wcqmed639",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x258ceeea79d17a5d2be454ee5b1999dc959400036ad85c8d9b3d9ce1fe4c7faa"
+    }
+  }
+}

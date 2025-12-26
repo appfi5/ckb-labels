@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x56b48409dcd9bb788b943eecb0d400b791f61f06dd7028b442d96d83300d4a16",
+    "symbol": "stdXUDT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Standard xUDT",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqp4h0qkpt8qxc0xgvk8qef5jg0rxzl7rmhgezf562hkuzjkvw63unnt5k8k",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xa73759760f6a33cdc2ff6ced935c18e3eab96497998892f0e8b498db9829693c"
+    }
+  }
+}

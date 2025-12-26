@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5d6d841ad206d39c332c843bd9889bb6dfdfe2708ab783d5cead834ab25ac43e",
+    "symbol": "WZRD",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "WZRD_BRC20_LeapX",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqpdjwk0hrzjz9c5a7kukke0n2gjfjlf50qep8wcvau80f8txvcjdatnhep3",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x49d834e614134cfba06d54587f0fd7cacb62e51038411694d9111d935ee76359"
+    }
+  }
+}

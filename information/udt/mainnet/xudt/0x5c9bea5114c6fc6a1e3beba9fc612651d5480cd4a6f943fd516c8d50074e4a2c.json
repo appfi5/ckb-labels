@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5c9bea5114c6fc6a1e3beba9fc612651d5480cd4a6f943fd516c8d50074e4a2c",
+    "symbol": "haha",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "bbxiang",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqcv24u08vy5umqrrlc6vq9kgqhz8r7mvrhppa6039xlhjf032ecsws3nse",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x2c1d9d7b52caac3378231f2928439a8707c71e99e37cca3f12d4d7900631f37a"
+    }
+  }
+}

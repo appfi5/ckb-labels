@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd2774e7d503308e564477f2b521bcde7cf6d259f45c7c4d01e3e7f35d630292c",
+    "symbol": "FLY",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Background ",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qs9csymv295xydk0svkax4fv76qcgc4cdsnz6sxfu9t04ttlr035cqqqqqqxfacag",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xd821b943fa13b0da32a8808d4574e05f8b580b41c85010c166c8fb0c83825076"
+    }
+  }
+}

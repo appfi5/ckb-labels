@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x66f06511624f4186f875bad8b628490a1b2639e7af85d47076b1b89abfa35719",
+    "symbol": "Aqua",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Aquaman",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqttu8vv3h0gxyk6qsyfk9dzy54d7q23afcyzd4kj",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x6567f103fb915757b3a44d8592d6db0e6f75554e0c6f0ce9632c8b56d8ba2a5200000000"
+    }
+  }
+}
