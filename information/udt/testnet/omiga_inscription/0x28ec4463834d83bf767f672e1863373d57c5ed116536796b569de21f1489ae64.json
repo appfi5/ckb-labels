@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x28ec4463834d83bf767f672e1863373d57c5ed116536796b569de21f1489ae64",
+    "symbol": "ALOT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "ALOT",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyvk2kp38vet8nfsa8qcy6uksm2w5wldjvk0462a",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x46dd594ac5f455bd443c26a2c5a08c7bf0e25fa4738139bdc541556b9263dc5b"
+    }
+  }
+}

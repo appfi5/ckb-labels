@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x8b53c110a1f8c2605fedc45d6f0ed32b7d42812041cb2ac158a2df8073783e34",
+    "symbol": "DUK",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "duka",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkc9d5yvyw8kvxs3kydl7axdfum495hpxk5n2qjjsgrpfq92x0ga5qqqqqqpfqz8g",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x209cdf46fdc742f1c5905a4eefa423442e2b632f3d76d53ee3440a058633d173"
+    }
+  }
+}

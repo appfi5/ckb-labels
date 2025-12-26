@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x45420c4818d028c7b3ec9ddf6e96279c244ed6e6e08b4c0e1221d7fb6ad7df84",
+    "symbol": "RAT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "RATS",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8qp9744msrse5f3eu7h2u7ewsua3l9wnyymqj8q",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xb3a03d7da56564656a89e415345d2e8b75e74a0903db864fcece8a013769bf51"
+    }
+  }
+}

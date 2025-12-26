@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x48b4343a8c2d88bc401c43527802ab5ac8bae1ad843e8b9d3133cc61c8a5c252",
+    "symbol": "BTC",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Stable++",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf5k26q9662a6gkzjeef9yhd56jqau7wmqf729eh",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xc11ecc9df9f3e49d01e0f494c894015724d87948bd90c3e8d87db708ed8fb881"
+    }
+  }
+}

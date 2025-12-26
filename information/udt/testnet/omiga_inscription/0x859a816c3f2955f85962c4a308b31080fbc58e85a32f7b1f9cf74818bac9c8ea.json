@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x859a816c3f2955f85962c4a308b31080fbc58e85a32f7b1f9cf74818bac9c8ea",
+    "symbol": "GDY",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Giddy",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqx9g9gcgnacsmqtxsc37m55mcwy5fje9jcsfnsdj",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x06db018b04f8df1555e9ed1cbcda2b8757955365a33c54afc65d50099148f3a7"
+    }
+  }
+}

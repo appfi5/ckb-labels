@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xf8432faa61f41ba987fc6aed21f60284f082f98d3096f979b9b2c4bcb360d533",
+    "symbol": "BITCAT",
+    "decimal": 8,
+    "description": "Bitcat is just a cute cat that loves BTC",
+    "operatorWebsite": "https://bitcoin.org",
+    "udtType": 5,
+    "published": true,
+    "email": "zkbuilder@proton.me",
+    "name": "Bitcat",
+    "icon": "../../icons/mainnet/xudt/0xf8432faa61f41ba987fc6aed21f60284f082f98d3096f979b9b2c4bcb360d533.jpeg",
+    "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhe7nk6xxd37zlsxsyqdvvlmt9fckj5jdsady96t6nt759ku9yljqqqqqqqrmfd8c",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xbf40cb25a3fef72580e2d2bc0487c9f92bd69c65a96627f05ef7d36510b6f525"
+    }
+  }
+}

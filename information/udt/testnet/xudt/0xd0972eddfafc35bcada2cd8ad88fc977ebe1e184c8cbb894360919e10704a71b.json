@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd0972eddfafc35bcada2cd8ad88fc977ebe1e184c8cbb894360919e10704a71b",
+    "symbol": "WOY",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "WEI-1/3DAO",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q57c0cefn2h2lh4czsq2lexec3rff0w820zqeacrpj6qzkkl9h7jyqqqqqqh3lh48",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x0bd2a31395fa798c6667b54c5e3c167dea52ccd2d67c4a42a3016530c19db163"
+    }
+  }
+}

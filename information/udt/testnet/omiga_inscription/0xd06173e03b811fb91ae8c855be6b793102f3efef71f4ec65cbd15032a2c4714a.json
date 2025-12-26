@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd06173e03b811fb91ae8c855be6b793102f3efef71f4ec65cbd15032a2c4714a",
+    "symbol": "ALICE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "ALICE Inscription",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq04arz2ypwdphr5kl5wwlqqvwurfehs02qwuuf40",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xaa9dcdf3c48db3ac651ba3edc3efc7fac2aad1089e0741a119383de99bde5e08"
+    }
+  }
+}

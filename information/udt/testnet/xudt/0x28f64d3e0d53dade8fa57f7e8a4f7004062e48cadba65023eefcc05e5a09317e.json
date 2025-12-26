@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x28f64d3e0d53dade8fa57f7e8a4f7004062e48cadba65023eefcc05e5a09317e",
+    "symbol": "WBGR",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Rgbw",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjtsj8cyf54ydd8y4d0vpfwzavd27pt3dn8wsqamsahff0pheyq0yqqqqqqjheh65",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x876340aa4e99c8ac9b4237a3ea1fa843e5e8dc8270c6c89b494a3a304a547d08"
+    }
+  }
+}

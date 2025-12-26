@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x8822b188db747a5d664ad2c5a3d5a8e49221f1d1dbd62b841ede4850df1c9e82",
+    "symbol": "SHIB",
+    "decimal": 6,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Shib Coin",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qj3mrnljp6u3tvfs90jrm4whtq8wvh9hj59cqpezcvtpz9grwpjhgqqqqqq53lew5",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x9d8fc6cc9bc762cf768f805ca84cf0fe38cd46831e837da6d78b946864203c85"
+    }
+  }
+}

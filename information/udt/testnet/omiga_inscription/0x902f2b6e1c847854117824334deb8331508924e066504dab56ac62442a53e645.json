@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x902f2b6e1c847854117824334deb8331508924e066504dab56ac62442a53e645",
+    "symbol": "BTC",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy6nk3zv9zh8wwnugn7l0ps6cvdq828zf57vnzku",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xab8a34018d975dfd1b5e2da496aad7682d1d02a686ec95cc308b4635640bb813"
+    }
+  }
+}

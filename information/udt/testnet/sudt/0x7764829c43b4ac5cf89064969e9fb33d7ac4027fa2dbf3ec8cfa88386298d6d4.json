@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x7764829c43b4ac5cf89064969e9fb33d7ac4027fa2dbf3ec8cfa88386298d6d4",
+    "symbol": "FDT",
+    "decimal": 8,
+    "description": "This is First UDT.",
+    "operatorWebsite": "https://www.magickbase.com",
+    "udtType": 0,
+    "published": true,
+    "email": "lujin@magickbase.com",
+    "name": "FDT",
+    "icon": "../../../icons/testnet/sudt/0x7764829c43b4ac5cf89064969e9fb33d7ac4027fa2dbf3ec8cfa88386298d6d4.jpg",
+    "manager": "ckt1qq6pngwqn6e9vlm92th84rk0l4jp2h8lurchjmnwv8kq3rt5psf4vqdwvwruzqapvk430yws4gmn4jw84cnkavcn8ztt5",
+    "type": {
+      "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+      "hashType": "type",
+      "args": "0x94bbc8327e16d195de87815c391e7b9131e80419c51a405a0b21227c6ee05129"
+    }
+  }
+}

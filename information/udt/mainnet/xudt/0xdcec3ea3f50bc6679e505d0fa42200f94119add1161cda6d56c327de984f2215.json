@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xdcec3ea3f50bc6679e505d0fa42200f94119add1161cda6d56c327de984f2215",
+    "symbol": "USD2+",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGB USD",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqqup523gfzzy7p24x6ts77u20kz9c3slhpenzd7w3hddjhyz9nra5xvz3sz",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x3c7c54b6af709980b720e673ac3ec4559190b377b3064552c6cf0ca1432f6e1f"
+    }
+  }
+}

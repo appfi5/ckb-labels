@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xcb2ef77e3fe22cb06853f255cc421c6f4be4b1a106bd5bb29fa66c89f48db69a",
+    "symbol": "Bringer2",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Bringer2",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q53n40l8w2d4s4g62r86dd5de8qvk09hcw27w58xhfyyq35z0ld9vqqqqqqwxfkws",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x746608863ff73f55cf6fa75a9048eb84e6febe58fcd27d137287516409522d48"
+    }
+  }
+}

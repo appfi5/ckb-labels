@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xa944680303fca0edc6477b106dc1b0b09779a8d8c8bf3bd79feefe7bb08a29c4",
+    "symbol": "CAT_+",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "CAT+",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0v5au39luasvvseurkfpevkfnedlptpxcfn3h98",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x2dfbcea8cec38113213725704411081932ee492e897c50239edf69f8455561bb"
+    }
+  }
+}

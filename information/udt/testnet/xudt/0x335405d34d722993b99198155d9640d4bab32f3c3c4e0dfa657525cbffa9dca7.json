@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x335405d34d722993b99198155d9640d4bab32f3c3c4e0dfa657525cbffa9dca7",
+    "symbol": "mint5",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "mint5",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqqx2zv6mrn49xju9jc0fxnjktsg72js3qj9asqjhx4kma4yh75h7wmgsyqt",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x34dc2f1d56a212613b4a0998f19cf2cb135e73667e760248f77fe1dfc46c1917"
+    }
+  }
+}

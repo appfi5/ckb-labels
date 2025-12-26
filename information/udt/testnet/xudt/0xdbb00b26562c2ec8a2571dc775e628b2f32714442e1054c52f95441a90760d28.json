@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xdbb00b26562c2ec8a2571dc775e628b2f32714442e1054c52f95441a90760d28",
+    "symbol": "FAIR",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "FAIR FAIR FAIR",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvfclz2all0m0v9lcdgt05mpf4ht6lc4vg3d38y6",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xf17028fde0ab7a7124fbb342c0a56cac740f017ff2d1be2ecb980c5d11fd1850"
+    }
+  }
+}

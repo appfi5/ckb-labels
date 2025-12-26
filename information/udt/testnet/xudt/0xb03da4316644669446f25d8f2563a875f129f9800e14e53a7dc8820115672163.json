@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xb03da4316644669446f25d8f2563a875f129f9800e14e53a7dc8820115672163",
+    "symbol": "2024",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "2024",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqqecdztvfahljsw336ga9vwujyfuccfs3mzk4kgwa6hzl7hm9a9qncplu2c",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xd769f6735663a764ced5a704b3064ce97ea8409a0831c38b7721e4bde8039389"
+    }
+  }
+}

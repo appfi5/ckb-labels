@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6e6267c6a52e9f5dffccbbccf093b9671e25fff7d2b3c88462fe7ee75436a861",
+    "name": "HEYHEY2 Token",
+    "symbol": "OKOK2",
+    "decimal": 8,
+    "description": null,
+    "icon": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qssjlvkh04uaj4yz8vwyqv32fds0d3fwtqw257443sgl7wl0wrt2gqqqqqq2wnmkqckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qssjlvkh04uaj4yz8vwyqv32fds0d3fwtqw257443sgl7wl0wrt2gqqqqqq2wnmkq",
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x19c1a119f31614fb6fe1790e1759fd399d25a8998f98bb2649316cf7ceb27fc5"
+    }
+  }
+}

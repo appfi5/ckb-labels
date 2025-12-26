@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xa412cbda63bc8d07cccdf7a24c46abf93687972d44b7135021d9f0bc93df0804",
+    "symbol": "BTG",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "BTG",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3rm2lpvs6wfdjgp29a84e4l3jl7vl4l0p8kpv655mkzu7pygx085qqqqqqeuanyw",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xec2e888f45c3489dd3629daf1bb53c7033be0a6206ce7c8ab487be288d716a8c"
+    }
+  }
+}

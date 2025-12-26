@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xcfa6d0717780205111de71f1f28c3381a499ee3e44d39da1ef649a8703b3804b",
+    "symbol": "NOTHING",
+    "decimal": 6,
+    "description": "",
+    "operatorWebsite": "",
+    "udtType": 5,
+    "published": true,
+    "email": "dev@rivtower.com",
+    "name": "Nothing Coin",
+    "icon": "../../icons/testnet/xudt/0xcfa6d0717780205111de71f1f28c3381a499ee3e44d39da1ef649a8703b3804b.jpeg",
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qs2lstxxapej4jq8uk8972gv0dpc06z5t08gy0uh4m8fs7eschjnvqqqqqqn4e989",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x8b87e7edcc8e629ad56f7b55f41ccab65aeddd1080cfe5a8923f8b37496aa7c9"
+    }
+  }
+}

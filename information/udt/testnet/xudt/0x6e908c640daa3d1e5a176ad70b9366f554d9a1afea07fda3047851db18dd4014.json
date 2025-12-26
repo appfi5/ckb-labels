@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6e908c640daa3d1e5a176ad70b9366f554d9a1afea07fda3047851db18dd4014",
+    "symbol": "MBT6",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Moonbit Token",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqqr5rl8n9u3vc6f005vykcnz64sdztvy4h28jtc8tq8dvga6z5pnyjcj2av",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x4b5022f3469ed451a62eb5c62830f975a41bc1885f3ccae5dfd6e74848a37b04"
+    }
+  }
+}

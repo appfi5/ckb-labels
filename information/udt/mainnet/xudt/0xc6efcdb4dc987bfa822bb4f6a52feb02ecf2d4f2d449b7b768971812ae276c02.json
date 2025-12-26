@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xc6efcdb4dc987bfa822bb4f6a52feb02ecf2d4f2d449b7b768971812ae276c02",
+    "symbol": "Banana",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Banana",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqph6guw8k65rtea8py75nr6k59mern6l2kaw86elj3gv8cxq3gutc9ldzgf",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xd17dc2ab13d1cfcec296193f37d5a2fed0927332300d5f3aefd3c1985850bc1e"
+    }
+  }
+}

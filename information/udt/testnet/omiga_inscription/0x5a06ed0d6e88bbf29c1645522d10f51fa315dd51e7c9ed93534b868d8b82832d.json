@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5a06ed0d6e88bbf29c1645522d10f51fa315dd51e7c9ed93534b868d8b82832d",
+    "symbol": "YED",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8kwyyl36dqz67w6x9gll0vq2ryn0w2x6v75ml0t",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xc3003a6197d5d024109ca3940e5f37a5fa1ea9630af9b21358b5dd23bab35491"
+    }
+  }
+}

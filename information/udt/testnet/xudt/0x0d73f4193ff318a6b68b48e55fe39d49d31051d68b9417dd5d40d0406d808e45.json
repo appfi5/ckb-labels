@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x0d73f4193ff318a6b68b48e55fe39d49d31051d68b9417dd5d40d0406d808e45",
+    "symbol": "TEST 2024",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGBpp1719142345",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqg9qqqqpyph239v0yrh3gwfw2c90uyj90r0ll4u0594e40lzrf75gj9fnetpus39y",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xa1e524ed8707c448bafaa087e301bf127ee5d87dc9bf910c385f7517bb444d79"
+    }
+  }
+}

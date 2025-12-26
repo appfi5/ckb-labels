@@ -1,0 +1,21 @@
+{
+  "udt": {
+    "typeHash": "0x63e8892a1095756e8ad5771dc02d03d532c71f4415c441ea5b4c732e3c9286ee",
+    "symbol": "PTO",
+    "decimal": 6,
+    "description": "",
+    "operatorWebsite": "https://www.youtube.com/@PROTO612",
+    "udtType": 5,
+    "published": true,
+    "email": "dev@crealabs.io",
+    "name": "PROTO",
+    "icon": "../../icons/mainnet/xudt/0x63e8892a1095756e8ad5771dc02d03d532c71f4415c441ea5b4c732e3c9286ee.jpeg",
+    "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjg0np76prm3j60yqhy9tceguqwwrm0gpv6trkncmwcq7zfg3f2vqqqqqqqvs7x3u",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x86cc2aaebbf3a37cf475243a5c01012d23b9f3099bb5e32af9c498902f7fd384"
+    },
+    "famous": true
+  }
+}

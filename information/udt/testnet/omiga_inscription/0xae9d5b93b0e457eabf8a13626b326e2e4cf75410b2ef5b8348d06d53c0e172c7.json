@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xae9d5b93b0e457eabf8a13626b326e2e4cf75410b2ef5b8348d06d53c0e172c7",
+    "symbol": "Zoo",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "ZooCoin",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq04arz2ypwdphr5kl5wwlqqvwurfehs02qwuuf40",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xdcae33fb313ee1f0e8d36b713bf411cd0483da090e00ff0c2c481078f50e5b84"
+    }
+  }
+}

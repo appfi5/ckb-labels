@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xca0fd4825d7500ab46ea8743af15a994c2f6f421f4092753479c1d9f976a219d",
+    "symbol": "JACK",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "JACK ",
+    "icon": null,
+    "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkn45w8gxudeywmqfysgjchkpecdm7kqtk67w73lu92hc2d9dlh2cqqqqqqh5asfw",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xd99b83f121b7bd3aaf5f44e6fdb2f4206ff4719c61ec48f144828345b9b09a07"
+    }
+  }
+}

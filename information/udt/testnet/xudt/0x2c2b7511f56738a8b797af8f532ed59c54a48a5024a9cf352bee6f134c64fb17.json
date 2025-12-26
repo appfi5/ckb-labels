@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x2c2b7511f56738a8b797af8f532ed59c54a48a5024a9cf352bee6f134c64fb17",
+    "name": "Just UDT",
+    "symbol": "jUDT",
+    "decimal": 8,
+    "description": null,
+    "icon": "",
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgqqqqqqj30thcxhkdnywk5av6dnptp7sdpw2fvkm5s7qxles0w9u2nygp6xmjfclckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgqqqqqqj30thcxhkdnywk5av6dnptp7sdpw2fvkm5s7qxles0w9u2nygp6xmjfcl",
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xbb1ceb9ee1b99421502817e396358a92ea8c836fd61f1f3a0f498f0c7246dd75"
+    }
+  }
+}

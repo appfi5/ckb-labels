@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xdaba1ba00cc076b16faceb084cb0b6f78fccbb037d75b15e6d981dca890802db",
+    "name": "BTD",
+    "symbol": "BTD",
+    "decimal": 8,
+    "description": null,
+    "icon": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qk2n4yj44tdx6jngl8ry4fgxgkmmv36vre28gsx3x3dh0fpnmlrq5qqqqqqjshy9yckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qk2n4yj44tdx6jngl8ry4fgxgkmmv36vre28gsx3x3dh0fpnmlrq5qqqqqqjshy9y",
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xc8a23cecde5b1b8b47a5b492d6a502c493ac6080e5815d517feeb09d743287bf"
+    }
+  }
+}

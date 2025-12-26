@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x83a4c847f8419260c7b4ecbaf56ccf3aae8765ef58bdb3296de6ceab0522b22f",
+    "symbol": "TICK",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "CLOCK",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8sw0vv7exgra5gsfncwg4yayyvudk4jwvzzf85v",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x8b27e9c8dd717fcd9d4222a2a0eb7a3856b54ac389868e6856cb3d569eec403f"
+    }
+  }
+}

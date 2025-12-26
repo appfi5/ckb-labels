@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xdf108c37a790cceb9e38d4b409f8329ae4252eccd2f5d86b95d2e3a6d0c015ad",
+    "symbol": "RUNES",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RUNES",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqp7md6r2vxnhxzp738xlreu2vfyy2rsw7adg7xqv7k6jy949d3zauj44vd7",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x8a98ddc7a0ea987b6e3d2574057e92c4b348427a76cbd143677f0b2829205a15"
+    }
+  }
+}

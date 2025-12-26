@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1977c6eadc0e2b5d70ec79131228e925dd3adbf7bbc945f233d0162b3c11d045",
+    "symbol": "IYK",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "IYK TOK",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qh3ep97sa292es2f8g7epz7fllfw0tyn4a7u8nzs4c8360eyr93ecqqqqqqhm3f0c",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x96445cad1ee121457d57972c1eb42169e0fa6b804a41b165ddf0e6dd40bf2c1f"
+    }
+  }
+}

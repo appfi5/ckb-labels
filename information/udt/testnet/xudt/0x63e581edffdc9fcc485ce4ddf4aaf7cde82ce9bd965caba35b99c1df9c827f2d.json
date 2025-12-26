@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x63e581edffdc9fcc485ce4ddf4aaf7cde82ce9bd965caba35b99c1df9c827f2d",
+    "symbol": "OKRTT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "OK RGBPP Test Token",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqpqa6wgtwnpcxxpawunev2d2qufqyvruhqxldxf8dxz6d08rvgl9ls77jkr",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x0638dd805b9059cb3ee136d33c4ffa5315aa50db8f2c405b281832ba62d763ee"
+    }
+  }
+}

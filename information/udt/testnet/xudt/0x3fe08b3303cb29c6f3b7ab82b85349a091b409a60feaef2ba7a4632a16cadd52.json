@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x3fe08b3303cb29c6f3b7ab82b85349a091b409a60feaef2ba7a4632a16cadd52",
+    "symbol": "bb11",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "babe",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2x43pajpv3v5h9c75l8lptyzaanrdz0ng73qker",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x95df57dd86cfcea23c30cff57c74cb356ac939a8cacbb079cb8587fb4065823b"
+    }
+  }
+}

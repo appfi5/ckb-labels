@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x180ea0f2f0de931a577c4d94f21a6e2eed35e74502522234ab385d5e3a5efdbe",
+    "symbol": "QUICK",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "QUICK",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgqqqqqqet6d75tjpf9gk60zt9vlhgat8f8umht88pq20uecafc8c6antwvh4fq4f",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x834fa1f60548aad99f4b4aaac575f2ff797bb24a344951ff479c2ac2805e73db"
+    }
+  }
+}

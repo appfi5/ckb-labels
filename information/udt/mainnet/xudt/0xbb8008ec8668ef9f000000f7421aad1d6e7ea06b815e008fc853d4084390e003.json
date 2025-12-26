@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xbb8008ec8668ef9f000000f7421aad1d6e7ea06b815e008fc853d4084390e003",
+    "symbol": "Ryan",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Ryan",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvq2xqqqqqt4m78pqpydpvl63j589nvqp5fylu2rzx2tgzwnqy86dwhl3sp9plmhr73",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x6653b06314d0fff404a1be352176512ab57a312802c170eea33880ca25b4d104"
+    }
+  }
+}

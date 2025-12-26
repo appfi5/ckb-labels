@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe335a290f56b22951285ad9c83d85df7f4775b81e181b85bed8ad2fd68c6badd",
+    "symbol": "Joker",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Clown",
+    "icon": null,
+    "manager": "ckb1qrgqep8saj8agswr30pls73hra28ry8jlnlc3ejzh3dl2ju7xxpjxqgqqyvf3rad20vfkq9jfk6xv36th9etujgqzsc2h67u",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xf2e591617e8984801b3212212171fb9798f4d6e5960d48a9ad4062592da2ba92"
+    }
+  }
+}

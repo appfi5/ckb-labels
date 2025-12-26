@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x3f5c3c7c11d0c01e1015f29e066da1f78bae03244782486f57971d012627bd88",
+    "symbol": "AAA",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "AAA",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5ccw50e3ufch6hvj9vt53t5wctgzlzrw6qyl7ttdjagknt89k45cqqqqqql88f9v",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x553ea4493f49890c841c7ace1640bceef2516923d9f138017c65382ad5637b7c"
+    }
+  }
+}

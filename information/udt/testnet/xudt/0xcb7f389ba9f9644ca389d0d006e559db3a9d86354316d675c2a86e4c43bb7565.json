@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xcb7f389ba9f9644ca389d0d006e559db3a9d86354316d675c2a86e4c43bb7565",
+    "symbol": "ttttt",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "ttt",
+    "icon": null,
+    "manager": "ckt1qqcyvyzy40qa0ee42uzg2p6lw7vmrdjjtqtpg3avg84g3c9c8n8usqt5w368gaql485jk",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x92abb800babe50ff818efecaf473d032ece88aa257e4cb6c9d9001d8de834e47"
+    }
+  }
+}

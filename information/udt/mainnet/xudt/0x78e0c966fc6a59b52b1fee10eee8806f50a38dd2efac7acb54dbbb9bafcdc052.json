@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x78e0c966fc6a59b52b1fee10eee8806f50a38dd2efac7acb54dbbb9bafcdc052",
+    "symbol": "R-rats",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "R-rats",
+    "icon": null,
+    "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qtkxuet29htrf3e3vgrunx25y67sm00tlnjv968xulv5mk",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xd0cc95d383b3d315e74b5e2f5d8b2583ec745a47c8dbac2edc99f137b53827c9"
+    }
+  }
+}

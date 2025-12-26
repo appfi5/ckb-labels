@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x73a8431f8445c88ef83f33e62466362f8f50c9980f7108502213e9897d284997",
+    "symbol": "TTK1223",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "TTK1223",
+    "icon": null,
+    "manager": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xd2e083564139f535c3a3b08c792f21ad63305087970d447f6e301d49987d8815"
+    }
+  }
+}

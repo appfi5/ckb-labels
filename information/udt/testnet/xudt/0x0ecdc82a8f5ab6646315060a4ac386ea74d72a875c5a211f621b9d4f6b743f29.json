@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x0ecdc82a8f5ab6646315060a4ac386ea74d72a875c5a211f621b9d4f6b743f29",
+    "symbol": "VMVMV",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "dadqwedwe",
+    "icon": null,
+    "manager": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xfb5f5ef18a45c52d4966ba3cb0c77486c074d15d7ff8592afde1b721663e5302"
+    }
+  }
+}

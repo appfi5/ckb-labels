@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x547b24d0bb1a6404bee899510b2ff5d98dfa6db4db070868650b3ca884400374",
+    "symbol": "MINT",
+    "decimal": 6,
+    "description": "",
+    "operatorWebsite": "",
+    "udtType": 5,
+    "published": true,
+    "email": "dev@rivtower.com",
+    "name": "Mintwave",
+    "icon": "../../icons/testnet/xudt/0x547b24d0bb1a6404bee899510b2ff5d98dfa6db4db070868650b3ca884400374.jpeg",
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qk7q545wcpv2rwr307dzef2fe709wadjj7ulkp7rkk32sye3eq33qqqqqqqlhzgem",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xd5f8a5ec923bdaf2ed8022ddfbb38abc3a838e49a15ff9a568f2bfd4c7b81c2c"
+    }
+  }
+}

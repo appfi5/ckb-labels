@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe210f116a28509d5e421bbd709da8e9b1f3c17377555a1c06602ef14935178a5",
+    "symbol": "NAE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "NEA",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgtx2evu8r085jtkpcmfzwr4vnzzqvasrg2g99a8",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x55670268cd1d99f93d55aacd000dc69eda11e739290e8b6501c78fa7f0a90a16"
+    }
+  }
+}

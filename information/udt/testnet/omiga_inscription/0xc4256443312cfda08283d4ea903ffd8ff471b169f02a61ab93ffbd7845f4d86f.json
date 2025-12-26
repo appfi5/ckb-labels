@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xc4256443312cfda08283d4ea903ffd8ff471b169f02a61ab93ffbd7845f4d86f",
+    "symbol": "FTM",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8yam9sdmew5trttar46gxp03jpn7sv3656z6dy8",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xcc86c67ed3c7a0f419e6f555a66daf32dd522f7c983edb88a2359b0e5680ac03"
+    }
+  }
+}

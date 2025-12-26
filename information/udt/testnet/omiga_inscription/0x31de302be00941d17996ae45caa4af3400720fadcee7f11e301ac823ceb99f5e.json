@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x31de302be00941d17996ae45caa4af3400720fadcee7f11e301ac823ceb99f5e",
+    "symbol": "LOVE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "love",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy76jshcr9n757kcn353xde7ax9yzyhhnqpwn6s6",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xcd294494b03f329d3d04f261394537befcf1dc0c34841e560688c0e2bd9dab3a"
+    }
+  }
+}

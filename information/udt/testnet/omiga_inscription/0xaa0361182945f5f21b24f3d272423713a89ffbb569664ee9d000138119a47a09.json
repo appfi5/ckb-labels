@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xaa0361182945f5f21b24f3d272423713a89ffbb569664ee9d000138119a47a09",
+    "symbol": "MAKE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "MOREMAKE",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8r4dy5qu6p9szw8w7qenjr6t9dunx3dav52u69u",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xf8d394024ee1fa474113ca3f50a7e3b02c9421961adddc3e8d5e32a050e64b63"
+    }
+  }
+}

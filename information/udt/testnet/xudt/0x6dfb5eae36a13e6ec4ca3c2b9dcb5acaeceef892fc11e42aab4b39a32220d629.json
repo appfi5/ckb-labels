@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6dfb5eae36a13e6ec4ca3c2b9dcb5acaeceef892fc11e42aab4b39a32220d629",
+    "symbol": "CAR++",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGBCATTEST",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2c3cl94lnn0zmxfjzgtdl7tsd9lnmrzwsuvvjl0",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x419672439f6fb70306ada80138043ddf5eabe4beb6dc7311a6fa1acbab69e628"
+    }
+  }
+}

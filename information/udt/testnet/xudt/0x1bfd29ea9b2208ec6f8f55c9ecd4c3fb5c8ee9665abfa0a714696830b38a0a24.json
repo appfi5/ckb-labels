@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1bfd29ea9b2208ec6f8f55c9ecd4c3fb5c8ee9665abfa0a714696830b38a0a24",
+    "symbol": "people6",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "people6",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q4ruxqacvut0e7d8qxzhlv5r8w3uja0vfvqqg5mrdz06cwgk6w2s5qqqqqqnh97ku",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x5e593a0a0222f857f429c01a2a4a2688755516b32a15d21a2111b470b93ebea6"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x59e8d03b2ea28fbce781ce667234a27352571075029151988919883b4dc3624e",
+    "symbol": "T123",
+    "decimal": 1,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "abcde abcde abcde abcde abcde abcde abcd",
+    "icon": null,
+    "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgp0fjtq620tf0l9vhpc7eqrnzndl9zu9l2qqmyern6",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xf851759cb880fe575d103f093c5a2351f6d47bc0ec9d9e4c20f3bbbb69d71690"
+    }
+  }
+}

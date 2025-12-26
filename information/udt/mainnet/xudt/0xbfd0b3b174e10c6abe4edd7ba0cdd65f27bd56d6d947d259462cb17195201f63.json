@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xbfd0b3b174e10c6abe4edd7ba0cdd65f27bd56d6d947d259462cb17195201f63",
+    "symbol": "CKBTC",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "CKBTC",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqy700mv8dr80pcjjqcdeexa3v0tw2mf54hk5uv97aaqu4z4p68qqh9n9kh",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x2997b6a1bbc4c37d71039d559136459f4947c2a863865668b8711433c10a88ae"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd503f93c8e9ba7d7766802efae7f2db22e28059240a17ee8157a3a80931d2541",
+    "symbol": "ghgfgg123",
+    "decimal": 2,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "ghgfgg123",
+    "icon": null,
+    "manager": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x39fc165128ebd4101631f96dafff0d919e73e1d1dee925ac93dbd0338628aa9b"
+    }
+  }
+}

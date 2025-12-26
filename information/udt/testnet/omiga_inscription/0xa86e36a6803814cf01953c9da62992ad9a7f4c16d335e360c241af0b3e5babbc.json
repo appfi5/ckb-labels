@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xa86e36a6803814cf01953c9da62992ad9a7f4c16d335e360c241af0b3e5babbc",
+    "symbol": "AREWA",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Len 1-40, eg Binance token",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9gf5v20fpfyeaejnpmvrdpjwr7luam5uqknvdxy",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x828144646e26bdcb7b4fe5be2931c266b21b6d5274eebd050261dd4dc7277751"
+    }
+  }
+}

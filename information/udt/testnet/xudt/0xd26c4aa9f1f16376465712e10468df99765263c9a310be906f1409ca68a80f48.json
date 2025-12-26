@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd26c4aa9f1f16376465712e10468df99765263c9a310be906f1409ca68a80f48",
+    "symbol": "ccav",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "ccav",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqqu34reg09rf5snj27d7sf8d0r406hv3fu6e2xvlv304xft4cezwqvt20wu",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x3180c1e7b7633b393c1fa182691cfee1ac4915234fe050ed9cea6d5444c5845e"
+    }
+  }
+}

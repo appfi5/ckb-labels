@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x0597e075b9c30a65b4aa4b0dcdc47fb5a2d53ca33e99d42fa14c8e7c960e1436",
+    "symbol": "HWM3",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "HelloWorldM",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtnlyt7hc2d6jnj9pqdffpx4r0ht7p590gct90kj",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xa6f18263452e000536804ba019d2a141c9923e7916411b318126631011673dc9"
+    }
+  }
+}

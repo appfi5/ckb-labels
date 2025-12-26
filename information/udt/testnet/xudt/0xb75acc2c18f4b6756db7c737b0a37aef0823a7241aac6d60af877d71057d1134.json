@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xb75acc2c18f4b6756db7c737b0a37aef0823a7241aac6d60af877d71057d1134",
+    "symbol": "xTTA7",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "xUDT Token A7",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2lfkl63sxr3nastkq9ezjkfqfetfzq57cl5purg",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x5b8ca2f468f22eafb69ae61236eebd40756552a50b764bfb20a24e1e8b16488d07"
+    }
+  }
+}

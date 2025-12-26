@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xdd1eab4a14da0f129ff42676519fc6a6a13c90ba60a9a976201381ceaf2eae50",
+    "symbol": "NRVS",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Nervos Network Inscription",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8khf9vja6x6j3tynsx9yfuukxr7yd26gykq8kzd",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x20b6189b5863bef549b8f2445813a5ad3e8306aaa0e456f8fc5f1d7e58445017"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xeeda2c68c7d2a83c0e834d84cd6380d99be6f6b628e8989ed8ac3a2cacdf1f4e",
+    "symbol": "KEN",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqylawy6cedjcv23kwjnh3lj6angmc8ku9smkv0vq",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x27ee68f265e24488e91737640820156772537ba80c830091382612c4acad4882"
+    }
+  }
+}

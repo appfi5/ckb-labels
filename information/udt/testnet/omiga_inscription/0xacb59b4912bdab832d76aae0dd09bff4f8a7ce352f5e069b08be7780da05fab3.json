@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xacb59b4912bdab832d76aae0dd09bff4f8a7ce352f5e069b08be7780da05fab3",
+    "symbol": "CKBINSU",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "CKBINSU",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8hydz6puchq0tktg24dgw6jjxn9kr3duv2r52qm",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xddaee0f970762d1bf625e0c8714f916e703faac24480b9a7bfdc0fe145cc24cf"
+    }
+  }
+}

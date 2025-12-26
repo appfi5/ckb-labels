@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x3fa8ac33f2dabe3a3bdba701efa3a173410eafd37696ceb869bcc6d39400d213",
+    "symbol": "RGBPLUS",
+    "decimal": 1,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGBPLUS",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgqqqqqpgn33u9zq8rcrwt7kxamr335lyya9x7vhgvqn40a2jveg8w5wcekf8eehy",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xa3f6a127338c2191034d27cc54cd7c00a3c1d0ee7fce8fe15a73877efdb943c1"
+    }
+  }
+}

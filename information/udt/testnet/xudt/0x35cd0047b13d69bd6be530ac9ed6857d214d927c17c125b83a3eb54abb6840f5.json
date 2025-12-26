@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x35cd0047b13d69bd6be530ac9ed6857d214d927c17c125b83a3eb54abb6840f5",
+    "symbol": "HIBYE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "HiBye",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxdq77tfffk2ndc93dqptehkgev6y0zzqun3ttam",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xf1dac143dd54904f3edf68aec4d306d519aa7f9025790f2c2aafc69f1a78dc0f"
+    }
+  }
+}

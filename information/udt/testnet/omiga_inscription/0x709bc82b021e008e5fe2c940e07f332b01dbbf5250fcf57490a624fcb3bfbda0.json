@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x709bc82b021e008e5fe2c940e07f332b01dbbf5250fcf57490a624fcb3bfbda0",
+    "symbol": "ZELDA",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "zelda",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqydryj9tlpj0cddcdylka2fz6le8fk57a5cnjfqw",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x8b322e5069f68e67b4ba7dd61a0d0d5917d81a376ee5835f4bf53b1655a47e66"
+    }
+  }
+}

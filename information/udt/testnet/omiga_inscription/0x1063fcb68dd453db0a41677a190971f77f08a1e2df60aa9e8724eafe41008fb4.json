@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1063fcb68dd453db0a41677a190971f77f08a1e2df60aa9e8724eafe41008fb4",
+    "symbol": "T110",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq85apn2vnk482lxg8p3uk30r78srnc0aqvyssuun",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xb5a237c2a4704852a217a91ed105063d08dee6e0bc004d2842cb613a7629fce6"
+    }
+  }
+}

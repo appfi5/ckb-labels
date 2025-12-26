@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x3be4782ab5fcf65a51d34e32e86a037f2ce9caec5639dc911d241369cc2d5ce4",
+    "symbol": "LAND",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Chaosland",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3ju7chnung0kcyst8xmtwh087wztyn0hj8ssp4j8skafsd83dtpsqqqqqq4jt97e",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xde8dd0d6f19a91ee6fb8fac8c8c1fa51efbf6e1ec91925faa507b187c74aa538"
+    }
+  }
+}

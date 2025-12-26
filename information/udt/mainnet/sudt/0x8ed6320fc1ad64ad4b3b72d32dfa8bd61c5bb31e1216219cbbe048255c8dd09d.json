@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x8ed6320fc1ad64ad4b3b72d32dfa8bd61c5bb31e1216219cbbe048255c8dd09d",
+    "symbol": "UNI",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "UNI",
+    "icon": "https://cryptologos.cc/logos/uniswap-uni-logo.svg?v=013",
+    "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqchlf5xgdn70phzppj99mzlgumxjr9p4q5fh5ccee0nda4dn0uxxsz2sqqqqrq7p3vcunsdpsvyur2ep4v9rr2cnxx9zrzdekxfrrjv34gfzyz3rygv6ryvp3gcunsdq64w2y9",
+    "type": {
+      "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+      "hashType": "type",
+      "args": "0xb52927f7f444eb178461d0fa8b62b67c4a043add18e36248c7e9734d8d077a7e"
+    }
+  }
+}

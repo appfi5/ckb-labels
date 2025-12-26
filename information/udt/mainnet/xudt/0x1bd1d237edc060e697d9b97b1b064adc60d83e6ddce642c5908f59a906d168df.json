@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1bd1d237edc060e697d9b97b1b064adc60d83e6ddce642c5908f59a906d168df",
+    "symbol": "bngo",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "bingo",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqqyeuxj9vwcwc9rmjy65d2tk4da32lnlpxn40rzynlyw6ys2pnzhcx4va5u",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xc36bb72c9e658b7a52c4754ef762658f01bcb2482042dc7bd744ac03b1e95f85"
+    }
+  }
+}

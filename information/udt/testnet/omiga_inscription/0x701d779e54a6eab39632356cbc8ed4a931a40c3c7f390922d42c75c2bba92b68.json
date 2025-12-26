@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x701d779e54a6eab39632356cbc8ed4a931a40c3c7f390922d42c75c2bba92b68",
+    "symbol": "C789",
+    "decimal": 1,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgpx6pt86437j3ejhm30sgk79mh0v7rqhewqq7ce8sm",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xa159b36cc506193aa72390181bba4128481a4c0aaeb170957eae969f17b23d31"
+    }
+  }
+}

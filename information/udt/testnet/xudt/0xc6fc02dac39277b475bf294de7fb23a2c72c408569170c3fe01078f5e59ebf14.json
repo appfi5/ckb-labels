@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xc6fc02dac39277b475bf294de7fb23a2c72c408569170c3fe01078f5e59ebf14",
+    "symbol": "Acoin",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "A",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqff0ale4x59vhg8h6s6mpqx5ws42s2mj7sflf3ay",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x9990d0e3d1ad3a8a50becc9a9cfaa8dc6e8d229e64f5c20255be9fa2511e5f01"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x4469bf5b3a3630c443ea2a121dea8458e17644d3babde170265d0b62b08cd586",
+    "symbol": "SOLS",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Solana Network",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxx400vgr9p0ghnvqvtwnpar23xj4glk0v3c3s2s",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xba075398ae08fabadefa4e696215d3f6f153ed53cf2878c4b5c53ada7f898ea6"
+    }
+  }
+}

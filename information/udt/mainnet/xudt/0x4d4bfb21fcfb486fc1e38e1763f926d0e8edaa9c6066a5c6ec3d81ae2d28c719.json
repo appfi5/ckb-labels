@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x4d4bfb21fcfb486fc1e38e1763f926d0e8edaa9c6066a5c6ec3d81ae2d28c719",
+    "symbol": "meme",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "PEPE",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqqg6mhfxgxryw2z549xygf6r4nee0sv5mdfdv99mk0tw3kh47twsj2nrw8k",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x49f111a2ade7013dcae22ac0f07a2e165270579f1fe4651a55a20b9411e81cb9"
+    }
+  }
+}

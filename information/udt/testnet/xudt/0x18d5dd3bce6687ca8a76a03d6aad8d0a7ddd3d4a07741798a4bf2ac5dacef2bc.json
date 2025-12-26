@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x18d5dd3bce6687ca8a76a03d6aad8d0a7ddd3d4a07741798a4bf2ac5dacef2bc",
+    "symbol": "zzzz1",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "zzzz1",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqp8s8h95k2ksgnc7wqm8qyavxk7e5v6vs56mnzn9ka34u3py896ql52rkyz",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x625c1db5d6ff187f722427d3a2f32493183cea07b1e51f94fdfea1fc872dbf4b"
+    }
+  }
+}

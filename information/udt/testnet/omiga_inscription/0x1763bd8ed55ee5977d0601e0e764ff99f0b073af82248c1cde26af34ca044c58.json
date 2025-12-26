@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1763bd8ed55ee5977d0601e0e764ff99f0b073af82248c1cde26af34ca044c58",
+    "symbol": "FFDS",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "2323",
+    "icon": null,
+    "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgp2m44wqpk3q4n6h3p4zlrre5aw5x9unytqq4fpsgr",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x68f1e315ad4bfb9847685b46b0a12e05b3eaad171554ae1b032d22481835ac12"
+    }
+  }
+}

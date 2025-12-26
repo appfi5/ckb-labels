@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd5573780e8605fcab76b372121fa4536f25fac9609aecccf30842b1443d987b5",
+    "symbol": "TEST",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "TEST_Jump",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgqqqqqqgmfwlwsfw885e24nlsupsc9k0j7hjernukveffhryzhar2zdv0augre0e",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xa5c9d316aee482d5762b2cd84ca9c04f94fef1eaeb0f15594ef2d3a14379600a"
+    }
+  }
+}

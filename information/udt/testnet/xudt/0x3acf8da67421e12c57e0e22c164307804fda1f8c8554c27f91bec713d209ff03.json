@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x3acf8da67421e12c57e0e22c164307804fda1f8c8554c27f91bec713d209ff03",
+    "symbol": "RTT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGBPP Test Token",
+    "icon": null,
+    "manager": "ckt1qzqk3sl9anpx00n8m2ykppsynn8pga8zu88a6trz36792stw0yq27qgzqqqqq2h82mg5lmrxh7gkr37cnjn80nhw44nnduukcy2ewx0dynpkphh25m536l",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x13b4fe7184a5a8ac48628cf3e7dd12acd07a567a8ccd80011b3251715f3642d7"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x27ab2471d79c4953a614a7d60d0ad1d376e8110a6ac6046f4bd6b012533bdf2d",
+    "symbol": "TANG",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "THE WIND RISES",
+    "icon": null,
+    "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qn8yn6ua77kcp5z3ufwcvpzq4zwe70vckhz0ka04pwcu5ft35nhj5qqqqqqnzj3lp",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x12a0c80e8faa43790cce0d83f28c15411f529b1b7b190b0f73e267f49179b214"
+    }
+  }
+}

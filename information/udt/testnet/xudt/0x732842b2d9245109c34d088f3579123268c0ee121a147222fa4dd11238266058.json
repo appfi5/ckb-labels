@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x732842b2d9245109c34d088f3579123268c0ee121a147222fa4dd11238266058",
+    "symbol": "DDyR4",
+    "decimal": 6,
+    "description": "zjcaee-record",
+    "operatorWebsite": "http://app.rivtower.com",
+    "udtType": 5,
+    "published": true,
+    "email": "jianglei@rivtower.com",
+    "name": "DDyR4",
+    "icon": "",
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qk4dnugnv2wsfwg56zguve7t80fdhma9m0zz3ks4urp4klyfqlpfuqqqqqq0zfq4j",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xacf9fcc836d58a57d652d7a80c48f3b215f94b710243e2c9f52463875cc921bb"
+    }
+  }
+}

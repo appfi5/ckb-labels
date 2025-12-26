@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x273f3fea1335aa8555a53c3817aa17f1ce2db6cc37c6345407ba590b57081f3f",
+    "symbol": "IOP2",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Poi",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhkhhh37vd3dljgn9yg9qyjspqnp0al2w4n32kcc7eyrrc0k3nwqsqqqqqqtk08hx",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x3cfa96e7e007127395ef7cbac2f1079b768e4a5ae376d4dbc935f27569aa2838"
+    }
+  }
+}

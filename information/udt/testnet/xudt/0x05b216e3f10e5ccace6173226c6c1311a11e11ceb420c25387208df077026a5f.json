@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x05b216e3f10e5ccace6173226c6c1311a11e11ceb420c25387208df077026a5f",
+    "symbol": "CDE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "ABC",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2uwssxhaxzemw2y7pz9jpjd93yy8gtkjgv98pja",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xafc1672d84d568b1432219f3d1834bb7216c2ecaa094146bf0dbe33cb60dd0fe"
+    }
+  }
+}

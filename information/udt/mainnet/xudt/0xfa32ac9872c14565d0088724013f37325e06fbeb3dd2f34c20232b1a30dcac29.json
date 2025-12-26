@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xfa32ac9872c14565d0088724013f37325e06fbeb3dd2f34c20232b1a30dcac29",
+    "symbol": "BONDS",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "BONDS",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqp22un275zpw23qj6w66w3ce6wm83yhv95l0ua3lhf2s79hjwupw034xs7v",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x61d7e35c773c9a4edaf8d85f68d20c86b4db8740d0772c3f03130d42c47bbe59"
+    }
+  }
+}

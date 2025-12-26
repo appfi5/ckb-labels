@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe5e9ca3c3533e5347500ccbfa4f6f4b461313065a2c37668af185f50f64aa859",
+    "symbol": "GEMs",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "GEMs",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqpgtc7mefxygv0ma32lcapv3ghanhgfz3p5dtawzh5nvvqhy248n56f4gke",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x5bde346149cfce4b4b0487481d474a3bde0a6d36db835f8e06b29190ad8e0add"
+    }
+  }
+}

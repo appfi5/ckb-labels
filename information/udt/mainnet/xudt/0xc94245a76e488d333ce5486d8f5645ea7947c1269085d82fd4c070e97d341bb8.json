@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xc94245a76e488d333ce5486d8f5645ea7947c1269085d82fd4c070e97d341bb8",
+    "symbol": "RGBB+",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGBB+",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqpkfx5jhewnj4rxxpsgzfae6wknwsvxhau5saacyt9g3t9sc74jldc0yzsh",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xe8ebb75b84c6c199e9e952e3c4251e744f51270b2e7d304bd39d3fd079696c40"
+    }
+  }
+}

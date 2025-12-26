@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x4132f14e8ffb4038b9390a7f5675a54cda774a91e7e923a534c3601c434154c0",
+    "symbol": "LP-UTXOSwap V1",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgythph8kxwqmq20hkusmgzvjesutae3rxgqqy9gqqd",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xac3d918b0531a172ed777618618d580a71fd143ec9922c8cbb46d515f6d5723900000040"
+    }
+  }
+}

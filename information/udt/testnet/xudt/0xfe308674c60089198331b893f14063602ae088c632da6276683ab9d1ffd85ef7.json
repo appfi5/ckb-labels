@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xfe308674c60089198331b893f14063602ae088c632da6276683ab9d1ffd85ef7",
+    "name": "DMZ",
+    "symbol": "dmz",
+    "decimal": 8,
+    "description": null,
+    "icon": "",
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq44lzm4p7d88xmjm2a5tz7z40y0tj3ecnh8uzlqxnjeu60xhmf98qef9adzckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq44lzm4p7d88xmjm2a5tz7z40y0tj3ecnh8uzlqxnjeu60xhmf98qef9adz",
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xcf5d5b02bccc46878f0cac04581edc24c02eb875a00bb6aa970bd5419dff9247"
+    }
+  }
+}

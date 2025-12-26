@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x53d05b43f0b82c6bd3a66673b272147b2c1b4fcb8089159c3fc0cb6fe52ec5b7",
+    "symbol": "HULU",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Hul",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqydhv9umzzrc9ghtyvppsgmhp868y49l9q7utrus",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xe7dbc1b8c840bf655452b09549f48ddd991dacec2a02065dd7911d6da9d0779b"
+    }
+  }
+}

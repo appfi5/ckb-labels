@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x7322b414f959b96f179730694e53a658cd4bbf8eb8807780d7241670de10897c",
+    "symbol": "FLASHPURR",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "FLASHPURR",
+    "icon": null,
+    "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhkzwrq6hhcsju4ru8cf2kcetcyq8vepfrqfqjl86mfvf0rwpn8guqqqqqqs38q93",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xe446ee157aa19ca033598c8cdd0e64421ac91dbeb5b25f89eedd218daa4f442e"
+    }
+  }
+}

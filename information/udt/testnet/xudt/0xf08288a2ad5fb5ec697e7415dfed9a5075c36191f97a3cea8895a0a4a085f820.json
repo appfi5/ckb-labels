@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xf08288a2ad5fb5ec697e7415dfed9a5075c36191f97a3cea8895a0a4a085f820",
+    "symbol": "ATDE",
+    "decimal": 6,
+    "description": "",
+    "operatorWebsite": "",
+    "udtType": 5,
+    "published": true,
+    "email": "dev@rivtower.com",
+    "name": "ATDE",
+    "icon": "../../icons/testnet/xudt/0xf08288a2ad5fb5ec697e7415dfed9a5075c36191f97a3cea8895a0a4a085f820.jpeg",
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qj26h643y6h9csvfsx50k52lzewej2rrfqa5wltpu73qlcxqg8rcuqqqqqq9atsuy",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xac86f14380437617fc0016361a2a1bcc888e2bc975166b57cba6782bfc393715"
+    }
+  }
+}

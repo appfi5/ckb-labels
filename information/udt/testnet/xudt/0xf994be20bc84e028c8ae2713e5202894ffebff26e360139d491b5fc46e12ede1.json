@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xf994be20bc84e028c8ae2713e5202894ffebff26e360139d491b5fc46e12ede1",
+    "symbol": "DLB",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "DLB",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjr67h5hp0qky850t9wawsmtfks88se8p04m2pcl35jqx5yslj345qqqqqqky9y07",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xe8109a0f7e3dc3872e7aacde9b8ab01f6c118c19ea97563ddfc706bf8aef4543"
+    }
+  }
+}

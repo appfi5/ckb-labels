@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe1b1cf952cfffe2b0dcee3c90c8c0515abf5b1976362ee5563d25964922b4ab7",
+    "symbol": "abcd",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "abcd",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqp2lqz447endlluvlz9q93c2p35h40tytn63mupq7hczwypcvzs5fd479pl",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x54194f014f30578c5380dd2bb2814c75f237922eacfad1b0768c9d1f26d3007c"
+    }
+  }
+}

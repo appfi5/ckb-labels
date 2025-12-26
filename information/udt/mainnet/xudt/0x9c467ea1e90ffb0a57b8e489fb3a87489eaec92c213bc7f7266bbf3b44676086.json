@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x9c467ea1e90ffb0a57b8e489fb3a87489eaec92c213bc7f7266bbf3b44676086",
+    "symbol": "HHub",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "HueHub",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqq8hsyh9s0p662qcht2k55qg0lnk8ent55d2m73pudfd7txrwsz7ra4q3se",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x91a08ad9f052de5d296d085f3acc9ee0c07c789d003829c10af861ad73761399"
+    }
+  }
+}

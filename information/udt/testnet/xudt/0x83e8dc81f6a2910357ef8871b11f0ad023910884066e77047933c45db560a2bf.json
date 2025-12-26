@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x83e8dc81f6a2910357ef8871b11f0ad023910884066e77047933c45db560a2bf",
+    "symbol": "cherry",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "cherry",
+    "icon": null,
+    "manager": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x69d7ad9c4bb4019bdcbace3f316a690957b3fef7020d1385a9fc98e1062b8212"
+    }
+  }
+}

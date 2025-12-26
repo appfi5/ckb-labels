@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x0db779e5cc1eb000207b2b92d7c32a759f5a772d58df714283bde812f689a169",
+    "symbol": "HKDOL",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "HongKongDoll",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgyqqqqp8v6tj7ca2tvpgggta5t33t8pvlampy469ucskv7mwxxclr6yzedhayrk2",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x9e0175cf7511ec91c96f7feb8dda3ca75d5ee69fff6b1e3f042a517ef353391c"
+    }
+  }
+}

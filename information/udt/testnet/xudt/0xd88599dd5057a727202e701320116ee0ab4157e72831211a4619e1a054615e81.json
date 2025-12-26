@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd88599dd5057a727202e701320116ee0ab4157e72831211a4619e1a054615e81",
+    "symbol": "feetest",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "feetest",
+    "icon": null,
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqklgr8s5d9d0wk6hzfp67waks3k3k8ft5cfsvyh4c9qeuvhzsm60g7g9huw",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xecb480ec4b80a47acada944be5b30c6c5872c73778c4e660a888f6142beab49a"
+    }
+  }
+}

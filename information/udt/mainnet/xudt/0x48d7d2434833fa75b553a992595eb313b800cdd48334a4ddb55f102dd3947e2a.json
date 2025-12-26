@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x48d7d2434833fa75b553a992595eb313b800cdd48334a4ddb55f102dd3947e2a",
+    "symbol": "RGBS",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGBS",
+    "icon": null,
+    "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvwg2cen8extgq8s5puft8vf40px3f599c2ent8l",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x7de82d61a7eb2ec82b0dc653e558ba120efcbfbb44dac87c12972d05bf250653"
+    }
+  }
+}

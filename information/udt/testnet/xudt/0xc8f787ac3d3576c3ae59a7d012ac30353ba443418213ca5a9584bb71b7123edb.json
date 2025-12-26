@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xc8f787ac3d3576c3ae59a7d012ac30353ba443418213ca5a9584bb71b7123edb",
+    "symbol": "people5",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "people5",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkw5xezfxk56upxdy2mjt2fyalrffk3xp008svaujg4xgwhnahmfcqqqqqq09kyru",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xac291e95cfb29ef62c40d50482f2c7f30788ecc52ac970bbcf182680039600c1"
+    }
+  }
+}

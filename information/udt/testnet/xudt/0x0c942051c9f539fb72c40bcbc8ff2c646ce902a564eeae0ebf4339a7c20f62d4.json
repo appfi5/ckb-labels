@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x0c942051c9f539fb72c40bcbc8ff2c646ce902a564eeae0ebf4339a7c20f62d4",
+    "symbol": "G",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Green",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2qxnhj4jtzysderwnk8gy6smf4esvw2ncxwvjg4",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x2902501a35b926d81642262bf2624db4a58b8c9c1669ffdb703565f8be283228"
+    }
+  }
+}

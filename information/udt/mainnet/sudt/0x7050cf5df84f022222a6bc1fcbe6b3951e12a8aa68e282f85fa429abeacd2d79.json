@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x7050cf5df84f022222a6bc1fcbe6b3951e12a8aa68e282f85fa429abeacd2d79",
+    "symbol": "CPAX",
+    "decimal": 8,
+    "description": "PAX is a digital dollar. Like other crypto assets, it can move instantaneously, anywhere in the world, any time of any day, and it’s programmable. Unlike other crypto assets, PAX is stable. It is backed 1:1 for the dollar and it’s issued by the Paxos Trust Company, so the funds are carefully protected, audited and regulated.  CKB-PAX is backed 1:1 with the official ETH-PAX, endorsed by Bitpie.",
+    "operatorWebsite": "https://bitpie.com/",
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "Paxos Standard (Bridged)",
+    "icon": "../../icons/mainnet/sudt/0x7050cf5df84f022222a6bc1fcbe6b3951e12a8aa68e282f85fa429abeacd2d79.png",
+    "manager": "ckb1qyqygd9swdkc76cu3mm3mhm6tmqsv6xk0ygsvm44kz",
+    "type": {
+      "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+      "hashType": "type",
+      "args": "0xa92deeb134132d493d340f2cc4e7b62f930bcd037f0fb7f06b48f931f36f9fc2"
+    }
+  }
+}

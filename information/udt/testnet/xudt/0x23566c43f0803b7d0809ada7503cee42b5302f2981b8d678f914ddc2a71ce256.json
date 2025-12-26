@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x23566c43f0803b7d0809ada7503cee42b5302f2981b8d678f914ddc2a71ce256",
+    "symbol": "mama",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "baba",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfuxdlx5lfsg5smtz3x7nq68xqknetrwpqz0v69v",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x02960e3558022e15e0d6010631e4364cb8d9e5579202f86ea9f9b12ac91ec47f"
+    }
+  }
+}

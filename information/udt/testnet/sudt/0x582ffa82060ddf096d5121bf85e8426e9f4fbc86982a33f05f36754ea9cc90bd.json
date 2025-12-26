@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x582ffa82060ddf096d5121bf85e8426e9f4fbc86982a33f05f36754ea9cc90bd",
+    "symbol": "TT7",
+    "decimal": 3,
+    "description": "Description_TT7",
+    "operatorWebsite": "http://tt7.com",
+    "udtType": 0,
+    "published": true,
+    "email": "rauxbc@gmail.com",
+    "name": "Name_TT7",
+    "icon": "",
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0a6ct7w8h58daj8qdkuh3x3az9wnaymlc6q4jr8",
+    "type": {
+      "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+      "hashType": "type",
+      "args": "0xd0f6795654aef2574e7fdeaa45735d97d709a035a61cf64aaf0b0e86cbbf32ec"
+    }
+  }
+}

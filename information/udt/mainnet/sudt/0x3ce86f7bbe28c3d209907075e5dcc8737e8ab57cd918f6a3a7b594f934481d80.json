@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x3ce86f7bbe28c3d209907075e5dcc8737e8ab57cd918f6a3a7b594f934481d80",
+    "symbol": "SFP|bsc",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "Wrapped SFP (ForceBridge from BSC)",
+    "icon": "https://cryptologos.cc/logos/safepal-sfp-logo.svg?v=017",
+    "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqtfudy7ndgjymk7020nj67qhjutzs5t20jeaks6smuk99jmrsr4msz2sqqqqrq7zyxsc5v3rzxqe5ycfcxsmnvvnygsmrvcfsv9nrzcfkgvur2dpsgerrzcnpx4jxvcs78f2p0",
+    "type": {
+      "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+      "hashType": "type",
+      "args": "0xc66b8a7f4869272e1fd0565535cb444c319b6baafd386c5857f08d87e396cfd5"
+    }
+  }
+}

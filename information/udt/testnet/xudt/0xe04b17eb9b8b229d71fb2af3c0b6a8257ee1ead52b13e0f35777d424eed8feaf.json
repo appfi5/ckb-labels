@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe04b17eb9b8b229d71fb2af3c0b6a8257ee1ead52b13e0f35777d424eed8feaf",
+    "symbol": "DETY",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "DETY",
+    "icon": null,
+    "manager": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xb1b9a207eee2db10a09bcbd2a436e9fc9cdfce00467df3d0c569e1a23c8410d4"
+    }
+  }
+}

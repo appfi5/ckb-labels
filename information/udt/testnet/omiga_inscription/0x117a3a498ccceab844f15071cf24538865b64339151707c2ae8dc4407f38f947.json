@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x117a3a498ccceab844f15071cf24538865b64339151707c2ae8dc4407f38f947",
+    "symbol": "CCIP",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "CCIP",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqymks25wwrstzwapm6hwlyx4z8gvsds5gu9j40tv",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x985079d233f1c3f5795477c3d3b1920f4be701e2c0cab9aaaef76bc734fef4da"
+    }
+  }
+}

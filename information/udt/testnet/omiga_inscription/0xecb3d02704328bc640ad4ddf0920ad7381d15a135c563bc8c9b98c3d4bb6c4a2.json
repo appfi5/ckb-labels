@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xecb3d02704328bc640ad4ddf0920ad7381d15a135c563bc8c9b98c3d4bb6c4a2",
+    "symbol": "43",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Binance USD",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqypkqx2llypfkk95j65eguhflr9htpxtegp9rdm2",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x525e1c77e50913f92c7952dcb869cabf0b972971842b987c92d0d90ade607a6d"
+    }
+  }
+}

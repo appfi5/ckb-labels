@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xa0f08026b3abcff2429b0f763da109b47b49bbf145f1c81b7dd77a046bbfd62f",
+    "symbol": "michael-test-1",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "michael-test-name-1",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2fnngkdjt3wxrs8p0ww36f55pn0fxqyzccftufd",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xb23473adb427264a47e86ace3f186c7dc959969c908f44f889f4af33fdf8105801"
+    }
+  }
+}

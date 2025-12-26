@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x00078fc9836b06946acfbb981b6a057c5bc60f6630537b004b3afa72814b2263",
+    "symbol": "CAPP",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "CatPeePee",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf4uflkvuztppd8rx95kcqepmcwe2dagvgcddta5",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xe8ccab7a579a963c439d6304ac7cdd94ed9428085e46cd884adddda993ca1ee3"
+    }
+  }
+}

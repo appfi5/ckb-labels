@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xa5091ce8634e6cea63631b51852470d29c2d076a52162ae03eae3b3f20b584b9",
+    "symbol": "Crab",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Crab",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgwqqqqqxtw2c6xu0ns66jpss8tp08k80ggwz6sew0tg2ctg6m2pehprkg60saw2a",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x4a8102543083f01b94f891472a82a560ebeeb7a5410115b73541fb5227f3a552"
+    }
+  }
+}

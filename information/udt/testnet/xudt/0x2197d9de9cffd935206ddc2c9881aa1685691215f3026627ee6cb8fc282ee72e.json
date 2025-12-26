@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x2197d9de9cffd935206ddc2c9881aa1685691215f3026627ee6cb8fc282ee72e",
+    "symbol": "dbca",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "dbca",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqqvcf4elj9acxjzg7x9q4xvxzm7qf6yq74g2unkahn23rmxmetc36krrv7j",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xb8e7d848e260cf285902aa1bfd38d2bc840a0b6e634637ed1b9c9a62ffbff800"
+    }
+  }
+}

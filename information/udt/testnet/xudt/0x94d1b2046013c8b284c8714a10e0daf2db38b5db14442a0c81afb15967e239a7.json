@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x94d1b2046013c8b284c8714a10e0daf2db38b5db14442a0c81afb15967e239a7",
+    "symbol": "XTT20",
+    "decimal": 8,
+    "description": "Test xUDT description information",
+    "operatorWebsite": "https://www.magickbase.com",
+    "udtType": 5,
+    "published": true,
+    "email": "lujin@magickbase.com",
+    "name": "XUDT Test Token20",
+    "icon": "../../icons/testnet/xudt/0x94d1b2046013c8b284c8714a10e0daf2db38b5db14442a0c81afb15967e239a7.jpeg",
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdvgak96dj3sqs2j8dz2zh0t4858kqnuwcl7saeq",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x78f569b97d6a984edd734f3304bf3581d45b5be7338ebb7d840247aab72b896020"
+    }
+  }
+}

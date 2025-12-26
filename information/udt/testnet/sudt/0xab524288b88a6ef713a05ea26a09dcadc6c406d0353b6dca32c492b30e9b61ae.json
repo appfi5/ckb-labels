@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xab524288b88a6ef713a05ea26a09dcadc6c406d0353b6dca32c492b30e9b61ae",
+    "symbol": "txr",
+    "decimal": 3,
+    "description": "xrb",
+    "operatorWebsite": "www.txr.com",
+    "udtType": 0,
+    "published": true,
+    "email": "simonsage.tl@gmail.com",
+    "name": "txr",
+    "icon": "",
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgfll7ltphp84wlxulv3vczzt9z5x9dwnsqracel",
+    "type": {
+      "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+      "hashType": "type",
+      "args": "0xcd26c63b9beed42fa3f660c613efb3b101048a5689db93f21f17da245f78a1a8"
+    }
+  }
+}

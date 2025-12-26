@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xeb268de801609767ccea22e48ba6960a6f965bdea82f14355f1ddc19606818c7",
+    "symbol": "CELL",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "@nomadland.io",
+    "icon": null,
+    "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0wdg9eahzevcl80p50wyhfz0yvxyuvtqc37ealw",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x0fc7780b693ff5c80e7ead241d206b31734bc1fc4f75d61550fea9b1e453d7e8"
+    }
+  }
+}

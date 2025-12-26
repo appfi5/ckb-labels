@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x788c79191970e313693351531930b46a708b1ca58f6d414ddc8a8827afb554ff",
+    "symbol": "GLIA",
+    "decimal": 8,
+    "description": "Glias dex test token",
+    "operatorWebsite": "",
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "Gliaswap Test Token",
+    "icon": "../../../icons/testnet/sudt/0x788c79191970e313693351531930b46a708b1ca58f6d414ddc8a8827afb554ff.png",
+    "manager": "ckt1qyqppsrmkue95prhy4faekhqg7re5zxh8czq8w7sdn",
+    "type": {
+      "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+      "hashType": "type",
+      "args": "0x6fe3733cd9df22d05b8a70f7b505d0fb67fb58fb88693217135ff5079713e902"
+    }
+  }
+}

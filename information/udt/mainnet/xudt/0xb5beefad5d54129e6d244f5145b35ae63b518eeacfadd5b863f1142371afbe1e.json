@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xb5beefad5d54129e6d244f5145b35ae63b518eeacfadd5b863f1142371afbe1e",
+    "symbol": "CARE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "CARE",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqg9qqqqp805qf4rqm476chdezre3up5nkkgdzjeudwgj3j8lntld5gwgrgud8kvzu",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x66c88ee44e8f0c095ccbfb85983c0aac7fc13a55c5ddafaa21f5fbfd97470f44"
+    }
+  }
+}

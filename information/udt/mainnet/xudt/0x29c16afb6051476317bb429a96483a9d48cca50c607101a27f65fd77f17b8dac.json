@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x29c16afb6051476317bb429a96483a9d48cca50c607101a27f65fd77f17b8dac",
+    "symbol": "R-core",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "R-core",
+    "icon": null,
+    "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qtkxuet29htrf3e3vgrunx25y67sm00tlnrdaex2hvmeq0",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xac51170424de7ba1258638d1c940bdad5be2a94b02b4e3f07b9b606010cfb1ad"
+    }
+  }
+}

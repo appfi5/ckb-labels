@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6d7dd4497d1ef095644e422d30b2456cfe32c6469346c77752a4d6b56f432a73",
+    "symbol": "JDI",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "JoyID Dex Test Inscription",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8ephekfd5ss89rdx7s7azpqz8m4xz5j5u8t07zv",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xc625c4ac0ba3ece5886d04958c3fc2d5558a21841c03577fad2d7c46e5b2b2b9"
+    }
+  }
+}

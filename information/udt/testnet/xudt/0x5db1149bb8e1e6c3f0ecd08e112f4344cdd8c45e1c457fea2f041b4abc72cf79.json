@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5db1149bb8e1e6c3f0ecd08e112f4344cdd8c45e1c457fea2f041b4abc72cf79",
+    "symbol": "TEST",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "test for ccc",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkm6xfnmmp3n9j2hpns643jpky8y6q8wkzd9vku749wnda6mrq77qqqqqqqa3aqg6",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xf0fab3b9c8f132bc3b1e3caf95c7fa3606472e92ac194ae0c3216a7f50930f8c"
+    }
+  }
+}

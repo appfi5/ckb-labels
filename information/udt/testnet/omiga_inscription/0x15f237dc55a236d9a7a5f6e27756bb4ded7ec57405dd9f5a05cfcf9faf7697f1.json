@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x15f237dc55a236d9a7a5f6e27756bb4ded7ec57405dd9f5a05cfcf9faf7697f1",
+    "symbol": "OKSD",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Oksobatdungu",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqywaxgsqwjhyq3cfdh8seztxz4m2ac9m75ea22xr",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xdf5816cbd7bc1d8cd5638495d9bed3b129eabf36814f00b0bc12eb39045ef298"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd5c23d048828173db17d5abf13a8f03f6ec533986d28ee34e14339c00e2320fa",
+    "symbol": "people2",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "people2",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhtx8uw9npq4uytuwx8pa7vp22dqw6aytsfjq364n6qmzahw6rn2qqqqqqqdhp5xz",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x4c0a33673518be63cc933412b82ad3c6bf9e0ac3310869c7624a74d438fa621c"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xf55aff8753528f88229edef8f9c16fe04b895834b2ab64e78ae623921b468666",
+    "symbol": "XTBT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "XUDT Test B Token",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0ym3wv6squne4jky8vmwm2kecvpfkffdcm6qdd8",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xb8b342c3274c10cd53a42701f596a800c3510bc51480a65c3d53339dae494183"
+    }
+  }
+}

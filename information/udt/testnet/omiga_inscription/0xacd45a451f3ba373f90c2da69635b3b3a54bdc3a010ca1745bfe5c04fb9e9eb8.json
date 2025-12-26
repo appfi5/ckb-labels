@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xacd45a451f3ba373f90c2da69635b3b3a54bdc3a010ca1745bfe5c04fb9e9eb8",
+    "symbol": "NUT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Nervos Nuts",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy77vr6ukgh289vhjmx0j77jt7nt75qfzgltm2l5",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xbb8a91dbcee7f01a4f0c7023e3522c37bd9c0e3761edd2c7962578cc9aedaee1"
+    }
+  }
+}

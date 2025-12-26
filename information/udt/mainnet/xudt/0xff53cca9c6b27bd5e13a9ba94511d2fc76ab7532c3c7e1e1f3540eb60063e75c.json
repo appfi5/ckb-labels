@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xff53cca9c6b27bd5e13a9ba94511d2fc76ab7532c3c7e1e1f3540eb60063e75c",
+    "symbol": "CYMK",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Cyan-Yellow-Magenta-blacK",
+    "icon": null,
+    "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtsz8r2q67c5acufw0erxnhrdgtu0npkdq6njxn2",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x282671a611cf9ee27ac3d42f6d130e3f7f48f75aae252b99cf8da42af8f3fdf3"
+    }
+  }
+}

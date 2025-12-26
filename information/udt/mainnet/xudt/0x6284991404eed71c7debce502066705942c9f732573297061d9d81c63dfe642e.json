@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6284991404eed71c7debce502066705942c9f732573297061d9d81c63dfe642e",
+    "symbol": "ISOM",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Isomorphism",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgyqqqqqv2wpy4c2rdvpnpauu6rg3qnx8ltaddahaa5a4wfspe9wx8jhzu7g62n8s",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xc2da59da36a61d9da36fcdbe2b8c39880b02594a0890ccde0f8558ee6dd9262d"
+    }
+  }
+}

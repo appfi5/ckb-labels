@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x42dfd2f471d2efb64dde745e0f9d516d25b7db94fd03468fb4a69613f876a6b3",
+    "symbol": "TT5",
+    "decimal": 0,
+    "description": "Token prueba 5",
+    "operatorWebsite": "http://pruebatt5.com",
+    "udtType": 0,
+    "published": true,
+    "email": "nashertmc@hotmail.com",
+    "name": "Token Test 5",
+    "icon": "",
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtyvc4vnwfsenfur5hx0lq6ajgqne3wgnqwkdgpc",
+    "type": {
+      "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+      "hashType": "type",
+      "args": "0xeb3b522d0349150f7dd777f57aca6b094005eb1780c57ac14d6c9be839740325"
+    }
+  }
+}

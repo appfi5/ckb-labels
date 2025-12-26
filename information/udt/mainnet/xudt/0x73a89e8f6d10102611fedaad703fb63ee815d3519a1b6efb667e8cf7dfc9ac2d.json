@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x73a89e8f6d10102611fedaad703fb63ee815d3519a1b6efb667e8cf7dfc9ac2d",
+    "symbol": "Pups",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Pups",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqp7syr780ecmy8jtu8anj23auz0zj9jtvvydj9zu5xhk02gpfa3pktkj386",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x91cae1fdfa93b33df73b83d958b1c792b642a13efe7541fe4587878fa47b8529"
+    }
+  }
+}

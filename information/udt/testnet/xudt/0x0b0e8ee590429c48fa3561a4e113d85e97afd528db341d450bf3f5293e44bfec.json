@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x0b0e8ee590429c48fa3561a4e113d85e97afd528db341d450bf3f5293e44bfec",
+    "symbol": "ZU",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "zuka",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhw3kcusk5y90fmr9gk6elpaqsdas9rzpz975xckgkauxttkppfjcqqqqqqrqc6z7",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x51d0e633ebe4baa44030c43b5a439baf544e6e5fe59c112a6a973eedb5ebf9cd"
+    }
+  }
+}

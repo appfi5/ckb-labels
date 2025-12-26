@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xb52d7581d1a2b9c34f3ff71774353f84477430bd81c6571e1eeef03ede5924a8",
+    "symbol": "COBUSD",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Cobrameme usd",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8jqu5uv8l7tcfx2la0mxs84dcluhckc6smneygk",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x14d494634a8c67a841648ef398bd7f0e7cc315f73ce7cc10254fcf30716cdca1"
+    }
+  }
+}

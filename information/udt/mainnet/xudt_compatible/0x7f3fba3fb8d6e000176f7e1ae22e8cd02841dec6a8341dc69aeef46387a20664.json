@@ -1,0 +1,21 @@
+{
+  "udt": {
+    "typeHash": "0x7f3fba3fb8d6e000176f7e1ae22e8cd02841dec6a8341dc69aeef46387a20664",
+    "symbol": "USDI",
+    "decimal": 6,
+    "description": "",
+    "operatorWebsite": "https://www.interpaystellar.com/",
+    "udtType": 6,
+    "published": true,
+    "email": "chenyu@magickbase.com",
+    "name": "USDI",
+    "icon": "../../icons/mainnet/xudt_compatible/0x7f3fba3fb8d6e000176f7e1ae22e8cd02841dec6a8341dc69aeef46387a20664.svg",
+    "manager": "ckb1qrgqep8saj8agswr30pls73hra28ry8jlnlc3ejzh3dl2ju7xxpjxqgqq8we8qft3s9u47pfv5c2uq4xexurymlgfc6hvrcf",
+    "type": {
+      "codeHash": "0xbfa35a9c38a676682b65ade8f02be164d48632281477e36f8dc2f41f79e56bfc",
+      "hashType": "type",
+      "args": "0xd591ebdc69626647e056e13345fd830c8b876bb06aa07ba610479eb77153ea9f"
+    },
+    "famous": true
+  }
+}

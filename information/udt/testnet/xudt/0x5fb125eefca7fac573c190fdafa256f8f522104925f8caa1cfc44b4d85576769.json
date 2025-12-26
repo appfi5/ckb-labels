@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5fb125eefca7fac573c190fdafa256f8f522104925f8caa1cfc44b4d85576769",
+    "symbol": "ttk3",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "ttk3",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qn0dtrgsfy9p3yzvm2mdyxye6s5z9unmh2q2v6thl6cp7xmxfala5qqqqqqjdhvk6",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x50ad6d14e60d3faabfd44bec0632aa7f7aa26172ad20de586436c98750773ab4"
+    }
+  }
+}

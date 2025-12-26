@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x678d8c1f1e1467354ccd7d4c825afa374baa19fa7a7c5d027d7e28819f5d7181",
+    "symbol": "0X1",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Chris0x",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq94kzlx2nvegcpn75chp3gq2wk3af2xknvtk3lut",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x0b39fe3603095cb384b9206f45e530e5e3c9b4496f32ef3a739b5ac9b13f3773"
+    }
+  }
+}

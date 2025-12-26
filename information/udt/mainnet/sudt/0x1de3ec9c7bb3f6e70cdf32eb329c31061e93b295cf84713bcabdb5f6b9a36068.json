@@ -1,0 +1,21 @@
+{
+  "udt": {
+    "typeHash": "0x1de3ec9c7bb3f6e70cdf32eb329c31061e93b295cf84713bcabdb5f6b9a36068",
+    "symbol": "YOK",
+    "decimal": 18,
+    "description": "YokaiSwap is a next generation interoperable, decentralized trading platform and the first to come from the Nervos network.",
+    "operatorWebsite": "https://yokaiswap.com",
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "YokaiSwap Token",
+    "icon": "https://tokens.yokaiswap.com/images/0xb02c930C2825A960A50ba4Ab005e8264498b64a0.png",
+    "manager": "ckb1qz0n46hjl3pe2jwtepcvv5ehf9p6l94qvk9addgmarvfsvvrum6j7qgpvenxvjyvvz8da3uad7zsjnnw299xwpj0przs9g53feur9rq95fw8v2eas5mxjuqhgcmymwn6rqescg5wv40wvvrzkd2",
+    "type": {
+      "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+      "hashType": "type",
+      "args": "0x656edac5463ef828a1a95f214b56adfe8f37da148fbc7ff424905e5264297c70"
+    },
+    "famous": true
+  }
+}

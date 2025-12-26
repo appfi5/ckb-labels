@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x445ef4324941f14a56617b523b22ce80893cf7acbe26a1cc9f7f9ae652e63767",
+    "symbol": "FRAN",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Fran usd",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy5nt8g29ve62wc30rs67r54nvd76hqt0549n6sw",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x12e5b156ce142e5dcf1c78b32d58f7a07b0dea6807f6ca0328102e2ae9b72bff"
+    }
+  }
+}

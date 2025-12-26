@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x772b3ffbdfc01276a7c64008e568b14c510b942b10c4170bf71130d0b939ec59",
+    "symbol": "WCKB",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Wrapped CKB",
+    "icon": null,
+    "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgptlzscnld72e3xghswpmey92hhy8n273eqq4qnhd3",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x6af30bab19ec3a07b75936e7742756bbac95c8111e1b4882dfd4130476ddee5c02"
+    }
+  }
+}

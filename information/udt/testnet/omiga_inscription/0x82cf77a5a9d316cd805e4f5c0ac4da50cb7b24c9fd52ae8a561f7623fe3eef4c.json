@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x82cf77a5a9d316cd805e4f5c0ac4da50cb7b24c9fd52ae8a561f7623fe3eef4c",
+    "symbol": "AREWA3",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "AREWA TO THE WORLD",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9w9y23rql5q59p95egxngugn8hduv2mwqdy3wn8",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x3f5eced8d0a414aead05d71ec42c7d6539da62ab53b2f843750b0c29856c634d"
+    }
+  }
+}

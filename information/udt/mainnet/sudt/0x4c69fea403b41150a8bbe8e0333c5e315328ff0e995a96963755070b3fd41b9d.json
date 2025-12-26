@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x4c69fea403b41150a8bbe8e0333c5e315328ff0e995a96963755070b3fd41b9d",
+    "symbol": "BLZ",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "BLZ",
+    "icon": "https://cryptologos.cc/logos/bluzelle-blz-logo.svg?v=002",
+    "manager": "ckb1qjfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjhcqqqqpqqqqqqcqqqqqxyqqqqx9l6dpjrvlncdcsgv3fwch68xe5segdg9zdaxxxwtum0dtvmlp35qj5qqqqqc8sdfhxverqdpkgyursvehxq6rgvp5gcersdzrv56rz3nxg9zxgdtzxqcrw3jyxcmrsfur6hg",
+    "type": {
+      "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+      "hashType": "type",
+      "args": "0xda58dca6d334b837dbeb1da27e3ee45039890555bbcadbbd59fa1f32faaa5d5b"
+    }
+  }
+}

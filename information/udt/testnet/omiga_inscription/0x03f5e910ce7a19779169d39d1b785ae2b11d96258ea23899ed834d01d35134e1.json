@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x03f5e910ce7a19779169d39d1b785ae2b11d96258ea23899ed834d01d35134e1",
+    "symbol": "KKK",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8zvwkzd4t6agl826lj7f5e04epyrs6u9ykejvss",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x2d887880f94c8c8cdaa0d6025d21722483be4c62cf218d2ebdcf5b4777c3af1b"
+    }
+  }
+}

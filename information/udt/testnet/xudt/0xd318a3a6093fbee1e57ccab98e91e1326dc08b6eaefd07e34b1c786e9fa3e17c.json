@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd318a3a6093fbee1e57ccab98e91e1326dc08b6eaefd07e34b1c786e9fa3e17c",
+    "name": "MZ",
+    "symbol": "mz",
+    "decimal": 8,
+    "description": null,
+    "icon": "",
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqkcvhmw8cc04csjrxzsc4xqcd2jhz2rnylfr6w7768jm46vnhkek5gp8d8fckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqkcvhmw8cc04csjrxzsc4xqcd2jhz2rnylfr6w7768jm46vnhkek5gp8d8f",
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x46a172f21b0892116309e691f8743e9d7a93a29d364a5c80ed7d6985210ace2f"
+    }
+  }
+}

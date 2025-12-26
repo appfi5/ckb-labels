@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x7c1888100dddb8dab65bc092c4569a87ea7001128b7332fb0b06bba6e8679579",
+    "symbol": "CKBUNNY",
+    "decimal": 7,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Lucky Bunny",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8khf9vja6x6j3tynsx9yfuukxr7yd26gykq8kzd",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x70c8a7899d23b332f1bbc6cde8f8f956e8aac2691c0b50b682304ad3592a4928"
+    }
+  }
+}

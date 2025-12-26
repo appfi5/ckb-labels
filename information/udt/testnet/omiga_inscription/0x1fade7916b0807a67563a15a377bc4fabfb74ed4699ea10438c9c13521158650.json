@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1fade7916b0807a67563a15a377bc4fabfb74ed4699ea10438c9c13521158650",
+    "symbol": "OMIGA005",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "123",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyfs5pcxz6f47u67fqhekywvwxmcnmd7ugt40m59",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xf2690cce07e4e934d50579a7662e448b7e8640964ef540118a5f54109a43ecc4"
+    }
+  }
+}

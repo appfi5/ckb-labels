@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1fb4eff6da878ee670690e297e00ab6c2cbbe2796b7df63d6a2961e1fd133ef2",
+    "symbol": "CKBINSB",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "CKBINSB",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqx6hz0uzz4aguxlzz8ry4h4ysdfqjzuuauzhanyx",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x8440cbfc7ca6663836a36b822b330c99d1a7ccbde3889230d54bac91d69cd45b"
+    }
+  }
+}

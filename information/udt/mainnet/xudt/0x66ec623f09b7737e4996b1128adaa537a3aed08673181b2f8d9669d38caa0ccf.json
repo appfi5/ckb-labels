@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x66ec623f09b7737e4996b1128adaa537a3aed08673181b2f8d9669d38caa0ccf",
+    "symbol": "ALI",
+    "decimal": 0,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Dob and Token for ALI city Memorial Badge",
+    "icon": null,
+    "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qn00482xp5g8ctkrtyzkaf3ldx2marwt45gq53zc4n93zq98ea7lvqqqqqqfftqqw",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x0f04207b5d580d096eb99f840cdc594361bdae78fa29a639005d9c604ee61c11"
+    }
+  }
+}

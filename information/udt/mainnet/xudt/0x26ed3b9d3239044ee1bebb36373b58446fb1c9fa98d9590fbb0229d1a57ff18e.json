@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x26ed3b9d3239044ee1bebb36373b58446fb1c9fa98d9590fbb0229d1a57ff18e",
+    "symbol": "T",
+    "decimal": 4,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "T",
+    "icon": null,
+    "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq3lmtcchsmws8kun2ezzdmf9ktj30t3j4wyys002dq0llfxyj5syyj5a6rs",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x9be55b1c9fddb2c81917b65fb330947a4832f902b59baab6d22ff084f4d54396"
+    }
+  }
+}

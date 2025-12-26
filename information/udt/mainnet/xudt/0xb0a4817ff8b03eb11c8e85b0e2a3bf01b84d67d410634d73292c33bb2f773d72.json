@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xb0a4817ff8b03eb11c8e85b0e2a3bf01b84d67d410634d73292c33bb2f773d72",
+    "symbol": "BITU",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "BITU",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqq5vvr0tvlz4577kd5quz4207zpwrayq794sd3aua36evlh9amj38g90gjk",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x10f25f60ea191a4a106aad897e99a55ab3579acf54ee47b91a8b342dd162c357"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5be0ade5b57f617964ab2319213240bcf2aa4bda332d69315060589e6e1b0288",
+    "symbol": "C++",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGG",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqt7h66qyn7jdhxs0krr33eskyg20uzn6uscskkec",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x27cf5fe4807d005c03b729a84ff8adc094e48bc4ff6e6946f830097a8b76dac4"
+    }
+  }
+}

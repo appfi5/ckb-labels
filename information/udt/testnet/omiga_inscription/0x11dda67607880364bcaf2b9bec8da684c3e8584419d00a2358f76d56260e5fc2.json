@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x11dda67607880364bcaf2b9bec8da684c3e8584419d00a2358f76d56260e5fc2",
+    "symbol": "ETHURAM",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Ethuram",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8wvtwl7n6jm9s6hxryh8qw9fhwmfwk78ucpw3fa",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x52ab602b38cff47e48462a5a745ff4b4c95634301dcaa429230728c36e936c11"
+    }
+  }
+}

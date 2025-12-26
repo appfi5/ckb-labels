@@ -1,0 +1,21 @@
+{
+  "udt": {
+    "typeHash": "0x0083e7d7f1f887394052fbc451e8173b49f0e39a503b51f08b9d8a643232c978",
+    "symbol": "BUSD|bsc",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "Wrapped BUSD (ForceBridge from BSC)",
+    "icon": "https://cryptologos.cc/logos/binance-usd-busd-logo.svg?v=002",
+    "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqtfudy7ndgjymk7020nj67qhjutzs5t20jeaks6smuk99jmrsr4msz2sqqqqrq7r989jnws69gye5getyvdqn2wfcxsmnsvzzv9nxxdfe893ygd3eg9zxgvpcxazr2dsrz70lp",
+    "type": {
+      "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+      "hashType": "type",
+      "args": "0x69c215249102308356778d58259c91c0f1988f6f5b07aa614921ee1803ea0059"
+    },
+    "famous": true
+  }
+}

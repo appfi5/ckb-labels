@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x33ca5a5bb7e093b00fe9cbcaaa0d08c6f3e31a8854e8a2c26d017a19e80c0a7d",
+    "symbol": "TEEST",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "NEX Test",
+    "icon": null,
+    "manager": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x54b6edc8b4feb1480adc48d02cc6360002e9d9cd1bd34fef00ce11e065ad8faf"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe559862878324a05fb51bdfce269fca0a27411c35a36b3d22cefd3a8c33b9547",
+    "symbol": "BAIDU",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyxz7fexv3askdcjlgu9u8qsej87wrkz7qtxn092",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x3604a25b5f36e2c10aa2187f34f8555191741ea6452fb033e4cbaf03601aae13"
+    }
+  }
+}

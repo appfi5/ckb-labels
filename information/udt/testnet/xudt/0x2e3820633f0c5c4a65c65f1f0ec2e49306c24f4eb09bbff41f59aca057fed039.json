@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x2e3820633f0c5c4a65c65f1f0ec2e49306c24f4eb09bbff41f59aca057fed039",
+    "symbol": "DOGS",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "DogsForEver",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf32ucpsuwvea356n93zx9t99lpq50df0sya0ljv",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x427d6f884c5745f22f40d38b7aadbfcfba1b993caf65564e114eefeea511bf9f"
+    }
+  }
+}

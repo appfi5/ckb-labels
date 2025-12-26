@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x3e195a9338f7b9f48a57ad7f2bac0e157c2472a209164786f76d9c198f5a12ec",
+    "name": "d1f",
+    "symbol": "f1312",
+    "decimal": 8,
+    "description": null,
+    "icon": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwyq534sfcrd2cvcrhqk56rdpzqhleh5wcpwhjguckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwyq534sfcrd2cvcrhqk56rdpzqhleh5wcpwhjgu",
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x520fedf1b390ae06d214bbe86f09fea683846000c2d8248beefdc8903e662320"
+    }
+  }
+}

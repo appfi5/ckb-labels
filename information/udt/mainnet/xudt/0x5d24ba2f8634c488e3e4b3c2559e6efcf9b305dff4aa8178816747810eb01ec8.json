@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5d24ba2f8634c488e3e4b3c2559e6efcf9b305dff4aa8178816747810eb01ec8",
+    "symbol": "ETH++",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "ETH++",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqpqz4p33qmcyaxedrr0mnevq067wv4c4hymnt0vwu06zgphexncgwaz9yyr",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x3e5df6dbc702412c7ed587ed9e1eccc7e7dcf9e5b7a52cb1da0dce168d261fea"
+    }
+  }
+}

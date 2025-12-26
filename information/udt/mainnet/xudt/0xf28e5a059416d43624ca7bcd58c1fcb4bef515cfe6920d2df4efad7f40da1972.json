@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xf28e5a059416d43624ca7bcd58c1fcb4bef515cfe6920d2df4efad7f40da1972",
+    "symbol": "BMWK",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "BMWK_SRC20_LeapX",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqqfjmjehtuq0sacu4qx5f2ps7l0gwqwtv0994jz35yp4xfprtdqwn9lgm7h",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xaa60d912bba7c87a9eea19a976c8e3de866d1c929f5f9cb50fe2aeee63520067"
+    }
+  }
+}

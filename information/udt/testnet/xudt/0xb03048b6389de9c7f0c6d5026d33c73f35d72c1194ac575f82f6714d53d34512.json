@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xb03048b6389de9c7f0c6d5026d33c73f35d72c1194ac575f82f6714d53d34512",
+    "symbol": "CXUDT",
+    "decimal": 18,
+    "description": "1234",
+    "operatorWebsite": "https://www.magickbase.com",
+    "udtType": 5,
+    "published": true,
+    "email": "lujin@magickbase.com",
+    "name": "CXUDT",
+    "icon": "../../icons/testnet/xudt/0xb03048b6389de9c7f0c6d5026d33c73f35d72c1194ac575f82f6714d53d34512.jpeg",
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfwnpth96rgtpujkl66v73w4j86gtcj0pgzvh423",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x277f239329fd6f81b30a97e23a1d25cac8ac696bf5b522a37bd9f1e256e51a70"
+    }
+  }
+}

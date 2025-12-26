@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe9ee1d270ceb5bb06dc9101759cd740873ed91a33a23d120229de263830af982",
+    "symbol": "skn",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "skn",
+    "icon": null,
+    "manager": "ckt1qqcyvyzy40qa0ee42uzg2p6lw7vmrdjjtqtpg3avg84g3c9c8n8usqtnddhqjrlhkv",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xef44034ebb5ef5386c4a13cf977cf829eb5d85158f945c3412f6945658a011ca"
+    }
+  }
+}

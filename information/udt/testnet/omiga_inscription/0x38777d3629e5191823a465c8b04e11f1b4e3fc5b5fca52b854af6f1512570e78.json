@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x38777d3629e5191823a465c8b04e11f1b4e3fc5b5fca52b854af6f1512570e78",
+    "symbol": "JUSD",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "joyUSF",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyydgsn7pclysp2l0xj7ss3czga835xslczwwkvk",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xdd14fd5cda7a0aaea636e74de67c355224afc538c509ca3bbb526fdb68150f5e"
+    }
+  }
+}

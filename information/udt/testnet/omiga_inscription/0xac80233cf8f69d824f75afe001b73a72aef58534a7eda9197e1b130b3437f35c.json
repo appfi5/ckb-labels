@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xac80233cf8f69d824f75afe001b73a72aef58534a7eda9197e1b130b3437f35c",
+    "symbol": "DEXTEST",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "DEXTEST",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9erfm768wspe5vk6xxcrm3salte209g8qdstfgq",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x366679e913180b40f05e5c096e0acdc31d9be9d08b75baaca481663042bd76a9"
+    }
+  }
+}

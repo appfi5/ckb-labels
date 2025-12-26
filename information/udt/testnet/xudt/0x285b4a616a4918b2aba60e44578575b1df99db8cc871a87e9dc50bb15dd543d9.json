@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x285b4a616a4918b2aba60e44578575b1df99db8cc871a87e9dc50bb15dd543d9",
+    "symbol": "7777",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "123",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgjavw5sgnkld82m6pu40vgw6lsj8ezpzgd6sxkc",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xbd8470ac6eb21157aa04ebf7cb442eec545bbb6cda943cf7e7f8445709815176"
+    }
+  }
+}

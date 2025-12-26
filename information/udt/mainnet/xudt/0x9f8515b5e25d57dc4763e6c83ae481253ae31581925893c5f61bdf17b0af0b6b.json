@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x9f8515b5e25d57dc4763e6c83ae481253ae31581925893c5f61bdf17b0af0b6b",
+    "symbol": "SPORT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "SPORT",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgmqqqqquhky3x6asypw9g0pqmx6f7lp9ajhhn8ll4kammus7u3vd9z3adzsmp0xz",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x7bdb4599c563af55c3491bb5159fb79bc59245df1bb8ee468ed5f0183cb9d6a2"
+    }
+  }
+}

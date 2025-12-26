@@ -1,0 +1,21 @@
+{
+  "udt": {
+    "typeHash": "0xca358bee77ab70d8dd09b3e1b98bee38f5f16c00e7dc2a3ae923c6543c302b01",
+    "symbol": "CHA",
+    "decimal": 6,
+    "description": "",
+    "operatorWebsite": "https://www.youtube.com/@The_Charlie_Show",
+    "udtType": 5,
+    "published": true,
+    "email": "dev@crealabs.io",
+    "name": "The Charlie Show",
+    "icon": "../../icons/mainnet/xudt/0xca358bee77ab70d8dd09b3e1b98bee38f5f16c00e7dc2a3ae923c6543c302b01.jpeg",
+    "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhjzz5s6l9kvgyfzgmlys94a4nclxjjcayz0hdv5k0wc9f3x0e5fuqqqqqqsun3xu",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xdc2ff3f0782ad23fe33d87eef6daa25b42af418fcb0b6b7f1b5ce4aa6d648327"
+    },
+    "famous": true
+  }
+}

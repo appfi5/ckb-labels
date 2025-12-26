@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x62b1dd44087c2cf1c075f7a5c1bead60a87e6f497f3892051a09aca0a98950ff",
+    "symbol": "TTK2",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "TTK2",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q4mu6c0ddhk3tdsfpahjlhe2hqzqwq0qxx2w84ulgmzzw63lpzvx5qqqqqqhwzpx6",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x1a3b448c7b150ea32eb270772d92c4faddd1b50d8102cc486a4e19c1ecff5aad"
+    }
+  }
+}

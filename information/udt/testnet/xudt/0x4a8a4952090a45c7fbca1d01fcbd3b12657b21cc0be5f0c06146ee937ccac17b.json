@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x4a8a4952090a45c7fbca1d01fcbd3b12657b21cc0be5f0c06146ee937ccac17b",
+    "symbol": "EGod3",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Egod 3",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqps4f5yuncusgkwdcns7fdyn8fm8z4s90dz4mjs8wd7tlzkewyard35gnfv",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x1517adeaa8c674db45a450f6cd99d565e298ed772c2d3338a47226fa7092f7cd"
+    }
+  }
+}

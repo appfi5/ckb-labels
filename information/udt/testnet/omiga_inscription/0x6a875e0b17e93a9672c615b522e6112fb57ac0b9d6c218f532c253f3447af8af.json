@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6a875e0b17e93a9672c615b522e6112fb57ac0b9d6c218f532c253f3447af8af",
+    "symbol": "IOS",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "IOS",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqym3st4r7zc6d4kkklzcrv4055mxrylg4yz4qt3k",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x5ff80ddc0e59d2264873052dddeee5286d3ebe2a5c3aa75e339c83a1f389da83"
+    }
+  }
+}

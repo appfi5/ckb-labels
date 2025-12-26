@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x766c7c26dbc80b26a7b18a26f4e83fc337c4e49326a0e27bfe51e97a9b97d754",
+    "symbol": "JJJJN",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "ty",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxz0lt70eekknaqczpkxze7an7quch7mps39xuzv",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xa5161ab2bc3658226c9077d24af3d232e5274f0541c88848db52804d90b65ec8"
+    }
+  }
+}

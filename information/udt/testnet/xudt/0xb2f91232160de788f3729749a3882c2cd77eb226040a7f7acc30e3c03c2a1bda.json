@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xb2f91232160de788f3729749a3882c2cd77eb226040a7f7acc30e3c03c2a1bda",
+    "symbol": "TESTED",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "testado",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qn38pdhrz5alc8pnzws8eqvpg0jkkppfhaskyk6xhgz72e2ju5ty5qqqqqq3st2ty",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xaf21d26c51b70a460a19e9710bbed66213e8a4cf0f4842bef51260680aa4d3b8"
+    }
+  }
+}

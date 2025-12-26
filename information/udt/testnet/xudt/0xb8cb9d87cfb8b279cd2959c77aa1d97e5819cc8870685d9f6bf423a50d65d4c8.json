@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xb8cb9d87cfb8b279cd2959c77aa1d97e5819cc8870685d9f6bf423a50d65d4c8",
+    "symbol": "LPTC",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "LPTC",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqw3pufkld3ehw9knqmdk8260p20mtxgj2swysgkz",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x110c4ca81e1e45fcd29ef9fdf4d55e8fd65fa41405a61e3faadad3b6e6ca197b"
+    }
+  }
+}

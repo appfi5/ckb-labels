@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x378681e7bbd1406a3f51a9ac60cc1829591a293c0916118c748de0e2c0aed5f8",
+    "symbol": "LETSGO",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Let's go",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9gtxvx297t0vdlc62dcfxv0tjmhhfumrsgqfew9",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xfac35841ce85926b97c9836ff5d35ecc0da456179448e732698426f6fe0297e3"
+    }
+  }
+}

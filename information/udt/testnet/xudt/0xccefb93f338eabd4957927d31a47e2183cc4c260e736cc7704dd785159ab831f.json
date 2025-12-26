@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xccefb93f338eabd4957927d31a47e2183cc4c260e736cc7704dd785159ab831f",
+    "symbol": "DDyR4",
+    "decimal": 6,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "DDyR4",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q58pgtk2hf4fy6es9pywn8ryv0lsf4r8asujkvjm3au5zltq7s2msqqqqqqad98vx",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xc4065b0b61b3b0e46622f49492b8fbb298bd8f8062872d1782995ba066ef7fcc"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd946d0eb4026c521d1e206f89d375a57ce5c9753512e27f7ba8449875eed755e",
+    "symbol": "4f444",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "f44",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfpc0764a36p4uprxqam0jfaxq2n4gf32cj7p00k",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x0925082ed2f37cf2b146d66c3b5e401e50eb667cd267220c905d1b997438a0fe"
+    }
+  }
+}

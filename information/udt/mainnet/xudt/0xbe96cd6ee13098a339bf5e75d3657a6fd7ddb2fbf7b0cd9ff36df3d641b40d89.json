@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xbe96cd6ee13098a339bf5e75d3657a6fd7ddb2fbf7b0cd9ff36df3d641b40d89",
+    "symbol": "Apple",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Apple",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgvqqqqptd2qzftdkj3gftmgsaykex80rv22lt46p862xkt7uze4k9659qgcja4nr",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xd1ef535a2fd4329323d7759474da212e4bb1dc5c137529d20ca55eaed28d52cc"
+    }
+  }
+}

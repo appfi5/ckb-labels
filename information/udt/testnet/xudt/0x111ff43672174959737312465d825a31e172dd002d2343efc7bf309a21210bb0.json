@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x111ff43672174959737312465d825a31e172dd002d2343efc7bf309a21210bb0",
+    "name": "monke",
+    "symbol": "monke",
+    "decimal": 8,
+    "description": null,
+    "icon": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "manager": null,
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x9e3afdb11b10043a93ec81a15bc14a0127e685c105b20f749f5d9104c0728f57"
+    }
+  }
+}

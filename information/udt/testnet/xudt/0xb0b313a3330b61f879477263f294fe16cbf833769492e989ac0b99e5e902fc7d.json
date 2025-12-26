@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xb0b313a3330b61f879477263f294fe16cbf833769492e989ac0b99e5e902fc7d",
+    "symbol": "DASD",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "DASD TOK",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qnkavcjee4fa0ljt4m96nx4w3cdkj7855d45knet4cyu8yulcfs8gqqqqqq2a9mjf",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x7d8e7d22f89ffcdf47d92c0a66e29c112a4ec3a47268159a44d39007621d9f00"
+    }
+  }
+}

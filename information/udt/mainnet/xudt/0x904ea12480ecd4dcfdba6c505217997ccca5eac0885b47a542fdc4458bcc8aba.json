@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x904ea12480ecd4dcfdba6c505217997ccca5eac0885b47a542fdc4458bcc8aba",
+    "symbol": "USDPP",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "USDPP",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqpdgedlzynmxwcem5lntktafkvmy0hysrvqdcj6jlvc2wwc87nqljp7hdu9",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x858b05c0a193d5df6abdcf5a22c82cbdc7e2a084b0698f3cd65e2020327858d0"
+    }
+  }
+}

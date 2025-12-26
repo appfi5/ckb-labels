@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1d0a64db5e90004d2190574a709d86e8c5dd4603c38c521f93835b49f189e9f4",
+    "symbol": "SAFE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "SAFE",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqhjalzeqxff8d0q8f0552s96l5lws2lm70dg3q5wzyp9ty9wewvh2x0mr6",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xda80e1b7539676c57de4c586281e1cf251f7c4eabfec772f022e845ac698ae1f"
+    }
+  }
+}

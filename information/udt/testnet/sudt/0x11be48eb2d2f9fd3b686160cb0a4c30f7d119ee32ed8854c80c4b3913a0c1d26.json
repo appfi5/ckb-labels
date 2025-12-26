@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x11be48eb2d2f9fd3b686160cb0a4c30f7d119ee32ed8854c80c4b3913a0c1d26",
+    "symbol": "MMEMES",
+    "decimal": 1,
+    "description": "memes for mock",
+    "operatorWebsite": "",
+    "udtType": 0,
+    "published": true,
+    "email": "test@gmail.com",
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqddtwpzrxg7986pf57qxnpcmgsf3r5rk9c9qw87q",
+    "type": {
+      "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+      "hashType": "type",
+      "args": "0x8b1ec5daabf000870d9b59d42ba4309b7e58951ac68e1ca8ed605f7d212942d6"
+    }
+  }
+}

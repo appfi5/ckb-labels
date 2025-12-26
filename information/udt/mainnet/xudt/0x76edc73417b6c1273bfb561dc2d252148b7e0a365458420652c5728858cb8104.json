@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x76edc73417b6c1273bfb561dc2d252148b7e0a365458420652c5728858cb8104",
+    "symbol": "SORRY",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "SORRY",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgeqqqqqfx9nks94zya85xhmwv4wvtc2m2m5a9er0urqze7ry9v76thwy40tmlmdm",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x40fea06f560fe4fc3ef70be041a7f46423f993d1a859071dc369dbfc870592d3"
+    }
+  }
+}

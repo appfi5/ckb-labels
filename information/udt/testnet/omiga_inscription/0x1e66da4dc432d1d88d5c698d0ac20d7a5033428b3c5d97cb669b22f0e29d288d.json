@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1e66da4dc432d1d88d5c698d0ac20d7a5033428b3c5d97cb669b22f0e29d288d",
+    "name": "888",
+    "symbol": "888",
+    "decimal": 8,
+    "description": null,
+    "icon": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxnf4g0g30zu4pvnrx70ngxqexpqtv7ekcfe7eeqckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxnf4g0g30zu4pvnrx70ngxqexpqtv7ekcfe7eeq",
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x998e9aa440f9d922906e5eb0f293a47b6f55f3271f2472d13f07e727c089ac38"
+    }
+  }
+}

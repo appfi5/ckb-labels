@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6cb0d9d85e7888eacdf3a871fe932fec31fd4853dcf43d48cffdfdf298d96ce8",
+    "symbol": "TestMi",
+    "decimal": 8,
+    "description": "",
+    "operatorWebsite": "https://moon.io",
+    "udtType": 0,
+    "published": true,
+    "email": "test@moon.io",
+    "name": "Test Mi",
+    "icon": "../../../icons/testnet/sudt/0x6cb0d9d85e7888eacdf3a871fe932fec31fd4853dcf43d48cffdfdf298d96ce8.jpg",
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2r65yajlexqpazsheeysw0ln2pz9t3jmqggwdv5",
+    "type": {
+      "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+      "hashType": "type",
+      "args": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8"
+    }
+  }
+}

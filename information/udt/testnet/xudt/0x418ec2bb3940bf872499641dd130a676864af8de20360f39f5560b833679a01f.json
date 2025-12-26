@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x418ec2bb3940bf872499641dd130a676864af8de20360f39f5560b833679a01f",
+    "symbol": "ETB",
+    "decimal": 6,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Editable Test 0822",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qnaunsd7pju90jcfw90v6z44y3e2chylyx9t476e3klf8rafmukruqqqqqqpvjas6",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x080db27597e82e676696326568e93ba9edb9d774909835a04438807c17dd101c"
+    }
+  }
+}

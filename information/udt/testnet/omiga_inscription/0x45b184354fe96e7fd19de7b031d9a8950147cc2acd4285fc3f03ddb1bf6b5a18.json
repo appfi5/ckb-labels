@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x45b184354fe96e7fd19de7b031d9a8950147cc2acd4285fc3f03ddb1bf6b5a18",
+    "symbol": "ZKO",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Zko",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8d3cmpetazwwrr3l0rw5wxjgyjd8usc5u8exart",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x5149e263f244c2c65542be9e5431344b973858cce883ab8145aeeba5a4a0e865"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x4fbfdf89ad6fbb89b90ef8473d7f60d84d167afc1be92cd85c63520787858788",
+    "symbol": "PUPS+",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "PUPS",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqn097c6zteu6q9l95t3tmmk3nys7lwxr8l0zv4rnw4q9dumjhpnzx2ykqu",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x0a90dd1be3958d82a69186019bc2c6c1437465c08350d4621e7060b122b309ff"
+    }
+  }
+}

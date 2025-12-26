@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x92cefd71ca5af9fd1b8dcd9907ef48c4f265881d6053aaf896171e713f48ac6a",
+    "symbol": "TCLP",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "TCLP",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtsh6el4q30u0qyk9l4vamu4hy67zm8a4gmwykch",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x360c8d7ebf864e1e614435b75a9eb100a01cc7801d298cfafa44a31f8c2655ed"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x93179b9594ad8ebad51f1859b52ec17d08147bc3efe8218ba01962e15bcd11cb",
+    "symbol": "Abci",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "abc",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwf8g2u5rnccynmvelzkuktx8zz49ayq3sk30zfr",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xbe23660bb1989cf24970894b1bb5babe4afd3722a9a2a2ecd54d01400b48f10b"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x762b68ce505d96a732d7df7931fb2219ad8abbb95d2ba6842bc8e6fa07e0f982",
+    "symbol": "AVAX",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Avalanche",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8yam9sdmew5trttar46gxp03jpn7sv3656z6dy8",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x448b7a4cee12f3f69f4d9aae666e2d6ebadac2c0a153fc29e4173d4ecfbd7501"
+    }
+  }
+}

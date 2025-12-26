@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x9380445529ba335a0bde6c0692bf74b3dfebf386f711ca84f895d9c9c0107cc1",
+    "symbol": "qwea",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "qwea",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqqfez703jayf7xeck8tvysl6xunfpd9fk5nhjppuvggdhq7j2mvez4yvzf8",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xd113540827e2e56ede103fb5967ea4d03ab2df64532f3cc45159a77abe5c5aa9"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6d89a8de8a925f63b62edeafb55e4396c0ea40f03ba2542c6e4fe2955527f75b",
+    "symbol": "APP",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyxz7fexv3askdcjlgu9u8qsej87wrkz7qtxn092",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x7188ae7adf4964462f8ce0cb188b4963586f101da8da60196f8a7872769e917e"
+    }
+  }
+}

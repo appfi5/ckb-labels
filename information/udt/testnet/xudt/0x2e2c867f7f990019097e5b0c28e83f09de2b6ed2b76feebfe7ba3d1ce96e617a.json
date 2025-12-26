@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x2e2c867f7f990019097e5b0c28e83f09de2b6ed2b76feebfe7ba3d1ce96e617a",
+    "symbol": "tesgt",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "tesgt",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqg8qqqqpljp92wxwe7qdwlsn2r3g2tuy6nknntnzsx5gqnvd3hw2ku222a8g3j5e5",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xfa260a0f2620a3901957dcfbfe12d7565cb9f16f4af55af2e6d6f02ffe732d41"
+    }
+  }
+}

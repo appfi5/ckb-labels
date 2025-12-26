@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe413593ebd5b15e9c4937aeefcf152c2abb84f8daf5a8dabf5ea40d56742fd2d",
+    "symbol": "GONA",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Len 1-40, eg Binance USD",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9gf5v20fpfyeaejnpmvrdpjwr7luam5uqknvdxy",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xb53f5930018e6904ee312dc5ee052c5fdcd06cb520865d9203e0a3c0dad7dd4c"
+    }
+  }
+}

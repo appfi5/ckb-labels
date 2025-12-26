@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6381eef06a4da19727de421c05b6c9d093aaa3231be033808217f2447acf94b9",
+    "symbol": "aaa8",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "aaa8",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqqd29gv0x7dlfcftauur6c5f98jjjdf2g40anly9dpualmytrgqrmm23m9c",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x698cadf59859977176b2f394f7ddcc584efa2eb3a647151fa30e402474c310e2"
+    }
+  }
+}

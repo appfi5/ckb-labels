@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe09ad6e0d22da1fdd8c8416e0bf6bc72a3035aaab9f2f3beb9e7404985667a95",
+    "symbol": "EMX",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "EMERSIVEX",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxfqncdwljndh386xys64z2fp62tqn96ugvug30j",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xbfb4a19389f1f3684c611be5d7f6284a5bd88b2aa35fb8c00e2324a7000fbf61"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x90cd8850d1fb3915013f70b344a663a48abd9db15ab8033bff9b57290be72f85",
+    "symbol": "R-ORDS",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "R-ORDS",
+    "icon": null,
+    "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qtkxuet29htrf3e3vgrunx25y67sm00tlj02fz9xul59kg",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x93ec76513b5e536e9c0942bb50366659902a062af1552119d636b4651ea8d016"
+    }
+  }
+}

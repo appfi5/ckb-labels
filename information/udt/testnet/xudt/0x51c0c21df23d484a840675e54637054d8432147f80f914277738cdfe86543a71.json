@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x51c0c21df23d484a840675e54637054d8432147f80f914277738cdfe86543a71",
+    "symbol": "10010",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "10010",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqqtd6mspqdfzz709l07ylv78zqlnr338e64lpe54vh8s677e0k6975ytw4k",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x0b41ab44f979d2b453cd1801ea15b106feaee79c672c8491bb9317c964ddcc38"
+    }
+  }
+}

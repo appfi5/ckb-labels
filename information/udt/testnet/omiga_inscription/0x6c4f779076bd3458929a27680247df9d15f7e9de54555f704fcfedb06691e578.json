@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6c4f779076bd3458929a27680247df9d15f7e9de54555f704fcfedb06691e578",
+    "symbol": "KKD",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq84xmxncg4z9cvhvnpz2ma5ln4ww3ml9xulfm4j5",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xdf225641936f870e9362d76ce6dfa9550596e62cae4cec58f0995e22c5b2c1a4"
+    }
+  }
+}

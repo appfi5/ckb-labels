@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x036072eb9102410481f987e082e41f2435c318262c25a051caf8cb35e98cd2b6",
+    "symbol": "M1",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "M1N",
+    "icon": null,
+    "manager": "ckt1qrqrstjpp88ldzj02djyrspxd5hz9u5q3es4wvffey5fac89uhk5xqha34hx4ekwk4l6y04umndt5fsdvc2ksfkj7064s8qvwqukqyssqqx6squa",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x7629f74c44f12df63f4127341d7c3ae4c673c4fbbf952057ddc7510d738100eb"
+    }
+  }
+}

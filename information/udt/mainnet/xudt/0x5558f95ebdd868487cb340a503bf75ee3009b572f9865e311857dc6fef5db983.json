@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5558f95ebdd868487cb340a503bf75ee3009b572f9865e311857dc6fef5db983",
+    "symbol": "PENPE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "PENPE",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqp4672ezqrywvpeahvurcvj9fkkkgwd7peg06uucmm9crclstw5p4gul9st",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x81da2092bc3cd349cdee624024882a7e82614822db631a2f2a9c577809f8122c"
+    }
+  }
+}

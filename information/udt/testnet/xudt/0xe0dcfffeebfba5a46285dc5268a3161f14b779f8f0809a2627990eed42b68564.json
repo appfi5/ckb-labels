@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe0dcfffeebfba5a46285dc5268a3161f14b779f8f0809a2627990eed42b68564",
+    "symbol": "B",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Blue",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqd5rhwhykscsguhelhgj2lx0f28knn976qg403us",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x67d8ef47baa7d4719165d5796c10fd884197e5f123a3f486ac719e555e40d447"
+    }
+  }
+}

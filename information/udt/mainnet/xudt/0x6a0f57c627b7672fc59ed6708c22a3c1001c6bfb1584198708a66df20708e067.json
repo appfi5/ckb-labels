@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6a0f57c627b7672fc59ed6708c22a3c1001c6bfb1584198708a66df20708e067",
+    "symbol": "RGB++314",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGB++314@rgbpp314",
+    "icon": null,
+    "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqthk2fcqksul25yh49vglxqpcnxu25ezvq2z5fvp",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x333b24b2a13fcf466ddc8bbd84d711929da00394fddfcddabb863d2eb7dd82ca"
+    }
+  }
+}

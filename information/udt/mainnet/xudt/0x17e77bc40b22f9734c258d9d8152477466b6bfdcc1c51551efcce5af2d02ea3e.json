@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x17e77bc40b22f9734c258d9d8152477466b6bfdcc1c51551efcce5af2d02ea3e",
+    "symbol": "Lhasa",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Lhasa",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqp2yz2gyj040n2tems95je082mfqg3lmzp5rkjqa5dwxdyru98vwx4a79kt",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x2c542ba8c2b27b9c543a8d0b971d2d9829fc29062282c051c50cee4a1d259b87"
+    }
+  }
+}

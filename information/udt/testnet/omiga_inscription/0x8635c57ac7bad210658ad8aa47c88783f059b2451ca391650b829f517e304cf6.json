@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x8635c57ac7bad210658ad8aa47c88783f059b2451ca391650b829f517e304cf6",
+    "symbol": "GHB",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Gazzy Hub Base",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxgcemdpp9ggh9ttt24c53r85lteyl0mgydd2ttu",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x9d712e6b4884aae9ab305a3986940e059d208a8801a4a0db3e2855e2530adc03"
+    }
+  }
+}

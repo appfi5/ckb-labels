@@ -1,0 +1,21 @@
+{
+  "udt": {
+    "typeHash": "0x105b91b6abe6ece687d4a906180d216904da322fe0d969713d35fc47d921da56",
+    "symbol": "MEMES",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "The First inscription on Omiga.",
+    "icon": null,
+    "manager": "ckb1qrgqep8saj8agswr30pls73hra28ry8jlnlc3ejzh3dl2ju7xxpjxqgqq9ykn04hrcpz6u33v7j0h7y946duj6kmwszzxdue",
+    "type": {
+      "codeHash": "0x5c33fc69bd72e895a63176147c6ab0bb5758d1c7a32e0914f99f9ec1bed90d41",
+      "hashType": "type",
+      "args": "0x55c4075afe3894e6f07e8feea708fc905c42dc4c93ac308f8addde0c04993301"
+    },
+    "famous": true
+  }
+}

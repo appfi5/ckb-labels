@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xaa5a916e650e31d2915f4fdda6a323bfa803dbd91214a9c93bad7c6d5d2e90ce",
+    "symbol": "POPO",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "lalsd",
+    "icon": null,
+    "manager": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x8c19af707d5cd5109bd302a78e2a6d892eee290f4e31e9026798126ec2c6b277"
+    }
+  }
+}

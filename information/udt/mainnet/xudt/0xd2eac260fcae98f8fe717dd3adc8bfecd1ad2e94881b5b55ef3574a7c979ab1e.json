@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd2eac260fcae98f8fe717dd3adc8bfecd1ad2e94881b5b55ef3574a7c979ab1e",
+    "symbol": "CHAT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "CHAT",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqptenz7dr9vgyad8x8hzphy7qrkur3x4svwzwyx95tlrph6w2y64gg08jfp",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xa8bf6a92b4e7c1fb9f4e7b65dbdb7eadd726a296d5a6040805472fcb4732ec69"
+    }
+  }
+}

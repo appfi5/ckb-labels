@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5afb3a6531e88043527f827a3c0f666860ffacc8b46a6c1dc5f5c9d06cb77aae",
+    "symbol": "RGBN",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGBN Token",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqp9c66mhfgz02hpwmy0c68s8yp0y36xv0k70zvzmpvp8twvc4ppw0ptrsdc",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x03cbf5fa4c13beb154ba85911e8b5d98dc6b8db0d18410846bc7266b7452da58"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xc5e3a80c59713d3a7a64254fdf682e897968dcf232213afa89e3732ffabd629d",
+    "symbol": "CCTV",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "CCTV",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqpqhlk6rpu0t6ajuapxlmy87xkjkrhlmd72q2z03zwg2cypf7m8rv9txyss",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x26a760e83a6e66a8769ae5ea073b79e48e9132ca4941aaa9279d6b3b4aab6968"
+    }
+  }
+}

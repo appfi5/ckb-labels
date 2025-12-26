@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xf8e34e7762b37a49a6022e421fb3fb66cadc03c7068d6572e0b3dc60229e0913",
+    "name": "TTK1222",
+    "symbol": "TTK1222",
+    "decimal": 8,
+    "description": null,
+    "icon": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjh44q4wl5d7c4ykzvcfr2s0khevv3kgedd36eny8kn9ynyuv3euuqqqqqqaje02nckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjh44q4wl5d7c4ykzvcfr2s0khevv3kgedd36eny8kn9ynyuv3euuqqqqqqaje02n",
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xd4bddc9f71aa584733cf9b04448cd876c272a2570aeecd5d8cd8e4b1787b61ff"
+    }
+  }
+}

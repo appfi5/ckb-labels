@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x09eea72a8a83f1389fb9e683415961d6107056adab2e9091e18d39fc8397c276",
+    "symbol": "ZZOL",
+    "decimal": 6,
+    "description": "",
+    "operatorWebsite": "",
+    "udtType": 5,
+    "published": true,
+    "email": "dev@rivtower.com",
+    "name": "ZZOL",
+    "icon": "../../icons/testnet/xudt/0x09eea72a8a83f1389fb9e683415961d6107056adab2e9091e18d39fc8397c276.jpeg",
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qntt4nk2zj445z6nvvd95esm840lsswykusm3s4ca7gkxmd3tytpsqqqqqqekemv7",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x3777cb322e9398bf7ec7d5408109dedc5d5030666508212781003c944be793d1"
+    }
+  }
+}

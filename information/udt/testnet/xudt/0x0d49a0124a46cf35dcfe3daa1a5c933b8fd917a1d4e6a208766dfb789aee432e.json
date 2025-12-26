@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x0d49a0124a46cf35dcfe3daa1a5c933b8fd917a1d4e6a208766dfb789aee432e",
+    "symbol": "XMR",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "小美人",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3l40v9ukynwyj2395d835g062dwskg20vty7x40jevwlpgya5nwsqqqqqqfwm970",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x2a03d9396ec32b6a212fd15a3ced7b8404bd0ef41ad2ad63f069fd82a0ead89f"
+    }
+  }
+}

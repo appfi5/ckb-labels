@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xbfa26a18fc6962804847214da13b72f4a96d765e087f062242e6a9be64859da7",
+    "symbol": "BTCR",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "CoinRGB",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqptpn93fvppaq5wnvc96planew7rshj2j55g0xnq0d56cf8fnparp0unr4r",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x01e001a7c45d6e0b31b0590ac8626be03215c6fdf29328d53bd72abe4a3ddaff"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xc64bb432cd3ceb270459b33a4e37da861ff94dd5fa755bb0eac24528b57dab4a",
+    "name": "XUDT Test Token",
+    "symbol": "KLL",
+    "decimal": 8,
+    "description": null,
+    "icon": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtfl2up4at3e5cuppa4q7r6ycwqs0a268cafn5j8ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtfl2up4at3e5cuppa4q7r6ycwqs0a268cafn5j8",
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x55bc260bcee6c161d74b591660d76bf960d3f0a58a68b67ada2d5e7121c22fa2"
+    }
+  }
+}

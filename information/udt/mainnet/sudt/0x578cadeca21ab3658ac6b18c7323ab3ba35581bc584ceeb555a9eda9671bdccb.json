@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x578cadeca21ab3658ac6b18c7323ab3ba35581bc584ceeb555a9eda9671bdccb",
+    "symbol": "MC",
+    "decimal": 8,
+    "description": "The first RC token",
+    "operatorWebsite": "",
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "Michi",
+    "icon": "../../icons/mainnet/sudt/0x578cadeca21ab3658ac6b18c7323ab3ba35581bc584ceeb555a9eda9671bdccb.png",
+    "manager": "ckb1qj0n46hjl3pe2jwtepcvv5ehf9p6l94qvk9addgmarvfsvvrum6j7qwuwmr0krmpkts0zfexvxskpygqktc6nzggmzwyxn4hsvlr0rdgjn4xq5tfu222hdxsq5dm466z2elm3y24csrsqnyaqp",
+    "type": {
+      "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+      "hashType": "type",
+      "args": "0x894c13553e51325941d73b5303c8785ac74b8d8ffebed50b73ddce60f50feeef"
+    }
+  }
+}

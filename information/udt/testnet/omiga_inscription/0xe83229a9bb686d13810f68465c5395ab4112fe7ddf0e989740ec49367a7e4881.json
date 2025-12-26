@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe83229a9bb686d13810f68465c5395ab4112fe7ddf0e989740ec49367a7e4881",
+    "symbol": "AWS",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Aws",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy26shtqttrphzmj5pgffgp9l7yrkhjwlguczwm2",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xdbeef2cff547d461a44e5b5b830c28780eae135be3bb6b8fda67fb86a7a8b647"
+    }
+  }
+}

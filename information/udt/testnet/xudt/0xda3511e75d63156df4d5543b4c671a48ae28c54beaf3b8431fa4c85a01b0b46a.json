@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xda3511e75d63156df4d5543b4c671a48ae28c54beaf3b8431fa4c85a01b0b46a",
+    "symbol": "TOT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "TOT",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qk7x66jaf5wskned7mfqkycgumtvh3t37gga6dkpgrv6sv3gh24vsqqqqqqu8medh",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x3f71594253daab6bbeb7fb03284b2572f6098f57bc1bf8f428d873f234f067b3"
+    }
+  }
+}

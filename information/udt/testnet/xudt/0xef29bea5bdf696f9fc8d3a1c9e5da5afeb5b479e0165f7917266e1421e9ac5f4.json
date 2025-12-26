@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xef29bea5bdf696f9fc8d3a1c9e5da5afeb5b479e0165f7917266e1421e9ac5f4",
+    "symbol": "USDT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "USD Token",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfg7tgxh4jamp4qsl7hrnd97sqlrk0x4ysj0wd2h",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x8aef5935cc8a0945780076d099ada6a9809f3cae9ab39ebbf7f5d81b69866009"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x913f7a3c31cb7376e734de31dbdb0f61808b12da2295e1ff735313406261a4bc",
+    "symbol": "INJ",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Injective Protocol",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqx74xsez0n9ems8mxypqqw5z8ejmuty6muv0waep",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x1880eb7f1294b313fe5751350756cc24bbe6f1b7c1427b4fa868c574e24621ae"
+    }
+  }
+}

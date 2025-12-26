@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xae43719bb93ff92943c650e4ae0eb3014facde0999ba4dc3749d8ef975b7b00b",
+    "symbol": "KMBR",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Kembar",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqx684da6wq5zpea9976acc02f8a5jp2hjczkzfuk",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xea0e22cb684f7ad0bad16c719713fec9834847c393e1e71ca294c8b5bd1e16e0"
+    }
+  }
+}

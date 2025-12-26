@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xf5d9d50aae1da503a60c068a4cd9f3db88780e180169d17ee0b51e7a769ca3da",
+    "symbol": "XO",
+    "decimal": 6,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "xoxo",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3s98sahynhfegutgpjwrhpw5psvrwpql075fduxsy0cwvw2w0agyqqqqqqm54fyv",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xe0a0fc7099f49b1a6b85fec00c19a7bb2dc00bce508c27d5d3ea6255c85046c6"
+    }
+  }
+}

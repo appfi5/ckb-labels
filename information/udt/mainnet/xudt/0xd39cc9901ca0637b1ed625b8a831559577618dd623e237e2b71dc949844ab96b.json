@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd39cc9901ca0637b1ed625b8a831559577618dd623e237e2b71dc949844ab96b",
+    "symbol": "SAND",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "SAND",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqq0ayev9zp90lzrsvtp0mz2zr0fe85765hakud9h0tzc44qzwe7cx63frhc",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x24c2ac3fa5ceca9946daed0fb2fa6d632373f31d40c4d4911d11d73cbd0efa43"
+    }
+  }
+}

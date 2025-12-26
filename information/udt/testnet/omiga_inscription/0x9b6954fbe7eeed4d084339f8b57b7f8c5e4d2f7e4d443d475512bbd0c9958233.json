@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x9b6954fbe7eeed4d084339f8b57b7f8c5e4d2f7e4d443d475512bbd0c9958233",
+    "symbol": "CORN",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy9rpkwdykw5070naqkfekt8c5mucldj8vjm83d3",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xdccc6fdd588d528a05dfdb4a3bc4d90073df39a4be12520fb8d9e41129e06bd7"
+    }
+  }
+}

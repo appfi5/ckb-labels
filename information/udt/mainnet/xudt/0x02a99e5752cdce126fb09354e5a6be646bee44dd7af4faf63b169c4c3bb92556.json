@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x02a99e5752cdce126fb09354e5a6be646bee44dd7af4faf63b169c4c3bb92556",
+    "symbol": "R-trac",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "R-trac",
+    "icon": null,
+    "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qtkxuet29htrf3e3vgrunx25y67sm00tln5wfskxhz83q0",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x0f835360402dcfe8161c01f325937c855f278cfa164dfb9f3e05581300932ff1"
+    }
+  }
+}

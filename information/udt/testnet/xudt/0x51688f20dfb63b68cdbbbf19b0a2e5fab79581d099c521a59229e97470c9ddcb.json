@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x51688f20dfb63b68cdbbbf19b0a2e5fab79581d099c521a59229e97470c9ddcb",
+    "symbol": "ckbtc",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "ckbtc",
+    "icon": null,
+    "manager": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xd736bf37e6acaee7d6749f72873cf3d4ee8c90ab6c57e3885e18314d8fca65c3"
+    }
+  }
+}

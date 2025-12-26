@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe8dc56311b142fd580c273891e53d66dc88e85b7946715b4ceb5eaec40e7c2a4",
+    "symbol": "people",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "people",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qskd6ww345hh0ay739va28kr8advcm0f36f9zxsg99ekwh7ep24huqqqqqq0ucp7g",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x9bb9eb03dce710f7169aa0fd9d148353b3174e08c0e3a769e9299cf4beeb2ac2"
+    }
+  }
+}
