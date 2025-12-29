@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema.json",
+  "name": "TypeBurnLock",
+  "description": "Unlocks when a specific type script is burned (appears in inputs but not outputs).",
+  "rfc": "",
+  "website": "",
+  "sourceUrl": "https://github.com/ckb-devrel/ckb-proxy-locks",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "data1",
+        "dataHash": "0xff78bae0abf17d7a404c0be0f9ad9c9185b3f88dcc60403453d5ba8e1f22f53a",
+        "typeHash": "",
+        "codeHash": "0xff78bae0abf17d7a404c0be0f9ad9c9185b3f88dcc60403453d5ba8e1f22f53a",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "data1",
+        "dataHash": "0xff78bae0abf17d7a404c0be0f9ad9c9185b3f88dcc60403453d5ba8e1f22f53a",
+        "typeHash": "",
+        "codeHash": "0xff78bae0abf17d7a404c0be0f9ad9c9185b3f88dcc60403453d5ba8e1f22f53a",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

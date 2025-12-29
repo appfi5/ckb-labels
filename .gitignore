@@ -1,4 +1,7 @@
 
 
 node_modules/
+dist/
 .DS_Store
+information/scripts_mainnet/live/
+information/scripts_mainnet/history/

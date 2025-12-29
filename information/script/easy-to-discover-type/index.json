@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema.json",
+  "name": "EasyToDiscoverType",
+  "description": "Reveals cell data through type script arguments.",
+  "rfc": "",
+  "website": "",
+  "sourceUrl": "https://github.com/ckb-devrel/ckb-proxy-locks",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "data1",
+        "dataHash": "0xaba4430cc7110d699007095430a1faa72973edf2322ddbfd4d1d219cacf237af",
+        "typeHash": "",
+        "codeHash": "0xaba4430cc7110d699007095430a1faa72973edf2322ddbfd4d1d219cacf237af",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "data1",
+        "dataHash": "0xaba4430cc7110d699007095430a1faa72973edf2322ddbfd4d1d219cacf237af",
+        "typeHash": "",
+        "codeHash": "0xaba4430cc7110d699007095430a1faa72973edf2322ddbfd4d1d219cacf237af",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

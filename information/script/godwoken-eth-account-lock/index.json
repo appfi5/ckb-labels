@@ -6,7 +6,17 @@
   "website": "https://github.com/godwokenrises/godwoken/tree/develop/gwos#eth-account-lock",
   "sourceUrl": "https://github.com/godwokenrises/godwoken/tree/develop/gwos/contracts/eth-account-lock",
   "deployments": {
-    "mainnet": [],
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0x685ae74d35fdbffe2ac08b46c428f89136fd3b10d170f1c0570ddd0b28199235",
+        "typeHash": "0x096df264f38fff07f3acd318995abc2c71ae0e504036fe32bc38d5b6037364d4",
+        "codeHash": "0x096df264f38fff07f3acd318995abc2c71ae0e504036fe32bc38d5b6037364d4",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
     "testnet": [
       {
         "tag": "",

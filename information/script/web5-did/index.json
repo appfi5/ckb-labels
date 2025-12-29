@@ -1,0 +1,33 @@
+{
+  "$schema": "../schema.json",
+  "name": "Web5 DID",
+  "description": "Decentralized Identifier (DID) method specification that utilizes the Nervos CKB (Common Knowledge Base) blockchain for creating, updating, and deactivating DIDs.",
+  "rfc": "https://github.com/web5fans/web5-wips",
+  "website": "https://web5.fans",
+  "sourceUrl": "https://github.com/web5fans/did-ckb",
+  "decoderType": "web5-did",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0x079bb8c1dfb249f60d932f4b1a60fa5cb2a36af3653ac09464f262e2f3f682a9",
+        "typeHash": "0x4a06164dc34dccade5afe3e847a97b6db743e79f5477fa3295acf02849c5984a",
+        "codeHash": "0x4a06164dc34dccade5afe3e847a97b6db743e79f5477fa3295acf02849c5984a",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0x079bb8c1dfb249f60d932f4b1a60fa5cb2a36af3653ac09464f262e2f3f682a9",
+        "typeHash": "0x510150477b10d6ab551a509b71265f3164e9fd4137fcb5a4322f49f03092c7c5",
+        "codeHash": "0x510150477b10d6ab551a509b71265f3164e9fd4137fcb5a4322f49f03092c7c5",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

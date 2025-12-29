@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema.json",
+  "name": "AlwaysSuccess",
+  "description": "A simple script that always succeeds.",
+  "rfc": "",
+  "website": "",
+  "sourceUrl": "https://github.com/ckb-devrel/ckb-proxy-locks",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "data1",
+        "dataHash": "0x3b521cc4b552f109d092d8cc468a8048acb53c5952dbe769d2b2f9cf6e47f7f1",
+        "typeHash": "",
+        "codeHash": "0x3b521cc4b552f109d092d8cc468a8048acb53c5952dbe769d2b2f9cf6e47f7f1",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "data1",
+        "dataHash": "0x3b521cc4b552f109d092d8cc468a8048acb53c5952dbe769d2b2f9cf6e47f7f1",
+        "typeHash": "",
+        "codeHash": "0x3b521cc4b552f109d092d8cc468a8048acb53c5952dbe769d2b2f9cf6e47f7f1",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}

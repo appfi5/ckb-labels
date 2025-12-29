@@ -6,7 +6,17 @@
   "website": "",
   "sourceUrl": "",
   "deployments": {
-    "mainnet": [],
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0xf677aac8b653741126c760f1c76a24bd9f49e01949cb68f67f998cf62ac350df",
+        "typeHash": "0x2b24f0d644ccbdd77bbf86b27c8cca02efa0ad051e447c212636d9ee7acaaec9",
+        "codeHash": "0x2b24f0d644ccbdd77bbf86b27c8cca02efa0ad051e447c212636d9ee7acaaec9",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
     "testnet": [
       {
         "tag": "",

@@ -6,7 +6,17 @@
   "website": "https://github.com/godwokenrises/godwoken/tree/develop/gwos#challenge-lock",
   "sourceUrl": "https://github.com/godwokenrises/godwoken/tree/develop/gwos/contracts/challenge-lock",
   "deployments": {
-    "mainnet": [],
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0xbaaae1cc39656301d65d2ac8151a21f967b344a18c9d6e967ac0945761401efd",
+        "typeHash": "0x628b5f956b46ae27b50819a9ebab79ce5f957e6899ba0c75b8e142de2ed0dcd2",
+        "codeHash": "0x628b5f956b46ae27b50819a9ebab79ce5f957e6899ba0c75b8e142de2ed0dcd2",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
     "testnet": [
       {
         "tag": "",

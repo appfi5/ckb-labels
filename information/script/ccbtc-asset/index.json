@@ -1,0 +1,33 @@
+{
+  "$schema": "../schema.json",
+  "name": "ccBTC Asset",
+  "description": "ccBTC is a token backed 1:1 by Bitcoin reserves",
+  "rfc": "",
+  "website": "https://www.crosschain.network/assets",
+  "sourceUrl": "https://github.com/ccTokens/Smart-Contract-Nervos",
+  "decoderType": "udt",
+  "deployments": {
+    "mainnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0xa99494ada9bc23cdc018141222640d0e698f29ce3684054e85bf8add7cc9ae2c",
+        "typeHash": "0x092c2c4a26ea475a8e860c29cf00502103add677705e2ccd8d6fe5af3caa5ae3",
+        "codeHash": "0x092c2c4a26ea475a8e860c29cf00502103add677705e2ccd8d6fe5af3caa5ae3",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ],
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0x6c788630f7f08b77c46558b6d37e149032528023a9cbf39fbfff7fc7897e615d",
+        "typeHash": "0x98701eaf939113606a8a70013fd2e8f27b8f1e234acdc329f3d71f9e9d3d3233",
+        "codeHash": "0x98701eaf939113606a8a70013fd2e8f27b8f1e234acdc329f3d71f9e9d3d3233",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
+  }
+}
