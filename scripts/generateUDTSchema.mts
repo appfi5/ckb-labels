@@ -7,4 +7,4 @@ import { udtSchema } from "./udt.schema.mts"
 
 const jsonSchema = z.toJSONSchema(udtSchema);
 
-fs.writeFileSync("./infomations/udt/schema.json", JSON.stringify(jsonSchema, null, 2));
+fs.writeFileSync("./information/udt/schema.json", JSON.stringify(jsonSchema, null, 2));

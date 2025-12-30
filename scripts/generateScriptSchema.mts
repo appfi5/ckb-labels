@@ -7,4 +7,4 @@ import { scriptSchema } from "./script.schema.mts"
 
 const jsonSchema = z.toJSONSchema(scriptSchema);
 
-fs.writeFileSync("./infomations/script/schema.json", JSON.stringify(jsonSchema, null, 2));
+fs.writeFileSync("./information/script/schema.json", JSON.stringify(jsonSchema, null, 2));
