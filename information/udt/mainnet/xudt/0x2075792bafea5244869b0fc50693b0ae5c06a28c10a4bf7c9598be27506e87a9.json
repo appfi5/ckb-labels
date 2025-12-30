@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x2075792bafea5244869b0fc50693b0ae5c06a28c10a4bf7c9598be27506e87a9",
+    "symbol": "R-MERL",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "R-MERL",
+    "icon": null,
+    "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qtkxuet29htrf3e3vgrunx25y67sm00tljdg4fyclfw2jh",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xdce8882aded89bcec778e7d41b3abc82850d4fac2f9d312a6878da92ca4ea20f"
+    }
+  }
+}

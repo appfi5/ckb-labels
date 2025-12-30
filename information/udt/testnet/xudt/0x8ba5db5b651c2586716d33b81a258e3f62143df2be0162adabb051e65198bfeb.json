@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x8ba5db5b651c2586716d33b81a258e3f62143df2be0162adabb051e65198bfeb",
+    "symbol": "KONG",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "KONG Token",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qnt7rhytv6fv3wsqcks4a4xe8dqk763xvzsnx6s4va9ekmy9khzfyqqqqqqfaz7kn",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xbc8adfa12603ed28b8768f6d534c8980b949051143a42d537856d5d581df2e37"
+    }
+  }
+}

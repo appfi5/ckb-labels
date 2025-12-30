@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x281e08da0575cf6e44408b36f44e9d033f7b09fd179094a1e750f4a74e313fe3",
+    "symbol": "OMAGA",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Omaga",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy9p043c8q2nvc8uu876wa83uuweh7zg2uyvde7y",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xd79ee6a0b877506edb516893c46ea5b306b9df0b6bef3cb30dc8ecd3618c786c"
+    }
+  }
+}

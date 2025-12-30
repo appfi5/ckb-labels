@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x2bc00b1dbadae6e5c08953cb3b8db978551d31d0e57d6291161a0eeb7ce1b4b5",
+    "symbol": "NERVS",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Nervous",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqqw8fm40vlneu7wa2xvadzvmpsjw5ccfjz23uy03p240pnvm99ppqthdggf",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x5a3827c62fdb81e613698395bf568e9eeeea10d92db086c624ee95d4faa2ed18"
+    }
+  }
+}

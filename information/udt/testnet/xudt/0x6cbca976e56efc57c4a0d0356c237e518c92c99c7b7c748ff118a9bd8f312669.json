@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6cbca976e56efc57c4a0d0356c237e518c92c99c7b7c748ff118a9bd8f312669",
+    "symbol": "VD",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "VVVD-Test new ct",
+    "icon": null,
+    "manager": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x931303bbcbfef2565eb74a2d0a36322f2bdb4cf53ad00dbffbdd762c3acec9b9"
+    }
+  }
+}

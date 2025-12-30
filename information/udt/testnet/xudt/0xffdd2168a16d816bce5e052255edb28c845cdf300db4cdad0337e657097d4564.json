@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xffdd2168a16d816bce5e052255edb28c845cdf300db4cdad0337e657097d4564",
+    "symbol": "Shi95",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Shitcoin 95",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqpzg8ny4qdqj3l08snv9gdeu8sa2j7axewrfv8hpd68c7cypz63vetutgst",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xdf845a6c268a26a53b50bb8672fb4e5363b3a14bff81a2d555b414f4b3859464"
+    }
+  }
+}

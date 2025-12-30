@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xdf03c4c6e14d0fda32a34385bf9b8f33c0ea743328184a2c11c2b1bc4222d7ab",
+    "symbol": "BWTR",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8dj8mz65c05qtmc2xnyp7surr8jc8hsa5c9feap",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x2a6471841ca46b0a02d33b816b3630ad53d4a1da400853c3592ad26ae5bb844e"
+    }
+  }
+}

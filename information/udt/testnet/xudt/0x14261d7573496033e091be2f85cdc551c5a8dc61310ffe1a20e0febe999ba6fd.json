@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x14261d7573496033e091be2f85cdc551c5a8dc61310ffe1a20e0febe999ba6fd",
+    "symbol": "XFG",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Ed",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5ql932ejhywa4u9xwz0hu4nth9f87ug25fyap2almfpqjqnszeevqqqqqqfg57ly",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xfe8d3c91fa69c7ce02e2f809038015b8aced4319f923da8f5b78f0054211ad6a"
+    }
+  }
+}

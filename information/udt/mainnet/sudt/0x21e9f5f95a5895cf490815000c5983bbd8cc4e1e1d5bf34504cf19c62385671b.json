@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x21e9f5f95a5895cf490815000c5983bbd8cc4e1e1d5bf34504cf19c62385671b",
+    "symbol": "MATIC",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "MATIC",
+    "icon": "https://cryptologos.cc/logos/matic-network-matic-logo.svg?v=002",
+    "manager": "ckb1qjfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjhcqqqqpqqqqqqcqqqqqxyqqqqx9l6dpjrvlncdcsgv3fwch68xe5segdg9zdaxxxwtum0dtvmlp35qj5qqqqqc8sd6yx9qkvsfhggmnzwrxvgurjvmyggenqsfnv9pxxvzrve3nvvpcg9s5xen9gfprq80hh3q",
+    "type": {
+      "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+      "hashType": "type",
+      "args": "0xb571d967797059352785a0297b3ff740f17df1b97315c311b2c0e0107a0db5a8"
+    }
+  }
+}

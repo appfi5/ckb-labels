@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x4a023fb01839a6439c7fa51964ee213bc76ad97a9dbd74eed35564060e6c1e32",
+    "symbol": "JUCXXX",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "JUCXX Token",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhmtlq9zj6htea872rwspk67y7t0cy2qlhqgha37czh9eglkfvnrgqqqqqqtkgqsf",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x5aae1461acf6de72e9ac6afe44589d8452f8c2b5d99458a883534af66b8b5547"
+    }
+  }
+}

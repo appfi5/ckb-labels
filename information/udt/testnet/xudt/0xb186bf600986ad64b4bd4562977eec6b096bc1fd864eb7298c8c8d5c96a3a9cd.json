@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xb186bf600986ad64b4bd4562977eec6b096bc1fd864eb7298c8c8d5c96a3a9cd",
+    "symbol": "nosr",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "nosr",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfqyk2chr2trunjh9wv4luqxrwydkslhss098fls",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x01a7e1f8d126407938f73d5bfaea7356b576c3921a61474b43b09906062b663f"
+    }
+  }
+}

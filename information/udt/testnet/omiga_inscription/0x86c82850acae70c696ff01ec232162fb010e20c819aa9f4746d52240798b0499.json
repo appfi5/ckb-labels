@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x86c82850acae70c696ff01ec232162fb010e20c819aa9f4746d52240798b0499",
+    "symbol": "MWILA WISE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Mwila wise",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9ny96yx8twfgdut6l047v664d5sjw7zls8hwz7q",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x12f70cfde12dc5e4a334342fb8e1ae78dc2c288aca8260cb71faef6406d75cbe"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x47df2c9dd09e155b01212bc82e4c8ea5aa454777c71b89ea824c5866a2bff6b9",
+    "symbol": "ROCKET",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyfs5pcxz6f47u67fqhekywvwxmcnmd7ugt40m59",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x539cc4cc2ef439edb76fabc15a85985bddf21a7c26ff9ed23c316e2bfcc15163"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x3d2efb6b4455d21860b76712f5d86f28377acfbdc4a6e93f08fa5f0534fee8ec",
+    "symbol": "VIO",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "VIO",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qsuswn9vt62n6htjtfdjt3zjcluzrk65vag44705djuv2vrmget2qqqqqqqfghymu",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x821668737de07d57c84d25c7c0d99263f9707ecafa574b1ee4d2cd87d2d77078"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x39588f39658fecb9405d05044747bddce841c0f753d970085e4779a1c38db182",
+    "symbol": "TCT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "TestCoinToken",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q33aky7unmzpvm3f85545mxq5ma49yv6w62t6cp5dpx5uvm55vlfuqqqqqqh2npc3",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x6568179030b346c2ba5a102a5efc70a89a8447f3f856945607df295bcf35e0bd"
+    }
+  }
+}

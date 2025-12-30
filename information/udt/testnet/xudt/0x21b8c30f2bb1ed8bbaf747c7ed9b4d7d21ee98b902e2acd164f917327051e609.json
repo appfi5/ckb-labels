@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x21b8c30f2bb1ed8bbaf747c7ed9b4d7d21ee98b902e2acd164f917327051e609",
+    "symbol": "RGB++",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGB++ Protocol",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgqqqqqqawnmkdz40h4f74u4f8thrxrghm6k6rz5lrwhjugywd7ylwe3zcjr69gy7",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xa56cf2f1ca53fa387316af9fb1407816b3c35f05ce5d1382cd265684892c642c"
+    }
+  }
+}

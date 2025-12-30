@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x89ca2712b828cf35b3957e7c429ca30c82ff1434efa7cbec0e499ea19c85d9ed",
+    "symbol": "HIM",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Himgajria",
+    "icon": null,
+    "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qklrs7rhpqx62mp7l8x84tax3ex7dy9x533k2s029mju3zj39u3nvqqqqqqzrwvr4",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xe2555c2d509fa1df91841269f21b8cd805245203528b42d5bc02235ab562e8b3"
+    }
+  }
+}

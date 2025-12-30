@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd6941374f80464a07873913279a6fe162415a0578728856cae03d09a1ed62e6c",
+    "symbol": "",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "ragontest11dragontest11",
+    "icon": "",
+    "manager": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xf26aeb616019a37e3ae1dabc1b9513dea6e982d5ee30e29d0664b31e344653df"
+    }
+  }
+}

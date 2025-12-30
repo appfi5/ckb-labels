@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x57b45b8eaa5de208435f25caf5e2c5f856084a96163460ebf9ad590341f3bf62",
+    "name": "CKBoost Protocol Points",
+    "symbol": "POINTS",
+    "decimal": 8,
+    "description": null,
+    "icon": "🏆",
+    "operatorWebsite": null,
+    "udtType": 8,
+    "published": true,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyspmczvpv276a0kwytp8vdn44phe29u5gsjkrp5ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyspmczvpv276a0kwytp8vdn44phe29u5gsjkrp5",
+    "email": null,
+    "type": {
+      "codeHash": "0xfcb4b762e3222b603771811b8abe6b054a480a0f5d8011fd9fff266d72189a5e",
+      "hashType": "type",
+      "args": "0x077a64a38a313aa4c11aea53356b2448d6098afdc22c7955dffb963abcec2c4f"
+    }
+  }
+}

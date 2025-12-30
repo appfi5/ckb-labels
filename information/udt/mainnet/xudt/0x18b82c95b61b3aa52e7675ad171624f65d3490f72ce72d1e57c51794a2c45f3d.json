@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x18b82c95b61b3aa52e7675ad171624f65d3490f72ce72d1e57c51794a2c45f3d",
+    "symbol": "RORO",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RORO_SRC20_LeapX",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqpeutclswahux3y3t0d3jyhmch7xvwunl36wcags5raxx4lhxxq85jr6z3e",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x995d41cdb9a02f6eaae22b6d3c9865d099e06eaf419b820f2e3dac481b0aff57"
+    }
+  }
+}

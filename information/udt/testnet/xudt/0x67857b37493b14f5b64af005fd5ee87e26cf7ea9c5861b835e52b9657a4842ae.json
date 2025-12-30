@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x67857b37493b14f5b64af005fd5ee87e26cf7ea9c5861b835e52b9657a4842ae",
+    "name": "WERT4",
+    "symbol": "WERT4",
+    "decimal": 8,
+    "description": null,
+    "icon": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvs343cqx7uu8vjghyx6w94ej2mh5tn4kgy06cjrckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvs343cqx7uu8vjghyx6w94ej2mh5tn4kgy06cjr",
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x2781f848d34dcebb864e5ea0801aea6f65654cf8d7126e619e8b3d12f6fd24b0"
+    }
+  }
+}

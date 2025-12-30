@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x4bd9e315ce24e191ed5e56b89d5c17ffa2a69f06bfa29d94589676ab74cb9dd9",
+    "symbol": "PUPS",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "PUPS_BRC20_LeapX",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgfqqqqq8v5fqvfmfseejgvt9p3n8envvj253l264k9uxqj8m2u8r2d8s64kp44fx",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x10cd8728100dfec967cec0b17fc3cd9a0d46a63ab317f3a99dc8c0cac78f0c09"
+    }
+  }
+}

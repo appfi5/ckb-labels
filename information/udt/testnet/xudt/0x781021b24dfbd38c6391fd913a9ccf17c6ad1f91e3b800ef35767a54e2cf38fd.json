@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x781021b24dfbd38c6391fd913a9ccf17c6ad1f91e3b800ef35767a54e2cf38fd",
+    "symbol": "lord",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "lord",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5g9eccq5he5a5a9202v8c8e6pleq2ytu3un2lpnwa633z936gwnvqqqqqqw2pm72",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x1f3139bf77dae8901b571d5d575ebfbdc74cf2d15598bab15720d8811b1d77c1"
+    }
+  }
+}

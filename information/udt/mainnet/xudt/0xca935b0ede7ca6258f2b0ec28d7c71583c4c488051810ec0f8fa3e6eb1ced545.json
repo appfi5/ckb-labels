@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xca935b0ede7ca6258f2b0ec28d7c71583c4c488051810ec0f8fa3e6eb1ced545",
+    "symbol": "BULLX",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "BULLX_LeapX",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqqw5vnscw7l3xn8v99vxdw0y38wcdvjxx8t4s62v6jn8u4ug9su3rm2x4pq",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x69b7dd861c7d74f4ac51395e0064ca5d72260f2913cae1bcba89840f9e845124"
+    }
+  }
+}

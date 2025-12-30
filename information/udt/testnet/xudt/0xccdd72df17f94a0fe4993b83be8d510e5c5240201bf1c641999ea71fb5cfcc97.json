@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xccdd72df17f94a0fe4993b83be8d510e5c5240201bf1c641999ea71fb5cfcc97",
+    "symbol": "ewfwe",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "dsvdsf",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdxwk7utly2t304ftjvrqsdllcgv7ae9hcxlwcwy",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xcb729b4e890c71dc45a2d2f1b668bb831c4bf88bec815f88ad6486c8cf62533d"
+    }
+  }
+}

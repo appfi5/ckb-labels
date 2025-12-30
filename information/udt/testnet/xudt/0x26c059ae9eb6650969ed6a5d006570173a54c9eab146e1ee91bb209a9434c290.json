@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x26c059ae9eb6650969ed6a5d006570173a54c9eab146e1ee91bb209a9434c290",
+    "symbol": "TEST",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Test Token",
+    "icon": null,
+    "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgqhft7agpcck3eykp68r5nzp6j9s7gt0ztqqylh9n0",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x23da9932a10caf668e80325fc68f3d788f7fa2e90d16f34a6a9a0c2a207bafd900"
+    }
+  }
+}

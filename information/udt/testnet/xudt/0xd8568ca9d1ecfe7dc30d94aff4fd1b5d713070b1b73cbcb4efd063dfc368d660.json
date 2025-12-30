@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd8568ca9d1ecfe7dc30d94aff4fd1b5d713070b1b73cbcb4efd063dfc368d660",
+    "name": "QL Test Token2",
+    "symbol": "QLT2",
+    "decimal": 8,
+    "description": null,
+    "icon": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdmql74wk6npg7w84phvz4gj6sdlld29dsdwh66mckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdmql74wk6npg7w84phvz4gj6sdlld29dsdwh66m",
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x78462a961047102a93c64e0932a811037851cac7efdb43ecfb848a5bec17d610"
+    }
+  }
+}

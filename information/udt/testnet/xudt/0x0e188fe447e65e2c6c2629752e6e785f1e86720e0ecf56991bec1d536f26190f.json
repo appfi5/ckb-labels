@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x0e188fe447e65e2c6c2629752e6e785f1e86720e0ecf56991bec1d536f26190f",
+    "symbol": "IOO",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "XUDT Test Token",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfraafwuhjgjcgjxuuls6sw3utkjga5x7srapc40",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x076646b9c46a11cbb68f4745f7c5cceb5da6a43d8da76a900037a3aed019cfff"
+    }
+  }
+}

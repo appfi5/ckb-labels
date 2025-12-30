@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x07c9370087b9df13ec54569ae15e3a174d5ee036ed69dfe4094944fa16d04f08",
+    "symbol": "Romb",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Romb",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqpshlx9jz0u4h2jpgx3nrk3j4n35ve04llkaxq32rks2tfdhx0etan0cd47",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xc5ddf64a862490d4c534bb1acf1cd30c313206b5d86ceb527b3cf954436b5c07"
+    }
+  }
+}

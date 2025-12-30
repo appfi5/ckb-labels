@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x03e6abed544172963f91f4f1130be1bd03cab3a33b3d46ca29541125297a7655",
+    "symbol": "TAC--",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "TAC",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2s85s7zjspx7jst2n79crv3kuav7aj72sqdsmg8",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xe4d83e65ded2471b04967e11d5c5af4c3f6ca688ae99169b72d1af8fa31df979"
+    }
+  }
+}

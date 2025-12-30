@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe29b8d5739b31119f066140b67789383523067733230fc529656060e348f95a8",
+    "symbol": "RNM退钱",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "玩个寄吧",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwqyajx6rdkc3hpqtlsypysjnz6deehszq54j873",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xf66f8864d0bc752129132e868b7c74993e4866619943c5c61970d3c4d04a96a3"
+    }
+  }
+}

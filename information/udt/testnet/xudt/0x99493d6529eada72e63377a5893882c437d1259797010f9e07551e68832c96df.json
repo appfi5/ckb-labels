@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x99493d6529eada72e63377a5893882c437d1259797010f9e07551e68832c96df",
+    "symbol": "HWG++",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "HWG",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgt9xnegt2cugzs2kwt368wckumtpl7xksuq9u0u",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x738d526d73d690c51e50d2b16cc0c0ad2f1745bab4f9388cded3975158661b2a"
+    }
+  }
+}

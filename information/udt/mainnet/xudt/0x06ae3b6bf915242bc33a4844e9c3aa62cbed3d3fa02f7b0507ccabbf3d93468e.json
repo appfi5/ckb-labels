@@ -1,0 +1,21 @@
+{
+  "udt": {
+    "typeHash": "0x06ae3b6bf915242bc33a4844e9c3aa62cbed3d3fa02f7b0507ccabbf3d93468e",
+    "symbol": "DRAGON",
+    "decimal": 8,
+    "description": "Dragon Coin. ",
+    "operatorWebsite": "www.ckb.fi/detail/75",
+    "udtType": 5,
+    "published": true,
+    "email": "Dragonckb666@gmail.com",
+    "name": "DRAGON",
+    "icon": "../../icons/mainnet/xudt/0x06ae3b6bf915242bc33a4844e9c3aa62cbed3d3fa02f7b0507ccabbf3d93468e.png",
+    "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkz2c73yeg0f9g3d3nw8522pfny096l6dfj3syeewzp8adyh3cp9sqqqqqqkyc4e2",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x7dc5366303a50d59003770fb9193f2db76997d8b1833e44ac41d11a1be8e7785"
+    },
+    "famous": true
+  }
+}

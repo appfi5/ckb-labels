@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe7cc1bacddb6280d6717b9bedcae1c790e4408ae15b29d3e3a3e47407ca3ef99",
+    "symbol": "2024UP",
+    "decimal": 0,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "1234567890123456789012345678901234567890",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9g5x636wgegl5ceyqjqnre0vm08dkle35yd5q4a",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x14b5afcb4f1633d67a53d6dc6ceb2ccb18029ab436584440456a53fb16963892"
+    }
+  }
+}

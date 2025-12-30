@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xcef135ddca02a931e5b21235fe42f81fe93b01a2161699db4b3a1ae0ac795ec8",
+    "symbol": "Test",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Test",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhxmnruasyya8dycq9ssv0pz485sgvvmrmkmgajuj9p8d77u4ghzuqqqqqqglv7as",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xf8f94a13dfe1b87c10312fb9678ab5276eefbe1e0b2c62b4841b1f393494eff2"
+    }
+  }
+}

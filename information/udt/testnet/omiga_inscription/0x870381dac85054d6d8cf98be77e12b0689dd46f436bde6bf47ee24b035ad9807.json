@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x870381dac85054d6d8cf98be77e12b0689dd46f436bde6bf47ee24b035ad9807",
+    "symbol": "ETH",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "BTC",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9tqz3ckupkdedsr43x8ayh098g6tx6yucrdy3nf",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x672ebe959a7125cc141c7a5336f0c1b2c0f6d9916179eff66c46f00adf6d4d2d"
+    }
+  }
+}

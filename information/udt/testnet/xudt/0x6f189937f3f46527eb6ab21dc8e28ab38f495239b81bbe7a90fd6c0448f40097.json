@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6f189937f3f46527eb6ab21dc8e28ab38f495239b81bbe7a90fd6c0448f40097",
+    "symbol": "ACBA",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Aven Create RGBAsset",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqpu4ggy0e268af4whrztvq9vweh7agqfp6cw633hqdmvfagrls20v37q39e",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xfc99aa0aa75d94db77bbe8061bb5372557430a9bc86d3a3c1f30a7a220cc90c0"
+    }
+  }
+}

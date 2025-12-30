@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe08349a4586d8092f0ade851acdea3a5b46dd7d74316388b2415e8f65331ae81",
+    "symbol": "HOUSE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "HOUSE",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqdpwy3sqx9ra4zcc29w7t66q0r42tzjfgrmg3damkag5fgg9fg254d7qcu",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xd2d93cd54856f2a961fcdb15e7cb9adbad5af9ea4fc34acb05b02c08c3eefd31"
+    }
+  }
+}

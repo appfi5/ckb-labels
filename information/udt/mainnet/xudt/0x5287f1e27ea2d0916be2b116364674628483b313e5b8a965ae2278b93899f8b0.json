@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5287f1e27ea2d0916be2b116364674628483b313e5b8a965ae2278b93899f8b0",
+    "symbol": "Z",
+    "decimal": 4,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Z",
+    "icon": null,
+    "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq524kt3w44gh7jyn2gjeyesswmztvsy292hpzn2hrw9utlnlaltecyuth0y",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xb33e13f72f0df35009c835c2c44d0c47b4865aeb08e95266becc86db39d62160"
+    }
+  }
+}

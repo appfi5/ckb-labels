@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x3a2993d640d859a82079f018fb450ef80d8e7e62c8fb666d36ce0dec99a4c76f",
+    "symbol": "TT6",
+    "decimal": 0,
+    "description": "Token prueba 6",
+    "operatorWebsite": "http://pruebatt6.com",
+    "udtType": 0,
+    "published": true,
+    "email": "nashertmc@hotmail.com",
+    "name": "Token Test 6",
+    "icon": "",
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfadv0azu3l7jcwfmrjkec5kzf7x5kltzsf83avz",
+    "type": {
+      "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+      "hashType": "type",
+      "args": "0x29c6ed1ac4389de5f22e6465593f2973940460a88c54d251acb518e1d6ec2dee"
+    }
+  }
+}

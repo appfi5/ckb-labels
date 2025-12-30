@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x8bc1cd3e2d99b667fdf2c0c32813ba17f1a494835edf6b1b0edd979728b230a5",
+    "symbol": "gandra",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "gandra",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q39sdetlyty9ew5jmmahwt3fut6rdlncwq50x4w4qglmyz6tlpxnqqqqqqquuad4k",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x64e41e3da71e1be555e8c67740b96e4507de6d29edfbb2c7529b8f923a57f0e6"
+    }
+  }
+}

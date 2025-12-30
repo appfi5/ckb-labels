@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xf2e262e4549197232b738bdf7ae51da9831cf51a0120982cf22484a841d04bdc",
+    "symbol": "xsefwfwef",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "ttttts",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2yg3g02prv8c00t0gfezqjmftfyzygyzqh9wxa2",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x6eda4cdab776715bfb5014b61193711a07ed003837a0b6adee5c339f607a1898"
+    }
+  }
+}

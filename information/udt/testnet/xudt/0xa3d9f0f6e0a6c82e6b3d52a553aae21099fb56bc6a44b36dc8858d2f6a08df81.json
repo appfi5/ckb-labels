@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xa3d9f0f6e0a6c82e6b3d52a553aae21099fb56bc6a44b36dc8858d2f6a08df81",
+    "symbol": "RGBM",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "MOM",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtykn023wrf7fvcryfacjdn3gpnqk42ljgmdp7cv",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xbad8f5bc630b2e4c01af224678555e4b0735bfcc5f64834f4910807b78007386"
+    }
+  }
+}

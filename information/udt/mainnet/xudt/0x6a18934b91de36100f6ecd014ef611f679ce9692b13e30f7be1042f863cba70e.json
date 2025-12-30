@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6a18934b91de36100f6ecd014ef611f679ce9692b13e30f7be1042f863cba70e",
+    "symbol": "L",
+    "decimal": 4,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "L",
+    "icon": null,
+    "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqhnkgvkt0urkkyk5l2akfsads6wr07xwrnsywlqhjmrfutr95283s8r53yl",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x14e795b0703148e19a3672f5dc9ec6fbb4b636f551b25b06c1e5f17df437c71d"
+    }
+  }
+}

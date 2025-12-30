@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd75edde40c0272dc6b46d2c29bc381042964f70ab32a14450bbe3ece9ed45d1b",
+    "symbol": "GIT",
+    "decimal": 8,
+    "description": "For Git",
+    "operatorWebsite": "git.magickbase.com",
+    "udtType": 0,
+    "published": true,
+    "email": "286065910@qq.com",
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qq6pngwqn6e9vlm92th84rk0l4jp2h8lurchjmnwv8kq3rt5psf4vqvsrxshje05pu6djchd509mg0dy9epq54cd9wg8w",
+    "type": {
+      "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+      "hashType": "type",
+      "args": "0xe4bb5ff96580fc0ae98e98bf39ef5878efb85f6174fa96e664a5db4778f5a04e"
+    }
+  }
+}

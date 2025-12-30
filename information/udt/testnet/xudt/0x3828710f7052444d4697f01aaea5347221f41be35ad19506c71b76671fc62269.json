@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x3828710f7052444d4697f01aaea5347221f41be35ad19506c71b76671fc62269",
+    "name": "Bridge Lock Test",
+    "symbol": "BLT",
+    "decimal": 18,
+    "description": null,
+    "icon": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "manager": "ckt1qrh997sd0twu0vkv9yxfcteegu3gst4qn3dpulz29p4q4094a7zazq2zf32qsfp42zckt1qrh997sd0twu0vkv9yxfcteegu3gst4qn3dpulz29p4q4094a7zazq2zf32qsfp42z",
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x1eeda85e5bb8322347e7fb9e1f7df4d7dd8b0f6e8ff73bbe9636449f9600cdb5"
+    }
+  }
+}

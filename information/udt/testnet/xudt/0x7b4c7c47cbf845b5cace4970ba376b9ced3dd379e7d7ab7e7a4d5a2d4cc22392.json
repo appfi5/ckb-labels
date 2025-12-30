@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x7b4c7c47cbf845b5cace4970ba376b9ced3dd379e7d7ab7e7a4d5a2d4cc22392",
+    "symbol": "DDTR2",
+    "decimal": 6,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "TTRD2",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qnpysxu4fw3ta6y3mljyac0gwae4ax7f5sh55f4et9jlm00jy5tcqqqqqqq4ds66g",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x82563073c3726198f4e57f7a7f2b518463dbb6ed0ffd1ad09bb4b8d73f566440"
+    }
+  }
+}

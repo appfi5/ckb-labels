@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x84e4e7a525074afbead0328f62927e5c5eccae8c8b49b25d0e40087ec0ba395e",
+    "symbol": "A LONG",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "2024 long nian bi",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyyvpqdyvx5km8l3ez64853ceucanxnwugtx3l89",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x75ba2283e66d74fb6fda0032ac23c8ea47319ba36d15808dd7be7f1b0fa0eb93"
+    }
+  }
+}

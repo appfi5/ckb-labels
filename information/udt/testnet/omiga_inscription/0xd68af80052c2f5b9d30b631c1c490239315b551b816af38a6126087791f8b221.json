@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd68af80052c2f5b9d30b631c1c490239315b551b816af38a6126087791f8b221",
+    "symbol": "TUSD",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Binance USD",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9g8hfk2mkduuydueqxqedvcfd4fmjh595k7ll9y",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x33ba448782f7c809c384fb9d882d0d0a15c917587d68772c7c91b9ce35f153a9"
+    }
+  }
+}

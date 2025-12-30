@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6f7375043cb89f48eeba7df6f46bbf4e91f61ff3d7f22f2c2c64ee30a5e14d55",
+    "symbol": "DETE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "DETE",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qna9yl8mc25auxz2zu3gt8lhghhxjw0m9elk7jh3w7xpgvwykd9xuqqqqqqlnhw4j",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x36bf3f394ea48da3f405e156db66a70822d2a0fea4ab27d3ca87237c62d9fc17"
+    }
+  }
+}

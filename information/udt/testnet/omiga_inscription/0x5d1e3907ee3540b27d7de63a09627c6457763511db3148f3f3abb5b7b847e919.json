@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5d1e3907ee3540b27d7de63a09627c6457763511db3148f3f3abb5b7b847e919",
+    "symbol": "8866",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgyd5gmqwylfkwjrvfat00afnc0g0zmeqqfqqvfz7cw",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x209ecb9e5a1a7bc124e5760ec875a442e8721c1b85a865eda1a2f0c1478dd585"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xba2b96dac1805f6a8b98cee7cfb50546cc3da5ad3d11cbb0af484d856f195a70",
+    "symbol": "R",
+    "decimal": 4,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "R",
+    "icon": null,
+    "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqhng444anld97ftk97ptrd6rtmh0jgdu3n70zd3sq0jkfgacuace5xj43wx",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x4bb968c74064d714a3303efd9f96e228cca4f06ab39f247194d73cadccca6ab4"
+    }
+  }
+}

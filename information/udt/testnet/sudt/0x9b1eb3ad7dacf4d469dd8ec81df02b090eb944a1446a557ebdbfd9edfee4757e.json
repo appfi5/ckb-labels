@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x9b1eb3ad7dacf4d469dd8ec81df02b090eb944a1446a557ebdbfd9edfee4757e",
+    "symbol": "test",
+    "decimal": null,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 0,
+    "published": true,
+    "email": "286065910@qq.com",
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgq47l4xk2yher29av8ngarfx7yl4tcfg8fqq69k05f",
+    "type": {
+      "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+      "hashType": "type",
+      "args": "0xfb7b6c4a2baf39ebfdd634e76737725362cf18042a31256488382137ae830784"
+    }
+  }
+}

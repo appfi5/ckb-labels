@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xfdebb34b811fc3c733010079011c0c78317763ae34567382eb953346183c8e96",
+    "symbol": "brc20",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "brc20",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgtqqqqqaeehq9dwltx68u54c7m0hqhu5y5cmjsv9puhw4fe5jeyd3q0dhwy5prhl",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xcad2ef14d872456750be47bc4c41d67280b229932c23bfc6435a43000367c01c"
+    }
+  }
+}

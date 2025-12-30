@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xf9069ab259fa732579137dccda57dac7c44669c73f23418ca777e0a5d0d46903",
+    "symbol": "PIG",
+    "decimal": 6,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "PIG",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q40xn6dzekn8tsfw7hpt42y2ncnlwvrz7guq65lw0c0r8j3zzqedsqqqqqqxafne3",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x6b15d38b6af39a27b62ecc2a05046583816e12efe85c7ff2e43e8b59f196b16f"
+    }
+  }
+}

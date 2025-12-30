@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xde2a3a09f752e54772536872537e92f1a9494cbb67791cdc94d8ff042171ec6a",
+    "symbol": "TT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "taotao",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxp6rv0s7g29tuuulg66epqar5lvztrjmg56hl30",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x21e6fd6ca28859656025229e028e15e03dc663850bd63ffd98c02d8eb711233a"
+    }
+  }
+}

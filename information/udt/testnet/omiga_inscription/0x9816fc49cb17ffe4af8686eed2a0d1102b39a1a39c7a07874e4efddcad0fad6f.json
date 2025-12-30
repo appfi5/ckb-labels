@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x9816fc49cb17ffe4af8686eed2a0d1102b39a1a39c7a07874e4efddcad0fad6f",
+    "symbol": "TON",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "TON USD",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq80y2t2ht4tryakry8zm2xy4zgfxqmj9juulpvyx",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xe9f73eca1c2d3759acaa5eb6b005e6b54c6520497d4c6482d2e8e4d0f5c0e3e8"
+    }
+  }
+}

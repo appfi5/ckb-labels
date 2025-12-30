@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe604cff0eb080c692e40e4c6db9c7467b0351fe733b501d0211a6e76d47b2042",
+    "symbol": "NAIZI",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "NAIZI",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqqh6p4l2pp8cwkp9y6rmpt8urnpvw256r4sycjsey4un3md7vnk53nzk5hv",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xc3616274a5e00140e986be7e9040fa9bf0b21b4037c63201279c6045f33e86c6"
+    }
+  }
+}

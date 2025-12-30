@@ -1,0 +1,21 @@
+{
+  "udt": {
+    "typeHash": "0x8f3f664865f70fbdc85155a4359cfbc8f0d4d5aa08ee757e8866c33447c7ae53",
+    "symbol": "TAI",
+    "decimal": 8,
+    "description": "Backed by excess collateral on-chain, Tai is soft-pegged to US Dollar, i.e. 1 Dai = 1 USD.",
+    "operatorWebsite": "https://nexisdao.com/",
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "TAI",
+    "icon": "../../icons/mainnet/sudt/0x8f3f664865f70fbdc85155a4359cfbc8f0d4d5aa08ee757e8866c33447c7ae53.png",
+    "manager": "ckb1qg56s9rnufyjfcu54y2g4v6hcfyjlm0k2fqcfzm6safe5ldec02rlclf85g06zl5hnud480vtxj37zp4yxe7zxssqampfva48wfn0ykkqsqqqqqvcny6h",
+    "type": {
+      "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+      "hashType": "type",
+      "args": "0x08430183dda1cbd81912c4762a3006a59e2291d5bd43b48bb7fa7544cace9e4a"
+    },
+    "famous": true
+  }
+}

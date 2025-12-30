@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x3541c6d1ff8044a11e1e1a90aa87189501f64308e6685fcfeec5ef1a5ecd0fca",
+    "symbol": "CKBI",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "CKB Fist Inscription",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqd44wftcj2et9fn3c7e5zw8mqvjmwgqq4sk78t6w",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x22515a257113915eba8305e2c0700aa53c7b79aad3ac2ace4d4ba7a0e2e8709d"
+    }
+  }
+}

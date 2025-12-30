@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x144167012e0a4b5139fbb71c0e8e3da3fa6e1eaf27fe1c93eee0f72f20d3ef5e",
+    "symbol": "JPOINT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "JPoint",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq98cmde3jda6lh4cgyascntf95py9rcsrsluf05n",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xd7f001d34a8a7ce8cb9ac2b5210aac2f8d467024c43a85823282013d4ff28a4e"
+    }
+  }
+}

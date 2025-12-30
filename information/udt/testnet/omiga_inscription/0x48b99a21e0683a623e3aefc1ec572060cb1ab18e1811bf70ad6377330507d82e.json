@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x48b99a21e0683a623e3aefc1ec572060cb1ab18e1811bf70ad6377330507d82e",
+    "symbol": "BRCT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "BRC App",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8sw0vv7exgra5gsfncwg4yayyvudk4jwvzzf85v",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xb366e2eaed971b98c25988f6ea753262b7529bb8f5564476fcbf38437f917fa3"
+    }
+  }
+}

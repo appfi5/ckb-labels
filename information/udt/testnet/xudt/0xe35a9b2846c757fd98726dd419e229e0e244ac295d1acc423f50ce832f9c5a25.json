@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe35a9b2846c757fd98726dd419e229e0e244ac295d1acc423f50ce832f9c5a25",
+    "symbol": "KOOT",
+    "decimal": 6,
+    "description": "",
+    "operatorWebsite": "",
+    "udtType": 5,
+    "published": true,
+    "email": "dev@rivtower.com",
+    "name": "KOOT",
+    "icon": "../../icons/testnet/xudt/0xe35a9b2846c757fd98726dd419e229e0e244ac295d1acc423f50ce832f9c5a25.jpeg",
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q49yhfynk5z0r89tky2k4cdjs0vz9mk2wpp2awq6gx5arh9na3gccqqqqqqyjadhl",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xa4427723ebbded38c776e2b220bd3ff8b04dc40c6754da079df4d72a1c171855"
+    }
+  }
+}

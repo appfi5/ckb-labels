@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xb05b19cc4c7fb717a65dd5ec28ef19e33f829a754d3a3aafe8b6b0f31c596fc0",
+    "symbol": "seal+",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "seal+",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqpfxawl2kwlha6ewq60jgmlq34zjk83e73p8u5lwt66w7slty5wwtc3gpuj",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xc488d66c03b36dff572e3ede254618df7a8a945d78221d95feb3c7e3ee62691c"
+    }
+  }
+}

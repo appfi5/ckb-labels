@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x52ff348cc7afcba9b10b47dd6187216bc56d18c60d7eaddace9bde4e08642751",
+    "symbol": "BOB++",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "BOB++",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgaqqqqpw4mj89lmqxsk6uwsaceqxlthk43cd33e5sn9dqm45phc65wx8gd5vdt28",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x017f0a5414c16afdc9a29823b1ae21df157317437c8acb29251c55d0bd6054cd"
+    }
+  }
+}

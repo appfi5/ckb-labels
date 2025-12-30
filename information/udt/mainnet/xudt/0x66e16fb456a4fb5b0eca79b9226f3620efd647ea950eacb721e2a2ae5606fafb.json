@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x66e16fb456a4fb5b0eca79b9226f3620efd647ea950eacb721e2a2ae5606fafb",
+    "symbol": "coins",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "coins",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqqtfyhcecgkm32fcwvg7cmnl846nwg7ysngv500y0jasdvtcxd58l8kngmd",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x0b3eba2b4aaa7e24a6783693db9aee672be00ba1fabc8536cdea674109f90fba"
+    }
+  }
+}

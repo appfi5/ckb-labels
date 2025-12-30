@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x816cea8065b04028196c6890176bd559acac5bba5e26a54f59cbbd127355e636",
+    "symbol": null,
+    "decimal": 8,
+    "description": "只有异变的空间才有的蕴含着魔法力量的神奇石头，无论大小，始终保持方块形状。可用一百个合成一个无色大晶体",
+    "operatorWebsite": null,
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "无色小晶块",
+    "icon": "../../../icons/testnet/sudt/0x816cea8065b04028196c6890176bd559acac5bba5e26a54f59cbbd127355e636.png",
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2ltp3j5y370ee3mv94nnjslct908rajsgzd20j6",
+    "type": {
+      "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+      "hashType": "type",
+      "args": "0x7e9937fdf99f952ab8ea150a181fc7266e8976173d5cf201a13895e4ea2e457b"
+    }
+  }
+}

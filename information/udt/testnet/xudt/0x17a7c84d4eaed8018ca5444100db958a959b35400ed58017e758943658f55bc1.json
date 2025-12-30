@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x17a7c84d4eaed8018ca5444100db958a959b35400ed58017e758943658f55bc1",
+    "symbol": "DETD",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "DETD",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qk2s99wanr0qlhzcs59ds8nmej6a7dmzj5300wz2pjg3cfdk2tavvqqqqqqgwguta",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x42244e61304fcd88ab63fc38e3a968a0285a67e03151fad1065b638c481f07e9"
+    }
+  }
+}

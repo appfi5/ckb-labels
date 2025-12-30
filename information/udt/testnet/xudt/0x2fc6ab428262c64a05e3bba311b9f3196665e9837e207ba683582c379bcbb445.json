@@ -1,0 +1,21 @@
+{
+  "udt": {
+    "typeHash": "0x2fc6ab428262c64a05e3bba311b9f3196665e9837e207ba683582c379bcbb445",
+    "symbol": "DRAGON",
+    "decimal": 8,
+    "description": "Dragon Coin Test",
+    "operatorWebsite": "www.ckb.fi/detail/75",
+    "udtType": 5,
+    "published": true,
+    "email": "david.dragon.smith@gmail.com",
+    "name": "DRAGON",
+    "icon": "../../icons/testnet/xudt/0x2fc6ab428262c64a05e3bba311b9f3196665e9837e207ba683582c379bcbb445.png",
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqnhm484dhrc5f6gq5ztaxcjgehkq9v2aelmzrprsfvuwp75sma5n5wgvelk",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x0de8bf8958dd5fcda833ead2cc2827f3e60b8764b0807fd45c0de805f435a82d"
+    },
+    "famous": true
+  }
+}

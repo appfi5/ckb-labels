@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1497ec906935ac2b0f181536b101860364bbeeb28edbc982c3e36de2cd64cdb0",
+    "symbol": "NSN",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Nervos Say Nervos",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqx7892f9675629ez7lw6kldfv9uwmmunacpqjs97",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xc2a4690bdf88afda999b25990e62db9479f4e3146956317b78989af6e96c1d55"
+    }
+  }
+}

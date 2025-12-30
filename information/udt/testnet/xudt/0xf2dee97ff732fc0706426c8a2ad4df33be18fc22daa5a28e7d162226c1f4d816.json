@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xf2dee97ff732fc0706426c8a2ad4df33be18fc22daa5a28e7d162226c1f4d816",
+    "symbol": "TestXud",
+    "decimal": 7,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "TestXud",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q54kufh4v8fz0zgjh0mnuj65fp3tvz59rl3p6y2xl2wf366xsy4fsqqqqqq95xvac",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x14f6b8abd82d9af920f1fe7f5d557fd084530d24c9df10a548a8aa8618894a4e"
+    }
+  }
+}

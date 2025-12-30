@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xa16f9a484a3c115b5ac2cd821c458a62723f2f114fc75b4d6ed1e735022098de",
+    "symbol": "TTK13",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "TTK13",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjhfl08xjy5qc8u4pnrx0sahqny7c4mq792dxed7ke2zkdps892kuqqqqqq48wkyu",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x6ee12ee455ab98dedffb80e27050917c668ea9211a725efdc27a8dfda459bbc1"
+    }
+  }
+}

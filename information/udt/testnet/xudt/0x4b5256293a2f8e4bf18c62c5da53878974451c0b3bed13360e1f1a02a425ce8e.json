@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x4b5256293a2f8e4bf18c62c5da53878974451c0b3bed13360e1f1a02a425ce8e",
+    "symbol": "TTK0116",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "TTK0116",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qsexkg9ggyxwex5e04s3ta8mau2lx8f0ye0jxt0uljjaj3etwuk6gqqqqqqthze4u",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xdcbb76019527ef57e72434e94d25780b4b5b5e905a8c137a68e3e65e7496b567"
+    }
+  }
+}

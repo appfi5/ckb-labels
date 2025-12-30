@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x2c962580515078da307b461914b416137c6b881f959f6e9051f54f8132bcb7bc",
+    "symbol": "TTK1226",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "TTK1226",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qh79fsc7hd8dsyghsa3ys2569n0mgxk4ek0h46qmgtlywm70zqtn5qqqqqqddpdyx",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x18e704a2998ed99847bf087857848a64e5422913f5c96468b329d4e0c93718e4"
+    }
+  }
+}

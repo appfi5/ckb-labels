@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xba61eb61b67c95f591e148c40cf9c9050a5705db8f0a908b74c7c85e897e9747",
+    "symbol": "HELAD",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9gtxvx297t0vdlc62dcfxv0tjmhhfumrsgqfew9",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x0863f134c75b4fcb573b416a05bbf5749f12b96e21d3d1f0b7ec282609957a87"
+    }
+  }
+}

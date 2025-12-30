@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5832085703d5ad3f0f8e2db197272189531dca3f1e928b1a4e0068a5cfb6b8f9",
+    "symbol": "JOYNEST",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Joy Nest",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxc48am46wzadeynywyahvk5lmczwn8rpspvszqh",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x9f98786070c62c8d885da9ad22e201b53e603dde9da4845004cb71d791f1ff27"
+    }
+  }
+}

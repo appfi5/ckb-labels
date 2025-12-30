@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x57a67c31335f4bc2ab179245acfb7f8d8a25fb5f6250fcf67f3b2e19e826b340",
+    "symbol": "M",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Magenta",
+    "icon": null,
+    "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvrjkwue5rfk0wyw863xwzk2z2668s57rclf8t0r",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xe4f84043fd993b1d7294fde13b6049abb0923a986a338413a314be018dc78da4"
+    }
+  }
+}

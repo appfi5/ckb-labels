@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6b0ba5a3b05b288ea0be851d5d8ebb45a540810274030d11bbd3dc4a97997686",
+    "symbol": "BDUSD",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "Bangladesh Dollar",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxcqj5tvds5vqt9shpz8hmujqyml7y8sccnqq5ex",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xa9b532cf41777f997e7de93878be1440352b8885ded519ab5af0e9078182ed30"
+    }
+  }
+}

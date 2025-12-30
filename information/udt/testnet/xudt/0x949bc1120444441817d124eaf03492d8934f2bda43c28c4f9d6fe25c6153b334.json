@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x949bc1120444441817d124eaf03492d8934f2bda43c28c4f9d6fe25c6153b334",
+    "symbol": "CKbro",
+    "decimal": 0,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "CKbro",
+    "icon": null,
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqhsqug00mwcslue49mcxaz5n8k5q7063vlm4utaj2c0ky0c5w8xzqc25qqa",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xe247d79cd8f44f938a847ec59730ea92e1903ea5db53c6291a5170a5d45a31d7"
+    }
+  }
+}

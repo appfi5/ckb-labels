@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x6c1abeef03b6e9fb99e242af71f6a2337ad633f9cb0bd8de32111992f715e584",
+    "symbol": "HUB",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "hub",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy6ha60qu5jsun09gdv7cwp760cpevka9cyuecd5",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x326915f7db9589212874fffeead679d6a765cacb990275e696f881bfe7076a7f"
+    }
+  }
+}

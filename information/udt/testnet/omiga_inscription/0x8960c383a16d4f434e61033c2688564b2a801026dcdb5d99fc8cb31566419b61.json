@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x8960c383a16d4f434e61033c2688564b2a801026dcdb5d99fc8cb31566419b61",
+    "symbol": "JACKYLHH",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "testing only by JackyLHH",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8pyg8dlq3x83thhzzsvhfc6ltdxrnxqcge48a45",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xed26266891d158130a5fe985c64fd36846cbd0bcacdcdbf19aba3a6501c75529"
+    }
+  }
+}

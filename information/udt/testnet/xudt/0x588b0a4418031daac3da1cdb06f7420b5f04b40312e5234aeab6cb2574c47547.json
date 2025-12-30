@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x588b0a4418031daac3da1cdb06f7420b5f04b40312e5234aeab6cb2574c47547",
+    "symbol": "tokenSymbol",
+    "decimal": 6,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "testName",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3t47k7dmpay3h0y2k085x4ru3ft2sxv5kq4rt060y7f5wkexzt6gqqqqqqne59nt",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x89e49ecc775d1a0e5385299036c1514476254948c518ecbf54a78fa809370791"
+    }
+  }
+}

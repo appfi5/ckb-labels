@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xa2af84ff81f3cf1f3430c4d99d130665c13370439b3b7529ca168c52dd6b138d",
+    "symbol": "TESTRGB",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGBTest",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qnfk70kmawf6af8xg8vs06n8sa2raacxxw0auy9dehtze2w8lt9tvqqqqqq9knr6x",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x88d3fd36e2bf0a2806cd1d633744df5c984c23d630ba85df39049010e79073c5"
+    }
+  }
+}

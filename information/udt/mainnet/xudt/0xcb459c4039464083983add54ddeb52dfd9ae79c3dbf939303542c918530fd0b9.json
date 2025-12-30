@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xcb459c4039464083983add54ddeb52dfd9ae79c3dbf939303542c918530fd0b9",
+    "symbol": "MFER",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Mfercoin",
+    "icon": null,
+    "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvaqnmu9tgdthz8q4japx4qcmg7l2nwpxs6f4c6p",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x03c59f13ef5a394a7f8f722674146e6eccaba443a192b1dc2361e0a481c3926719"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe12a8985454f608724baf37469486103fbbed0f29840b5728786fc5d1b69698b",
+    "symbol": "BBBB",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "bbbtoken",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqqm0sshrj7n7yec3q7skgchah9dqavd8uv99phvlyy6vu0utytuu0xa2y5n",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x8e3dc424d8cb2499bedb30319edecf03b8d0243d8f1834eafb0d8c0166f2cd8e"
+    }
+  }
+}

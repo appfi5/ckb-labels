@@ -1,0 +1,21 @@
+{
+  "udt": {
+    "typeHash": "0x1ebe22fe7d9740e56998b6b874aac985af4ca4040d82b251951fb536f405244d",
+    "symbol": "KOI",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": "https://stablekoi.com",
+    "udtType": 0,
+    "published": true,
+    "email": "ckb-explorer@magickbase.com",
+    "name": "StableKoi Token",
+    "icon": "https://app.stablekoi.com/images/tokens/0xd66eb642eE33837531FdA61eb7Ab15B15658BcaB.svg",
+    "manager": "ckb1qz0n46hjl3pe2jwtepcvv5ehf9p6l94qvk9addgmarvfsvvrum6j7qgpma4tnak67fwm6v238fkvc3que7eppffupq8n2g9gvm8zfnzhk2t6gst958ncz84zw9l8nzd42faw9uf94yhnjdqve5h",
+    "type": {
+      "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+      "hashType": "type",
+      "args": "0x68ab5e63d676ce31c56c73d037f38bc35398d4af94b43f8717832c1c81eb251e"
+    },
+    "famous": true
+  }
+}

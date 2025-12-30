@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5c97ed0285929cec7477e5750538635f1d18522ebaebf8a51ee6267b279147ec",
+    "symbol": "RATS+",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGBRATS",
+    "icon": null,
+    "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfqznkumrmp77yulhsuu7pnpytlawmjqxsps427x",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x6c489dfa1eab37b5264881e05951006b62e65f1d2cf6a40a1b6907d59648daec"
+    }
+  }
+}

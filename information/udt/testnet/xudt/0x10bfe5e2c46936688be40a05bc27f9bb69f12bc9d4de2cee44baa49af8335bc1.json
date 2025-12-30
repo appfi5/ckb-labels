@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x10bfe5e2c46936688be40a05bc27f9bb69f12bc9d4de2cee44baa49af8335bc1",
+    "symbol": "fujgghh.com",
+    "decimal": 3,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "fujgghh.com",
+    "icon": null,
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqh3tkfqsw7urhte2waf3x8mqa47xvr0nsq6tna2llwfeg9k8mhmgcukn506",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x82608231ca68ab2b414ec18c5716f3edf7eecc30e85a68bc69cc222e3d4bcaff"
+    }
+  }
+}

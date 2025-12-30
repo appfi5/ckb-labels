@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x9a3cf6bec0146c751e5a1795fe4b0b260a3b1e6106e1404dcb71ac1925bbdc48",
+    "symbol": "MEMES",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "MEMES",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqpr69fxerhdx833kd34ynwm5glmag73g6ndx52czet6ftsszlwe0xzfpv7f",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x08ab16c146b92553e42248b59967d64106a4da4c31a4c4166c2416fc3431cc1a"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xfda377bea0753583615f1c7be6656e8c2c269ef76c608ef94bd1165d8bb08e90",
+    "symbol": "Web5",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "WEB5",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqqn2kj6ztdt92q9efks7wlw2vrqmkjzatj8cw6r2yzp7me5ssj5fuxcrhe0",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x8d0de99deaecd6206b44dbf378281e126e7ef50edcfb405d18e7c77ff0802ca9"
+    }
+  }
+}

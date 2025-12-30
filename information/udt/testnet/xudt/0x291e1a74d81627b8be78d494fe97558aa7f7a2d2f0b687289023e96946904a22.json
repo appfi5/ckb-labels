@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x291e1a74d81627b8be78d494fe97558aa7f7a2d2f0b687289023e96946904a22",
+    "symbol": "qqqq+",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "TESTT",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgmlyvxjd03dgvs0nkr0dxp6ulx6qxy2ygt0ywnr",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xce78fd2849055ee791bf1b3ab153c59f54c02ca938a3e3f3e1e9d7bb239f2bf2"
+    }
+  }
+}

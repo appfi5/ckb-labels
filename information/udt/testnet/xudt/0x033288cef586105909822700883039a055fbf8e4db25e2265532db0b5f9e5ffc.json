@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x033288cef586105909822700883039a055fbf8e4db25e2265532db0b5f9e5ffc",
+    "symbol": "WERT",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "WERT",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqv4dtj8yzrrlhdc7setg4wxq322eaqdgjs6w56nr",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xdc724bf18cab5cdd60b75466f93eb2d9a5973e9d1f04d29b2a80aff2be75166a"
+    }
+  }
+}

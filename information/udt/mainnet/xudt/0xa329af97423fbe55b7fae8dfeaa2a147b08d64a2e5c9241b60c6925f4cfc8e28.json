@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xa329af97423fbe55b7fae8dfeaa2a147b08d64a2e5c9241b60c6925f4cfc8e28",
+    "symbol": "QUARK",
+    "decimal": 0,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "QUARK_ARC20_LeapX",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqpk3m43fel7mgpq460e6nrrl2klpwcrga5xkhwfdqvmsnwy9v2z2v8w5vh5",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0x5ff9bf46aba21a0c76e2b77436d5eda772d71ec8a1fd7b2c9401e697eaac20c6"
+    }
+  }
+}

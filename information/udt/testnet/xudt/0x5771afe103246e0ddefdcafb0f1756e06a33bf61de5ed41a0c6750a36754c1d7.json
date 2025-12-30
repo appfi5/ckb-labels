@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5771afe103246e0ddefdcafb0f1756e06a33bf61de5ed41a0c6750a36754c1d7",
+    "symbol": "testUSD",
+    "decimal": 6,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "testUSD",
+    "icon": null,
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqhm0c0lcuah64zfslw0pezg0qv2ghrds3syv4lp25pw3d27aen2fvyajxjm",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x7d37e4694fffd528f77917ee0d890e97a49cd0354f8e27300a1c7b0b4dd83889"
+    }
+  }
+}

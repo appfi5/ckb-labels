@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xf4ba5a40feedd5ab74713b6e41648d2dea8de2816ca08910eed0314463be5b68",
+    "symbol": "FLY",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Test",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjxp30tn6zlrdtqldgr4a09cfdtf6upgpv9hs0a3rs65kgxvlf4pcqqqqqqxfssu4",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x9d9c5c1276bdebb1715a9f3000019233c5ca49952c5a4a9863a68b84a7f7bfd1"
+    }
+  }
+}

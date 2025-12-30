@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xc92f5b0c9228bac0861676c78578f4be7b27e85d4603748b0a735f1c58c33c8d",
+    "symbol": "ttkv2",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "test for v2",
+    "icon": null,
+    "manager": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x3e10cd5ee064faf7fc3ee68181f108f0a8bce3a10f8bd0f006276709ad0fcad5"
+    }
+  }
+}

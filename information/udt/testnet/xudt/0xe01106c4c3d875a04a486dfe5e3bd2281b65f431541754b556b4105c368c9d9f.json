@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xe01106c4c3d875a04a486dfe5e3bd2281b65f431541754b556b4105c368c9d9f",
+    "symbol": "BTE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "BTE",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qn72fqn2aee5ye20kyjaqeht7h3665rt58v4qezl2jg5d5ywhtsfyqqqqqq7dvr6d",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xacce9694ebbd0bb62e5669881c193e969e1fb4a075fc8c7dae4e47dec82adb94"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xd0d3817040b0c9156d99c0fc0b6949be5257470b67c71403b61784d37371ab50",
+    "symbol": "GOLD",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "$GOLD",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8y9e0mhly9ehvl8f88hsczavheu08gyg50rcnzx",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x7074606be2f75437d237e923d776e1ab412c650fa2577279b25aa41523937b1c"
+    }
+  }
+}

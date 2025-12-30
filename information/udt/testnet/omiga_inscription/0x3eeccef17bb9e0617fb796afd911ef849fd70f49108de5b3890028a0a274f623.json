@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x3eeccef17bb9e0617fb796afd911ef849fd70f49108de5b3890028a0a274f623",
+    "symbol": "BULL",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": null,
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyxz7fexv3askdcjlgu9u8qsej87wrkz7qtxn092",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x082835adc2be9894bbaa34b38492572315924dcb0a9628c64a040e7ca4668f01"
+    }
+  }
+}

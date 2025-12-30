@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5b39786ef973a68ca29c48dafa15a45fe19e7d48bfb466a87bf2f86d3446b9b3",
+    "symbol": "WEIBO",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "we blog",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyxz7fexv3askdcjlgu9u8qsej87wrkz7qtxn092",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xa82b12e633bbab8a47cbadb5e8023b470f87f53a5ca2951bd464cf1e4b9fb6d1"
+    }
+  }
+}

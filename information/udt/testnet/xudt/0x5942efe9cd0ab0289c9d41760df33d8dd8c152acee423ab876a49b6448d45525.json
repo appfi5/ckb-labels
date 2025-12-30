@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5942efe9cd0ab0289c9d41760df33d8dd8c152acee423ab876a49b6448d45525",
+    "symbol": "Assdd",
+    "decimal": 3,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "Assdd",
+    "icon": null,
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqkn0sj4hlzmn2h2qxdu307lncerr6wjayjk5fzly88gpfgdunjceqcymtdt",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xfd04ae13a59236682411572e15c1c9627eae1b38fc23194689cc0a4913626cfa"
+    }
+  }
+}

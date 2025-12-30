@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x8b4a4ce7b27e5aa4a00c08649a933d810659ae0be06f0747a18aea974ad007cf",
+    "symbol": "maaa",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "baba1",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvyh0hz0pct3ycyf029syh96uurelc96mgdhkqyy",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x6167727a29dba2ee2ca9778ac716e9833023129909fde8c70218db81e23a7151"
+    }
+  }
+}

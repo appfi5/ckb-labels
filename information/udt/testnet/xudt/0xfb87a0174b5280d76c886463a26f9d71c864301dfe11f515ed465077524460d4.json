@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xfb87a0174b5280d76c886463a26f9d71c864301dfe11f515ed465077524460d4",
+    "symbol": null,
+    "decimal": 2,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "ragontest20dragontest20",
+    "icon": "",
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq5nej77vxpdmh9akwk5x790mv4mtn0ja2uy4hk5qruj50ts6z6s2u2japxu",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xa4c1790e30241dca821e5574213b43972ccbb768f55feb8d28bc13391a43466c"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xfd33bae53bb9417f0a5c013fafcfce269eb1f5407990644f1ebea643830db01c",
+    "symbol": "SU7",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "CKB TEST Cion",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq85apn2vnk482lxg8p3uk30r78srnc0aqvyssuun",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xeec11465143b7aa54e3e5347d33e1154753c3ce1d52e9aa94b66293920ec1d89"
+    }
+  }
+}

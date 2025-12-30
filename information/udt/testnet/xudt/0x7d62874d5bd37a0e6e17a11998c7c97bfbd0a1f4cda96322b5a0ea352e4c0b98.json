@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x7d62874d5bd37a0e6e17a11998c7c97bfbd0a1f4cda96322b5a0ea352e4c0b98",
+    "symbol": "NBTC",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "New Bitcoin",
+    "icon": null,
+    "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqj0yhmkg0hljfecrcjzvm5m7n9jyzgp2ltwqa44z0fltjsvujrz55mxjztz",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xb367cf43db11b4227d9bc83800865cf276cac0c48aaf0b7c3d81c8005ef52bb4"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x22f452244bd78303fed6e8ff00aae5ec68f29a23fcb143f6d9d2cc9f9cf4c6fe",
+    "symbol": "COPE",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "$COPE",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyn0pj24zksqkr2lyl6g30nxelgy5u59acjnum0y",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xde31999ad296ef90a4cc0d0db872f54829d63919cc5027fd3fbbc6cedb03b886"
+    }
+  }
+}

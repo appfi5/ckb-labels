@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x1ac809614579db608ad429b5fca35788b3ffe9393dc5e56e50e0785aa0acda33",
+    "symbol": "SOX",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "SOX TEST",
+    "icon": null,
+    "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjucyev8lk4w4nkupzdn4k4u0vq34jhj73chk42r864ad0n6g35k5qqqqqqesvupe",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x6262a1f163194c0533f4fd804013c6228ed84a9860565a1780102b8a722056fe"
+    }
+  }
+}

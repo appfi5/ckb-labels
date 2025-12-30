@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x0a2e47aad3d97e6cc0c80403b77e17a807fd21fef10a60f636470f0b877e94e2",
+    "symbol": "SATS",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "SATS_BRC20_LeapX",
+    "icon": null,
+    "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqg8qqqqq8v5fqvfmfseejgvt9p3n8envvj253l264k9uxqj8m2u8r2d8s6462hyqf",
+    "type": {
+      "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+      "hashType": "data1",
+      "args": "0xab8e866e4027b5b3304bb15366a73adf8a885d9dca2853c64a2ab9cc2cb5c4a7"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x57781339bbb85656a9de2585299adbb4f4510d623dc7593990863e219a98c0da",
+    "symbol": "DNA TEST",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "DNA (RGB++)",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdrc5avztgdtwsvhtxh8phzffrrkgsd0mg8qv6ca",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xe174ff2d408558a8e9a2e44055ff8b84c1e155395a04c41048c73b5b9720e0fc"
+    }
+  }
+}

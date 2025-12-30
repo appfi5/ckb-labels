@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x37b6748d268d4aa62445d546bac1f90ccbc02cbbcecc7831aca3b77d70304e0f",
+    "symbol": "tUTXO",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "tUTXO",
+    "icon": null,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfddykzgcrp3y4mcuaxk2uyz5qcx0h876s94d9dm",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x92b419a8d8e03c683a47b960f707f2b866f6114b70327b6628762719b243c5ca"
+    }
+  }
+}

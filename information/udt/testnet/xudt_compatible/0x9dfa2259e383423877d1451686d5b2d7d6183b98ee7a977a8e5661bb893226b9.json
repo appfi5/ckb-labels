@@ -1,0 +1,22 @@
+{
+  "udt": {
+    "typeHash": "0x9dfa2259e383423877d1451686d5b2d7d6183b98ee7a977a8e5661bb893226b9",
+    "symbol": "BTC",
+    "decimal": 8,
+    "description": "",
+    "operatorWebsite": "https://www.mycactus.com/",
+    "udtType": 6,
+    "published": true,
+    "displayName": null,
+    "email": "chenyu@magickbase.com",
+    "name": "ccBTC",
+    "icon": "../../icons/testnet/xudt_compatible/0x9dfa2259e383423877d1451686d5b2d7d6183b98ee7a977a8e5661bb893226b9.png",
+    "manager": "ckt1qpa0qahsffdrsxtuu97tc2u2wzwaeel3dc7fjjm3vurvtggrggqquqgx2a48py5vhs2ew4g9tsr988r9mvtz8xn8qq388fz6",
+    "type": {
+      "codeHash": "0x98701eaf939113606a8a70013fd2e8f27b8f1e234acdc329f3d71f9e9d3d3233",
+      "hashType": "type",
+      "args": "0x5f1c45bd6d5c7f78ac29e9559a62dc3751a516ff2d276460845c82d08378a310"
+    },
+    "famous": true
+  }
+}

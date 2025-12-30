@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0xa096c7eb8f66824a18a03ce495c1df6840ede772e2bf93042b13355e51a3841c",
+    "symbol": "RGB++",
+    "decimal": 18,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "RGB++_Jump",
+    "icon": null,
+    "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqpxccae83qnxx3gt4de9kw5d884etszvgk6tz7ng9r99cs86reyrjhr3xqq",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x3ececddefdca34d6e23094d5c4bc886c9c403b966a511cec3bd155b0e48bce75"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x9c7e33c41d7d3012f80d7dc0bed14ab91239b276e222ef4b1fe3b1892316d9f5",
+    "symbol": "ᚱ",
+    "decimal": 2,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "email": null,
+    "name": "I•NEED•TEST•RUNES",
+    "icon": null,
+    "manager": "ckt1qqcyvyzy40qa0ee42uzg2p6lw7vmrdjjtqtpg3avg84g3c9c8n8usqfjx5urgvenxvarxwgk8qe3a",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x5f4bb6c396ab820159d51a02cce431dd9d9dc014e9e0bbd6e67bd9b284e055b4"
+    }
+  }
+}

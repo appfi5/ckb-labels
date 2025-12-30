@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x5a993283173c11f09d3be20d0ecaf2bd0f86ddbd06ae71572b9035062e92cdac",
+    "symbol": "ITSOVER",
+    "decimal": 8,
+    "description": null,
+    "operatorWebsite": null,
+    "udtType": 4,
+    "published": true,
+    "email": null,
+    "name": "It's so over",
+    "icon": null,
+    "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq84048fsptkqyrpmraejycjase5rl3ndfcxvjphj",
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x9e28eeacaaf5df38ba50c6cff8c2ca82a20e13394db27fd995c64aa75cdd557b"
+    }
+  }
+}

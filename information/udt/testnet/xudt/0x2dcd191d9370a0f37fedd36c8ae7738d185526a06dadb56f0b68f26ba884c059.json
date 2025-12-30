@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x2dcd191d9370a0f37fedd36c8ae7738d185526a06dadb56f0b68f26ba884c059",
+    "name": "XUDT Test Token",
+    "symbol": "XTT",
+    "decimal": 8,
+    "description": null,
+    "icon": null,
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqd56gxx4z0a4d8jv3hrpzg9qg3hy7zre7c3t7d4cckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqd56gxx4z0a4d8jv3hrpzg9qg3hy7zre7c3t7d4c",
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0x253832af508e29a36db986a742096a00ee3bd7eed8740fa8aadb67a76dfea570"
+    }
+  }
+}

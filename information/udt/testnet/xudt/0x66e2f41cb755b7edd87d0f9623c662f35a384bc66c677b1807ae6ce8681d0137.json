@@ -1,0 +1,20 @@
+{
+  "udt": {
+    "typeHash": "0x66e2f41cb755b7edd87d0f9623c662f35a384bc66c677b1807ae6ce8681d0137",
+    "name": "ckbtest",
+    "symbol": "ckbtest",
+    "decimal": 8,
+    "description": null,
+    "icon": "",
+    "operatorWebsite": null,
+    "udtType": 5,
+    "published": true,
+    "manager": null,
+    "email": null,
+    "type": {
+      "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+      "hashType": "type",
+      "args": "0xd0dfd3401a58bf194a74354771401d539ea6543a855ddeef52c70ed9b9b078ca"
+    }
+  }
+}
