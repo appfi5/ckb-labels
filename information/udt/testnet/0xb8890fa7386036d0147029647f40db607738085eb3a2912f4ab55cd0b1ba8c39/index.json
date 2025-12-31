@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "WERT3",
+  "symbol": "WERT3",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2znvkg79gze0gjfvrqcwzfdzwmpanreks38cs0j",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x662a5c9cad4aceca134781237a35a31ed4d07a36b3904a1f9d5c82dbd267fbd0"
+  },
+  "typeHash": "0xb8890fa7386036d0147029647f40db607738085eb3a2912f4ab55cd0b1ba8c39",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

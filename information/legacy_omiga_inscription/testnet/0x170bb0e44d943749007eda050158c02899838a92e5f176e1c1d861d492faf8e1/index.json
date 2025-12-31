@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Cracked DAO",
+  "symbol": "CAD",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxx6jg7s8d5ty67edvpl3a56tlsvnq7m55xg73tp",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x0d4704207f25e06eb8279d89c3e2ddf65921f5b979f9f11d845bfc4b42aa0901"
+  },
+  "typeHash": "0x170bb0e44d943749007eda050158c02899838a92e5f176e1c1d861d492faf8e1",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

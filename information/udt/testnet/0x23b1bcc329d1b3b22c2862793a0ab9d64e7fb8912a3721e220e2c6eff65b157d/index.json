@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "gjbgf0",
+  "symbol": "gjbgf0",
+  "icon": null,
+  "decimal": 0,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xaf049de7153c2a2289f26610c836f2613f264c877fe96a800ad880e2df945558"
+  },
+  "typeHash": "0x23b1bcc329d1b3b22c2862793a0ab9d64e7fb8912a3721e220e2c6eff65b157d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

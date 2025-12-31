@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Test",
+  "symbol": "EYB",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qs0r4hyfq62tgshj087fthec0mf7vz0xsca5rjlkhxmfuwls39v3uqqqqqqeqzpl5",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb2cfcc92324c22c2bdeb3da6573e8d0c66aeac3df7b8dfc8dde612a432119c87"
+  },
+  "typeHash": "0x4a41da0144dd7256356a04d89b4f09e8f6d5286638626720a9543dde6e7de301",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

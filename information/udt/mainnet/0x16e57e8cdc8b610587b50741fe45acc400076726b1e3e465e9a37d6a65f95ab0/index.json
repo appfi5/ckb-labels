@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Puipui",
+  "symbol": "pui",
+  "icon": "logo.png",
+  "decimal": 8,
+  "manager": "ckb1qyqdj5303c89xl24z0r23cmgmqy8v4nwlhdq3rz27r",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x23dfc4f9a696ecb1e9ac2052a218cf90d75692c136404df23674b575c6dc0e5d"
+  },
+  "typeHash": "0x16e57e8cdc8b610587b50741fe45acc400076726b1e3e465e9a37d6a65f95ab0",
+  "description": "",
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

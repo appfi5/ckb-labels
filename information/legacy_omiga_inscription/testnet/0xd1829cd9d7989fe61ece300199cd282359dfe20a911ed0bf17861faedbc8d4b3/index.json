@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "一二三四五六七八九十一二三四五六七八九十abcdeabcdeabcdeabcde",
+  "symbol": "Z789",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgpx6pt86437j3ejhm30sgk79mh0v7rqhewqq7ce8sm",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb7d5a86c61a60f55b3cfd57970b2bfd41df5407446275a4b2d391e8319877b3f"
+  },
+  "typeHash": "0xd1829cd9d7989fe61ece300199cd282359dfe20a911ed0bf17861faedbc8d4b3",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

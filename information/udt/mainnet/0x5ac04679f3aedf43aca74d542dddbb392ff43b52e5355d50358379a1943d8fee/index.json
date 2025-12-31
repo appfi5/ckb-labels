@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TOKYO",
+  "symbol": "TOKYO",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqpwprr45vljlh0rvyc2h93nl82aw6z20dcp9z9qj9pvuj2j9s3szxfdcrsm",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xa1fec99d746c610756a8f30dce8122ccee0f7d1a4fb5b0245b742826a5d7062b"
+  },
+  "typeHash": "0x5ac04679f3aedf43aca74d542dddbb392ff43b52e5355d50358379a1943d8fee",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

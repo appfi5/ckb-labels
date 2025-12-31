@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BITDN_SRC20_LeapX",
+  "symbol": "BITDN",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqp5eq7ndpfefnj7vh0egddd8ejc8a3zz939rfcye6p4n8wj703gqp34c9nj",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x29d74608eeba21ed74326cb90ed2d76312f938885b25c327c7498f25bfaa693d"
+  },
+  "typeHash": "0x9db5bf9817e66fb9ad8feaf1a7b101ed866fe1c865fcb3a7f32f88f317e75da9",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

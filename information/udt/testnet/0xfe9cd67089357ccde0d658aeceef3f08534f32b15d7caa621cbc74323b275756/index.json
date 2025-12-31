@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "zzzz3",
+  "symbol": "zzzz3",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgqqqqqptugzu68xp6lvtq24r72vfuy42ssjycreclsw8rxfpntkdak54ejrxydqt",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xeef37899ca58bfedb4dcb3f2abaf6e7f2d7a120b6e19a8a8e7c3ae8223554d1d"
+  },
+  "typeHash": "0xfe9cd67089357ccde0d658aeceef3f08534f32b15d7caa621cbc74323b275756",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

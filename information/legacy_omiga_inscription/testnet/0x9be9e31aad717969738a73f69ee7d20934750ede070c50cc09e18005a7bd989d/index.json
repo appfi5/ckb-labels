@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "JID",
+  "symbol": "TJOY",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9swv4zq6p9y0e0kqapkfn3adwd7wygc0yqey362",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x898d20b17bc43f4ebbc07027412b5bd157051dedfb24bae74c4ac532862b2a1e"
+  },
+  "typeHash": "0x9be9e31aad717969738a73f69ee7d20934750ede070c50cc09e18005a7bd989d",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

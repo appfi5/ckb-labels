@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "fhbcfhvf",
+  "symbol": "fhbcfhvf",
+  "icon": null,
+  "decimal": 30,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqkxf0wrnwmm0qse8xw5ce2vws6pw7qt09dmk5r76pxsag9uddn9yvvk402z",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x23a891c0c25ef8eb2d2789865046116eb75c62f43bba6ceda5b177a78d2fd991"
+  },
+  "typeHash": "0x4e90202ed30af91d2eb093a5a8c66dc21d6c1be2a99907b0de2aa797d9b1f1cf",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

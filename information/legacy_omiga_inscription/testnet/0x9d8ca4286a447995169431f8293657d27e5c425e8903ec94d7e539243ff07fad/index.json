@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "scam",
+  "symbol": "CKBSCAM",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8vzunn246udc7xdh6cmt4yexnnvqejwwuu9t5ay",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x3b070ba612e87e409aa19c282cd4f33a8ef4d3ea046eb88763ea11d17933efa3"
+  },
+  "typeHash": "0x9d8ca4286a447995169431f8293657d27e5c425e8903ec94d7e539243ff07fad",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

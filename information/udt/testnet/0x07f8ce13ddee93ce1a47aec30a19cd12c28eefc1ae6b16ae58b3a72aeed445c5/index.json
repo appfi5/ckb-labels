@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DDD",
+  "symbol": "DDD",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qqcyvyzy40qa0ee42uzg2p6lw7vmrdjjtqtpg3avg84g3c9c8n8usqfnxvenxw3jxyv0l4qr",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x917f4210713b5850825828c2d145d021df176d76ea62adc3227a94f284e52e9d"
+  },
+  "typeHash": "0x07f8ce13ddee93ce1a47aec30a19cd12c28eefc1ae6b16ae58b3a72aeed445c5",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

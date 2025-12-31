@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "AFCASH",
+  "symbol": "AFRICUNIA BANK",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9ny96yx8twfgdut6l047v664d5sjw7zls8hwz7q",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xe161229b3743a7df38d0a8966b46397a2525044ad2cb02f7832a4c94d13c2fac"
+  },
+  "typeHash": "0x6cc6c06860bfdd6c52f5de836f4bb46ad65c2adcf21e73ae95e213ef8f7f18f1",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

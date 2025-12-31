@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BINANCE BLISS",
+  "symbol": "BLISS",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyg8nxt0gm4v8mkweg7wwtstpsvh55glcvlftk3e",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x3654a5778ea1de6c722749b0ec93940fef9398e17f6a642c42f7fea46266bd57"
+  },
+  "typeHash": "0x6e1dca11c2aa3a7a7852cba7da191f83d5c9f08d65dc203a67b196671245a0f2",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-punk",
+  "symbol": "R-punk",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckt1qqcyvyzy40qa0ee42uzg2p6lw7vmrdjjtqtpg3avg84g3c9c8n8usqtmql9rzxkz4s4etk4uz20q92nn83ckpynsw4hxkj3pkwr",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x99d585b611b41eb9ff5f98ba9161719b282fdd6d5e6b81aa2f8b4ca7367751f0"
+  },
+  "typeHash": "0x041871bf3c1f5a6b3943f1c6037117b85a15577fb0d6a8e4781d4748ba44a9b3",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

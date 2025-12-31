@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BIGBANG",
+  "symbol": "BIGBANG",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2rxqx2h73a0hdm33eusrnq6ktkrh44las6tecwc",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1e98a341f65a881e813211d8f76db7e08af6b9fdeded6abdff03377ea3eb76ca"
+  },
+  "typeHash": "0x5b371ebfe3f05c3c17ec56ce6957eb524b810a9c9032e114f5d24a93fdbe8fd8",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

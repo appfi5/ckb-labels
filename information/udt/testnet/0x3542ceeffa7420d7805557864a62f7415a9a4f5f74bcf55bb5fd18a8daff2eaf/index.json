@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TEE",
+  "symbol": "TEE",
+  "icon": null,
+  "decimal": 9,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq55vdrcugllm5hjcqsfhkv666knuf3ensvggr6a3303zcukh9pt5586pnnk",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x6bfc0a681c271af9e0abf9d65442d983461b6d8d0895d4f7b35f8e18d0ce5607"
+  },
+  "typeHash": "0x3542ceeffa7420d7805557864a62f7415a9a4f5f74bcf55bb5fd18a8daff2eaf",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

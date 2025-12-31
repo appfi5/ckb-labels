@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Foxy",
+  "symbol": "FOXY",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqqus0tlk876wlslqnl0msvuzjhl5tfn6gcl24zjj8c0a7wdmechy9dxgm6q",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x1409612e4faea0ac0c4fa5d3149f4c58beedf207fe0163c26264440002500e85"
+  },
+  "typeHash": "0xa60e2ea07cca5a4f7201401059c9e76e6fb1a5546cc59603c1d40f98c392e3cf",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

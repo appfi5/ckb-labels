@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "sb",
+  "symbol": "42069",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqqzyg2my5h2ll78agp7d8cju2q4d6ga2s7ysetlnfx87hqq2c8pzed88jx6",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x98899701f2854cc942daa3e6aed2450a40223fa8703dce9522aeefc0de5c68ed"
+  },
+  "typeHash": "0x9e814fd73e56d06df0c38852471f3128a35054913f00663f9bbc0fab0c87491c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

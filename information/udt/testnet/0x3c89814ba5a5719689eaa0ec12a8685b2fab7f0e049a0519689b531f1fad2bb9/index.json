@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "EL ORNITORRINCO",
+  "symbol": "PERRY",
+  "icon": "logo.jpeg",
+  "decimal": 1,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqnmnqf2dut05tt297l5rvrsnu4pya6g63yy8jh48lka3slcp8qc5gmwpn5h",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1a60dff1091e104f9fe0185830b1f975d1696e226c68af82db782c272f44e00e"
+  },
+  "typeHash": "0x3c89814ba5a5719689eaa0ec12a8685b2fab7f0e049a0519689b531f1fad2bb9",
+  "description": "perry el ornitorrinco",
+  "udtType": "xudt",
+  "published": true,
+  "email": "digibytedude@gmail.com",
+  "famous": false,
+  "operatorWebsite": "x.com"
+}

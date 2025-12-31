@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "SAND",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8yam9sdmew5trttar46gxp03jpn7sv3656z6dy8",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x50ca62ac901dc372cefabceb5eb21fada67f5d3831c41d4b454d65aadc397d7b"
+  },
+  "typeHash": "0xd5497d876f5ee2164159d737f57d7df0d24f4ac4e0f30d48d07f2da7957fde22",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

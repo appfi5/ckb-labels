@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TTK11299",
+  "symbol": "TTK11299",
+  "icon": null,
+  "decimal": 8,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x7701a9ceb0dff97a13b3a77b62ea1daae4a49752258450da8f611a3c0f33ddb8"
+  },
+  "typeHash": "0x5b7d68fca76b184b4e0da06589a0f660d8ca3fdfce07453beaf4d946cafdbae3",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

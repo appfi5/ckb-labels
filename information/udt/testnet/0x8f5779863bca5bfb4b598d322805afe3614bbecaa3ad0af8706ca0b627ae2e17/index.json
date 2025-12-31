@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ac333",
+  "symbol": "c333",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqd6pxvahcv9rtuq3phe5kxxgxtv2u9a9hcun5lcx",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2e49687227ef3cd31e2e30fde62988af63619c74a61e6e633a24e242e48c3383"
+  },
+  "typeHash": "0x8f5779863bca5bfb4b598d322805afe3614bbecaa3ad0af8706ca0b627ae2e17",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

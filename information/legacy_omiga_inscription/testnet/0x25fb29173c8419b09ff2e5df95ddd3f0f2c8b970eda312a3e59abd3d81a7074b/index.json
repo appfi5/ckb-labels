@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Jablay Token",
+  "symbol": "JT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9zgmdamchdmtu906cx5wlnmssfunwyecyff53jk",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb084a072a2088c5a5b2f958ba3c024ee16e1b521407b5fc85d27492d502c05ed"
+  },
+  "typeHash": "0x25fb29173c8419b09ff2e5df95ddd3f0f2c8b970eda312a3e59abd3d81a7074b",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Jiba",
+  "symbol": "jiba",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqpgnlu5w5ktvaf7n7gph7s4t5r76g9rw2vkhsjqyj20v94m7ryfl5sf7j2x",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xb6f0ea8c28147b356a9b9657d83416985ed2595ffd1c1fb04a9e406a81e6db46"
+  },
+  "typeHash": "0x33149c24cb590392a03f4f79cbf2bb1f966d97751c8234cb41ad84f04722e11e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

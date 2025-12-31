@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RVB++",
+  "symbol": "RVB++",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgkqqqqqkggqzyluxw4twpdtmw65746ve3r8lg6tvyxun8af7297aknevezadsdy6",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xd0641df5df1ee411be95b008b62756a165a774f4621c12b4cbb69dbfef0dd546"
+  },
+  "typeHash": "0xfbe050202a4790cc3a34f99e5b26d89c6ca706681fdcf6cd9232ddf5c6d5d71e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

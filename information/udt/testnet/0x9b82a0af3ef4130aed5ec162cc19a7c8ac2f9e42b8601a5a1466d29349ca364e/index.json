@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "gold",
+  "symbol": "gold",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqqvx5g2xqscsaekyzxz3lav4wycdpj7vglm9pyq49flwwahlvh9ecvj0j4a",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xe7ca48e4679265fc53ff01323939006c7361dd8353a8876b2ad986c5414abba7"
+  },
+  "typeHash": "0x9b82a0af3ef4130aed5ec162cc19a7c8ac2f9e42b8601a5a1466d29349ca364e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

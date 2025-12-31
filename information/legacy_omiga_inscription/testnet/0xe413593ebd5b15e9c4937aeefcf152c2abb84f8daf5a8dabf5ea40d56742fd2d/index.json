@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Len 1-40, eg Binance USD",
+  "symbol": "GONA",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9gf5v20fpfyeaejnpmvrdpjwr7luam5uqknvdxy",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb53f5930018e6904ee312dc5ee052c5fdcd06cb520865d9203e0a3c0dad7dd4c"
+  },
+  "typeHash": "0xe413593ebd5b15e9c4937aeefcf152c2abb84f8daf5a8dabf5ea40d56742fd2d",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ABC Token",
+  "symbol": "ABC",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqydh7hezvk3swmqfnutyde6ru6egnaz64seqduqj",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xe229aeccf70c8b9e02338f7984c029ea68b6f3c66b41e7a8c716573f05faf121"
+  },
+  "typeHash": "0xdc5361254f407c6c569c102108446287d06f1dd6e7b9fa440f579b8bc61b9a10",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "HueHub",
+  "symbol": "huhu",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqqvfv4a8p8ck92xutdwje66cu5rm9sq2r2gg7ulwntlvvmnfhe0r6hkxpv7",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x0615c0b804699c42fb646304fc299e4de7b79f3d40dfe42b42684490d4623c7b"
+  },
+  "typeHash": "0x92cf10bd47da2cbdaf1285e8feedfc66c5963a8abcd623aad5501b8293e76bd2",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

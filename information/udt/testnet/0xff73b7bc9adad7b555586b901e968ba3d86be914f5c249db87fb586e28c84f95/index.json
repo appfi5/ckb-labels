@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "yivvv",
+  "symbol": "yivvv",
+  "icon": null,
+  "decimal": 4,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjcf8fl67mr44xzsy68wm4xxf50pq43sgmf6aqkqzl2pxu538m24yqqqqqqrjpkqr",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x087d2a10eff29de781baa627fed5a040c2f0d80a27f528d298a46e578327f11f"
+  },
+  "typeHash": "0xff73b7bc9adad7b555586b901e968ba3d86be914f5c249db87fb586e28c84f95",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

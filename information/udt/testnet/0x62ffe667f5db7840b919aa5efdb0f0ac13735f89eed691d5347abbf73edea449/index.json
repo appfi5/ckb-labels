@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGBPP Test Token 2024-06-02",
+  "symbol": "TEST 2024",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgqqqqqqfd3kxje5vr2tsdran4zj7d0340749mdmq5jzuu73kzsrsk4tcncgex79t",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x92a84b0746ceb9fb2938a4576f660e6a6cfc8d476218704dedd34213270589e4"
+  },
+  "typeHash": "0x62ffe667f5db7840b919aa5efdb0f0ac13735f89eed691d5347abbf73edea449",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

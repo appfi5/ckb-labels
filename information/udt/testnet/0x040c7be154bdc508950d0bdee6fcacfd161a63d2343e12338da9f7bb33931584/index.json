@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "cat",
+  "symbol": "cat",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9tg62cpa60p2slap5kagvssarm2lj5ewctr9754",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x378c9f798aa43c44759428bc4a3a9f83d3fbd9baf6c95b1e9d17dd13f68fc91c"
+  },
+  "typeHash": "0x040c7be154bdc508950d0bdee6fcacfd161a63d2343e12338da9f7bb33931584",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

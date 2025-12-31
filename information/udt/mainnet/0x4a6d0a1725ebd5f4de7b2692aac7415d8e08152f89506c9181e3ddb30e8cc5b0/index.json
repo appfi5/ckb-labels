@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "E",
+  "symbol": "E",
+  "icon": null,
+  "decimal": 4,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq59xs2reagwjrrknklskrqqaenp8k2eaz6ld2gl2gpa986snp6wu5txhnx0",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x20bb44d79629f4f5053c88b9c2e78721dd474a63ba4f0635b5c638cb7374a57b"
+  },
+  "typeHash": "0x4a6d0a1725ebd5f4de7b2692aac7415d8e08152f89506c9181e3ddb30e8cc5b0",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

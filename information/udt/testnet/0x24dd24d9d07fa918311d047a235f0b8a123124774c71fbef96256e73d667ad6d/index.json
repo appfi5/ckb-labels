@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGBPP Test Token",
+  "symbol": "QWW",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgqqqqqprkk0gqxxfstlw5j58udzsd43a5yyy9p787kehr755s7zmkd7nhs5jl08p",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x00100a2117623293a1ab9e3af035063329e9d6ffe349cd58ccd078ec14b3eb94"
+  },
+  "typeHash": "0x24dd24d9d07fa918311d047a235f0b8a123124774c71fbef96256e73d667ad6d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

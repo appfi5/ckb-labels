@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TestXud",
+  "symbol": "TestXud",
+  "icon": null,
+  "decimal": 7,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qj3vvqds8sqfftlfrqxk8g8r2gjq3zkgqlxdz60qgwljwny8dtc2qqqqqqq03sdwt",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x0d59865dabbe002bfa2a6d8e5a9a9a961902bd09957dcf60a7045ee9b369f457"
+  },
+  "typeHash": "0xc128e6a5a595faeac4e6c1291e314b455dac877b90b9f578691f46f427492d1e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

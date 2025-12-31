@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "btckb",
+  "symbol": "btckb",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqg8qqqqqm4emp4curqw4thyacf4gngfs2f82mpfd7r7tdmpyrc2udnymz32g9mk2h",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xaf892be7604db68ac925c088b94efcacd56c54eb49f370539c7aef55aa97eed9"
+  },
+  "typeHash": "0x43077b943f19e30a2b79085563d69e1c877dbe2c7dde354574d683ed562795bf",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

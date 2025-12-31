@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CHENERGE TOKEN",
+  "symbol": "CGE",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqprxf4eq8pa9qu0q4wm5gpnqttmf7k4ff59j3pgxckcev3vftyqsd3txh4x",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x3df47368a98f6dedacd5784a8fc87a089874491f88f1991e01899a5589c541b1"
+  },
+  "typeHash": "0x6779d6be48646a9b48bae9a046f0fea16d0c284dcf74f1b87eba2d4c29e7969a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

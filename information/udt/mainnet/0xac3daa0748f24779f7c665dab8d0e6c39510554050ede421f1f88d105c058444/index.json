@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CIPHER",
+  "symbol": "CIPHER",
+  "icon": "logo.png",
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqpa9pm3tc2h5z6v5fhqru8zdt44qfnd9rkwwqmnram6macw6rluxqs3076s",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x8cf5882cb4a2e26e5a041ead3c05b8c9dcf78ac4dcc4254bb2e9be9f3c5c9d8b"
+  },
+  "typeHash": "0xac3daa0748f24779f7c665dab8d0e6c39510554050ede421f1f88d105c058444",
+  "description": "The $cipher token is the community's playful tribute to the mastermind behind RGB++. Just to be clear, it has no official connection to Cypher. At its heart, it's a meme token with zero utility... for now! But knowing this community, you can bet they’ll cook up some exciting features and surprises soon enough!",
+  "udtType": "xudt",
+  "published": true,
+  "email": "got@beaftoken.com",
+  "famous": true,
+  "operatorWebsite": "https://x.com/crypcipher"
+}

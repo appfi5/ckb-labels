@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "CKBCKT",
+  "icon": null,
+  "decimal": 5,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9cp3x9dky0u2c3n8mw8ldukkuv3w9mpn540s542",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x77f4f5489c5e9bf597692d5f3a55a56327462fa616bd36f720197c369bf41ec5"
+  },
+  "typeHash": "0x88a238b17a63568d96a4e245f4385e445eda29a7b5e881e164444a317c2e4b07",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

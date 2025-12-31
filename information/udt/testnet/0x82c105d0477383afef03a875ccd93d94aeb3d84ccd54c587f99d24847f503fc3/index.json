@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "J++",
+  "symbol": "JJ++",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwmhmad8nlqkjv4hs02vgfls4flc76kgzqed7zn0",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2a6f7fb98c6a52d8e442ced38f036f4b8f0678fa71d830da72bc48dc842fe1ae"
+  },
+  "typeHash": "0x82c105d0477383afef03a875ccd93d94aeb3d84ccd54c587f99d24847f503fc3",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

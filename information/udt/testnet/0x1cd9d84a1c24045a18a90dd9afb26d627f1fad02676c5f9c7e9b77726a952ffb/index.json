@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Kingdom",
+  "symbol": "King",
+  "icon": "",
+  "decimal": 8,
+  "manager": "ckt1qpuljza4azfdsrwjzdpea6442yfqadqhv7yzfu5zknlmtusm45hpuqgpcsqpya80rstgaazyc409t5wyz9fp2yk3qqzgpsu6",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0x47dccce426e33747f95d85b945b67ea2293cfef67a11af781338a400f11b34da"
+  },
+  "typeHash": "0x1cd9d84a1c24045a18a90dd9afb26d627f1fad02676c5f9c7e9b77726a952ffb",
+  "description": "",
+  "udtType": "sudt",
+  "published": true,
+  "email": "shaojunda@nervina.io",
+  "famous": false,
+  "operatorWebsite": "https://testnet.joyid.dev/"
+}

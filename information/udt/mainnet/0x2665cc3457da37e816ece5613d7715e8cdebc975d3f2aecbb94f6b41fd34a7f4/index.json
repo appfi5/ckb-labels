@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "sex",
+  "symbol": "sex",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq50hpnwsxxhawgv4q28tdmr4kpnz0gqe26f800qnkaltp7hlcwm7vl56fuq",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xb0713a9200a1eef82402dcbccf3303bd34481e5313482e9e6a3ab88bc9c0724a"
+  },
+  "typeHash": "0x2665cc3457da37e816ece5613d7715e8cdebc975d3f2aecbb94f6b41fd34a7f4",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

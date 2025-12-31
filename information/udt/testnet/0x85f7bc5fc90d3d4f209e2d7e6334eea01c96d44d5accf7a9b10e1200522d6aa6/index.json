@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "kill2",
+  "symbol": "kill2",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqsn96qq3y7360cnq6ld3lcy3dm7458lmpmmrsk26pknh07346hnhct6l3k9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xf590845c4171b71914b3b56cce0dd9e47ef75ea976b384c363b33f8ffdd4fa12"
+  },
+  "typeHash": "0x85f7bc5fc90d3d4f209e2d7e6334eea01c96d44d5accf7a9b10e1200522d6aa6",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKBoost Protocol Points",
+  "symbol": "POINTS",
+  "icon": "",
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2jk6pyw9vlnfakx7vp4t5lxg0lzvvsp3c5adflu",
+  "type": {
+    "codeHash": "0x0600f220b6bd9f4bdbe684196c817b4494741f7a4eff5c6e61033fa3c542431f",
+    "hashType": "type",
+    "args": "0x669384159f73d765c42f36f22dd90cdb8eed8f271c02ee4a29ac3e28f58b9d61"
+  },
+  "typeHash": "0x2b89a411070953058947b58857574af8c7709b8f553f45f8d93c788c346a0a94",
+  "description": null,
+  "udtType": "ssri",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

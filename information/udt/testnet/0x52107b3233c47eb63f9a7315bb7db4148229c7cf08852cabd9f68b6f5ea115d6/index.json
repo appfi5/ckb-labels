@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "NB RGBPP Test Token",
+  "symbol": "NBT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgpqqqqqkmlyw26vhvs72qafaa760xpjzm80lr2upwxtrvs6mmt82vn5uhshhdupv",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb9148af6718d23645bf776905ad77fe08eff844c809f00c913972efd206940e2"
+  },
+  "typeHash": "0x52107b3233c47eb63f9a7315bb7db4148229c7cf08852cabd9f68b6f5ea115d6",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

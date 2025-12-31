@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "WATER",
+  "symbol": "WATER",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqmcf44l9w7qtr5yl5x9gyw7jvr5kqw44xnnvk9vc9776qwh5hkhp2f48cj",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xbd73d379b26e20bb124b6edef6203f426f7892c2e4623145e5fa4714d6ad29c9"
+  },
+  "typeHash": "0x1eea102eaff1e9280e1bc5db7444b2712744ce20255e3358294359e83c84e1da",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

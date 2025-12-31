@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Shitcoin 93",
+  "symbol": "Shi93",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqp2lwv7la648nlrku3d74ys535qcmm8cjhsvd5rtua73xxcuqj57s8j6d3y",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x74004cfc90aa019313dec8a51348dd5c57bab4956b017e1497bbed9eb9ba47a3"
+  },
+  "typeHash": "0x43ea3845b228582ab94d2035b09da15202112d2145c30a41df469ede5f20276c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

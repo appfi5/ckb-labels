@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "OTTOT",
+  "symbol": "OTTOT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgfqqqqqzll0t7jn5y4sclmf0vpdv08x96rjtre69smshpvmevaa8am6c46au8q4f",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x3ce04338b18bd568897b2d0134a06f70e36c373268cb185bda16faed1d23c0f2"
+  },
+  "typeHash": "0x96cdf7b5ed2bb3bb17d966f37934cb06382f694a70320ee94f325175d8caa75e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

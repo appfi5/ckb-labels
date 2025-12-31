@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "PIONEX",
+  "symbol": "PIONEX",
+  "icon": null,
+  "decimal": 6,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3qcy7c8y39slqlcweasr8f8hn895trjee00p75gqvqf9d83ahzjgqqqqqqq0wm25",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xf61e4680f292d2d4f48abd55cf56dce8fd88ec2104349080a0c0d7932b3ad3dd"
+  },
+  "typeHash": "0x26186e8be93b5612106504d1b073a18c81a9d0f342234e7524a9559dabcc5777",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

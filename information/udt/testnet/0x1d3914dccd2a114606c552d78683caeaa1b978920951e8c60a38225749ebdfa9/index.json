@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "yyy",
+  "symbol": "aaa5",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqq47gtdjfwav7tpc5552x2ry63q4z292k3u9zpxfp3pnqzzxxxv7c0dxv8m",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x03baef0b30cd707365bf6594fb7565d03cac91dfd6a2d5e12ef62cdfd4caa05c"
+  },
+  "typeHash": "0x1d3914dccd2a114606c552d78683caeaa1b978920951e8c60a38225749ebdfa9",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

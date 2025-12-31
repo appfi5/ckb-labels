@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SniffK",
+  "symbol": "SNK++",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq286cvs4q8ntvp7099ydyf3jq8gzggqdggu2mnav",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa00b89cb85e6d2cf3f032f78c361ab85b99c69b1327c7257ed6e26a13f467db0"
+  },
+  "typeHash": "0xe748078b0c45e4fe821bf0c5ab20c2de76a116ba35e101cb9c620ee5951e6eb3",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ERASE",
+  "symbol": "RUN",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q42s48c2xrjjuq48pxy7w2aunvcurgar68se9utzmvwzcqj2gdhtqqqqqqq62gl2e",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x5f3ac1574d7e307e22be6dffbd78eac7113b67bb92686484f62dbc4a8d9e39ef"
+  },
+  "typeHash": "0x2ed850920417eaa0bebd1ae14eac3d9dab2989bb79c5c8158a6242a4f3746915",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

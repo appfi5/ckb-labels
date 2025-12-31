@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ORDI",
+  "symbol": "ordi",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqq2nh3r4r3tspkcq99fraycps8tlgeq43u6vw6yyjlx2vj8zuwvhe243dsv",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x035dde513b876e88afd4222552fcfe7a29c51af173ecdad71bc5eff378b7cb6a"
+  },
+  "typeHash": "0xecf37f0e16aa3fde2966d531af28dda8fe30bede5ad45af5fdacfa1a60d874e1",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "1",
+  "symbol": "ICKB",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyp2zclm3rnpagvtmulkvwmxsdg0yz2yq5upvjnl",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x468fd728688856941a16a7d87b9c8d1b78fb2c84edb93a0dc8b40cffa5b02d80"
+  },
+  "typeHash": "0x78e917d6f4cde287d14162eb892fb607c07657f2ae6a09a016abdfbdae327b4d",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

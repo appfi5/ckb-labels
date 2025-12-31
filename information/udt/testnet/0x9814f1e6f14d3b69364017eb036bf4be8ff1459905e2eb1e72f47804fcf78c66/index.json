@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Bat Man",
+  "symbol": "BTMS",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq244u3cp5466mmafgzg6vqptsc5v6c4naq6eacv4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb4e70fffbbf2b3f24b7f50fc9a6eff71732dd4d442cd9cfd1536ef801ffe46e2"
+  },
+  "typeHash": "0x9814f1e6f14d3b69364017eb036bf4be8ff1459905e2eb1e72f47804fcf78c66",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

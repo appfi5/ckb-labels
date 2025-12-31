@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGB++",
+  "symbol": "RGB",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q4udk7dka853shqxemdtrh2ggavvg8hpl2vhsxguvxa2325h6wgegqqqqqqjfsg3x",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x0a9723de9919cf2d5808a36524ba3c738b74b4d206ab0bc489d689bcc9465424"
+  },
+  "typeHash": "0xad7209bac80f332196d2d7d953f0f9bc8d992097c786b6d253b2e51e972be13d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

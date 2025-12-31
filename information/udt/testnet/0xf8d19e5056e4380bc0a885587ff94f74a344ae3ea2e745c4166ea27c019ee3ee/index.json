@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "XUDT Test Token",
+  "symbol": "HHD",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqg5tp0y6dua0pc3vpzt9r3p8j0t0wglaeskrjcx6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1ba651aaf5a3a256da6059ccbd8d4c77830507992df1f9e6d2c176fd650f2807"
+  },
+  "typeHash": "0xf8d19e5056e4380bc0a885587ff94f74a344ae3ea2e745c4166ea27c019ee3ee",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

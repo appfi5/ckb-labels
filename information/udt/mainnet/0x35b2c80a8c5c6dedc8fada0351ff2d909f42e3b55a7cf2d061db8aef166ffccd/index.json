@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BTC++",
+  "symbol": "BTC++",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqq9teh73rzt20s8ml8tqfedr3w7j5fptn9t22az2cx34kg2fpjmvjc7js5n",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xd2ed4f5352914d6fa2beeeb372a821ee3646101084cd2fb112ae0253157afd9f"
+  },
+  "typeHash": "0x35b2c80a8c5c6dedc8fada0351ff2d909f42e3b55a7cf2d061db8aef166ffccd",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

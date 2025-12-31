@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "OK RGBPP Test Token",
+  "symbol": "OKRTT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqqj63ry456nzufsrpa2etrz2fmj5qaccnru7jga0d22n5muj53yty344djm",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x20ad19167d992488d1d9cf2ed2ab0fc23b6f57b2dd9f51afaf6bc8122a7a36db"
+  },
+  "typeHash": "0x93bc8af70d3bea182a3d6a5c1a7d761d592f502b4bebe05e99fcc7ca9905abf4",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CCC",
+  "symbol": "CCC",
+  "icon": null,
+  "decimal": 18,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x42ff6d2a27eae79160e1f121dce8896bff51cc51e86e55f0e861f3e07ceac29c"
+  },
+  "typeHash": "0xfc6c87155f4207cc2eb02ce157d370427c60e2d9cd453e4146aafd3b457535e2",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

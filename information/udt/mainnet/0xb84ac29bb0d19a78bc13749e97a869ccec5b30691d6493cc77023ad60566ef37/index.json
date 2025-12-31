@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-ETH",
+  "symbol": "R-ETH",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qf6wjxrur66dmdqet3nm5vuj829wfrw89dqgqp0wt54cufufytdckl8t9rgqjg62hxlq3ug3q0th9z95rkfjgshr4l4",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xe098e2040db4852e7908deac1a6b7f0dfeff7c7a0204258cdee609f63935e224"
+  },
+  "typeHash": "0xb84ac29bb0d19a78bc13749e97a869ccec5b30691d6493cc77023ad60566ef37",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Bringer",
+  "symbol": "Bringer",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhtz0ag9ep2zvk02yx6242rua3y8xlrgfmccpauxmt3f6d8zzczcyqqqqqqlrlsvz",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xdbf1968e76b84c42dc7297ad6a7810bd27c4f40ccbd176152d6ac77065792460"
+  },
+  "typeHash": "0xb54ac5e869d22c009d57c7f24ff452eaad2261e7910ca6012afbcb6665bea12c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "SEI",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8yam9sdmew5trttar46gxp03jpn7sv3656z6dy8",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x13a98ca558ec04ed051931ec0405075f2d1744ecbbda11e14cf06723fdecb17f"
+  },
+  "typeHash": "0x5b9c1ea25d480cb7f17853ffad5f0f472f9e06cef580f7955fcfe0cbf7635fb4",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

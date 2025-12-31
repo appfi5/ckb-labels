@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DRG03TEST",
+  "symbol": "DRG03TEST",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq5yzun6xfnnjmvpegxapha69jwgeyh4xzhwv6wm8377tk9jsxwe3c978ngy",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x57202745c2ff7ccda8ab64a18bc5189fc94457a3fff8d8c0c80aa1a8c61deef7"
+  },
+  "typeHash": "0x7544236346b991f6c3d2f519121c8c9c890f4ed8c9496978db79e1a20e9eb27e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

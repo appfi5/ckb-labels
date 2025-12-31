@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "MrBox Token",
+  "symbol": "MBT",
+  "icon": "logo.png",
+  "decimal": 8,
+  "manager": "ckb1qyq9y6f7qkejqnqyhghsr6uwkr00sqtj8fcq9r03y4",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x49c3aae242fa88cc28e2493426779178dd4c3dc8d726c53be45774954aedfb9e"
+  },
+  "typeHash": "0x75416d889cb2243b5f878a84091decf1fca2ac82449d8e358c667b249e23502c",
+  "description": "",
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Ghrelin CKB",
+  "symbol": "GHRELIN",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy77vr6ukgh289vhjmx0j77jt7nt75qfzgltm2l5",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x4f88df609ffc7c1c00025252af38c33035d5d0cfc17747c77e2c0762a5ea3d48"
+  },
+  "typeHash": "0x841da8ef79e5666f3ec272e5d04a96636d45e7443115e9f221cd34981bbad43e",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

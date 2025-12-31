@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "E god 5",
+  "symbol": "E555",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqwkqsqqps6w2e99v5ekd2ttqt80wfuh7tdtu78p30m3py34sdes7dxl4gerz9stex",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2bbaf9632cf26e9b68044d06b2f31f1a0840531f006fdbd9d185afe240975efe"
+  },
+  "typeHash": "0x3b9691e0311ea8eae8e66b21a6fa4d684c75e204a975c4e9d51d8299d8e7c002",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ox",
+  "symbol": "WAGOX",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyurm9a5hlk5gfghyh3qpvf40u3xtlhuzskd7tyc",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x5d2710b96af4a8af0add8cf8e82b1b5669d93310ae727f9575cdb428aa1dbaee"
+  },
+  "typeHash": "0xc291c8e8c1eaacb09a55b26706a566b8c50e52254149b1d7e8e4b95f2a81f20d",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

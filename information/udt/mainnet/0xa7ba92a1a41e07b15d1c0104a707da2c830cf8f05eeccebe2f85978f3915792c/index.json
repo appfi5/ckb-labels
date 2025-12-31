@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SXP",
+  "symbol": "SXP",
+  "icon": "https://cryptologos.cc/logos/swipe-sxp-logo.svg?v=002",
+  "decimal": 18,
+  "manager": "ckb1qjfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjhcqqqqpqqqqqqcqqqqqxyqqqqx9l6dpjrvlncdcsgv3fwch68xe5segdg9zdaxxxwtum0dtvmlp35qj5qqqqqc8swzrg5unzvehvsenjvejxeq5gvrrgsmrgwf3ve3r2s6rxppkysfsv5crswtzxeqnjrt4h7w",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0xf49a7d57cd50907d28c0e2ae57b559165ce08aa0ff074fb3b277f6dc5eb285ee"
+  },
+  "typeHash": "0xa7ba92a1a41e07b15d1c0104a707da2c830cf8f05eeccebe2f85978f3915792c",
+  "description": null,
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": null
+}

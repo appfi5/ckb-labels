@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "M1N",
+  "symbol": "M1",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q58f6alvaqzxc46xumrhrg00w6s5wnavaqvjckfznuwrcnrjnj23qqqqqqq6merh5",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x81b9d6d2b8280ddf85cc724c90d9763ce54dd7badd57d888e2a09fb4bfeecca5"
+  },
+  "typeHash": "0x73468c6f58a3990af73655a513bae53e4c591b2d00e284ca128ce470a0d52954",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

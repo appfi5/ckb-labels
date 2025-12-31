@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Weekend ",
+  "symbol": "FRIDAY",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkyac322qxkv8xyp35uh63hel4raylvyuv0xrxdcrxchksdmx6225qqqqqqcmgl24",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x139bea8060c2ba5da2fe9bf71d6e9c87c8ced593b2e948eab5ec87c625f4be16"
+  },
+  "typeHash": "0x5c6e1af485ee11f274dd4c5f12116151b021b948d3a207d6d945e719c3af2dbb",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

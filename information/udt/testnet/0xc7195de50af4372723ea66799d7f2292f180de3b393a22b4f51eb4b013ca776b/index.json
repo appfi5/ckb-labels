@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Just UDT",
+  "symbol": "jUDT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqq32e7jhux02uyluw2nr7axtgnu6sh3mfg3vtzapnl4kckyzs3jdre7wkvu",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xe8301dd289bd0400c4f42f4ad307847cce8d880759a739e9a1fd506873bd5e83"
+  },
+  "typeHash": "0xc7195de50af4372723ea66799d7f2292f180de3b393a22b4f51eb4b013ca776b",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

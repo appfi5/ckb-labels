@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "TTEE",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgymqsnc89yfwkfh3cals5tnfgu7y6yp2f4qqmghyyp",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x01dcf557faff5387af073c63fd194f63a2eeaf6e9507e998ae12992a6116f4d8"
+  },
+  "typeHash": "0x2c9875082a6358a863bf8114ff262e1ee444c999f83f98702e019adffc43b669",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

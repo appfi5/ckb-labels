@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "PIE",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyxz7fexv3askdcjlgu9u8qsej87wrkz7qtxn092",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x65f0cabeaf85c49b388a0be2e17d5d861fd729369dc0a9ab68977d9471a35a48"
+  },
+  "typeHash": "0x66f259331092caab860151afddf67b62cc09abf150fa31a19938a93be0d15991",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

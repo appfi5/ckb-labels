@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "HUGO Test Token",
+  "symbol": "HUGO",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0f8nm3csultw8rypehtvh5804eadhjsrgg0epfa",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xe015672594b535c0216322e5c98c39662fc227698c67617d96d6ff2a3403e357"
+  },
+  "typeHash": "0x5dc47baafec62d21415e351615caa55d8ea0e67fa0474fd2461a3420aa7db065",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

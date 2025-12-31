@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Bitcoin Satoshi",
+  "symbol": "SATS",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8sw0vv7exgra5gsfncwg4yayyvudk4jwvzzf85v",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xe0b0d283d7c5de053a2ff9defc4ceaca52114e137fc06efb0d084e9d17ed6289"
+  },
+  "typeHash": "0x2e6eac717a9765518efdcded7125446feefd46b9aa5e3183b968651831b7442e",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

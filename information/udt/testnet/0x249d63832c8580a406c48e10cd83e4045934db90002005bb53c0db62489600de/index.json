@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Magi Test 2",
+  "symbol": "Magi3",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdx68kugk92hz6nguz4dxhghvt0zfusedssyahm7",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x90d640f8452a6e022d6754d6aa2598ab17044b9478cadd0f2f78aafd1b0739fb1117"
+  },
+  "typeHash": "0x249d63832c8580a406c48e10cd83e4045934db90002005bb53c0db62489600de",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

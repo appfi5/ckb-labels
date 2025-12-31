@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "JOKER",
+  "symbol": "JOKER",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qksgv7tpxklpqfwpqdv2z6tdvrplt2frkxfkwh9aq4uy3fg6yxqdyqqqqqqdx6c6u",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xbe6ae7cc8a8f1eccc82b0a6b8948fe0b739a1925da6756dcbb7beb869ce1b193"
+  },
+  "typeHash": "0x149b58b48aa914ba80a4989d47ec062918ece25d257d8c20bcf91973e07def17",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

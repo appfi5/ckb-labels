@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGB++_Jump",
+  "symbol": "RGB++_Jump",
+  "icon": "logo.png",
+  "decimal": 18,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgyqqqqpy5lxxc48f8jvy64hynsuvdwzsnn4xshfa8teyv52ut6gdemlem0vgjuef",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x2402ef1d9813a71e3b20c8c8d54e3ef1d752a06b546bd4f274f47380ecd341ca"
+  },
+  "typeHash": "0xec6f65f3549e8bfdd853be344b32cdc26313e279ae6b8bd0e134c4c24ef40e86",
+  "description": "Real Contract Adress: 0xb5fdb4e8ad52f5e3ed4a294c01ca99f7811b06baef2e7fce5b7d4ebbf006717d",
+  "udtType": "xudt",
+  "published": true,
+  "email": "Mhank1028@gmail.com",
+  "famous": true,
+  "operatorWebsite": "https://explorer.nervos.org/xudt/0xb5fdb4e8ad52f5e3ed4a294c01ca99f7811b06baef2e7fce5b7d4ebbf006717d"
+}

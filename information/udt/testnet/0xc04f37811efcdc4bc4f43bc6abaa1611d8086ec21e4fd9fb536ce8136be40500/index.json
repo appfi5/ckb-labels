@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Bridge Lock Test",
+  "symbol": "BLT",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckt1qrh997sd0twu0vkv9yxfcteegu3gst4qn3dpulz29p4q4094a7zazqgpqdpyc4qgxycnzvf38gcnz4jamr5",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xe4a2b58a01324e1314a39608bdc029bd92f55c4461b44bd294e9d844a5704057"
+  },
+  "typeHash": "0xc04f37811efcdc4bc4f43bc6abaa1611d8086ec21e4fd9fb536ce8136be40500",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

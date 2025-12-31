@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ape",
+  "symbol": "ape",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3j7z2czg2khrpk42lqmr6cxdekn57ctrpqqffsz6tkfw97xfud6gqqqqqqk3xxde",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x0d7e7d95ed13e695befe00fb6836a09202e11892a5ef3bd910809d94fb2bde46"
+  },
+  "typeHash": "0x2ae0dca7c754a23393b0380533b68b2e9b7a325b73e443cadb0946220604d38c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

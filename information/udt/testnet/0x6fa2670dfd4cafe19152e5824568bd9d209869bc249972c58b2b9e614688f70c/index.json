@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "FUCKCKB",
+  "symbol": "FUCKCKB",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qnaeltcgl0xfy6z3hn5fwypg0aldgsnncfu58w07xfv43pcs0zsusqqqqqqeltdja",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x08d315e0e070f1eac422fddd90c85b0dced8161c3927add08c95bf4303c68afa"
+  },
+  "typeHash": "0x6fa2670dfd4cafe19152e5824568bd9d209869bc249972c58b2b9e614688f70c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

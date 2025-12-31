@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "metamask new sdk lock",
+  "symbol": "METAMASKTEST",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgpv3se7nm9mjen690t26r3zfccuxkwzme5qqenycef",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x333f2298eed462e6f02e791b6746056cd6df1be22b5bce2b98badc463d4bf3c9"
+  },
+  "typeHash": "0x7cb107bf109bd732a195e942df40057593dad043b3f960913f2c2246c862056c",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

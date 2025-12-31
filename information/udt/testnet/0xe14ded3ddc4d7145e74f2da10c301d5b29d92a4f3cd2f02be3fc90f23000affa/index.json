@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ABC",
+  "symbol": "CDE",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0ycl96l9s008jyw5pn0ut3a3ddyza9lqc6e6vx0",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xaa1e013565a70683b986d24742f261b448bb51a5b399548061379f08286a2ffa"
+  },
+  "typeHash": "0xe14ded3ddc4d7145e74f2da10c301d5b29d92a4f3cd2f02be3fc90f23000affa",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

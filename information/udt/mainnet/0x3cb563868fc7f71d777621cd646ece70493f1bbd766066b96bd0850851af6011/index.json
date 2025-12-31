@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "sagittarius",
+  "symbol": "SAT",
+  "icon": null,
+  "decimal": 0,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q4pjuvkyt0rc8dhfmzuh95ew0mpl5v0tgx76rypwcamm93vxpgj2qqqqqqqg602zu",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x349b7c3ad1ef8264b9505d472fafeb0653d24acc58f49ce472c75cb346c6ecd4"
+  },
+  "typeHash": "0x3cb563868fc7f71d777621cd646ece70493f1bbd766066b96bd0850851af6011",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

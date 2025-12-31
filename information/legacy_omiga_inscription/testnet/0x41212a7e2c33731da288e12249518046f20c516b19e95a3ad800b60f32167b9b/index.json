@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Cenj",
+  "symbol": "CENK",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8c4t63pu33mvfs9q6fdcwdqsrlyea4u0s2apfcg",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x565e7d49016ae6ebe9c4a1521b12fd125e2ffebaca9a9ff17c419107699718d9"
+  },
+  "typeHash": "0x41212a7e2c33731da288e12249518046f20c516b19e95a3ad800b60f32167b9b",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

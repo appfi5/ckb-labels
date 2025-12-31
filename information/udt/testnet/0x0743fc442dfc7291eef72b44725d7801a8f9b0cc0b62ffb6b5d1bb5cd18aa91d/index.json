@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "LOCALTA",
+  "symbol": "LOCALTA",
+  "icon": null,
+  "decimal": 8,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x59949dc275f89ed80bc88e399a9603a1eb6b082c28f56f77454bed76b32cf977"
+  },
+  "typeHash": "0x0743fc442dfc7291eef72b44725d7801a8f9b0cc0b62ffb6b5d1bb5cd18aa91d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

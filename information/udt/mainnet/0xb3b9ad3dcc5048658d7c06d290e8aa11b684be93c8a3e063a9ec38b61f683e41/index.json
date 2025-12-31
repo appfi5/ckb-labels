@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Black",
+  "symbol": "K",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtk5n5d3e7ty4j5w4p9dfz08w2sny2w55sqvduft",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x0fb30285488cbfaa54cf68f502b6e663114b924672f12134fe5abcda255261f5"
+  },
+  "typeHash": "0xb3b9ad3dcc5048658d7c06d290e8aa11b684be93c8a3e063a9ec38b61f683e41",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

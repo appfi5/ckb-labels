@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGB++RATS",
+  "symbol": "RATS",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqp7ftpmqs7fzpf2f3afqm486xvhxedrpft042j27m6pra5uv27cmysvr9y",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x7ed7027de3df9f2fdfbde679dc63fd4f3424e480292fa5e2e3afffebf7497731"
+  },
+  "typeHash": "0x7f5eeea5923618cc834a5b29e2b699debded9a7ce1f0d6348e75b3465840c192",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

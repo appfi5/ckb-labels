@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Nostr Binding",
+  "symbol": "Nostr",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3x3x2vev4cxed39e92jyy0l7tnl3qx4j59a3900nljj63557zzmqqqqqqqtw6zl6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x57437f200f384bfe37f3251e10f409221bd2ccb2ab36242770f12094362f2717"
+  },
+  "typeHash": "0xb977568d547ee198cfc0e4deebd88f4dce27d7e86ecd244a5b723e1f69c1b7de",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

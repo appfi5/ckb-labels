@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "BWN",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq87cn4nx0hxaj5wsw9z9q2k9ry5dfrgm6y4f6q9r",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x5a2bf2bb7c78de6cba27ecf576ef6c5b8891866ef1e94aa8712a25cf6e576b32"
+  },
+  "typeHash": "0x3c0799be028e1227546feb1fa5412ab4496d15ee7846e58a1c05eae545129c79",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

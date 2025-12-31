@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SIMPLE",
+  "symbol": "SIMPLE",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q4crzxc56xje3jz82rldnfaaylerq569jrhnnv8njweujm2ck9j95qqqqqq55538z",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x85b3777061edff0e18eb81b0b85bb2e1dcf76ebc27fae1b8bdb8a82a425f6e31"
+  },
+  "typeHash": "0x5dc12a9aed01631d5498f989e42aca15878d2b4b505ef95fd394662636cd4768",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

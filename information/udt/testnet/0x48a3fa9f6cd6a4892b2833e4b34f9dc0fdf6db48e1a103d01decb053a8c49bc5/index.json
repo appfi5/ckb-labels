@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DECILM",
+  "symbol": "DECILM",
+  "icon": null,
+  "decimal": 0,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqw599p3f72efnkv4eazv3pfg2tdmmr35jcl0lgpr",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xf3891c2939956c0489f4b323c70fdaa70206e3648e63534302f7764d7d81bc4d"
+  },
+  "typeHash": "0x48a3fa9f6cd6a4892b2833e4b34f9dc0fdf6db48e1a103d01decb053a8c49bc5",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

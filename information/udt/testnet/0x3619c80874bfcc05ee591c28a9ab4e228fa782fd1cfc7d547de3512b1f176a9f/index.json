@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "WERT5",
+  "symbol": "WERT5",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0eh702klgnp63rylga5zxv2wgatxcky6sw08yh4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xeec0378abf609806e3db2601e961ec19a47e37be4daa1c678ef0c50cc0080874"
+  },
+  "typeHash": "0x3619c80874bfcc05ee591c28a9ab4e228fa782fd1cfc7d547de3512b1f176a9f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

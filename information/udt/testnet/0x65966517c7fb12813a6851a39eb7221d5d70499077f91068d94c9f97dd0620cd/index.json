@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGBCATFINALTEST",
+  "symbol": "SATS-",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0uqg97m5jjdvremghs9uwd9365pd6smhcjfd36qckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0uqg97m5jjdvremghs9uwd9365pd6smhcjfd36q",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x5f68aa87edf782e450126b79c773d97652185b46d913420e8f37ab893ba8297e"
+  },
+  "typeHash": "0x65966517c7fb12813a6851a39eb7221d5d70499077f91068d94c9f97dd0620cd",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

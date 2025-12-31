@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Fucking MEMES Refund!@fucking_memes_rnm_refund",
+  "symbol": "RNMRefund",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2j04twmeheyn2xd3w839ke9qe6tltt3sq63p2mm",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x2eed961c7b969b1dbc52a81e83109306bc87b55f7c17c6cba8d75924cb7a4b3c"
+  },
+  "typeHash": "0x50d77dbf0733fa3f9d42e71ed0b7e4fa2601f9fc76626a55451baea41296fc3c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

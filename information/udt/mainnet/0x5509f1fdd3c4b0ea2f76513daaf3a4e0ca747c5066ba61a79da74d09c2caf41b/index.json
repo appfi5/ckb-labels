@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CLOWN",
+  "symbol": "CLOWN",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qj3he0fd4uphlhps7kf7mj40vucyqynmnw36dy5t4xk6jgp4szyryqqqqqqgpstxa",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x460218c5516cc666f4d26ed85b400937380405fd66f6a47c381f5523902af896"
+  },
+  "typeHash": "0x5509f1fdd3c4b0ea2f76513daaf3a4e0ca747c5066ba61a79da74d09c2caf41b",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

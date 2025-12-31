@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Dev OMG",
+  "symbol": "OMGG",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9l4mmzkkhnay5vnz2v4uql9sz067zr7rg5ugpk9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x4eab07f51ad3732dd3e146df17ae9fdba30015e29849b10f58b7e782996c2f7a"
+  },
+  "typeHash": "0x7f27f1d3694c5fa48cd5231df74caebbfbc076c96aea64c49ad6d34dd11d8768",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

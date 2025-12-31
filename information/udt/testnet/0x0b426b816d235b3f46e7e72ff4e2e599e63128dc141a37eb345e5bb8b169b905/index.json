@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "qwr",
+  "symbol": "qerf",
+  "icon": null,
+  "decimal": 8,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb078c5de6533cf26e8963ab746858b9099449e445682eaecb4ee7de64502ee7a"
+  },
+  "typeHash": "0x0b426b816d235b3f46e7e72ff4e2e599e63128dc141a37eb345e5bb8b169b905",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

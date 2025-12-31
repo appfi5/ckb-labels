@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DIGITAL GOLD",
+  "symbol": "GOLD",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqp2m6eg250kw48wdzaukftg740lv6dkzdsx4ualhnualnc3uwutyjjp64vy",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xc90c929d93820842a54114b3de7e506d5cbbda91b4da4fed2b886e5f46c523dc"
+  },
+  "typeHash": "0x794f9e857888cb1c1ea5101e1bc4c860b2582024ec0823c6793a2c53ade14c44",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

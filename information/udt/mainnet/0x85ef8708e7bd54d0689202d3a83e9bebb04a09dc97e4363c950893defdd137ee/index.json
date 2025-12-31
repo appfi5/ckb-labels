@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-RSK ",
+  "symbol": "R-RSK ",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qtkxuet29htrf3e3vgrunx25y67sm00tljj2d9jqczxfuf",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x053e9dbebc0de2e7aacb4c67980bb6d056f153068f0d7d84a5ce3dfadd1bcd4c"
+  },
+  "typeHash": "0x85ef8708e7bd54d0689202d3a83e9bebb04a09dc97e4363c950893defdd137ee",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

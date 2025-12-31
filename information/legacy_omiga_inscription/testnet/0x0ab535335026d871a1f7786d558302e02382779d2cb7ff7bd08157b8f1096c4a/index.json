@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Catly on JoyID",
+  "symbol": "COJ",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9w9y23rql5q59p95egxngugn8hduv2mwqdy3wn8",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xcdfd78e3fc8cf0a253c2b98f6fe3ed4ccfad5ea9c152b39d995fc0c09e7d5d91"
+  },
+  "typeHash": "0x0ab535335026d871a1f7786d558302e02382779d2cb7ff7bd08157b8f1096c4a",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

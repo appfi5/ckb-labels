@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "sdny",
+  "symbol": "sdny",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckt1qpenukfkctnywuhlnx6ljhge56kwpkv5q8p8tgmpnvvg06c3lqte2qgjq3ekgmneq3ekgmnepnph3z",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xc9216028c40178c54944d11429f27ac3d67c07acb301eb66c0feacfb0c130fd7"
+  },
+  "typeHash": "0x865a61c3da20899c742d336c4b5e900eff67ec987e71c108d8174f9162c1c99a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

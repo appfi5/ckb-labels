@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Expluse",
+  "symbol": "STRIVER",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8yfhp5ryswta8mte27xnas673cjh4sdk50kx74q",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa298d6746e6e0e703f53be296e1375e7b76d6d14b8d239e5f82b446c3ef35626"
+  },
+  "typeHash": "0x8a24514bc493c3ed59560fa3433e6f815b23a58226371783a11006f81c16a3bb",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

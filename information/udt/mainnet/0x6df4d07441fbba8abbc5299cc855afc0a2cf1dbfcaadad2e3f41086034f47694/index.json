@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ROCK FOR PEACE AND LOVE",
+  "symbol": "ROCK",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqquxz9kpmkyu6lf09sqzqt0n8v55g0kx9auwx05ewkwud2j70se8xnru8mf",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xcbf150026f2c2e2f7c28693dd27d180416a09dd4798b3c2bbc7a0aa2b0bb06a8"
+  },
+  "typeHash": "0x6df4d07441fbba8abbc5299cc855afc0a2cf1dbfcaadad2e3f41086034f47694",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

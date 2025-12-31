@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DOULOU",
+  "symbol": "DOB",
+  "icon": "logo.png",
+  "decimal": 8,
+  "manager": "ckb1qyqyk0r75eugvycl4mvlctndvjm5cyxlycwq5sgmw2",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x3ab7b687f40465c189529ea29144fd2865638808f46600fdea50612c4920872c"
+  },
+  "typeHash": "0x620af97bf6547395e89d18844ceb5588cdf4a61160d0ac2b30efc2cc1b2868e8",
+  "description": "",
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

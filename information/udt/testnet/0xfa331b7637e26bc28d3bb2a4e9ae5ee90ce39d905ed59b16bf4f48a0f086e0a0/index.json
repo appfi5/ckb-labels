@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "test for ccc",
+  "symbol": "TESC",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qsj7rew2tl56zv0z6s8nq2dsun7xj3dn62mfhdpmhp0z2k9dml5fyqqqqqq4fvly2",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2badbabd52469484f105cd5a5515438eb7c5bdf4a7133eb64034215daf2f8343"
+  },
+  "typeHash": "0xfa331b7637e26bc28d3bb2a4e9ae5ee90ce39d905ed59b16bf4f48a0f086e0a0",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

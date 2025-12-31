@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Joy ID Tesnet",
+  "symbol": "JOYIDTESNET",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxc48am46wzadeynywyahvk5lmczwn8rpspvszqh",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xe3a5d77441074af65dca6e040c63480277dfe7432d3eb4d793c0d580608707af"
+  },
+  "typeHash": "0x35d225dcee9afda7f2313a550184c548d9c89637e5bb0fadc6e51d8c8cc43adc",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

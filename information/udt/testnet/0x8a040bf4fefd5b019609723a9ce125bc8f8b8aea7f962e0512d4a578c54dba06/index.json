@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Standard xUDT",
+  "symbol": "stdXUDT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqp5mnecegdtageysl7h7vxk7wukjx8vdakqej76qltp2mh46r6g78xcqwu5",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xcafc80445e16b49e9b849be4912f93970f80956d62f01fdc0238f1f694bea996"
+  },
+  "typeHash": "0x8a040bf4fefd5b019609723a9ce125bc8f8b8aea7f962e0512d4a578c54dba06",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

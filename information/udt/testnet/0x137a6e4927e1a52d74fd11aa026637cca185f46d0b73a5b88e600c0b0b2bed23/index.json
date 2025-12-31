@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "laskdak",
+  "symbol": "LOLOL",
+  "icon": null,
+  "decimal": 8,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xc5a859d66698a89709aea28cf18be6090ce564af396d58f7702ae1f9c5123431"
+  },
+  "typeHash": "0x137a6e4927e1a52d74fd11aa026637cca185f46d0b73a5b88e600c0b0b2bed23",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

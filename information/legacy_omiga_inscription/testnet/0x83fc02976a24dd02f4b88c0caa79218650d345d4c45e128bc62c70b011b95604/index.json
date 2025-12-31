@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "T777",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgpka2dlp4uqfnsfdvhph9x44uyqzpuuqsdqqmr2f3q",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xcb99d8559ff6de7ef5f69558294df12fee72426cde213ce70d79954265f1571b"
+  },
+  "typeHash": "0x83fc02976a24dd02f4b88c0caa79218650d345d4c45e128bc62c70b011b95604",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

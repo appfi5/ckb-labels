@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DETC",
+  "symbol": "DETC",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qk3yjvrn3am6s3fhc0d6cpaf4au7zvvw5uf94u6lpq27myauu7tsqqqqqqqz2v4km",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x00b7c4660732aec8f57b78b12655d3b0a810609fa0faad751a76d8ad04e49b5e"
+  },
+  "typeHash": "0x71110ed78279d43eaae4b45e21e84ebff82fa4377a6c8170face58d22a023e15",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

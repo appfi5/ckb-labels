@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-fifa",
+  "symbol": "R-fifa",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qtkxuet29htrf3e3vgrunx25y67sm00tlnxd9nxzdaksnp",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x72f2bfdbce23be858e8a08ce8e2a77998ff08a530f8aec2b97949fe74c21519a"
+  },
+  "typeHash": "0x293165847f63021072d4bcb60e87cf977c13c270e0732c627f3f55fbc0268b1d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

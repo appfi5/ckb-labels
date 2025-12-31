@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Alpha",
+  "symbol": "Alpha",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqptf09wqp6n5xmthvz74kheu3mj3p7xfm4unntxwfzh8pylnunnzaxv0ez8",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x156bb7aca37d657a3b67500903704a979f45c55f88e3f06212876226374dd06e"
+  },
+  "typeHash": "0xde52bcbb53431dafa8f8f651a430911933f55091056d88b2c4463a076aec3fdd",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

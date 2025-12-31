@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CNM",
+  "symbol": "CBM",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qh829envzmhn4jehrkrx4822ufj6fprpua9s9y5lv5sejcd3rtnacqqqqqq2lecsz",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x7ec6bb97c762063c9f254225878fcfc5ee229071520f61cd862e19b770dd8129"
+  },
+  "typeHash": "0x0f7449df73f18fea80cf6b9c499ecdb35d46357b087458d15e9fb715865f74ac",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

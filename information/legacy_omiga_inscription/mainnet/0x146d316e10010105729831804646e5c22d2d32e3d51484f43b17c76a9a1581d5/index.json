@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "official test",
+  "symbol": "__TEST_1ST__",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qrgqep8saj8agswr30pls73hra28ry8jlnlc3ejzh3dl2ju7xxpjxqgqq9ykn04hrcpz6u33v7j0h7y946duj6kmwszzxdue",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x20567a1e279d7153f49658ebbf2837980c1126f26f97e175582bd4a988b7a2df"
+  },
+  "typeHash": "0x146d316e10010105729831804646e5c22d2d32e3d51484f43b17c76a9a1581d5",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

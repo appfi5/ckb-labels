@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "202405191609",
+  "symbol": "TST",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpa0qahsffdrsxtuu97tc2u2wzwaeel3dc7fjjm3vurvtggrggqquqgx25wprexfrm6qyrrsr2u7qrg7qvr68xr8qqtz9q0h",
+  "type": {
+    "codeHash": "0x98701eaf939113606a8a70013fd2e8f27b8f1e234acdc329f3d71f9e9d3d3233",
+    "hashType": "type",
+    "args": "0x48629776b593736c56fa5dc9c4148e154958d837ba6e93a9e7030016a6a44380"
+  },
+  "typeHash": "0x84de580fa4af3af31085f4cfd5dabf62e7bd437ae6b4cd682d1051afdd9d095e",
+  "description": null,
+  "udtType": "xudt_compatible",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

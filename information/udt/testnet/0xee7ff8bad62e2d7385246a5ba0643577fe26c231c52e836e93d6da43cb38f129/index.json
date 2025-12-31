@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TTT",
+  "symbol": "TTTT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8s07aq5caq2re4afnzf6wt66jzf3g6vkun39235",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1ebc6b9f540078696b7fe10a9b51b96ab568ee5d2858cf9a2ede5ff0869cd258"
+  },
+  "typeHash": "0xee7ff8bad62e2d7385246a5ba0643577fe26c231c52e836e93d6da43cb38f129",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "VOB",
+  "symbol": "VOB",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqkgs6jnda92e7v97mry3k6hkqy2dkszly2f29jgrza7n3qfl50wfg4793rx",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb26c61cba06f3f8b14e60b10374c428c02bd942dab06faa282f1d460e0784c0f"
+  },
+  "typeHash": "0x71186b03d498a9162785546a5d6459d65dd758d2b4ec7886b8e2806c879837d4",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

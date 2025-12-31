@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "PICK",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy3nh3gca538ec8mmgp2mjzm5va799npkyeczjmj",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x4143227d292e3c90ea4c4649d977b920499964f6d67478cff5be93288aaf18bf"
+  },
+  "typeHash": "0xadd6d62dbf1e498d4dd3d1fe428668c41215d387169f00b2d33e48cd500ed920",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

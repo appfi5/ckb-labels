@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "USDC",
+  "symbol": "USDC",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqf0mw692fte03eu69rnegr403mav0r7gwx7lh5zlk78zaag7jt96f56q8x",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x5f1cfdef8706dd40ced257a745beb54a12f2286380cca06959a42979a9ffeb5e"
+  },
+  "typeHash": "0xeaa4791aca4de66046c71c688cbad81be5efde8d3de66cdefe384a5f253b381f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

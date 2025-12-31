@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "VVV",
+  "symbol": "VVV",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqslrlptteuldj0rqsx5jkm6mz3g5y8uvupe8c522g36z3vv003jeu4vjpvs",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xfd3f8083360f12d0c9a9b1b5c9bb01bec6e521bcd4ced859e45a06dac0d13005"
+  },
+  "typeHash": "0xafebf5c9cdbcb9526d843b1c821e1a24223b8fd45d5046586a34b7215664d264",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

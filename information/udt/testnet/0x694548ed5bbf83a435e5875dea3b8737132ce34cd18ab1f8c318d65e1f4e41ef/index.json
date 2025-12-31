@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "zzza",
+  "symbol": "zzza",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvvaqqpkf63a7d5ezrw7va267cgs3x33astna3hq",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x7cf85dcc138da0a36228c024f90d7984a8497c83dcc5d5271ce108ed59547001"
+  },
+  "typeHash": "0x694548ed5bbf83a435e5875dea3b8737132ce34cd18ab1f8c318d65e1f4e41ef",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

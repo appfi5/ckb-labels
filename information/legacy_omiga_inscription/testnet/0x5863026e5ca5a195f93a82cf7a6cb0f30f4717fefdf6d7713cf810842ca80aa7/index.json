@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TwoStoryRory",
+  "symbol": "RORY",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxhf2j59jfq85mxsvt4rd84v3pn2h8z8tyfjpjfs",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xcccd23d37a4d8d09745d8f7d3d24ee151d0cf83f2b3b1cc3d66dfbdcfcd757f3"
+  },
+  "typeHash": "0x5863026e5ca5a195f93a82cf7a6cb0f30f4717fefdf6d7713cf810842ca80aa7",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

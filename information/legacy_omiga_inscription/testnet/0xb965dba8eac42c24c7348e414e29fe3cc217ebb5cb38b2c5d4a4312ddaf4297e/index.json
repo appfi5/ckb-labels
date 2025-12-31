@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "FAUCET",
+  "icon": null,
+  "decimal": 0,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxcxm6pu03xfg9f407z0g47mlx0duzuraq3k37v2",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x17ed2e906217a2e9e915a17d28e9992f5658a07d00cca495382c4463b1a18fa1"
+  },
+  "typeHash": "0xb965dba8eac42c24c7348e414e29fe3cc217ebb5cb38b2c5d4a4312ddaf4297e",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

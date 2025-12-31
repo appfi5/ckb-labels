@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-LOBO•THE•WOLF•PUP",
+  "symbol": "R-LOBO•THE•WOLF•PUP",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qfdchesktvfn5glut3ppf45ha7j83ekvrpcxscrqvps8gen2g4uxe0",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x2e2c1f835970ca130f965d8c23a8f4e4cd83d0126015168d2f8497ebf395ae02"
+  },
+  "typeHash": "0x19357185cad5f1174312246a8d8a38f5a71f60a3c3aaec38799e219ef119b6a9",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

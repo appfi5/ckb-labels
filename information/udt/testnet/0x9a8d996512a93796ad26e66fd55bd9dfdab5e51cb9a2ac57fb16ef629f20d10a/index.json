@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "qwed",
+  "symbol": "qwwrss",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q33q24uukqnta2rareuvfxdjf0ez3ul29tgjhdwcp3tua6ntfuqquqqqqqq4zq57c",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x98840b86740e8735315b67779c71e105a0814f60feccee5537681c9ad9446ba3"
+  },
+  "typeHash": "0x9a8d996512a93796ad26e66fd55bd9dfdab5e51cb9a2ac57fb16ef629f20d10a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

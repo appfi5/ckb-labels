@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "V",
+  "symbol": "V",
+  "icon": null,
+  "decimal": 4,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq3wxcv0ut7crzyznnr0tgk40t4zd7zk58t2v4myuyv6l37j0dx20v9svcev",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xdf794db8ab9cf2f7860c4b025f7d6465ecba09ce5085d42e091804e2c0599e29"
+  },
+  "typeHash": "0xac9e884b57b12896f085ff82149545e29df9a8a9b8eead9c8f36437cc8a775f0",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

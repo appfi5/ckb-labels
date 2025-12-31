@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "利拉鲁肽健健康康健健康康匡庐图噜啦噜啦嘞健健康康健健康康考虑考虑健健康康健健康康",
+  "symbol": "GHHGFG",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgp0fjtq620tf0l9vhpc7eqrnzndl9zu9l2qqmyern6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1e0910a3811b118020a446b20dccf7c5c001e4183d7007957a196d58a7993d82"
+  },
+  "typeHash": "0x7bfe2599ce0d6d4d922bddf1120587e82875fab1f163a0ceea6ad2462df0a2f9",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

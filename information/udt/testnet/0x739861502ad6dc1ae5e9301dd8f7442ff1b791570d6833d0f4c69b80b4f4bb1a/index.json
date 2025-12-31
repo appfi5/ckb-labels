@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "happycat",
+  "symbol": "HPCAT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq04hhfr0zl7tv9wyntfvd53zfw7l7pwqwsqyxfmm",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1589b7b679e6a4b6bffa143469af14aec92b8086b4b42a189ee71bbfa15d2260"
+  },
+  "typeHash": "0x739861502ad6dc1ae5e9301dd8f7442ff1b791570d6833d0f4c69b80b4f4bb1a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

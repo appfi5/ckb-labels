@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BURAT NI KIKO",
+  "symbol": "BURAT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyz45mfg9086nc89z429ukfujjswahs495kva982",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x4ef010ae14a46f53f063aa4cb631554583f2f1c7f21aa2806e18e7f61282b7e4"
+  },
+  "typeHash": "0x5a938c6b724694c9acf90fcd88f5f5cd7c514fa2ccc977eba42e8638b21a9c9a",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

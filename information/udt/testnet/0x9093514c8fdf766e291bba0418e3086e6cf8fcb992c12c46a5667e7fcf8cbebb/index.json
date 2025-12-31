@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "PI",
+  "symbol": "PI",
+  "icon": null,
+  "decimal": 6,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq4mnprh3dw2u9t53rdkukfajev2j8vm2cm63ppudynfy8wwvnlmmvrlg0l0ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq4mnprh3dw2u9t53rdkukfajev2j8vm2cm63ppudynfy8wwvnlmmvrlg0l0",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x55d81aaafc6981068dcaa9d39b670b76ea36412df2adb21ab1791ab23e7b1dfc"
+  },
+  "typeHash": "0x9093514c8fdf766e291bba0418e3086e6cf8fcb992c12c46a5667e7fcf8cbebb",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

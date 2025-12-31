@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BTJ",
+  "symbol": "BTJ",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qsysyd0gahzmwwj6m0a85qn0l8dsy569n93q05fa3rvw6569qjxgsqqqqqqkys7pp",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x8f90dde16b9c152c57c5538a579f7ab75d1ff6c9c710a6a41f37b7f175958f9d"
+  },
+  "typeHash": "0x0d93bf610adcdfae4ed8e7a93731563c75a89533fc7401b0256256f022fd7dff",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "USDT",
+  "symbol": "USDT",
+  "icon": "https://cryptologos.cc/logos/tether-usdt-logo.svg?v=002",
+  "decimal": 6,
+  "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqchlf5xgdn70phzppj99mzlgumxjr9p4q5fh5ccee0nda4dn0uxxsz2sqqqqrq7ryg9pnzd6x8y6ns3pjv4jn2v3nvyeryvpkxgcrvwfexs6njd6rxye5gwpnx9jkxdc8snpcn",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x1b89ae72b96c4f02fa7667ab46febcedf9b495737752176303ddd215d66a615a"
+  },
+  "typeHash": "0xaaa9cb573c6cb58d0dc29264d2270013f3c6882439310927a53f2263d4be410e",
+  "description": null,
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": true,
+  "operatorWebsite": null
+}

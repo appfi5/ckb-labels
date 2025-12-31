@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "3344",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgp4whht2f5az6d4pwm03u6n6x95qpz59nqqqqvwwsn",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x8a53f82fcdddffed79b2a14bfe7d67cd7f0684929802e34237f57b9845a9058c"
+  },
+  "typeHash": "0x312d75e08e8fa1dd94fd1c571df37bec901df0b328334ab0cfda75646e0c5cc8",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

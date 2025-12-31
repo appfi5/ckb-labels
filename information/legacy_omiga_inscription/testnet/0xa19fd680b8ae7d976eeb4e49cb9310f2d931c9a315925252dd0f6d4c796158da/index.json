@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "X",
+  "symbol": "IFC",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxy4sr3fq9csnlj75ftnu4qr7rpyqh723uvud6sw",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x5140b05bab9040e21e3058a6b53505e01466d9017d029abab841906eaab5776d"
+  },
+  "typeHash": "0xa19fd680b8ae7d976eeb4e49cb9310f2d931c9a315925252dd0f6d4c796158da",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

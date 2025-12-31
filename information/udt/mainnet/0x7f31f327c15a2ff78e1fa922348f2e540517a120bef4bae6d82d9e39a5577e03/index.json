@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "O",
+  "symbol": "O",
+  "icon": null,
+  "decimal": 0,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq5yht369u5c3jrcnz3pdr3kd7h4h49hs9ltgtkq2kfhfmnlwdej3cqhrw5d",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xf2b02e459934ccac5711508ac25ee84fae53c1a142dcfb86935c8ec349121bfc"
+  },
+  "typeHash": "0x7f31f327c15a2ff78e1fa922348f2e540517a120bef4bae6d82d9e39a5577e03",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

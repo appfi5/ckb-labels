@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SAM",
+  "symbol": "SAM",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qj0s780sfa20ncjcs426shstetz0qgpxwp25u68h205cedg576khqqqqqqqr5raz8",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xc027aac2a472bf81de53a9cbffc090d0cf47f39e81103fa1ea23581767bcbca1"
+  },
+  "typeHash": "0xd11ff255093c0b13e616cf828c80b3c3b3bf06771414b90b7255f355d1d244a0",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

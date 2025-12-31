@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BOOL-DEV",
+  "symbol": "TBOL",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckt1qpenukfkctnywuhlnx6ljhge56kwpkv5q8p8tgmpnvvg06c3lqte2qgjpppy7n6v94zy24sy23py7nqsn20l6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x453e74a10139e99e0bbfa0214e44582e4be9951fea93e42e93abbb57091dff9f"
+  },
+  "typeHash": "0x951113ec5d559492867889490d739abf5c79a57544560ab1d68174e4bc5d2180",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

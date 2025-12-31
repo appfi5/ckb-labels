@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SATS",
+  "symbol": "SATS",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqqemu2q73y9d4jay53ufnfu3hu47drh6m7js235mqf3nymt2qg3pxpn5vfj",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x613ee68927401021bff3324793b4cd3ea8155f20615a95c34cc9096dd1dcae16"
+  },
+  "typeHash": "0x8155727f74707cbfbaf2f9f7f01b810ccc8066973ee47d6a56da48f2a5875339",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

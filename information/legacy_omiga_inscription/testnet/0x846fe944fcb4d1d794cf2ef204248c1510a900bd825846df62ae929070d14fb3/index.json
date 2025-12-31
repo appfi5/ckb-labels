@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "King Coin",
+  "symbol": "KING",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9h8w63mxe7ep22txcghrygayyg8gc2r0u0e52e4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x8de4b316f9e400431ecf7a75681ff704f1e645d9e02707636dd336eac53a7c9c"
+  },
+  "typeHash": "0x846fe944fcb4d1d794cf2ef204248c1510a900bd825846df62ae929070d14fb3",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

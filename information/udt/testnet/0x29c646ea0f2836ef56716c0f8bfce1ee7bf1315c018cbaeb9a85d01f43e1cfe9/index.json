@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGBCATTEST3",
+  "symbol": "RGBCATTEST3",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgakve655ra5vndh6wn2ljgq0h069lpjwsdt7p4e",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x957e5bac0da3bc49521dfde3f19927421b001c2aa50351571040b0abf2637d42"
+  },
+  "typeHash": "0x29c646ea0f2836ef56716c0f8bfce1ee7bf1315c018cbaeb9a85d01f43e1cfe9",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

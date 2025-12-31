@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "AAA",
+  "symbol": "AAA",
+  "icon": "logo.jpeg",
+  "decimal": 6,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qh5dkr5seq5jpu4ewrf7q624n8xt3l0w8k2vjcmg6w2043ql5h32vqqqqqq4h4cz4ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qh5dkr5seq5jpu4ewrf7q624n8xt3l0w8k2vjcmg6w2043ql5h32vqqqqqq4h4cz4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xdf0471c14879cb29a6d01ff398f448abe89506df4a29356e4a6832edc6d29191"
+  },
+  "typeHash": "0xf371d731eedc43b2671ae4ea3f52a4908e48fcb1b2ba2204c577fee2b6fb3ae8",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "dev@rivtower.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

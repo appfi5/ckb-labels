@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "OMIGA MEME",
+  "symbol": "OMIGA MEME",
+  "icon": null,
+  "decimal": 0,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9cdre4gspskaa88uy96t2dp49qavrthh5djljz8",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x969af5d6ccd0b8635eb5f89072f2447bfde0932e5c05edd6223ffbe6f9012a8b"
+  },
+  "typeHash": "0x967ab2fbe3df1cec405ed8cff61485ee691ca85b215c515ce983c1e51754a6e6",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

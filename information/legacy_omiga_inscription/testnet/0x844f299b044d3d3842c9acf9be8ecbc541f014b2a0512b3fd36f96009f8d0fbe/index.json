@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "jjzz",
+  "symbol": "jjzz",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq28phxutezqvjgfv5q38gn5kwek4m9km3cmajeqs",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xcbd638eeda9119f883387db9ae9d2ce668322d60ef821950343227938f373b04"
+  },
+  "typeHash": "0x844f299b044d3d3842c9acf9be8ecbc541f014b2a0512b3fd36f96009f8d0fbe",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

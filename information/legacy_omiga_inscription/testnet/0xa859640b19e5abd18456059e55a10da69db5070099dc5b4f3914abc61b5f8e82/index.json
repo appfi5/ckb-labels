@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ckbrun",
+  "symbol": "CKB",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxl2vzf7dryp42wxre4u8958h6xyr2xqqsaj65z7",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xfb11f5b280c5e829bbe5f18c6ff4078dd302a1f09bb6b53747d154935fa93667"
+  },
+  "typeHash": "0xa859640b19e5abd18456059e55a10da69db5070099dc5b4f3914abc61b5f8e82",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

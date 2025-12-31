@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "GOODS",
+  "symbol": "GOODS",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqq25qaj9l0vmr5cr5plqj90dxpwkfkmavack53epgn7wqq6uwfncd94j58w",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x0bab3ab423e267436aba9d4f40a6bc83b943e6e98cf8644dbc882cd157f60219"
+  },
+  "typeHash": "0xef5d427b2af591b4ce0600228b99f733722811e2d4176a21c46f0af4ed1d9959",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

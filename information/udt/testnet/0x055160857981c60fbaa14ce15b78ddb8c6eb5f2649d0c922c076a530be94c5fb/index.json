@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "asdq",
+  "symbol": "asdq",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqpuypwjzwkw08uan2vv8pg6xnc6v8s7gdw7n9jqccdc43x923ed7vx0g453",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd90579359ba6f5b674bed7dd319e0230d080774bfda44a203605b96d507f7b0a"
+  },
+  "typeHash": "0x055160857981c60fbaa14ce15b78ddb8c6eb5f2649d0c922c076a530be94c5fb",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

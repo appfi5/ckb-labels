@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Cryptonz",
+  "symbol": "CZ",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq83urvpshgxzdxjrx2z6xr5mzypehcg4pstqmqpa",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x942d1e9bf805aa0df95ba6dcd0061f1d2c1ca58fed68dc7850a4b9ff0db1a6f9"
+  },
+  "typeHash": "0x31877b164e882e8467dc966a4debb5f979e712bb1a491bc1f95b74218e94ce53",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

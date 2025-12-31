@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "YOYO",
+  "symbol": "YO++",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq24hwdrwecdplqmer8ccxqp7qm2qxpr00q4av233",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x3fa615725d89837a69956f3dd69bad7e8209ae6209f1e91134304288755f1cbb"
+  },
+  "typeHash": "0x236d163319425956ca55a14456303a8fd62607e64d961e8e1916937c85ccace9",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

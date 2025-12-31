@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "yyds",
+  "symbol": "yyds",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq84jvusvtu44ppwjkyffn4490qxdmpccv58spnk6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x667a3e60a3f481c68aea4adf22048392578e54c30878d99096bb6d99ddc9b4b1"
+  },
+  "typeHash": "0xdc70dbe903f7d71f2c2179a3ef1a18680ca8335324a874bb9e8fd647e4d03948",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

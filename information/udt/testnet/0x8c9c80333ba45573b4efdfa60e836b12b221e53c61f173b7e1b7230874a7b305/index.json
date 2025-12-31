@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DETZ",
+  "symbol": "DETZ",
+  "icon": null,
+  "decimal": 8,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x18be79faf282425f8627d1fd7f87844b47aa2cb51bb603e9aca8cdb2491c968f"
+  },
+  "typeHash": "0x8c9c80333ba45573b4efdfa60e836b12b221e53c61f173b7e1b7230874a7b305",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

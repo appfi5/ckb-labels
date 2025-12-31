@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Violet",
+  "symbol": "VIO",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrg8txx7a37w0dtx2vgrs662h5r2d4ygg05483wvyyf26r26ygpkgqgzqqqqpfk7a7e9cesz5kfwcjlehp57v3k76k3v6feww2ddc2rc22kcsx9d3y8mpm",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x327d15235436dba0409969a538757e90bb80c167e78a89a32b127f4f9b4817f7"
+  },
+  "typeHash": "0x5d0d36f2c900e611638e5b96806a646f55c1fdaa6482edb5375b6d7de24cc3bb",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DECILM4",
+  "symbol": "DECILM4",
+  "icon": null,
+  "decimal": 255,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdq43vmm0djlg7ytj63mscwxt2ans9t86gyfurye",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb466b6c208ff82a190afaea518add820c4d9e46e82fafad9a75cbbf5265a6fc0"
+  },
+  "typeHash": "0x5c01240b43ddb5c76657e02829296c6f33e8c9ff347cb17bf837d24305f69a33",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

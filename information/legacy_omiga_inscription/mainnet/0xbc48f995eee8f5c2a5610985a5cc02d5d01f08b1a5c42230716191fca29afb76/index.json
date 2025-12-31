@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Omiga Inscription Protocol on CKB",
+  "symbol": "OMIGA",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qrgqep8saj8agswr30pls73hra28ry8jlnlc3ejzh3dl2ju7xxpjxqgqqy28n5m69va267nv0wvsudngtxz8t9jwss3xkhpk",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x584089c75f490d84306fd055629a4db773b75b057c8dccf3231e12a6b8c66e5c"
+  },
+  "typeHash": "0xbc48f995eee8f5c2a5610985a5cc02d5d01f08b1a5c42230716191fca29afb76",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

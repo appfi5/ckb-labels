@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "world",
+  "symbol": "World",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqphjmqqyzk5g6tr0vrv9q2hmkaklj534k4c6fkk59f4e4l9efqdjrrp2psd",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xc8328a074f5237a399e5a33fb25e2c1cab2270ce0d352d633c3af73b37a330f1"
+  },
+  "typeHash": "0x5971c1308c1bef013fee8cbd11bf5a353a129c5beb797629ce9cd6d62d5458e3",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

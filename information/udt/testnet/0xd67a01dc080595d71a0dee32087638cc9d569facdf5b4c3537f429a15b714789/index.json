@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "dgvv208",
+  "symbol": "dgvv208",
+  "icon": null,
+  "decimal": 0,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x074d07c231a70906ee4910e4b0e5d3b3cc43449856cb6532ae9752f69fb5ca13"
+  },
+  "typeHash": "0xd67a01dc080595d71a0dee32087638cc9d569facdf5b4c3537f429a15b714789",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

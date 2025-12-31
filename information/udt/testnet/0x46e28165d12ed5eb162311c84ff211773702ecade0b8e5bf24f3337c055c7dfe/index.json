@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "tatakai test token",
+  "symbol": "TTT",
+  "icon": null,
+  "decimal": 3,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjmzdw8t0ffjfc4pqxksu55ug73xdeqkascm6zqmlp49xkv0myvgyqqqqqqwfe92w",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x83cf80ea6331a767c3ec126bb37c5eec47d862723fed0717ea3019f291ee0329"
+  },
+  "typeHash": "0x46e28165d12ed5eb162311c84ff211773702ecade0b8e5bf24f3337c055c7dfe",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

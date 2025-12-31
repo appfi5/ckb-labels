@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "TESTLUNCHPAD1",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8kwyyl36dqz67w6x9gll0vq2ryn0w2x6v75ml0t",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2b012df0d30b36525e7745c636dd7a46dda2f71c994f183a2b850c8f3473cef8"
+  },
+  "typeHash": "0xe3ef383ea2e9c231a1315d9a4e2ba7c132782f640a960ba5c6da585116a95511",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

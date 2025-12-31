@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKB Billion",
+  "symbol": "CKBILLION",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8khf9vja6x6j3tynsx9yfuukxr7yd26gykq8kzd",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb0f22dce0204b1b6539ccc6767362f71b05b8969850b99528c61c3718a9f2d29"
+  },
+  "typeHash": "0x3b642aaea33f1da9d10b69789cd8e5295e2f7e9836e28b91555d46bbd9c8ebe2",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "QWER",
+  "symbol": "QWER",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq05v0t0axsc9mwmyzl6xmqw5s4w0g8q28qhw3f99",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x7b12824f1be0ad6b0587f77819e38625f76fae5bed2bc880e5a84e87f1ad5bfd"
+  },
+  "typeHash": "0xc363165b802e2db6e4cae6fc1133174a9f311c3ac9d3d8c994f7c79deda98468",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

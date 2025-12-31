@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "JJD",
+  "symbol": "DDI",
+  "icon": "",
+  "decimal": 6,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq228zc5305znfvhs8n8yzeue7gxmup3u4skj63gx",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0x4996b0e402fe6d75713eea7f58adf8fbb922e3a4a69ac415371aec02a6fc4210"
+  },
+  "typeHash": "0x5febc4301f08443d4885b5095b8660c929311e1bfd5c799994ae934c0fc47b7b",
+  "description": "JJD",
+  "udtType": "sudt",
+  "published": true,
+  "email": "jokeray8219@gmail.com",
+  "famous": false,
+  "operatorWebsite": "testnet.explorer.nervos.org"
+}

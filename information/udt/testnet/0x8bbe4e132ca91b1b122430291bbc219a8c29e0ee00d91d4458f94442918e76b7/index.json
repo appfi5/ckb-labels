@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "123",
+  "symbol": "12312",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfzs964t092qntc39st7zyp40c43zf2rjck0ma94",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x558b608e0cd7dc14f17ecfbd34f7d9bbc2ffcc0776e1fef8c1e016ab1ef4aec8"
+  },
+  "typeHash": "0x8bbe4e132ca91b1b122430291bbc219a8c29e0ee00d91d4458f94442918e76b7",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

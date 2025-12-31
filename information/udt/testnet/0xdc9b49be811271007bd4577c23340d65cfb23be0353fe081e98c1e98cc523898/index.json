@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BCTK2",
+  "symbol": "BCTK2",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5h6jgvyx8ndgcagrpxpyn2kzgmqcaqd8vxjl7kgc8w8h6eva39wcqqqqqqj29g9q",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x756defe0217d1ba946cf67966498ec8d72cfe227632d3c3226dc38ee9ae4ee3d"
+  },
+  "typeHash": "0xdc9b49be811271007bd4577c23340d65cfb23be0353fe081e98c1e98cc523898",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

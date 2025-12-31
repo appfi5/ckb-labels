@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ERASE",
+  "symbol": "THIS",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qs04aahqlsmvqvgq853tdv8me396h70jwsq28rqa6g8q6pc4gz4cvqqqqqqk3ke4z",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1ffcfbb069d7d2ed6ac8b2d3ce7af5f7ad46f771ab995b23e4fde23a7fd7245c"
+  },
+  "typeHash": "0xf976a262492cf34d98d35b1d807a52fa17b476abf31a3f45a30fd547eae364a7",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

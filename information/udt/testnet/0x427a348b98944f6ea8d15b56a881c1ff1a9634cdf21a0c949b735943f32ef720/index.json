@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CNTT",
+  "symbol": "CNTT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwz9lxdsvx9yh93agqu4zf3nyrgjs996lcc9gz9jckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwz9lxdsvx9yh93agqu4zf3nyrgjs996lcc9gz9j",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x08a90c8a4b6884dbb6ad44b5a451f2a3814f3adb4c4e978858c1198138031a6c"
+  },
+  "typeHash": "0x427a348b98944f6ea8d15b56a881c1ff1a9634cdf21a0c949b735943f32ef720",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RUNECOIN_RUNES_LeapX",
+  "symbol": "RSIC",
+  "icon": null,
+  "decimal": 0,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqq95scrg0ue0smunhf8fenghzk62uvckeqzcnlzyt800tfemnjv4ewyaumr",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x1fe03fa9f04d9634d781a28515209d1b99740678f2d04fe35231d57e95c96fa9"
+  },
+  "typeHash": "0xb187485f2dcea737de975aeff155bd5880da2ac1533e83be62dd95edeb7a3e8f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

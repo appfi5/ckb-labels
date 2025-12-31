@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "测试一下",
+  "symbol": "Tlt",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyd4v3ahg7q2squ9py3wwf80t8y2dhpl0quppefz",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa153abeef16a6c33f7a02056af748c6de1b45617a43bd52b997669cc600f9d68"
+  },
+  "typeHash": "0x2609396ff5088845c8914e4052d07a1b7ceca7f3ea76cbdc286ebb97df3dbc54",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

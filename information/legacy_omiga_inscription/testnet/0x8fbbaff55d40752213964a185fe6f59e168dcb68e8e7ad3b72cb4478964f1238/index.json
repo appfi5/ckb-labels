@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "0X",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyurm9a5hlk5gfghyh3qpvf40u3xtlhuzskd7tyc",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x9ae81ec8eda8e917e1cf4ef10d7f6fc2979f4abe3b8e9d139332f012a1a7a242"
+  },
+  "typeHash": "0x8fbbaff55d40752213964a185fe6f59e168dcb68e8e7ad3b72cb4478964f1238",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

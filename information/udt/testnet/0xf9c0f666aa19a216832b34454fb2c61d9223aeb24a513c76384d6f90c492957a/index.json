@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "XTT26",
+  "symbol": "XTT26",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq5z97f337xhazjkf5djfy0vdk94wjvnzjs0gpkz58dy7x96dvps5cpl8n65ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq5z97f337xhazjkf5djfy0vdk94wjvnzjs0gpkz58dy7x96dvps5cpl8n65",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x44b83bbd8ae0dfa9dac0cdc29160e0eff1673b8d5a68f5a7507114cff4c1c696"
+  },
+  "typeHash": "0xf9c0f666aa19a216832b34454fb2c61d9223aeb24a513c76384d6f90c492957a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

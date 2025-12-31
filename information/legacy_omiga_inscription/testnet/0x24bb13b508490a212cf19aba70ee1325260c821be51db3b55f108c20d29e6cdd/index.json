@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "AI",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8zqewuk2gz0hk27dvkma9h0s4m8wx86xst27fe7",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x461d801cf7cd66b6bac49e9158368840fd0611a61bab82be9d8a1a367d3b735f"
+  },
+  "typeHash": "0x24bb13b508490a212cf19aba70ee1325260c821be51db3b55f108c20d29e6cdd",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

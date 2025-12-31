@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SHIB",
+  "symbol": "SHIB",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqp005y95rn9cghct3xcw28zkwfmp4x5rs2u2za3yturqyh4c37pwamwmqqu",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xc2af4a0dcaac50773f3dc68264160f44993bf0eb9698227f00ff1c5e9ae5b5c2"
+  },
+  "typeHash": "0x5a3b6cd9d6da079cc3bab9af191328c6439e2ecbbc4436dae74da619a293fc0c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "PUDT",
+  "symbol": "PUDT",
+  "icon": "logo.svg",
+  "decimal": 6,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgjq9wlaxnef3x7zqcagqxa7vmjaj6vczxwqq4w7pvj",
+  "type": {
+    "codeHash": "0xc411a2bec8baca2f7ad7243cf817a172c16b223ef1f8b04fe61a3f7b7f13256b",
+    "hashType": "type",
+    "args": "0xee7f4760951ed18f3c8567b5bd48f28bea259d3e8b2a6bae2a639bccf45fbaa2"
+  },
+  "typeHash": "0xcffe6e34d788d9b99e0bce3cd757a9e8f0fe1e2c3d079c3dce84f1ac129378cf",
+  "description": null,
+  "udtType": "ssri",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

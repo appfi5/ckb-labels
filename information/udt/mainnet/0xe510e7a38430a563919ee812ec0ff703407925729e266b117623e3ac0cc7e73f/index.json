@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "KanyeWest",
+  "symbol": "YE++",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdguk3hlwyf79xw5yml9se3w2hjpztscccdrrt6r",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x24e8223b077386c8fefd9626134e0070a86ac0c3f55deb0b2d241da8f015fb63"
+  },
+  "typeHash": "0xe510e7a38430a563919ee812ec0ff703407925729e266b117623e3ac0cc7e73f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

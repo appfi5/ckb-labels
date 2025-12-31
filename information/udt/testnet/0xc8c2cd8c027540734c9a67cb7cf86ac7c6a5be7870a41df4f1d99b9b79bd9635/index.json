@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "akdasd",
+  "symbol": "YXYXYX",
+  "icon": null,
+  "decimal": 8,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xab2e8e8956403b102a9469f43b15bd27c10100ce1da4daaed24b44e68661b45f"
+  },
+  "typeHash": "0xc8c2cd8c027540734c9a67cb7cf86ac7c6a5be7870a41df4f1d99b9b79bd9635",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

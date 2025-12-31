@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "HAHA",
+  "symbol": "HA++",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwgkjt7xudaj3srf9fuvcj9zslwuzhhe7q5d066n",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x8f1f20d4ae0f6a8c19e2474d06b3585599f2e07014f74a6d6f03113312c5952b"
+  },
+  "typeHash": "0xddde3860967aeb3dc311dab6c8e1421ebc6a3f6b394d4f9d5662e44c55c47f86",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

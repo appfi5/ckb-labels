@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Johnex Coin",
+  "symbol": "JOHNEX",
+  "icon": null,
+  "decimal": 7,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9rq5qtc6qvflyvsv54xsew6dnx38ffgfqzz82wq",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x7a224489ad241fdb8db1fee692960ccaba4d2b2548ed228c3f2afc2c046f69b6"
+  },
+  "typeHash": "0x5bca246ab89de30bb09cfe2ed34790700c77670a0ff3e1b12f9720f76425f215",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

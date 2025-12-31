@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "QLTT",
+  "symbol": "QLTT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq08jgktxpu03yp2ygmxec97a9e8gsc88wsyqcu39",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x798e2462b6390d9cc5d62fb188bf5d4c6e6702cc0393f207de46fd57be2e758a"
+  },
+  "typeHash": "0x61bd91b121e5b7bbf9ccb4bc46c3106ac69c2dfd7b1c1143c4b4fdb33fd61826",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

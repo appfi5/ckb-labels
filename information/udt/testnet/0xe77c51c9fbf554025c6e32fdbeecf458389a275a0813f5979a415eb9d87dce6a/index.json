@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "testoken",
+  "symbol": "$TEST",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq5x8uedyze6kpnn73e6wkqtut86mmcxgpuucmtkkhrqa9ktesqp3g6xcl0f",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x8d8c7d35d6a1e2697651d9cb77a0076ff45993c11b67356647db1acc53146b69"
+  },
+  "typeHash": "0xe77c51c9fbf554025c6e32fdbeecf458389a275a0813f5979a415eb9d87dce6a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

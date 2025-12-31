@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "MEME POOL",
+  "symbol": "POOL",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqpchlssrjz9ykeapvheekdzux367dhcm3w7lzmllkg2mvw8dm9c8jv6jaqa",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x3cc772cfd14172322a95627c28f1065a599459989256ecfc1c3a3517096e8c22"
+  },
+  "typeHash": "0x3d844990f5a6496e25945d548699e5606db808b5455cb89781cf2fa783915084",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

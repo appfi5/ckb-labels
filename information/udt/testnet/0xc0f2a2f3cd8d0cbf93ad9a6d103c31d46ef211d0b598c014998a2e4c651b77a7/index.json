@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "AMTC",
+  "symbol": "AMTC",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2958l435gtv42exad3gscmfnjru2620xg3ydt7e",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1e32eadaf7d0840c73d18f770deeb5b749539646938c3d3ce5ef8c8a78a63f33"
+  },
+  "typeHash": "0xc0f2a2f3cd8d0cbf93ad9a6d103c31d46ef211d0b598c014998a2e4c651b77a7",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

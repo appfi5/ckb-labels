@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "girls",
+  "symbol": "girls",
+  "icon": "logo.png",
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgsqqqqq89nf7tgv23nq3gw8zk2lx7f0va888kfpgq6luavjkrf6rg9v5m0rjddpp",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x4558ffc5674ace5420f554b3f2f6aed4e9ce3bae151542161fc9ed458c877223"
+  },
+  "typeHash": "0x17f49f61c3255a7f56ffabe88be569800edcdda8d80a66acfc4d3f252590828f",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "Mhank1028@gmail.com",
+  "famous": true,
+  "operatorWebsite": "https://explorer.nervos.org"
+}

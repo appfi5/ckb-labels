@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "9851",
+  "symbol": "9851",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8smtkclf0fr959cy4cfe0m0xhjtdvu6murvc5n3",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x18f695ccb98b743ceac619c954525c310a6a33006807a7105d5914118a215410"
+  },
+  "typeHash": "0x2280caf63591c73d2800af31f98bfcd453e47a0e48a76c9b8c8b5e8e645391d9",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

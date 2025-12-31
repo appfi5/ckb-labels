@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "1INCH",
+  "symbol": "1INCH",
+  "icon": "https://cryptologos.cc/logos/1inch-1inch-logo.svg?v=013",
+  "decimal": 18,
+  "manager": "ckb1qjfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjhcqqqqpqqqqqqcqqqqqxyqqqqx9l6dpjrvlncdcsgv3fwch68xe5segdg9zdaxxxwtum0dtvmlp35qj5qqqqqc8svf3xycnzvf3xycnzvfhv3pnqctpxuuxydehxpnyzdjpxuensvpnxscnyvzrxvcry44xsck",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x5bea7b77283ac8a20bd4e848a67c68349a3880b67278a5565bbbc242a26d3e29"
+  },
+  "typeHash": "0x7a12b26b621b6cf6982247855388694743c4da97b18a4ff8ebdf6fb54c1c850f",
+  "description": null,
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": null
+}

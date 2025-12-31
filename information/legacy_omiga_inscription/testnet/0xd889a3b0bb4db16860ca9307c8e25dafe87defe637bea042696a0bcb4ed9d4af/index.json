@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Cent",
+  "symbol": "CENT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq85c6m7kywjx2ttn83cnch6afgnxekwa6gyph3yn",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x8db6d78450c447db30a8e557b98bf4f640cdd9b1a7ae727680a4ef5e22043123"
+  },
+  "typeHash": "0xd889a3b0bb4db16860ca9307c8e25dafe87defe637bea042696a0bcb4ed9d4af",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

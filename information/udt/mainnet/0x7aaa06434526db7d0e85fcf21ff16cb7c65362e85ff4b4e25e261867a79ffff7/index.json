@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "EPIK",
+  "symbol": "EPIK",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqqquynw56ddr50tm8cwangnzuyr858c35dehn37mmpzcphl90rpawrktfpu",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x0cfaa2ce1440775c3cb91229fe19c916a2313d3894ab69afcccd6536d3a6668a"
+  },
+  "typeHash": "0x7aaa06434526db7d0e85fcf21ff16cb7c65362e85ff4b4e25e261867a79ffff7",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

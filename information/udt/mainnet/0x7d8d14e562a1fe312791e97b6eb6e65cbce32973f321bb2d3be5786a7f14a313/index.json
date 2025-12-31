@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Eutopia",
+  "symbol": "Euto",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqpn672vyh2mwavat3tfn33ug5fz9q942jsmee36xl6x88732xktry4pkc4d",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x3c5dad40083cb062c7e654a800b529fa0d569b80571864390877b0243b19e9fd"
+  },
+  "typeHash": "0x7d8d14e562a1fe312791e97b6eb6e65cbce32973f321bb2d3be5786a7f14a313",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

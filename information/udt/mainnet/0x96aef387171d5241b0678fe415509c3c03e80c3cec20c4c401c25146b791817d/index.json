@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Official SITA Token",
+  "symbol": "SITA",
+  "icon": null,
+  "decimal": 6,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q503cqzrf6x3g50zxyq39dc63s8u0s3vg0gwh3p9d8vp4trhpfnkyqqqqqqtc392a",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x159edc528067e0d9de069934e6852e74452fd88c2f12e98a81cac787f83be673"
+  },
+  "typeHash": "0x96aef387171d5241b0678fe415509c3c03e80c3cec20c4c401c25146b791817d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

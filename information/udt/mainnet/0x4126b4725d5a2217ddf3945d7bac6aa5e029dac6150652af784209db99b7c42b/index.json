@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ETH++",
+  "symbol": "ETH++",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgjqqqqq0ctadyk5jjne70n2md9yfsqwx6ryvesyzq2rfngak2a0m2hahkp849w28",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x5022ded6b5ae84f25d7b21c57a5735d1ecfaceee61a073b2c4fc2bbe754f4c6e"
+  },
+  "typeHash": "0x4126b4725d5a2217ddf3945d7bac6aa5e029dac6150652af784209db99b7c42b",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

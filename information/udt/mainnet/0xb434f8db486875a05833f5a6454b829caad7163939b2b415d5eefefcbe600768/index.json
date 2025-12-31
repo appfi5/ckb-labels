@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "NervosCommunity Token",
+  "symbol": "NCT",
+  "icon": "logo.png",
+  "decimal": 8,
+  "manager": "ckb1qyqwqtpylkxmkcrcu0szkghh0hysq062kd9q283577",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x6b579fed95e7a66db5af9ecf20a6390a6a040081a9c1a31f903bdeb2ecdb4293"
+  },
+  "typeHash": "0xb434f8db486875a05833f5a6454b829caad7163939b2b415d5eefefcbe600768",
+  "description": "",
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

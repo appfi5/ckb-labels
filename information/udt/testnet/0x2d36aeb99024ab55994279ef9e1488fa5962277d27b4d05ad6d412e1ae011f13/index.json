@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ckDAI-Test",
+  "symbol": "ckDAI-Test",
+  "icon": "logo.png",
+  "decimal": 18,
+  "manager": "ckt1qj6z7a4cxwj0uedtut2p9luzspsr7nrts05c3qttm6k92f448lu2f70eejqfwq2jne0rjmeddrxm8l3w8cv7u7h526lsqed2m2ewd0kxmtfhxxye259cfx4tt0hpps85u7gwqxjaj8klj8nau42myvh3fxh732uj4zf65fesnj9ntu",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0xb83184a1f4ec3714f8b1e670047764b51a8c503d0b7e8096ae366ec33b00c5ec"
+  },
+  "typeHash": "0x2d36aeb99024ab55994279ef9e1488fa5962277d27b4d05ad6d412e1ae011f13",
+  "description": "",
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

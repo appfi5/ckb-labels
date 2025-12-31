@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "WBTC",
+  "symbol": "WBTC",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqpxvx2xv7vnf4m3p03vhk58jsn8d79fqv8y67jyj66seql4cngrf2mzkqlf",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x222721c7b7de74b3022d4b668fc559bc55dbe7172d63fffc610d752767532f28"
+  },
+  "typeHash": "0xf623458e5b40e4d12c83bb8a5005ed1749a53f4f3b93c2d8f9f718cee01e384e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

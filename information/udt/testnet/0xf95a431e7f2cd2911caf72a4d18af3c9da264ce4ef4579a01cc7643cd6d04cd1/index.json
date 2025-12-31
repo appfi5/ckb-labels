@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Reward Token",
+  "symbol": "REW",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3rxh62v5d7dv72h9cqwh2m8dzlxeqtuv8h363wkkzx0cm4lgjxsyqqqqqqgpjjef",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xfbf270941938de72237878b8bf8eed1926d84a62a43e07cada9422c98ee261b2"
+  },
+  "typeHash": "0xf95a431e7f2cd2911caf72a4d18af3c9da264ce4ef4579a01cc7643cd6d04cd1",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

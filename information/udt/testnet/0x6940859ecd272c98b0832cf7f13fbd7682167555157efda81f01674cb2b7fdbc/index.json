@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "wwpfh",
+  "symbol": "qwefvs",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqg8wh3znyjlnevd9dglpr57p59qe4d7uwsfu4s5f",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xe745ab3b6bad7acff37cce65d6e4969eb465e2ea4d8b32356af75e550e085663"
+  },
+  "typeHash": "0x6940859ecd272c98b0832cf7f13fbd7682167555157efda81f01674cb2b7fdbc",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

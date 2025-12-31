@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "GGG TOKEN",
+  "symbol": "GGG",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwjxuv50r5emftn23eskj3lfenvtpk39wqqujwat",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd95dd3446fd8d12554d56ed61c01fca72be0672fb55d19ce88e94677ec7b0022"
+  },
+  "typeHash": "0x3364ba154e697bbecca4c694cd29c6507b76488efc89df18529601e31d66cc0f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CIVIC Token",
+  "symbol": "CIV",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkastcn7ergh88f55v90fl0nseuzn5dj7gwmp46ph5ashln3x99ycqqqqqqtfj3hzckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkastcn7ergh88f55v90fl0nseuzn5dj7gwmp46ph5ashln3x99ycqqqqqqtfj3hz",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2eb6536847e3b475abf3dc3ce7f148d5c95f3b6054bba730acdaa8aa3c3b4bf3"
+  },
+  "typeHash": "0xcf3d935d7abb1dbd31dfd9bec163bea88bfe148f4f7df12d221504426a52c17f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

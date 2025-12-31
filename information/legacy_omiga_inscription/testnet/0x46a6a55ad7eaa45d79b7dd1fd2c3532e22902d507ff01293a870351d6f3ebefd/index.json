@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "ROCKET",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqypkqx2llypfkk95j65eguhflr9htpxtegp9rdm2",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x410b2da6864cad2a57775e44e121fee71991d3d359692b3c5365b4330b2649da"
+  },
+  "typeHash": "0x46a6a55ad7eaa45d79b7dd1fd2c3532e22902d507ff01293a870351d6f3ebefd",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

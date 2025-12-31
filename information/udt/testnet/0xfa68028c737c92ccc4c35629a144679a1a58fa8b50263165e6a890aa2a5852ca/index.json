@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "QWE",
+  "symbol": "QWE",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0sjfut4rwqce09jlesyntpqkvf83yk4ncms2cwh",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x07d9d2438fd07918479570e8ec42968aa6403d2872d17999b1dca03a5d9021c7"
+  },
+  "typeHash": "0xfa68028c737c92ccc4c35629a144679a1a58fa8b50263165e6a890aa2a5852ca",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

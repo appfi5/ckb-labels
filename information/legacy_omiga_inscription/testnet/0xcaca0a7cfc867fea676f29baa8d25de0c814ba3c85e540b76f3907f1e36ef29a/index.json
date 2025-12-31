@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "APP",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyxz7fexv3askdcjlgu9u8qsej87wrkz7qtxn092",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb246768638092afc3615b412edff0ac09eb1879425764e5cece617bdca90576c"
+  },
+  "typeHash": "0xcaca0a7cfc867fea676f29baa8d25de0c814ba3c85e540b76f3907f1e36ef29a",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

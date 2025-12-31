@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-Piπ",
+  "symbol": "R-Piπ",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qtkxuet29htrf3e3vgrunx25y67sm00tljsd88cq0hz6qk",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xa2fab91329f278ce7bea43540ae16504f2b42424988cfccebce4121a2becfe14"
+  },
+  "typeHash": "0x7d364e0f429ae0339ae0623ce6aae7f6a0f485dfe71d36c3a1fc620be93d1614",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

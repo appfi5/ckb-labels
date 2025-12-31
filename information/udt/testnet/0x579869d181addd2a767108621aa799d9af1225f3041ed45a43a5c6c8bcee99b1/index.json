@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Test",
+  "symbol": "FLY",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5up92dz4rp3yhe60unra428wh3dqr6j8p38q6yk6vmjlszms3w7gqqqqqqxy0970",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x653ffe3c98950bc4823ff8613b7c9e8723728403316ea9cfe0999bb67c166349"
+  },
+  "typeHash": "0x579869d181addd2a767108621aa799d9af1225f3041ed45a43a5c6c8bcee99b1",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

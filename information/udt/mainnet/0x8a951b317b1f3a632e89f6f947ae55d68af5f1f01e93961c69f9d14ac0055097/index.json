@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Karen",
+  "symbol": "WOMEN",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfdh4mz7xvgxjljc8dk3npd8sudvjgxthq036tvt",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x616460accda5e723c1cad681e35ddaebc1dff93ec44737022788bcedbb928ac4"
+  },
+  "typeHash": "0x8a951b317b1f3a632e89f6f947ae55d68af5f1f01e93961c69f9d14ac0055097",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

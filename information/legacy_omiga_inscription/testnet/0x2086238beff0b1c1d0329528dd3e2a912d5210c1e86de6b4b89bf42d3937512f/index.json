@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "com",
+  "symbol": "COM",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxnf4g0g30zu4pvnrx70ngxqexpqtv7ekcfe7eeq",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb2ef4ce7e8339e6ef11097ea0042181d8c77fa42a6e7e96f7e3b8007c5bad416"
+  },
+  "typeHash": "0x2086238beff0b1c1d0329528dd3e2a912d5210c1e86de6b4b89bf42d3937512f",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

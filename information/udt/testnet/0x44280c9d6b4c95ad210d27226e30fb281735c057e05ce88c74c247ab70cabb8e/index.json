@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SYM",
+  "symbol": "sssa",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqggf2thcnzu07n5cvumxhyx822x7q7wd6ceqwhmr",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x874e27eed884233f151cdb2f6057d110bb6663217834ff0ef99ce4da1765a1c8"
+  },
+  "typeHash": "0x44280c9d6b4c95ad210d27226e30fb281735c057e05ce88c74c247ab70cabb8e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

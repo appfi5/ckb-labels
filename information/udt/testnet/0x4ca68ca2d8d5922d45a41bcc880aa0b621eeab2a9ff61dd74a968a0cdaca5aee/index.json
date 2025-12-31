@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CCToken",
+  "symbol": "CCT",
+  "icon": null,
+  "decimal": 12,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhtrgpp2w3nmym5y0lxm7l48h5gsgclanjwlkgma7u2k2k8dkyhy5qqqqqq04v4cr",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x32545d1e706b30de2e1b535ebc1e2f785afcf15071e1fd5f80b5fa70a1bcaab7"
+  },
+  "typeHash": "0x4ca68ca2d8d5922d45a41bcc880aa0b621eeab2a9ff61dd74a968a0cdaca5aee",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

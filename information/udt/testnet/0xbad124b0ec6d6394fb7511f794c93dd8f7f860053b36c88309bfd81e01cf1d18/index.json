@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BTB",
+  "symbol": "BTB",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qs5kt7cp0x9pl9c9nlwfrrvv6mtsgdx2sgwqky9zllzz96zmmd7y5qqqqqqs249y3",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x4f2b02082b9fd4de2b3a0e5c3b8e321378a60b2fc4be0806283477ed8e75a442"
+  },
+  "typeHash": "0xbad124b0ec6d6394fb7511f794c93dd8f7f860053b36c88309bfd81e01cf1d18",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

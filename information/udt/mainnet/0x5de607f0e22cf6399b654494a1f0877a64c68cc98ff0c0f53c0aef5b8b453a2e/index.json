@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BitCoinRGB",
+  "symbol": "BTCRG",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqp89zfj44zx9ecw9gm4wfht9ecslmj5mxzjsetu2pxct4tc38wpmh0y9dqv",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x368583b582f621bcbd8e0cc60a02076522d43c24a5b6ab30ce31b733b6f0ef01"
+  },
+  "typeHash": "0x5de607f0e22cf6399b654494a1f0877a64c68cc98ff0c0f53c0aef5b8b453a2e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

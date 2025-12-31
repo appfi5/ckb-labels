@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "btc++",
+  "symbol": "meme+",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqg4qqqqpp5x2qjd2yx3ly7qzdxcxrzauacrqls94q7c83ccggwjt59han7x3ztxwh",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x127e53ad2aa649a745cf36142e179e06b81edb13b51991d6943b1a4f70fdb465"
+  },
+  "typeHash": "0xb87babd6f7eecc2623a73baa02921cc5c0e580ea27cd4d68dae100900ff9d414",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

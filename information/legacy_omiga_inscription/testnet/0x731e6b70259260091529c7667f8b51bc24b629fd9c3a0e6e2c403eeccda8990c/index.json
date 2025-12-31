@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKB TEST Cion",
+  "symbol": "SU7",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq85apn2vnk482lxg8p3uk30r78srnc0aqvyssuun",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2879ad494a8b755f744dbbdc0e3dae691f235762ce1cb06320438e4e44052212"
+  },
+  "typeHash": "0x731e6b70259260091529c7667f8b51bc24b629fd9c3a0e6e2c403eeccda8990c",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

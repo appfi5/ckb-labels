@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "zmctoken",
+  "symbol": "ZMC",
+  "icon": "",
+  "decimal": 8,
+  "manager": "ckt1qpalzkekkmm7qr6azv7f0ky88vxpx3gp0d0kd9y42geu344gh7ch5qgqv2lryvkr8g4evqtemcath55awqvd9vawge8fma3taqvnc6l80leqywvm7c",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0x85a4c1cef2c5beb99a34c3347574215905d8795e4025102de4f9c411716e42b1"
+  },
+  "typeHash": "0x25c80c0feac3fc72ddd4255ba74baee724cd2405c5ebf9eb0ef60941601c0a61",
+  "description": "Test api token changed",
+  "udtType": "sudt",
+  "published": true,
+  "email": "mingchang@magickbase.com",
+  "famous": false,
+  "operatorWebsite": "www.zmc.one"
+}

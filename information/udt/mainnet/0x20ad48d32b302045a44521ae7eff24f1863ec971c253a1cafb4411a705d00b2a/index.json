@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "AIPEPEKING",
+  "symbol": "PEPEK",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqpvg6tzsvycn42g2js6kd20zg5l4ddgnsq70utpwm8vec2yg6srtehezj8",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xd34ab54890cba5f67d059c4c632f717fed656dce3357525af291e6fa05a4f675"
+  },
+  "typeHash": "0x20ad48d32b302045a44521ae7eff24f1863ec971c253a1cafb4411a705d00b2a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

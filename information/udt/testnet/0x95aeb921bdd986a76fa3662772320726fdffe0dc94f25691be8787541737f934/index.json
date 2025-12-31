@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "IIII",
+  "icon": "",
+  "decimal": 8,
+  "manager": "ckt1qqv5y9k3qetmhqakdzychtdq2dxhq8qucpmnk53s24k0e3l6nz5xsqspqqqqqetyyvqsqqqqqqqsqqqqqqqqqqqqu86s2qqqqqqqp6rkfqtsqqqqqqqqqqqqqqqqqq9qwf8pszgqqqqqqqqqqqqqqqqv3s2flckt1qqv5y9k3qetmhqakdzychtdq2dxhq8qucpmnk53s24k0e3l6nz5xsqspqqqqqetyyvqsqqqqqqqsqqqqqqqqqqqqu86s2qqqqqqqp6rkfqtsqqqqqqqqqqqqqqqqqq9qwf8pszgqqqqqqqqqqqqqqqqv3s2fl",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb93f4fb2f8f454cf4e3dbc9f94475a102b2a2b0d288d5a05ef2c81c4d0323f7e00000000"
+  },
+  "typeHash": "0x95aeb921bdd986a76fa3662772320726fdffe0dc94f25691be8787541737f934",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

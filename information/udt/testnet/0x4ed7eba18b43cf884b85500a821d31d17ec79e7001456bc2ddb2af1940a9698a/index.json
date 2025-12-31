@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "kbii",
+  "symbol": "kbii",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgfqqqqpljp92wxwe7qdwlsn2r3g2tuy6nknntnzsx5gqnvd3hw2ku222a8y6s9sm",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x9cfa98984225957820e5b394aaa1f497e7e3b53e3b7550b03fdf0211ae35b04a"
+  },
+  "typeHash": "0x4ed7eba18b43cf884b85500a821d31d17ec79e7001456bc2ddb2af1940a9698a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "dsvdsf",
+  "symbol": "ewfwe",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2e53p9xxn2g9mshnehr7any2hejy5gkpgu5curn",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xfb5330f5f4e6c5eab2fc2e7f08ab6ff2872d7c56b63cbb52ea456b66b8e6060e"
+  },
+  "typeHash": "0x1ede7ce44b477882ff21a11d5f13c423d93b40e3004aa5a5b487837804b605d2",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

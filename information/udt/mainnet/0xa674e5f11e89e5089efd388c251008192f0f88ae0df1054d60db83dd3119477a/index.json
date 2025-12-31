@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKCON",
+  "symbol": "CKCON",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5vvq9utnm5n2cmhx0azpy6x7vjwpj0xy5u270yq67nze6e6pcpmsqqqqqq5dg4jd",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x9069ec84433da3ddead575821b0fb85abe99d600d1b3dd910e9f738de7d45d87"
+  },
+  "typeHash": "0xa674e5f11e89e5089efd388c251008192f0f88ae0df1054d60db83dd3119477a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

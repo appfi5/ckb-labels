@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "++3++",
+  "symbol": "++3++",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqpcqz6x0w9cn82plh98zzy6qnlfrysfekwhysgm7397u3rjcx4mgkvdwaf3",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xbfb6c050c7fca64a8beab105949ec06110bb1de90b3b56583c7444d75ddfb8e8"
+  },
+  "typeHash": "0xabdcbe3056682c6cb6a35adec4ae70541f18447951b10feccdf2a48fe732d31d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

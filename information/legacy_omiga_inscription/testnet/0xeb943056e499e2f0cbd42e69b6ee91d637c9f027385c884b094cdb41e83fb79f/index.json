@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKB King",
+  "symbol": "CKINGB",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8khf9vja6x6j3tynsx9yfuukxr7yd26gykq8kzd",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x938af94959d6d32046f822b060c6c4feafc9f687c120e1bdce953e7b683b8252"
+  },
+  "typeHash": "0xeb943056e499e2f0cbd42e69b6ee91d637c9f027385c884b094cdb41e83fb79f",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

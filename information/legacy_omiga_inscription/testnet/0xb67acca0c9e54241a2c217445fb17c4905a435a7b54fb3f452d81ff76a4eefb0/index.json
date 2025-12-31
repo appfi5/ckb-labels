@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "New SDK test by joyid wallet",
+  "symbol": "NEWSDKJOYID",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgp672g4nvr66sya0035aqpvghgksfcs3uwqq2flvl4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1dcfd354e7f4afc754215f860039b792723499290e46d7f34c900c5d8355691c"
+  },
+  "typeHash": "0xb67acca0c9e54241a2c217445fb17c4905a435a7b54fb3f452d81ff76a4eefb0",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

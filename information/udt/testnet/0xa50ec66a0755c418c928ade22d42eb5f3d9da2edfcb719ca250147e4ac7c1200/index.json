@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Token Test 7",
+  "symbol": "TT7",
+  "icon": "logo.png",
+  "decimal": 0,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2s0s0fnv4vnupwek7nnve7wmkqlelzdkqyzqyys",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0x66b567200e6cc419aae365b1ef1c2cfd54dde104f9842330c94622b579400d13"
+  },
+  "typeHash": "0xa50ec66a0755c418c928ade22d42eb5f3d9da2edfcb719ca250147e4ac7c1200",
+  "description": "Token prueba 7",
+  "udtType": "sudt",
+  "published": true,
+  "email": "nashertmc@hotmail.com",
+  "famous": false,
+  "operatorWebsite": "http://pruebatt7.com"
+}

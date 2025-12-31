@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Leap",
+  "symbol": "Leap",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgmqqqqqawujf7m3pgcd5l7fmd7guceg5ksq8xmd0gpfeqquqhxwdg0cqgu3kywe2",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xad3f20890377701f311f3579f6022b5aa1c871a8423c44262315a2e54dffc96a"
+  },
+  "typeHash": "0x192e9b13a00c8108417afb75e6c5da7bf2708184456f97010a8ebf9e287fb03e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

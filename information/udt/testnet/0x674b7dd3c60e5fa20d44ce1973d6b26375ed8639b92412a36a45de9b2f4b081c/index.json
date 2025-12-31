@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "AutoTest",
+  "symbol": "AutoTest",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdetk8dwv6kmafvln80d2hjfp3da0tya7qsqhtzq",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb992f082bfe2e09a8aa2d75e9871a9b4352ad99cd69345b88b2843dab70690fd"
+  },
+  "typeHash": "0x674b7dd3c60e5fa20d44ce1973d6b26375ed8639b92412a36a45de9b2f4b081c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

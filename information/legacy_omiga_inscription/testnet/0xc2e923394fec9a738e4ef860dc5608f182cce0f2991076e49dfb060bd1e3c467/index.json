@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "NervosCKB BNBS",
+  "symbol": "BNBS",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8s4dalpnejnzrr8k3n0rdvfhzfu3535mgghr9u2",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x3035db3db6b5099b794274c26d17f11dd75e90ab8c2dd09b98d583de65916f9b"
+  },
+  "typeHash": "0xc2e923394fec9a738e4ef860dc5608f182cce0f2991076e49dfb060bd1e3c467",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

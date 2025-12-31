@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RATS_BRC20_LeapX",
+  "symbol": "RATS",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqggqqqqq8v5fqvfmfseejgvt9p3n8envvj253l264k9uxqj8m2u8r2d8s642fg3ua",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x009dc73a697c47780b33d83e36ef128255de70b0f796e5c4078e942bd3a90c81"
+  },
+  "typeHash": "0xc4bb94ff06cb9571c99031d02161e1fb0b715d3fffac4a470158d7b8174da97d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

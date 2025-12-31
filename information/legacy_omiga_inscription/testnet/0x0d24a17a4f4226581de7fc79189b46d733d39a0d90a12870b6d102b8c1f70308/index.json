@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "11",
+  "symbol": "TEST222",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgp4d7nnvmcfkl7qrwc7fhnusn5l9lv8u25qqr789ml",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xdf5de3147f150a7623ee6e5f5c5023b83075bd56c45f94f9da8c58f65806a4ef"
+  },
+  "typeHash": "0x0d24a17a4f4226581de7fc79189b46d733d39a0d90a12870b6d102b8c1f70308",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

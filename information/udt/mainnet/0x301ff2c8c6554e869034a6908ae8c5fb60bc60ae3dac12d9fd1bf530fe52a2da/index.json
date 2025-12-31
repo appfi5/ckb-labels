@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Halving++",
+  "symbol": "HVG++",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqq8227ajr3nzd34fncd3jtgjztf5a8eakm6ndd7ufzk7w9es0a5z6dfvdnn",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xe6ec479f0860e932023829658d78d1925d66742f9b7cf8b4dbc94133c77ddbdc"
+  },
+  "typeHash": "0x301ff2c8c6554e869034a6908ae8c5fb60bc60ae3dac12d9fd1bf530fe52a2da",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

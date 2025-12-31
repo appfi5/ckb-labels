@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "pumpTKK",
+  "symbol": "pumpTKK",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhyfadvdhqs9eadahpjq587ly49terg2y9vgrwptu3ar67xs5thccqqqqqqy04tkm",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x049de9500789861fa28397f449acc49a7f171872073f3a54823207bd06344ad0"
+  },
+  "typeHash": "0xa9497db8e665e0fa5dca474290d51787f96614f43536e431f504cd3d020ba6a0",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

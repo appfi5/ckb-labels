@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Fuck++",
+  "symbol": "FK++",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqqr35yz0vxtn5hzqyhxk8yr09anu3w4qc5gd355z7u4q7mer6e634u2a906",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x951a736334272f0604457e21150b41a30617036608131eee01265df754d54c3b"
+  },
+  "typeHash": "0x088015f751d6d99e051702c29b9b35676d0867561f7aa1726ef9ddbe791e4c84",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

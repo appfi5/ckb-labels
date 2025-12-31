@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "P",
+  "symbol": "P",
+  "icon": null,
+  "decimal": 0,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq34pnwphm5rkpwj0ykhnyq8rm07zk85ya4wke9vssjang5sqcs3pgjj60mf",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x8e62498644c69c8542bbe7075e5e672d1ec8c7a11d26cffee2ba3dff00348f3b"
+  },
+  "typeHash": "0xc71d822a46c4ca50aa8a5c19a2267e5bfa9a2b19c24401b5144305f247913d3f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

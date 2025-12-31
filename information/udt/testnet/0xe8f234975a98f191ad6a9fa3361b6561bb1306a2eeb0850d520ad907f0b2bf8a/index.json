@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "test23333",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckt1qq6pngwqn6e9vlm92th84rk0l4jp2h8lurchjmnwv8kq3rt5psf4vqv3hmmzw9avmdwhekjv8zsfhdq5ms00hmc0duejn",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0x5f68b5816167a31171fb6a1f74dad81278530765fdf885f2479b7043579568ac"
+  },
+  "typeHash": "0xe8f234975a98f191ad6a9fa3361b6561bb1306a2eeb0850d520ad907f0b2bf8a",
+  "description": "fhjoiwerhf",
+  "udtType": "sudt",
+  "published": true,
+  "email": "286065910@qq.com",
+  "famous": false,
+  "operatorWebsite": "https://www.baidu.com"
+}

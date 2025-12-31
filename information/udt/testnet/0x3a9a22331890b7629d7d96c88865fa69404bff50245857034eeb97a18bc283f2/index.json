@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "LOCALTB",
+  "symbol": "LOCALTB",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhwyfn6ec23wu6z0awj5jg6wqh40fc2wg2fkm6q3aut2p6hgzf9rvqqqqqqdqqg3d",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x77af668306c7950aa13106b0c6004599f73ec91835ca9198a9d999ccc8a0dd88"
+  },
+  "typeHash": "0x3a9a22331890b7629d7d96c88865fa69404bff50245857034eeb97a18bc283f2",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

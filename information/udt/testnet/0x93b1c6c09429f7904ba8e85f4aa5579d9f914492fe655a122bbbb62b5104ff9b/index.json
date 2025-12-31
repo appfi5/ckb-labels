@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TTK13",
+  "symbol": "TTK13",
+  "icon": null,
+  "decimal": 8,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x5749eba4d2117bac529d9a91b5252a0a25c56242f2cee30ec5ca93d77c3b402e"
+  },
+  "typeHash": "0x93b1c6c09429f7904ba8e85f4aa5579d9f914492fe655a122bbbb62b5104ff9b",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

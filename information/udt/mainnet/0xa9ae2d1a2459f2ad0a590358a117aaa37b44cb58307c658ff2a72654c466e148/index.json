@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "JOKER",
+  "symbol": "JOKER",
+  "icon": "logo.png",
+  "decimal": 8,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkm39rufp2nmn4nd9g8fzrukq8a83hnahedmxcye27sytxm563zdqqqqqqqvhhhya",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xcb74eaded089bf39c2165149cad3d526b4321e9a6119c7ae9cf996be3acfeb18"
+  },
+  "typeHash": "0xa9ae2d1a2459f2ad0a590358a117aaa37b44cb58307c658ff2a72654c466e148",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "chenyu@magickbase.com",
+  "famous": true,
+  "operatorWebsite": "https://t.me/btckbjoker"
+}

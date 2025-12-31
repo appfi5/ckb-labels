@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SEAL",
+  "symbol": "SEAL",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqk8qrn7eu0zj4mm9sy8vw0ydamdad6nguc7u877ch0enhu60k2qfc4fkq67",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x59c4f94955ad027e4596ed9c8340dcfad15d6952c83f425549353e85f9538861"
+  },
+  "typeHash": "0xf8b6db7c1d5f9ea9b5afc700059f5fd5d8b697fd0faf8111c45fbb7fc6d9a2bf",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

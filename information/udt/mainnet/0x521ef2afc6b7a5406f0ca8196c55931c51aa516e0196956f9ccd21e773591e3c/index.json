@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RBQ++",
+  "symbol": "RBQ++",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqqatul6haj6n48y0z936amkh2cmh7ftrm2dhkvuxgdj98dygnz3w0cd8t5q",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xa2f0dd5b8a7432d05101ecc0a2410a8424b85c09dab979b5ffbab7c0476d0e45"
+  },
+  "typeHash": "0x521ef2afc6b7a5406f0ca8196c55931c51aa516e0196956f9ccd21e773591e3c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

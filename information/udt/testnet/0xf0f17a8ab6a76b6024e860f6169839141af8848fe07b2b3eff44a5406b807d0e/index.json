@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Nervos to the Moon",
+  "symbol": "NTM",
+  "icon": null,
+  "decimal": 6,
+  "manager": "ckt1qyqrdsefa43s6m882pcj53m4gdnj4k440axqswmu83",
+  "type": {
+    "codeHash": "0x48dbf59b4c7ee1547238021b4869bceedf4eea6b43772e5d66ef8865b6ae7212",
+    "hashType": "data",
+    "args": "0x1f2615a8dde4e28ca736ff763c2078aff990043f4cbf09eb4b3a58a140a0862d"
+  },
+  "typeHash": "0xf0f17a8ab6a76b6024e860f6169839141af8848fe07b2b3eff44a5406b807d0e",
+  "description": null,
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": null
+}

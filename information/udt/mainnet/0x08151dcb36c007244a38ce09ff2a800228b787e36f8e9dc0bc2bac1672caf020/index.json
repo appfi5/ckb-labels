@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RUN $CKB",
+  "symbol": "RUN",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqkkpr9lv0dqnlnq7dg3udt5r46futgv5lgzxlypg2urnvz2ygcr4gwgfge2",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xd6f7ba3b7ab253cce76b8e41b52e4ac6f60462fb29b79e4aa0305e97ef88f6c9"
+  },
+  "typeHash": "0x08151dcb36c007244a38ce09ff2a800228b787e36f8e9dc0bc2bac1672caf020",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

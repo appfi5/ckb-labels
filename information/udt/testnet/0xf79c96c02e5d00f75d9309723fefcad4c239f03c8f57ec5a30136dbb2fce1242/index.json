@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Shitcoin 10",
+  "symbol": "Shi10",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqpt40gyg3jsv3h6gjfa4r08q2yp8vv7wx48xqvj36yyt3ygk22ey827g443",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x659c78cfbe19f96b9b427b7bc6b387cfeec1610e8f847fa1c35767c12e3a42a8"
+  },
+  "typeHash": "0xf79c96c02e5d00f75d9309723fefcad4c239f03c8f57ec5a30136dbb2fce1242",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

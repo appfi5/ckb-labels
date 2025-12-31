@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Clown",
+  "symbol": "Clown",
+  "icon": "logo.png",
+  "decimal": 8,
+  "manager": "ckb1qrgqep8saj8agswr30pls73hra28ry8jlnlc3ejzh3dl2ju7xxpjxqgqqy4kuzr7v5xnpedtr9kg9jed3waxygvqjc9nc5jf",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xcf20e5a9a4a7be6806979b38e17dbc6f9d2355c0c540f4378a11d2bbf506fa2c"
+  },
+  "typeHash": "0x3390b8cb174b5623fd72a2dc5af13ea428ff171573f500b0e796e1f7336bcabe",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "chenyu@magickbase.com",
+  "famous": true,
+  "operatorWebsite": "https://www.gotham.meme/"
+}

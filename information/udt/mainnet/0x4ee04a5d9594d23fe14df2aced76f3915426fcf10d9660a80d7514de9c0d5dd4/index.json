@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "A-CE",
+  "symbol": "A-CE",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqqfj3x6le0yqdcd9u65629yf4f66r9d0txz59mqz4efwann22a52zlqu8c7",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xb0a934f0fb413459f271c997c1972504b5da053334ed1829cf7043696c0629ec"
+  },
+  "typeHash": "0x4ee04a5d9594d23fe14df2aced76f3915426fcf10d9660a80d7514de9c0d5dd4",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

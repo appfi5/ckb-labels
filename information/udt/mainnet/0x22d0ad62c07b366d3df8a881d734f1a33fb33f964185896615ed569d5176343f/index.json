@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Wrapped CKB",
+  "symbol": "wCKB",
+  "icon": "logo.svg",
+  "decimal": 8,
+  "manager": "ckb1qpt0kce2zw4a44es35hqxja2u89sf85w3lere37qk62ynash2jtnxqgy0qk0s49khvx5zz8vx8cwz0jjlyvf8qz5kmla3sapgwzw672ysy5qsv0l",
+  "type": {
+    "codeHash": "0x42a0b2aacc836c0fc2bbd421a9020de42b8411584190f30be547fdf54214acc3",
+    "hashType": "type",
+    "args": "0x"
+  },
+  "typeHash": "0x22d0ad62c07b366d3df8a881d734f1a33fb33f964185896615ed569d5176343f",
+  "description": "A wrapped CKB",
+  "udtType": "xudt_compatible",
+  "published": true,
+  "email": "chenyu@magickbase.com",
+  "famous": true,
+  "operatorWebsite": "https://www.stablepp.xyz/"
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TTT TOKEN",
+  "symbol": "TTT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgwvxe6ngdu4fhr79w6sgv96s6std9qv5gfml4xf",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xde23f77438cc71045a3b891c442f457d91974a3d663bad89450c1ac02e15d6ac"
+  },
+  "typeHash": "0x3c745eb03be93e135490dd2da694c53214a4fd464b8ad9294709a553d363dfab",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

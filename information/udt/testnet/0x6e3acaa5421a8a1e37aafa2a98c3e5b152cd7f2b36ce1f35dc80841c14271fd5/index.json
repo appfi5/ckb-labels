@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TTRD4",
+  "symbol": "DDTR4",
+  "icon": "logo.jpeg",
+  "decimal": 6,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qne08fn5tccq22dmkj84wujzyv6sp7m4ek430a6ctv7g3z333uztsqqqqqqkv7pwa",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2ab3e7b189aed0932146f6f9fa36c1515d39187d6f5300d68704aa3db594e372"
+  },
+  "typeHash": "0x6e3acaa5421a8a1e37aafa2a98c3e5b152cd7f2b36ce1f35dc80841c14271fd5",
+  "description": "rivdap",
+  "udtType": "xudt",
+  "published": true,
+  "email": "jokeray8219@gmail.com",
+  "famous": false,
+  "operatorWebsite": "http://app.rivtower.com"
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "LOK Token",
+  "symbol": "LOK",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhawww42kxqgslqcruec4x6ehhrgwn78tj2zd4chq2pzc0z4gw5psqqqqqqrxznwq",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1487b68fd28547e12bacbc30b34910ea3d20c61bc4694ffcab52b82387f126f4"
+  },
+  "typeHash": "0x552ed97e2cea2fab4638dfdc90e792c7bd7f5222f34850ef63665d319338ec13",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

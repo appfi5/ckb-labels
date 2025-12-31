@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKB Fist Inscription",
+  "symbol": "CKBI",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy04jdjdwlfrz6l4dj2sd5n5m8jcm79qgg2y0520",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x0a2ad512c73e0bcd44b8c06c16da252149990024b7eb55e8d1b5bcdee5c0e034"
+  },
+  "typeHash": "0x1c065fa849b507961a1d0d18726af6069bfb9b3737bc8fa22a6996983b71fb38",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Pausable UDT",
+  "symbol": "PUDT",
+  "icon": "logo.svg",
+  "decimal": 6,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2jk6pyw9vlnfakx7vp4t5lxg0lzvvsp3c5adflu",
+  "type": {
+    "codeHash": "0x80567216a53c6b2b705a1e05a84a65cda2c49be15c56c212575c6f857dc592be",
+    "hashType": "type",
+    "args": "0xb5202efa0f2d250af66f0f571e4b8be8b272572663707a052907f8760112fe35"
+  },
+  "typeHash": "0x20fe09a83dee4667e7bd2e2800a85d40e5bcee1bd624007ce3e20b715ba34085",
+  "description": null,
+  "udtType": "ssri",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

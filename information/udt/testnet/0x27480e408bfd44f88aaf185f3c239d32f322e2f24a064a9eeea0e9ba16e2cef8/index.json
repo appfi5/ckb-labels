@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "xhggbc",
+  "symbol": "xhggbc",
+  "icon": null,
+  "decimal": 4,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqk25tzkzw84pephr2pzq8jr59plyue9m0wyl92ruzpvqnh92ggdnqhgs8tt",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xc0e1676bd5b31113462644fdf260093a95265f63eb064abd99db214cfdd94510"
+  },
+  "typeHash": "0x27480e408bfd44f88aaf185f3c239d32f322e2f24a064a9eeea0e9ba16e2cef8",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

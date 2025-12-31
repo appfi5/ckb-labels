@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "I smell something fishy",
+  "symbol": "Fishy",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgyqqqqq7hn2qcganz86npeemxutkvc7cl3h6y75q9wvqnz6mgnmxtpcvg73g8a7c",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x1d2bc7659c086c040f53ad7e6756aef01fc2a22ce6b731991f7800a39bee3952"
+  },
+  "typeHash": "0x14bb6ef1c9e25a873ca58951855ffbfce660f63944332e54ec1beb0362ec6b33",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

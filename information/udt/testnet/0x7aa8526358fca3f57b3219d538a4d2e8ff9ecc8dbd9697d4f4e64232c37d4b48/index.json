@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGBPP Test Token",
+  "symbol": "HHPP",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgpqqqqpve5jvlxkphyrc4pjd50txp8hj2l7zykff7llzx92k8jpftp3jqkshn7hl",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1f48eed6d7b6eeae32240cf8983d56db4d624749bf10ca248c4943cec0633667"
+  },
+  "typeHash": "0x7aa8526358fca3f57b3219d538a4d2e8ff9ecc8dbd9697d4f4e64232c37d4b48",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "BTCC",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq85apn2vnk482lxg8p3uk30r78srnc0aqvyssuun",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb6a4256c8114af0647248585ac4d94f558a2436fed21ca4e5445ee3a4271b29c"
+  },
+  "typeHash": "0x648d68920c18e178fa609b6211fc40c82ac24e918fddb334bbfcf49b5e040998",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Shitcoin",
+  "symbol": "SHIT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9s3ltfjn20vukxfpclcmzu8wgq9lkljdglgeg3w",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa1e37bf4cf91f2f9f243001d8faf4063f08bf0522c2d26b05b7555e6d67d7354"
+  },
+  "typeHash": "0x29556379bd5c30ea4db507c436878108084a24231f133abc325f54ef6085a832",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

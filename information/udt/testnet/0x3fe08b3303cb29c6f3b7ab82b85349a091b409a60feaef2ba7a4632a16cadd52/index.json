@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "babe",
+  "symbol": "bb11",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2x43pajpv3v5h9c75l8lptyzaanrdz0ng73qker",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x95df57dd86cfcea23c30cff57c74cb356ac939a8cacbb079cb8587fb4065823b"
+  },
+  "typeHash": "0x3fe08b3303cb29c6f3b7ab82b85349a091b409a60feaef2ba7a4632a16cadd52",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

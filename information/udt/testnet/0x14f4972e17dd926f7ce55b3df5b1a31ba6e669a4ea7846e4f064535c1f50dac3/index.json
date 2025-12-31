@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "XUDT Test Token",
+  "symbol": "ccli",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqg2rcsz5jpz9d6ty5m6svlw5l3jycrsqzcve7u5z",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x344385c7a871241d0a3fd14eb7d647f537fc86f7c0afce6f04b502620b971363"
+  },
+  "typeHash": "0x14f4972e17dd926f7ce55b3df5b1a31ba6e669a4ea7846e4f064535c1f50dac3",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

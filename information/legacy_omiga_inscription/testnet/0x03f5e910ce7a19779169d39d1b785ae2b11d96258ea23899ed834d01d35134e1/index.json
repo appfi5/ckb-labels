@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "KKK",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8zvwkzd4t6agl826lj7f5e04epyrs6u9ykejvss",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2d887880f94c8c8cdaa0d6025d21722483be4c62cf218d2ebdcf5b4777c3af1b"
+  },
+  "typeHash": "0x03f5e910ce7a19779169d39d1b785ae2b11d96258ea23899ed834d01d35134e1",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

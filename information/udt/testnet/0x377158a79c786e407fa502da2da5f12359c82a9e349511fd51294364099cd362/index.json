@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-TEST",
+  "symbol": "R-TEST",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckt1qqcyvyzy40qa0ee42uzg2p6lw7vmrdjjtqtpg3avg84g3c9c8n8usqdd30zrqp9h66xajdqwyykzfxu6kahafy9qgqp0wt54cufufytdckl8t9rgqjg62hxlq3ug3q0th9z95rkfjsg6nux4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x8536efb26f438b33ff542715f72c463d2ec9d5d7cb341122088a7b2225fae042"
+  },
+  "typeHash": "0x377158a79c786e407fa502da2da5f12359c82a9e349511fd51294364099cd362",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

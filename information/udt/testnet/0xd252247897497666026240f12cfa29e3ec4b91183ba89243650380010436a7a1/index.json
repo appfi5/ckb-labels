@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Exa",
+  "symbol": "EXA",
+  "icon": "logo.jpeg",
+  "decimal": 6,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qj529qt2jfdl2wkf7g5dq42w6mz3fdclnr32d9h6t6cjnlhakfkagqqqqqqxl06hh",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa072ca585bee2edd7a5e55ea56f6c06d6db1a29862c42e5c51a4aabc0cec2ffd"
+  },
+  "typeHash": "0xd252247897497666026240f12cfa29e3ec4b91183ba89243650380010436a7a1",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "dev@rivtower.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Quickbit Token 2",
+  "symbol": "QBT2",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgpqqqqqzll0t7jn5y4sclmf0vpdv08x96rjtre69smshpvmevaa8am6c46twefew",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x081ed21626af0996ebe537d34786e86ab91e6fb27a8b08c18679e7a0aefc4af7"
+  },
+  "typeHash": "0x1e81bcb236a041d31e283aa5d7ab5b2e1817bb8c4feb94826c7ac7a41643ddb4",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

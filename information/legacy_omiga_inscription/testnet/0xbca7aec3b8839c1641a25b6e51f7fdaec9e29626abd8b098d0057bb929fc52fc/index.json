@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKBINS",
+  "symbol": "HUDSONREAL2",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyelfctm2gj8avl7sumrynhutk5fdyt0yczjlj07",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x979ff11b3500dcd43d12803eba79a55e36539d9a3dd5cd14214c424596db8ec2"
+  },
+  "typeHash": "0xbca7aec3b8839c1641a25b6e51f7fdaec9e29626abd8b098d0057bb929fc52fc",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-piin",
+  "symbol": "R-piin",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qtkxuet29htrf3e3vgrunx25y67sm00tlnsd95kufzrjkf",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x85cf0f1afd2bffc2e295bf355ddc5e4db493d73289b23a5135201e4bb26c6b06"
+  },
+  "typeHash": "0x20c8d412c9b64408108597a0f20ee06e24af695207575c3961f0740e2ae742ed",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

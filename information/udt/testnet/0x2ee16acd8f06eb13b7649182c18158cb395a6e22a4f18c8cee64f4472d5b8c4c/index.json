@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DETI",
+  "symbol": "DETI",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qj6sr69lma7fmw7paamjgzp4n433vwwxmjqf9h90j9adtlw8pd7vuqqqqqq52y7tj",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x35ec64208634d9621b91c6ee97190579805ce7f08f273a1435e02d82ffd9e0a8"
+  },
+  "typeHash": "0x2ee16acd8f06eb13b7649182c18158cb395a6e22a4f18c8cee64f4472d5b8c4c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

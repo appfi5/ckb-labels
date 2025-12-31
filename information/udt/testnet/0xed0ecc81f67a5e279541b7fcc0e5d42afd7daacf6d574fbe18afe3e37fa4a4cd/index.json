@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ttk",
+  "symbol": "ttk",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qs3r6zdka29hj4ytl69zr5zcgwg0vd36ulmfhq9cxpr85p0ej039vqqqqqqqjw3j4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd1a99664793a481cb2eb558c82b4e686f897f35d46ee1f35fc0751ab948c7021"
+  },
+  "typeHash": "0xed0ecc81f67a5e279541b7fcc0e5d42afd7daacf6d574fbe18afe3e37fa4a4cd",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

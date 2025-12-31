@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Shitcoin 98",
+  "symbol": "Shi98",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqqq0p5lfh63vqmwzeg2e6xac33934lw3tlltwvk42x8p5zx5zfq3klgja2y",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x0298f42c04e798794345333dbcba270ad21c32faf58ad0746016e717acfb68d0"
+  },
+  "typeHash": "0xaeed9e804eaa3aecb7f1aef3aabd14265943a837cb26d084d85592d6e232a188",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

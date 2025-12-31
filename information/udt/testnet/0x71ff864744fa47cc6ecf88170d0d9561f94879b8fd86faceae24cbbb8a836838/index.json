@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "test-dylan",
+  "symbol": "TEST_DYLAN",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpa0qahsffdrsxtuu97tc2u2wzwaeel3dc7fjjm3vurvtggrggqquqgxd2rexe039umz2g47a5auv8g0v222sj0vqqfdhvks",
+  "type": {
+    "codeHash": "0x98701eaf939113606a8a70013fd2e8f27b8f1e234acdc329f3d71f9e9d3d3233",
+    "hashType": "type",
+    "args": "0x562b7a84522e2f617c0b4d2d9d8874d3a7b78d4161344f38bb3311ca2f73406001000040510000000800000049000000100000003000000031000000868b9d0156baa7afe5201ad419766db05593457502a70201cc74e165b5f89d2401140000003b5114b81c5ba115541c01f08675a8fb3947d4bc"
+  },
+  "typeHash": "0x71ff864744fa47cc6ecf88170d0d9561f94879b8fd86faceae24cbbb8a836838",
+  "description": null,
+  "udtType": "xudt_compatible",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

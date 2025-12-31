@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "C Test Token",
+  "symbol": "CT--",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqweqjmpg8rg28aekla8af973hfkx256axs7u9wwp",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1a0f0f2a6e166b8e313d379c61a8bedd2301e89bc3a95c3d30e742eccfe70433"
+  },
+  "typeHash": "0x5f8b0cc82f21e2835f40d49c0d058efc1ebd9de2b56cc9d9e8e0072847323655",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

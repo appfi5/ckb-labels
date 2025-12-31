@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "aaaad",
+  "symbol": "vfsa",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq08v9arayqegvtxqfl7gutny5tt82jgr3c49w7tt",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x5408884bd5f50eac1114154a8f837342d18689611001c30fd137e67f07f44d59"
+  },
+  "typeHash": "0x7c335ec09280984e6cc0d564d33db7efccc95fe21153dc5119ca3c1ec5044ce6",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

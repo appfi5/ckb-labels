@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Mayortone",
+  "symbol": "MAYOR",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9qm65sur0lmgra3fy7dhrpl5flvxfqlqgg0xaat",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2016880f8da59108fb1b05d62d5a332f1afbb3f2195bd68022542701968be9c0"
+  },
+  "typeHash": "0xf97698fd10ef5a4f8ae594036daea06e55cbbd96336f6647d2843a3f9a9d3af1",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

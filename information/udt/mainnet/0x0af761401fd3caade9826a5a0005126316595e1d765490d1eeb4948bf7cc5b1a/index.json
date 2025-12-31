@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Nervape DAO",
+  "symbol": "NERVAPE",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q34pzu0z2jjzcaty2cv53txjx4k7qs9vtkhvmguz3t8e27ydnqklcqqqqqq9hlrf7",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x80d3e3bbfbd4f804956521830cc1485bbc8ddde178854c0bb1ea3bf4d7d40cea"
+  },
+  "typeHash": "0x0af761401fd3caade9826a5a0005126316595e1d765490d1eeb4948bf7cc5b1a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

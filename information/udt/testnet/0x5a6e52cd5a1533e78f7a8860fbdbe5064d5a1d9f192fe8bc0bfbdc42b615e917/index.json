@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RAYP Test Token",
+  "symbol": "RAYP",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgpqqqqq3s6s068tk4n4qgyx963tlff9nfmn85znr9jaazh2t54q6qwntmk9tj8mn",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa88cf82c8417c55e5497d78fe7d7f227128d651c55053f55110951b9f191b408"
+  },
+  "typeHash": "0x5a6e52cd5a1533e78f7a8860fbdbe5064d5a1d9f192fe8bc0bfbdc42b615e917",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

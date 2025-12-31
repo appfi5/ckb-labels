@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Kajakpela",
+  "symbol": "KJK",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxntxlexh8pjajx8u7l5xuatum8z3zwqhqqqucpk",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa070e5508c410588808fd86b3e7a92b995fcdc98df70e16e9654142c009a7405"
+  },
+  "typeHash": "0xef0dd671da09bde336aa737f6f26254b5c5195b74351076e8514e2dd52109d7c",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

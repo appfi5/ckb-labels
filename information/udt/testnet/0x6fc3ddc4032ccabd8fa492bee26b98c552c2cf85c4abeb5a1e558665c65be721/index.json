@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DET2D",
+  "symbol": "DET2D",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkc0c2tuz7v7tc8ngl0hyp6kl20xzt8qr8m3y238gk5v5m04r0eryqqqqqqeqq57x",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xcbc6a28c04b4ff486c21787492146792d34f4e1d30eba53163928ddf2489efcc"
+  },
+  "typeHash": "0x6fc3ddc4032ccabd8fa492bee26b98c552c2cf85c4abeb5a1e558665c65be721",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Ahah Ahah",
+  "symbol": "SEX",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxqnrzreg0aly6u00zlfpfcg6kur8ywnlczk6g5r",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x3b5c6850e767c0aec8b1b72f4e5462f8e61aa1b103f026a339df88f9cce2eaa5"
+  },
+  "typeHash": "0x2661c143d3e01ebb25a4d1b9885198e931482243f51619ac4837455105325d76",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

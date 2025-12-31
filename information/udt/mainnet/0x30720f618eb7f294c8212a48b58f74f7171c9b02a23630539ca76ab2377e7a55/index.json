@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DOGE",
+  "symbol": "DOGE",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqp653zra2xk9nmqavufwq7llz5x2s3pkvrusld37l5hgxzv3eprvd7f33n0",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xbb32260f3da725edc449164a20ad12c37bf132849a681437dc876854401c022d"
+  },
+  "typeHash": "0x30720f618eb7f294c8212a48b58f74f7171c9b02a23630539ca76ab2377e7a55",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

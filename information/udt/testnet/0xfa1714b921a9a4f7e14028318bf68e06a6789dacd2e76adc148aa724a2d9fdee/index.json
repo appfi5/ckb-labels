@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Shitcoin DZ04",
+  "symbol": "DZ04",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqg9qqqqp4qlyh4dxhlvly99sj7azjvnwmaytp50mrj46x30288v3ww4gm4gla6u56",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x75e32648ed0c2bdff0e66bd7b7603987270b7eb09035ff1145cf25b3b7d7e9cf"
+  },
+  "typeHash": "0xfa1714b921a9a4f7e14028318bf68e06a6789dacd2e76adc148aa724a2d9fdee",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

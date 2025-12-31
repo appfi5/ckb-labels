@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGBPP 01 Token",
+  "symbol": "RGBPP01",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqqgedeyacm0d89gh35me7ppjnkmsy00yhsfu03mrkjzvq9q6276xe7pda62",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x28dbcbf6c0ca9c0169a42744e6809d5ada6eba63723f45dce04f0a565b133c4c"
+  },
+  "typeHash": "0xdedafd9b8761a57509ad96676297aba1af083bb4bf920ca4e602930b3e214577",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

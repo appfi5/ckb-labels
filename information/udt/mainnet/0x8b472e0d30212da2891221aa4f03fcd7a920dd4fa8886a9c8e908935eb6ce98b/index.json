@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Blue Moon Orange Coin Youtube",
+  "symbol": "ART1",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqq8er2n2sl3gw60hz5u6rrwzvwdm9g8x0z5r3kan8yuxwfcwatasdecaym6",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xe226b136e358007122c059715c236da67a47b0a3e66383c96eeda7ed6203b59f"
+  },
+  "typeHash": "0x8b472e0d30212da2891221aa4f03fcd7a920dd4fa8886a9c8e908935eb6ce98b",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

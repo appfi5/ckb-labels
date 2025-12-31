@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "123",
+  "symbol": "DDe",
+  "icon": "",
+  "decimal": 6,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqjmnaggwcsvvaq4hudsul3xyx4p5wvyd40le002km7klk44h32acuamxnys",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xdcc033741822487945f52eef9d569784867fdfcf92bfe7ea171d160d112da65a"
+  },
+  "typeHash": "0x0dae795232de77ae7ab6d75699e2a3031f6cc8d95f614382c5d17e1a931943aa",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "jokeray8219@gmail.com",
+  "famous": false,
+  "operatorWebsite": "https://testnet.explorer.nervos.org/"
+}

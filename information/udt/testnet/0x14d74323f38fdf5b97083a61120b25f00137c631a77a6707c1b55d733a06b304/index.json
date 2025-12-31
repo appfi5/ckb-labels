@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "APPL",
+  "symbol": "APPL",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvm40uw2yp9rv4pqd2ukjsqd63fhp2kcqgf3vqlp",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x08a7308586dac1ba559259e9ae133356bc9e357c96dd093abbea164a29f8c4cf"
+  },
+  "typeHash": "0x14d74323f38fdf5b97083a61120b25f00137c631a77a6707c1b55d733a06b304",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

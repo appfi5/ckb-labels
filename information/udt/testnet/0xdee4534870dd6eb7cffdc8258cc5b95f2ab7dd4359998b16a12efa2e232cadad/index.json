@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "++2++",
+  "symbol": "++2++",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqg5qqqqqucqmqj556a58796jq424ljq40nrd67naztf2vuwnenf6c88ewt0hzzyms",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xe4e717eeb1f35a4bb624639e01736e0012d52dee3e89c4a74ba2d6acbe5afc2d"
+  },
+  "typeHash": "0xdee4534870dd6eb7cffdc8258cc5b95f2ab7dd4359998b16a12efa2e232cadad",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

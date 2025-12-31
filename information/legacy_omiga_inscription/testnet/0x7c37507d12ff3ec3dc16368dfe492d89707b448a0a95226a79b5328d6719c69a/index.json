@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "DEXUP",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq85apn2vnk482lxg8p3uk30r78srnc0aqvyssuun",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xf6257ea4fdf5a329f4d4be1f8e23d05a734d4f8577e83dac34b3e407b54473be"
+  },
+  "typeHash": "0x7c37507d12ff3ec3dc16368dfe492d89707b448a0a95226a79b5328d6719c69a",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

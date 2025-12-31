@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BinanceUSD",
+  "symbol": "BUSD",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq84jvusvtu44ppwjkyffn4490qxdmpccv58spnk6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x223af08e51565d6c84628d554ac83bd4d614f5069ec6ca40473152d46f46b060"
+  },
+  "typeHash": "0x71945f6a796a8524911cb70b4ffcc83468dbf518f38ad12d20419e7ae4a4b530",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

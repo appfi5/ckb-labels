@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Nervos",
+  "symbol": "NERVOS",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9swv4zq6p9y0e0kqapkfn3adwd7wygc0yqey362",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd463dd3019c826169557bde5ff66fcc0568702a927b49741082e589889ca8a5e"
+  },
+  "typeHash": "0xafb0bd07c8c865bcf993d2e0cb43acd99d260ea7a842f665cde9b13fcbb58cf3",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Joy-id",
+  "symbol": "CKB2",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9pht4kq2hj6xf3wj8st4cx4r9lj56vp9cjk97eg",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xca227be08882daafc17fab5ea8d363404ea406ccf502c389e18456eff2ceda99"
+  },
+  "typeHash": "0xeb85c27e2d751ed8d97fab1a2be5e291f606ca65c3f3837c81d5ce739f71d606",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

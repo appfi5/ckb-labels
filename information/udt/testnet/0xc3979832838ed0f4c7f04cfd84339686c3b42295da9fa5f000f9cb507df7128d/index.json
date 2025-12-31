@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "michael-rgb-33",
+  "symbol": "michael-rgb-33",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2fnngkdjt3wxrs8p0ww36f55pn0fxqyzccftufd",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb23473adb427264a47e86ace3f186c7dc959969c908f44f889f4af33fdf8105803"
+  },
+  "typeHash": "0xc3979832838ed0f4c7f04cfd84339686c3b42295da9fa5f000f9cb507df7128d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

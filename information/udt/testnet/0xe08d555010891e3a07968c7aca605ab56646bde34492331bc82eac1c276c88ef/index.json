@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGBPP Test Token",
+  "symbol": "GBB",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgqqqqqqljg6c4v6rqa846w9l7n6wfksq2anjc5y8ea6ppvwn880qpdjxxpwvp723",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2584651424ab78e88b72ae03c848bac9a1550e9698e7e6013f561578d00cca7d"
+  },
+  "typeHash": "0xe08d555010891e3a07968c7aca605ab56646bde34492331bc82eac1c276c88ef",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

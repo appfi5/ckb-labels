@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "MEWO",
+  "symbol": "MEWO",
+  "icon": null,
+  "decimal": 8,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb12e0ed37de3bb91d223c189f25fc1aad9c4274516b1a0d3fd02c051c5ac8d4a"
+  },
+  "typeHash": "0x1c39ee9798a5699a1f1f8ebe063f9a37ba53b43b903a8909ae71b9ca6e917332",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

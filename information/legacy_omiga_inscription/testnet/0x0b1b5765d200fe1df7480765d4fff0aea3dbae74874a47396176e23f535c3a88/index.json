@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "bochen ckb test alipay",
+  "symbol": "BOCHEN",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgpe7r7j0gag4j92ueqkfyzqnrlecdtvqc8qqnjfz8u",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x52d528543fc939deb61f5f7b45ef8c97f3c295993be4f046a38987a85d59d2a2"
+  },
+  "typeHash": "0x0b1b5765d200fe1df7480765d4fff0aea3dbae74874a47396176e23f535c3a88",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

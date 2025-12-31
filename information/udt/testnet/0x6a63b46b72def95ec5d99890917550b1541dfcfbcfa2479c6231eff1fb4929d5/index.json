@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "tst2USD",
+  "symbol": "tst2USD",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq4dz5y3hjdur03wazf8nz7jqah0j56g2q606yhwflk43u795s4pa5s59dg7",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x380b1e3fe50d94d534ba290721f733caee6d6fa4c2375b3d14ac0ff3943c5a93"
+  },
+  "typeHash": "0x6a63b46b72def95ec5d99890917550b1541dfcfbcfa2479c6231eff1fb4929d5",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

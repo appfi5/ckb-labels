@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Extended UTXO Modal",
+  "symbol": "CELL",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qrgqep8saj8agswr30pls73hra28ry8jlnlc3ejzh3dl2ju7xxpjxqgqqy28n5m69va267nv0wvsudngtxz8t9jwss3xkhpk",
+  "type": {
+    "codeHash": "0x5c33fc69bd72e895a63176147c6ab0bb5758d1c7a32e0914f99f9ec1bed90d41",
+    "hashType": "type",
+    "args": "0x721ecbcf5f66a2882ecb0ab086d5a86e42475a06b03d90252455490a331f38cb"
+  },
+  "typeHash": "0xd897fa11e3a462e180a78afa75fb25f5649b338776625b13c9a7d9851b497b19",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

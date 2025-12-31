@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ETF bull market",
+  "symbol": "ETF++",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqq3u7ge8vh79ajfgp8vkvaqdcrh9xsunqmh9gqyjh32ve82ceaaklrknpg0",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xd284e2a7d9a6c2f83c933c061d47197c3ed769055929bf5682d260136935a26a"
+  },
+  "typeHash": "0x1870b514164740d7766fa26d57c5b801e422d76ce9227351ca20b78e0985594c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

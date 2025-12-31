@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TTK1223",
+  "symbol": "TTK1223",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjlap8s436m4ahe3fj4ywqjygvcvgnpc2mfe8vt6rm6yj09gq2vjqqqqqqqd4u4fkckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjlap8s436m4ahe3fj4ywqjygvcvgnpc2mfe8vt6rm6yj09gq2vjqqqqqqqd4u4fk",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2b21cb4b5b4cd22355ea2b70630eeaa545894a6b02c1f399f7b1c5ebafbea0d4"
+  },
+  "typeHash": "0xd29b5e3bce75268c7d3263e5a048266c6fb80321ae52118b0f151eaabc7ac546",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "NexmLab",
+  "symbol": "NEXM",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrg8txx7a37w0dtx2vgrs662h5r2d4ygg05483wvyyf26r26ygpkgqgrqqqqqw9af2qukmjk2t3ec6mypv39vs09xju6c9vde5gsyz0kpgjnsngqafhwwk",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xdfba5d83fca94946051ab1e53ac97150caa0614e8acb25a069c25c83085eebdb"
+  },
+  "typeHash": "0xde4293c03d1fc8238f982e5eb0a3f7e86cce2595391db0b3af890f687ac45a79",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

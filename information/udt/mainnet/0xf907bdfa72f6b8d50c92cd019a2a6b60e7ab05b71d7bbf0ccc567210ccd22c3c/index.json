@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CATPUNK++",
+  "symbol": "PUNKC",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0dyvk0yjd7zf3thhgm3kpmjuk2k49n3lqm9yy3z",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x9dd5361f51313f0a6793ac3e16fe8cb637230430e83d9f884657f4e54e6e8dfb"
+  },
+  "typeHash": "0xf907bdfa72f6b8d50c92cd019a2a6b60e7ab05b71d7bbf0ccc567210ccd22c3c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

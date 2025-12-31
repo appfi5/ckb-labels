@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DNA",
+  "symbol": "DNA",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf3cuy06gyytda9wwxk05qclv5mynnnt6ggz7wl3",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x0bda0607b3a0e49ae0a3d5146c86f678e479860119850ef477932a0b35e82701"
+  },
+  "typeHash": "0x7da332a4a4cb84d30946c8153dfb01331f5d6eecc26fea788c098db1f6ada817",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

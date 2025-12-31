@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "laiwanba token",
+  "symbol": "LWB",
+  "icon": "logo.png",
+  "decimal": 8,
+  "manager": "ckb1qyq2j0he8v9ad923pl0ha2rj3ps0vfgeldsq4vsgrl",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x606f186d1e6d5bc177c85b8ab8e9d9a7db24aa71d45f886fdd85ca1513d5030f"
+  },
+  "typeHash": "0x2bca1dc2e1142a28c49b4f4a43587aaa62a66cf5b7916b3ac86cce38807d6020",
+  "description": "laiwanba token",
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": "https://www.laiwanba.net"
+}

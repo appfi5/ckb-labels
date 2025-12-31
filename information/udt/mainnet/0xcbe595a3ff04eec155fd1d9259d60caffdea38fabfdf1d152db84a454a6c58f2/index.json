@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Fuck Scam",
+  "symbol": "FUCK",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqqnh5nx5excz3qy06reg7g5qa9eph0jwpz0z22p0uqzw8838uc9ffe9ua5t",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x466a6cd9346456c210c8d90167f0bf6388d6c2d494273522455edec8685cfee9"
+  },
+  "typeHash": "0xcbe595a3ff04eec155fd1d9259d60caffdea38fabfdf1d152db84a454a6c58f2",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

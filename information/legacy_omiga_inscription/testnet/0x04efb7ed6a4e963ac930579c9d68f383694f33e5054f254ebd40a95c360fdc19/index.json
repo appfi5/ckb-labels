@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "万万没想到，啦啦啦啦啦",
+  "symbol": "WAN",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq98x7q0glf4asym7jcqz6m5p5j56ze6emsx9taey",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x3e9cd13fdd1212bde21f6e1bcda34483ea23743d6cda91b171c4bf10df3f1696"
+  },
+  "typeHash": "0x04efb7ed6a4e963ac930579c9d68f383694f33e5054f254ebd40a95c360fdc19",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

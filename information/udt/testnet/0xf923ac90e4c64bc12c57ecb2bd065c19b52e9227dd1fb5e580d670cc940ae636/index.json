@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "nnnnn",
+  "symbol": "NNN",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgpqqqqpu9jkam4e683y7n3frywhqnu79us8gg75emjgqfletyvxu8c7acrytkm0f",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xbb57317c345d13feef04fd07633521c0c837276e3cef7bc01761a122cd309d10"
+  },
+  "typeHash": "0xf923ac90e4c64bc12c57ecb2bd065c19b52e9227dd1fb5e580d670cc940ae636",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

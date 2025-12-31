@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ARBITRUM",
+  "symbol": "ARB",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq83lngc4al8l5kxdxs048fz2gklrqh03jgeyunr0",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xe5c09705aab3ad84841cec55b65c2a679bdc21453c6ff1367925d0d3333b2b19"
+  },
+  "typeHash": "0xdd1dec4007b8c562e237e1d5ec14d8f7d6a1774b7ddf3f4fc37a3ad8163dd775",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

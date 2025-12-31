@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TokenTT1_Rafa",
+  "symbol": "TT1",
+  "icon": "logo.png",
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgg429w8439aj02u6gnwa7pkffnue3a8zs8dnxgz",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0xa26e6a0efb5fe0e03acff363debeece83cc1bb98eb6f8872a569909c715cf6e2"
+  },
+  "typeHash": "0x02a7cc803c18f19c755f19492014972b49b7628033e50deb13153a6e370db6e8",
+  "description": "Token_pruebas_TT1",
+  "udtType": "sudt",
+  "published": true,
+  "email": "rauxbc@gmail.com",
+  "famous": false,
+  "operatorWebsite": "http://www.tt1.com"
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "IDK",
+  "symbol": "IDK++",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqt2c9pd0vzxak49cggytcfm7fuvjrjaqjghr3cpa",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x83009f8609ef79c9f426c6991632f14f72f05638dc3c74f643ffe007ce444458"
+  },
+  "typeHash": "0xcfb5d5b82d76f42ad8fb10ee6fe040f39cadd5b6b0077bba588405792f219232",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

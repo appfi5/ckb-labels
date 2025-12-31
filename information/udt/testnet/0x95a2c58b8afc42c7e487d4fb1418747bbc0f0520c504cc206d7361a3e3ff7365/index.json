@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TE9",
+  "symbol": "TE9",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq488vw2t3jnfmp3dmmyl3564630rrma3elj55aec4xc9st87sq7eg7juh7u",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xdf5321a081454392c56a2eab15009e78ce094e8279e2b00670906bd2e33b94c3"
+  },
+  "typeHash": "0x95a2c58b8afc42c7e487d4fb1418747bbc0f0520c504cc206d7361a3e3ff7365",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "gogogo,let' go",
+  "symbol": "GOGOGO",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9gtxvx297t0vdlc62dcfxv0tjmhhfumrsgqfew9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa3171037395f73774dec1f671977017f1d41ea5f99181b3cc5599b418d6ed594"
+  },
+  "typeHash": "0x56854f49d8b2f9eb7162991bf7f291896851a6fd532a5dc4cdce83bf8baf4567",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

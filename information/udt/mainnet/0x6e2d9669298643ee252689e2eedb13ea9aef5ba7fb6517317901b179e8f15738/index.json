@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Mobit Test Token",
+  "symbol": "MTT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdj43azydpf3wuvccwhq34d7p7sd2sj22sf9xn49",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x6b33c69bdb25fac3d73e3c9e55f88785de27a54d722b4ab3455212f9a1b1645c"
+  },
+  "typeHash": "0x6e2d9669298643ee252689e2eedb13ea9aef5ba7fb6517317901b179e8f15738",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DOG",
+  "symbol": "DOG",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyguej96gs7e4kghrpw9r95q08vrhpd3dvswtcle",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xe6b5f854b4e2a6994c3562e1f3d98904e986eec9d21d9a5002d02742562981ff"
+  },
+  "typeHash": "0x67ae33edd6a04bf078c1e6b5483c615081de92d21a8ab66443451f9fd4ac3b24",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

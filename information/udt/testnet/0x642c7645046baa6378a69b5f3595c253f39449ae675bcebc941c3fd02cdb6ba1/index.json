@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Test Token",
+  "symbol": "TT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgp0tuezca5phvm4tpl6047mchgha8alvw2qq66mkh9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb12364a401d18f2a3b75178ff0325f6bee2afdf191d3bafe1ef5af413111f7e310"
+  },
+  "typeHash": "0x642c7645046baa6378a69b5f3595c253f39449ae675bcebc941c3fd02cdb6ba1",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-RSIC•GENESIS•RUNE",
+  "symbol": "R-RSIC•GENESIS•RUNE",
+  "icon": null,
+  "decimal": 0,
+  "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qfdchesktvfn5glut3ppf45ha7j83ekvrpcxscrqvps8gersksh04h",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xd485a6bf93d43e66c47e363da15aaf8d859b4b1bcf6f71f05fe2246408f755aa"
+  },
+  "typeHash": "0xb92d7517505cb1c5be989c62d509e5e842fbb940c046551e212bbefc9a061065",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

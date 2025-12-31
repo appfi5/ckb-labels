@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "test",
+  "icon": null,
+  "decimal": 0,
+  "manager": "ckt1qpuljza4azfdsrwjzdpea6442yfqadqhv7yzfu5zknlmtusm45hpuqgpepqru5rlr290xh59hqfpc05httgyy39vqqacluhd",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0xa9866e3a74e8a676959ad27fe137f7800b9c680798b89183a00812500dee3104"
+  },
+  "typeHash": "0x98353becbf698d58d620635982818d087407094e71c84186412cc35bda553b29",
+  "description": null,
+  "udtType": "sudt",
+  "published": true,
+  "email": "286065910@qq.com",
+  "famous": false,
+  "operatorWebsite": null
+}

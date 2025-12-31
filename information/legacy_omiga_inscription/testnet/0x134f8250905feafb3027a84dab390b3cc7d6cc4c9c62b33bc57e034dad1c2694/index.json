@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "CMX",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqx6pfvrfrzwxtu8rplz5y0h8rfr2082l6qfvc55t",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xcc51fbf8dd8aab74c5a4c5c297196dd9d01648bc40d348f2555ee028646437d7"
+  },
+  "typeHash": "0x134f8250905feafb3027a84dab390b3cc7d6cc4c9c62b33bc57e034dad1c2694",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Cooperative",
+  "symbol": "COOP",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckb1qj0n46hjl3pe2jwtepcvv5ehf9p6l94qvk9addgmarvfsvvrum6j7q056gq8wmk9jrwxylsjq0had4lzyggfheqgus6n5ms5z54zg0j9j3vm7gp6kapskx26tyt6r4jwx9at24sxpjvsm4df7z",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x928123cdb74b08e0f058cc1aaa67b5e8fc9c17612061b433716a61e499f7c5f7"
+  },
+  "typeHash": "0x0cf3d57e94e5ee45aa7412e53fedaafc35656dde91803f5e1d76bf3e7d44d5d6",
+  "description": "A social token to create collaborations between academic, artistic, and scientific communities",
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Moonbit Token",
+  "symbol": "MBT6",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqqf92rzr8z54vxl6ljha3dkdardvvzw4txs86q959glpcs0sxkm4ha6nv3n",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x61df9be37cdca04071dd58ff4f39f8c216eca5e8abd90e8ecf794ad0b56e928a"
+  },
+  "typeHash": "0x769d2d4a8ac0b12ff8d6a90341fe02e6c968b1a27f0200b5637f096635458546",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

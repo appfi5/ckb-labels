@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKB Binance  Inscription",
+  "symbol": "CKBNB",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9yyhk0k4yrhu55mr3mftvnysd94py6fqqqp9fme",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x5c024598f3cf40edff988f47e395eccc999966ce6c123ceb6e88809fd2dca605"
+  },
+  "typeHash": "0x539a88e09c4f1e0bf27cc266ccae19563295b221b0a29ef100b9e583bf402797",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

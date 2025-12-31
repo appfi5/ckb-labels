@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SHARE",
+  "symbol": "SHARE",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqq9tzy5q74k94cm2atwp8q9aucwrkpygrzh9tcxsuh3al4985sj69n8d5yu",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x98c301217fdf9603b0e281e66e46190df504e137feef1376534308b01066548c"
+  },
+  "typeHash": "0xe271065cc0517c871015c1d5c43fa960db392d322ecf3164766170c095692891",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

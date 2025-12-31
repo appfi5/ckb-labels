@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Favy USD",
+  "symbol": "FUSD",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyg8jeej4w5p5hag5kxwktfsetptvaamzsr6hs5c",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x8ce9ef582f7214e51000e2afb64f3e4cf4439357dc8d324db4e916566f4c5ab8"
+  },
+  "typeHash": "0x368e126035fb11f296e87a6d11cd525394dddf2db93b8655d33b05ee8fa448a3",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

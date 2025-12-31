@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "lend ID",
+  "symbol": "LENSID",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8aun0ufgk5jwhckrl37u7ajkf6kzhly95hh2e9f",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x0d267874ffcae4f6199fc096af09b4600b1eb3ff3a5995de33bd7b69e72db188"
+  },
+  "typeHash": "0x997693d86cc567c06ba11092820378bb45f659b10d040937b72aa58b3c0b45c0",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "6",
+  "symbol": "6",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqkakyplkhsxuqm6e6yvd9twaaruusnsqqmr6a0ckphdfzu05afeqcz4kefy",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x455e67960721a012e16774a0e7ccb450cab84a73e5ae5f2066a48ec111a7b010"
+  },
+  "typeHash": "0x2d4cdb77e7c5113df371524148b809c1fab66737cb0785f3c7090da9241dae95",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

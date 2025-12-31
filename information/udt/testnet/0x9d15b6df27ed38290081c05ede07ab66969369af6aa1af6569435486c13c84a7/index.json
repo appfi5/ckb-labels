@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "token",
+  "symbol": "TOKENS1",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qj4gg4l3jlkaa90j869yjdpyl5c7q86g0up9nj4yrz5pg3cef8k4sqqqqqqwnd9hf",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x0ab72de042e11d916e0a60922cdc7a3040d4f5f2672e231570db04adf36b1631"
+  },
+  "typeHash": "0x9d15b6df27ed38290081c05ede07ab66969369af6aa1af6569435486c13c84a7",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

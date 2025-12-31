@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ovvo",
+  "symbol": "ovvo",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckt1qqcyvyzy40qa0ee42uzg2p6lw7vmrdjjtqtpg3avg84g3c9c8n8usqgcppwneurundhjvfw0509l5vzglgu4hrn0wemx7c664kl",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x25a0d01ede40ec6cf61fd46bc82adc9b46ef28695975e84d2358409492dc8e43"
+  },
+  "typeHash": "0x4307ec4d2adf8240e550e88e18777e816b47bb676c0ae802be5ad258123e159d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

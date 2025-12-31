@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BEAF",
+  "symbol": "BEAF",
+  "icon": null,
+  "decimal": 0,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q4v5dr7ff7qkej56dskqnn0tc9adytud2cnnsrud5ge9lv3qtgk8yqqqqqqs7t7ym",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xab9b00f22e45c56afbb6aba0606b138a42a8710127cc97c42d50f2e36b3d2906"
+  },
+  "typeHash": "0xdafa5ff9a333304c243137971520f3e637a8eed0f897b3e190aef2dacfb9d06f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

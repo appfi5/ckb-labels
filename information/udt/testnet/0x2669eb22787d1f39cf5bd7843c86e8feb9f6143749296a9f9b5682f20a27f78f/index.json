@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "zero",
+  "symbol": "zero",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqq4evr6q6qeu5ajud4emfp3vhgshyavz44gg3ymzsk89z9jj0a3ef56lflp",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xeb84d5e3c31f592889e06270116f5b1c9d9354f977b97199a81fe05d8caa12f6"
+  },
+  "typeHash": "0x2669eb22787d1f39cf5bd7843c86e8feb9f6143749296a9f9b5682f20a27f78f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

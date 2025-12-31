@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Lay2 Coffee Token",
+  "symbol": "COFFEE",
+  "icon": "logo.png",
+  "decimal": 0,
+  "manager": "ckb1qyqzmy2fvxe0chmsj8m7xlg3l5plfs9epuvqgh8ezv",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x6e97feb7c3b16d9e87faeed7f3dc2d612fd9f541770efe999f931928d2ef846a"
+  },
+  "typeHash": "0x38928268eaffd58e25605a923cf61602e914cb8365ba00131ec0bc004cc753d1",
+  "description": "Lay2 Coffee Token (symbol is COFFEE), which could be exchanged Starbucks coffee coupons on Lay2 shop. Issued to celebrate the first anniversary of Lina, 1,116 tokens in total.",
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": true,
+  "operatorWebsite": "https://ckb.pw/#/shop"
+}

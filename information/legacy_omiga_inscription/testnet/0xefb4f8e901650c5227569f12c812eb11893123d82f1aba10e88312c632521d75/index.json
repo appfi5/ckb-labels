@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "M4ndr0",
+  "symbol": "MNDR",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8khf9vja6x6j3tynsx9yfuukxr7yd26gykq8kzd",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xbab26b092fdec5de1030deac64192dd38be420f3b10347d97305ebc06f449a09"
+  },
+  "typeHash": "0xefb4f8e901650c5227569f12c812eb11893123d82f1aba10e88312c632521d75",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

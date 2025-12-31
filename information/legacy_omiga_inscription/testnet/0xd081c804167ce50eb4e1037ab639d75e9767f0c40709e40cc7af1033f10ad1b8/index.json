@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Dex Go Go",
+  "symbol": "DEXGG",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq87cn4nx0hxaj5wsw9z9q2k9ry5dfrgm6y4f6q9r",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd4691fb0e7b7a22fd9e4944227ad22c1055d071628d4406971f8b10d77da73a4"
+  },
+  "typeHash": "0xd081c804167ce50eb4e1037ab639d75e9767f0c40709e40cc7af1033f10ad1b8",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

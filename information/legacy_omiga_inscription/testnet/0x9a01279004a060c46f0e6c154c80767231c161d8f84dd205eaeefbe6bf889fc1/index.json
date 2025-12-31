@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Eggslys Ovum",
+  "symbol": "OVUM",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgpv2y7zt97wcuzklqar4wxk2tzz3n5cyy3qqvua7x9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x56be962dd53b6ff16b922a8cd5d8a6c24939e12e60e7a7ab4e8d4ba13415c5fc"
+  },
+  "typeHash": "0x9a01279004a060c46f0e6c154c80767231c161d8f84dd205eaeefbe6bf889fc1",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

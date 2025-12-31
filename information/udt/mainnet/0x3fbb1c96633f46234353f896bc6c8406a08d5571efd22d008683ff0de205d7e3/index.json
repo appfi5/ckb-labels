@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-ligo",
+  "symbol": "R-ligo",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qtkxuet29htrf3e3vgrunx25y67sm00tlnvd9nk7c5lz5u",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xe5b08d0905bd01fac15d69184751f686cd0d14893fa8a16db01672fd6582a25f"
+  },
+  "typeHash": "0x3fbb1c96633f46234353f896bc6c8406a08d5571efd22d008683ff0de205d7e3",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

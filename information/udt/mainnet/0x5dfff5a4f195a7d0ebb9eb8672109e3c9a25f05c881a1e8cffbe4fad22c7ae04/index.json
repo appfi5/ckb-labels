@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "NOSTR",
+  "symbol": "NOSTR",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqpjvlj8qt4l0q8wevzyg2m30tkc9x557kpn32p9gstpdkjku57w2x0l9j5p",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x52fc0f6d01a40f95cf208c12c9223c65c2509597aceb6041b54d7f6eb6bd44db"
+  },
+  "typeHash": "0x5dfff5a4f195a7d0ebb9eb8672109e3c9a25f05c881a1e8cffbe4fad22c7ae04",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

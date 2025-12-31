@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "crown",
+  "symbol": "crown",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgqqqqqq4r7f4f70athqaq7gyejj842lvxp0zpugn4s0pnjf6ftcznrhh3seecq76",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xc1404a663f78ea8c60e3d2f8459220fcb6d660a7daf29919703e3f00174d9851"
+  },
+  "typeHash": "0xee3fc63c97440d261eeac7764c6d5d2122fc0ac83acf86ad425b6893a42fba8d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKBonk",
+  "symbol": "CKBonk",
+  "icon": "logo.png",
+  "decimal": 8,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq5yuz6kfsuly4u5vw7vpkuslux22nygxgsuf63lwa3yhzv3hwedfgksng38",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xa721a1a0dfcbb39e01e576008b2adcdacd041f9fb14975043eb018b0c96f6bfc"
+  },
+  "typeHash": "0x08e541f0f71b23b689b20fce7ed09fb0edea44bcee1a16ceae3920eea9b433ff",
+  "description": "Because why not? It’s a meme token on Nervos, built for laughs and chaos. Don’t overthink it, just bonk. 🚀",
+  "udtType": "xudt",
+  "published": true,
+  "email": "telmoecdsilva@gmail.com",
+  "famous": false,
+  "operatorWebsite": "https://x.com/ckbonk"
+}

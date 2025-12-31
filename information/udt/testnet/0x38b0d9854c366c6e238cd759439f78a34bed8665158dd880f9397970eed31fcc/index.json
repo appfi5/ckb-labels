@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "XUDT Test Token",
+  "symbol": "HKK",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqw3w2el4tgf5tjc3kdd37cmck02xrjhptq6kcvkn",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x94fb0bacf446fababbb53bfed526a351e8dcecd5267bf7779b77c83aabe374c3"
+  },
+  "typeHash": "0x38b0d9854c366c6e238cd759439f78a34bed8665158dd880f9397970eed31fcc",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-USDT",
+  "symbol": "R-USDT",
+  "icon": null,
+  "decimal": 6,
+  "manager": "ckt1qqcyvyzy40qa0ee42uzg2p6lw7vmrdjjtqtpg3avg84g3c9c8n8usqdd30zrqp9h66xajdqwyykzfxu6kahafyynua3mrxr54tp2e8g659209v678aj8elkvaz8svuuyvk204pfwjcpluw93",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x828695a9e512fb573e8612086ec35e56381e8bf81b1362d02017a4cfdffe62a6"
+  },
+  "typeHash": "0x906fb661224a01b36446003b70a045927c4ac317576834d5ad1f97f5f2e9bdad",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

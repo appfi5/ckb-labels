@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "metamast test",
+  "symbol": "THAA",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgpv3se7nm9mjen690t26r3zfccuxkwzme5qqenycef",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x284925a1c4d30ba7608cc7fdfddcf8670f2ebc859f4a62bf37a4ecac0de28bb9"
+  },
+  "typeHash": "0xd44530d73afb1ee0434489ccc3f4a05f509c474f7184222d6224a1e2a907db8a",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

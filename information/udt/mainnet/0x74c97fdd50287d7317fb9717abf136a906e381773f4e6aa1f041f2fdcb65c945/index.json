@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "X2",
+  "symbol": "X2",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qsh9hla08pp43668nzvq992dvyjnfxrum5q4x9zz68mwfx2eul37uqqqqqq6ycks2",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x051b90f352fb50f68dd409c6e7633cee8c4cffc36d334efb7f9b122a2173a99a"
+  },
+  "typeHash": "0x74c97fdd50287d7317fb9717abf136a906e381773f4e6aa1f041f2fdcb65c945",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

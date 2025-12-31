@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Just a test for new SDK",
+  "symbol": "ONLY",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgp672g4nvr66sya0035aqpvghgksfcs3uwqq2flvl4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x153fc3ab7109b80987ccba18741feafd07a79a098964a530d615102580ffd74c"
+  },
+  "typeHash": "0xc19c00915cac8e7f21b3de976aa5dabc96536d64718842c26483162e00767f93",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

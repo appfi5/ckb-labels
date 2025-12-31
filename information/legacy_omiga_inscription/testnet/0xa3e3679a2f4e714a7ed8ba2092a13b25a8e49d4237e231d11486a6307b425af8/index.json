@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "limewire",
+  "symbol": "LIME",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8d6wgkj69d93g0v6lfcpx8hpc9xxjmtq5y6y2v6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd46e54a66c426a41d01bd1340a81a72a51afa5c8e46a25d1bde589e45ca2b6bc"
+  },
+  "typeHash": "0xa3e3679a2f4e714a7ed8ba2092a13b25a8e49d4237e231d11486a6307b425af8",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

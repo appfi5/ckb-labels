@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "0711",
+  "symbol": "0711",
+  "icon": null,
+  "decimal": 18,
+  "manager": "ckt1qqcyvyzy40qa0ee42uzg2p6lw7vmrdjjtqtpg3avg84g3c9c8n8usqgcppwneurundhjvfw0509l5vzglgu4hrndde38v4vkryl",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xaf4648af171b6ee612b62452e19fa408fbcec4fe9f42e2f4293220e6a148dccf"
+  },
+  "typeHash": "0xaa573261fddfe82842a50d0cf973d814ba450900722a04ef582bf9f962928def",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

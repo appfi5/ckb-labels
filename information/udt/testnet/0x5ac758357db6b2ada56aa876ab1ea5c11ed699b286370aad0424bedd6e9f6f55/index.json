@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "My Test Token2",
+  "symbol": "MTT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2gfzslz3we2vckmhyp2trpetzlupgk92gq7d4h7",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x9961b21d7bff8617f8f28724ea2b19486e8401d8c8517b836c56ea31259a0105"
+  },
+  "typeHash": "0x5ac758357db6b2ada56aa876ab1ea5c11ed699b286370aad0424bedd6e9f6f55",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Son Test",
+  "symbol": "STEX",
+  "icon": null,
+  "decimal": 18,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x46c2cab776b7a97c78bda62c2c52dfab832425678c20d31a1902bad57567cc64"
+  },
+  "typeHash": "0x4aa23dfd8c3e7c44dbcc0e9fc222f860f086b391c680b0228bfdf2bcde48ba7e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

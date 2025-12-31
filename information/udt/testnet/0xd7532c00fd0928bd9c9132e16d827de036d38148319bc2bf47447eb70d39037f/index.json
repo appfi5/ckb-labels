@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "STT",
+  "symbol": "STT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhh576tggxu4c2g5kgtz7j2s45s5mywxgsk0s84jyaepd9295elluqqqqqqet7rsn",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa64698de85da2d94cad8853f32e085a53f6bb8e30d1da91ffb9f6d052f132585"
+  },
+  "typeHash": "0xd7532c00fd0928bd9c9132e16d827de036d38148319bc2bf47447eb70d39037f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

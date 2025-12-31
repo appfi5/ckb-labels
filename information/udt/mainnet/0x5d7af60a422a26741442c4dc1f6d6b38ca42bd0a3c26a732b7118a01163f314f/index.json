@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Killer Whale",
+  "symbol": "Whale",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqqsy0uqa3pr3we5vq55j7rltk832zkm7xch5afqwxxcxrvrgu62ru9lgufh",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xc5b0a17d86866abd9d15381762ce2074e3c6435f4b124d7f622610ca175b2d68"
+  },
+  "typeHash": "0x5d7af60a422a26741442c4dc1f6d6b38ca42bd0a3c26a732b7118a01163f314f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

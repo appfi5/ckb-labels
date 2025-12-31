@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ATDD",
+  "symbol": "ATDD",
+  "icon": "logo.jpeg",
+  "decimal": 6,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qj5rnvrwu256rensn4s3s2p0xm83eqz8qvxwwfh45raexs2xz0rr5qqqqqqtstn3g",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xc0cd7275d2048675339ae1bca981f03a9e531be0a9f89bbcb4d198b333a76572"
+  },
+  "typeHash": "0xa9bccdcc52c4adf3463f0afe56ee0d1afe52908fec887cbec7a69e147578497b",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "dev@rivtower.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

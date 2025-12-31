@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ATOM_ARC20_LeapX",
+  "symbol": "ATOM",
+  "icon": null,
+  "decimal": 0,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqg2qqqqq8v5fqvfmfseejgvt9p3n8envvj253l264k9uxqj8m2u8r2d8s64memelz",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x8b0b99092b4f64d186696e98439f4c30a6106cd85fd4678ac8bab0dfd9a12f6b"
+  },
+  "typeHash": "0xfd8a4d8668b74b4209bfc8627d656eb628f699747c37d2bed53462d4bd650014",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

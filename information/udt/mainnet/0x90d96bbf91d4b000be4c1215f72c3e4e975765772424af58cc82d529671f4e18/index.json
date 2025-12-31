@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "G",
+  "symbol": "G",
+  "icon": null,
+  "decimal": 4,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqss25t6kwyn6t6fj4pqwwwrnnw9ja5tn964yufvdyu6eyjy8rcqvq3at2a8",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xe17a177e32a2e670ac4b4c55a97ea39e2eb4274d702724610bf35de57af68fa2"
+  },
+  "typeHash": "0x90d96bbf91d4b000be4c1215f72c3e4e975765772424af58cc82d529671f4e18",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

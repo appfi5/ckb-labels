@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Offspring",
+  "symbol": "FLY",
+  "icon": null,
+  "decimal": 2,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkst64ej8u4gft5tzmefv9kdqq90msum7al26nm04qlhsz3pxngacqqqqqqzf3ps9",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x000a8f33804ae36faf894296382f58e11f2e10414b6618dd4d03f75dd4ad2b9d"
+  },
+  "typeHash": "0xe6e2f80e88581ebc91e653e646b77cafce1d8e9d05a4714a8f0d0a6e732dd0ec",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

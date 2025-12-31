@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "AID",
+  "symbol": "AID",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9lge8lct6k0xu842axpgm50t6hmetz2t5883f7q",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1e33b15bf8070aeef68ad92472bde8ca917e6704f800c3eab63a32c13174d803"
+  },
+  "typeHash": "0x0514b75de4c72806a65adc98bca3bebfa896aedc7bdbaee1714a9c3bf09ab736",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

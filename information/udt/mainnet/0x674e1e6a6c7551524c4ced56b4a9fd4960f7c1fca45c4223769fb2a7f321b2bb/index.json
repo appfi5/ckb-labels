@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ÉlodieGrLo",
+  "symbol": "EGL",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5pwzuu348pvcn24p7aeve4u8ydc8dpuwht0vuxznxhxu30aaacduqqqqqqly9mxn",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xcc03a8d0b4b89aaa382ffd064a4a615277447225abd808b659feb7e6edfe37dd"
+  },
+  "typeHash": "0x674e1e6a6c7551524c4ced56b4a9fd4960f7c1fca45c4223769fb2a7f321b2bb",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

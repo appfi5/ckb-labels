@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "HG",
+  "symbol": "HGB",
+  "icon": null,
+  "decimal": 6,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q4fatl5k9eetmfqfqgc3dzn32ql2pq8986gvy0p0zl6w0a5lu73ysqqqqqqdx37hq",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x279d05c8258c0df3caadc425b91b335376b43f3ec212923947f994d86dfae287"
+  },
+  "typeHash": "0xc9d1c5f1ea328e701d7f023d6511945d206b2f89268f72c55c66ede300974ef7",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "asdasda",
+  "symbol": "asdf",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgqqqqqq2lnymasxyycgl6jnmw6qd0snh36yhrtwfntfwgdqmut8js7kpy8mf26cw",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb4cfea6e388965f0d5f7422de01bf4127d4a1cf3bb7a7e71706d1e156071e749"
+  },
+  "typeHash": "0xa1fef31b75c50b330fe3c56c16d4d1656064d76307000a578a735f0efe21a923",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

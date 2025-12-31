@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "The DAO",
+  "symbol": "DAO",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q59fut5llsdpxmywrwwy6avja04ry9ypherdvqm8v7jeuwt2qwacsqqqqqqrrzvmj",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x4729d5eb40421e0b0c0d817d7588aa7e10fb31c45e20d5204c3181f05e0d6daf"
+  },
+  "typeHash": "0xb14fce64e38d06ea13c43ff84ee8c03c5366305b25fb8cb56979856138ea0d2c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

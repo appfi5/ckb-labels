@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Mbotjem",
+  "symbol": "MBOT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq854cy7mrqt0krq7nt2aaa68f9hljx6akys827vc",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x5f1a1057b6f279c9507e8d584124825d016a9b00578acf5f8adcd5b419dede5a"
+  },
+  "typeHash": "0x80a58538265ae43cd88ad49466b400a53af893099837ccf32aed64bc7e06c660",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

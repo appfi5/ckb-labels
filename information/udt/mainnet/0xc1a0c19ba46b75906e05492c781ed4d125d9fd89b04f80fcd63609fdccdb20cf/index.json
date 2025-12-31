@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SOUL",
+  "symbol": "SOUL",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qn6rcgj9cjl2nk63avwfmvqe3x6evsls4dt4ef7hsyeru2pgy90x5qqqqqqm2ll9g",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xa8f8b610d0d0fafa765338ed694280ed4c78a06e8ca7e1321bb985bc366e537a"
+  },
+  "typeHash": "0xc1a0c19ba46b75906e05492c781ed4d125d9fd89b04f80fcd63609fdccdb20cf",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

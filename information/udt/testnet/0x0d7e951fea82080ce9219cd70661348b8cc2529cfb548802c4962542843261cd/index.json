@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TestToken",
+  "symbol": "TST",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgjq9wlaxnef3x7zqcagqxa7vmjaj6vczxwqq4w7pvj",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xee7f4760951ed18f3c8567b5bd48f28bea259d3e8b2a6bae2a639bccf45fbaa2"
+  },
+  "typeHash": "0x0d7e951fea82080ce9219cd70661348b8cc2529cfb548802c4962542843261cd",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

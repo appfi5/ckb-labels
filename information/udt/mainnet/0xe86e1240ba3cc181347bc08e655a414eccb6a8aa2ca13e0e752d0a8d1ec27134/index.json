@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "JAVA",
+  "symbol": "JAVA",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqpq2kpg4ngmycj3xwp6v7zuszkrmzcmvj83du949lqnwu2qcj9c297et8m4",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x964846c45bfaeb7ead0336869694fa9e693782fe0a0abe09a552df0eff40a7fc"
+  },
+  "typeHash": "0xe86e1240ba3cc181347bc08e655a414eccb6a8aa2ca13e0e752d0a8d1ec27134",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "21savage",
+  "symbol": "21sav",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwjhkw2s2m4lshgjek7gg2js5x0qwslc3sr3fvkf",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb695d728026aa7a86170ce88db7ec65cb5a988cfab8d7b0c7f6aed05d5254dae"
+  },
+  "typeHash": "0x345b9f058b0b78e458d289909a56f86cf476367ef37033fb39e2606903c54cdb",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

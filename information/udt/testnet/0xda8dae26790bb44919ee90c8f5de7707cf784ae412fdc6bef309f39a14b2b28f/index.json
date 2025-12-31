@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "XUDT Test Token",
+  "symbol": "OUU",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtqqh8ez0c32395rxch5nz08chuyn0f4ssul9c6d",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x4701d7ffc9ee3cf8ff7150ca731d476689f38587716a894368e680d01c19d72b"
+  },
+  "typeHash": "0xda8dae26790bb44919ee90c8f5de7707cf784ae412fdc6bef309f39a14b2b28f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

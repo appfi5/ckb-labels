@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TestXUDT1",
+  "symbol": "X2",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfvv20g8j720ne2gzjdg0kt6cgv54l5uasp0f2fq",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xda4274cf72344b0ba8a195461c2e6f6e570daa1a5096dbff3cf5c3aa9b42ad54"
+  },
+  "typeHash": "0x8d9d07c2bb0908de8e336310ff7922eac851ba566431ceb3eb53bb47e11e1c38",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

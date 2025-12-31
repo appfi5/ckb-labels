@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "UUU",
+  "icon": "",
+  "decimal": 8,
+  "manager": "ckt1qqv5y9k3qetmhqakdzychtdq2dxhq8qucpmnk53s24k0e3l6nz5xsqspqqqqpa2lyvqsqqqqqqqsqqqqqqqqqqqqu86s2qqqqqqqpc04q5qqqqqqqqqqqqqqqqqqqq8ypd2qyqqqqqqqqqqqqqqqqqqr8j7yqckt1qqv5y9k3qetmhqakdzychtdq2dxhq8qucpmnk53s24k0e3l6nz5xsqspqqqqpa2lyvqsqqqqqqqsqqqqqqqqqqqqu86s2qqqqqqqpc04q5qqqqqqqqqqqqqqqqqqqq8ypd2qyqqqqqqqqqqqqqqqqqqr8j7yq",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x0da91cb873224bbeadd4af8afa7a63bb162c0d2fee6911232e579ef53946003200000000"
+  },
+  "typeHash": "0xf6e7be35aeddd6c8b9e5f6de7616bf749269fcdad0b80c1841ba1e1c61c4b7b2",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

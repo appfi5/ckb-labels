@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGBPP Test Token",
+  "symbol": "RTTY",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqpr8qj7fhnjulj92sdvjvmln2qa33kylu4tmsn9wym29wxkea93r320pugx",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x7e96affc517fe2b286e309e88d6b331911fc319baa3f8a830dcf59a9756f2c25"
+  },
+  "typeHash": "0x27b36bd74aec3ffccb1c1351c3e3db64cba33ee1b5651059fe468fbcbb8c81bd",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

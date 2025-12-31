@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TokenTest2",
+  "symbol": "TT1",
+  "icon": "logo.png",
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2h3h2vndtdvrpd9ewp8yk96penh8g03agz6098z",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0x246d249c3d73083a78649c8d1cdc8118a96817c5d8b7540ad02d035a589043fb"
+  },
+  "typeHash": "0x8687d4f183061024b7a5362b6f578612e991eaa5deae09e8e67377bc308ac510",
+  "description": "Token Test TmC 2.0",
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": null
+}

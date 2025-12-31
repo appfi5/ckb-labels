@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "QL Test Token",
+  "symbol": "QLTT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwst5js0mkuhn4vxr8qhh3w7qv7kszcv7q4awexh",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x39e0831f997cc01e5c6c6bfd18f1bbbbd411fca5145ce1038ad8ad2cc405685d"
+  },
+  "typeHash": "0x70cc59bd343d279ce10d74cc83c1107930c1ad2849dd6317445eeb9a425624a8",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

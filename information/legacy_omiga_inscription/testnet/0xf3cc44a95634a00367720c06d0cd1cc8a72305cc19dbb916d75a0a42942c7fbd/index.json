@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKbro",
+  "symbol": "CKBRO",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxt34sghastcrap7fdywydg3cyvnvqk0zqcaxzk9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xf8d5408f31100bd9422b093213e24c2b4b7e39f02ce920682acc0efc8bf78301"
+  },
+  "typeHash": "0xf3cc44a95634a00367720c06d0cd1cc8a72305cc19dbb916d75a0a42942c7fbd",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "NEW Test Token",
+  "symbol": "NWT",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdlrq5rygnj3njrnswwu8vra7z2rff2xpggt0858",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x00802631b1f3f93a9c36862fcde9beef50cf4b9d60bd165f58794f7b49b5fd20"
+  },
+  "typeHash": "0x38efd1f8ddde30cc0d3e5ac716ec255028ec07e3f38eadd37a4dea97a349c61c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

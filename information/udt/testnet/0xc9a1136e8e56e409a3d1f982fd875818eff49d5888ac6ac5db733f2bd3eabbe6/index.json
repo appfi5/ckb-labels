@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Egod 4 23-27",
+  "symbol": "EGod4",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqptxsjskvwgxf9mjc3kfvgsl9ksvvdqaxxuze30ges6ak7e0df656gahe3m",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xf755b356716bc3b7661942c49be244e7bbcac1d13ed1da8a502c95621929bd2a"
+  },
+  "typeHash": "0xc9a1136e8e56e409a3d1f982fd875818eff49d5888ac6ac5db733f2bd3eabbe6",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

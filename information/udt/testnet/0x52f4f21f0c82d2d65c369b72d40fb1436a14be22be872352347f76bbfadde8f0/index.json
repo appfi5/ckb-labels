@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "dbca",
+  "symbol": "abce",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqpxev3rnc3g6nu5xu65xefuhlvaf4mxdu2snq648qqsdg2nz9fk6s0mva62",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x43526120e3bbe8b4d0461ec5f22bf3a6140a47a8dfb41fec5412cd78e0806915"
+  },
+  "typeHash": "0x52f4f21f0c82d2d65c369b72d40fb1436a14be22be872352347f76bbfadde8f0",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

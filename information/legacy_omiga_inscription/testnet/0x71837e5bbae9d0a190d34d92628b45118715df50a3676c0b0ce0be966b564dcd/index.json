@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SLF",
+  "symbol": "SALAFI",
+  "icon": null,
+  "decimal": 8,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy6uhkkc432nus6m929sklk2sn7eyya50y5kkhw8",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x6ea6cfefd2e4d27b93b6a36b56469411f3810821c3ba46d076f99ed8e0ef058a"
+  },
+  "typeHash": "0x71837e5bbae9d0a190d34d92628b45118715df50a3676c0b0ce0be966b564dcd",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

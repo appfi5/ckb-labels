@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Shib Coin",
+  "symbol": "SHIB",
+  "icon": "logo.jpeg",
+  "decimal": 6,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3r2k48v3wff3kjcmjnfry2ajd5dwf0g9e04gd50z8rkeew3n8ehgqqqqqqed7wr9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x3db468cab349f1cf7204b4c7d3e68600a420f1480123f60a1e1e04f3eb9bb0f7"
+  },
+  "typeHash": "0x38b8c799e7474d18e974dbb10c9814af520815fcba9c159b4fa5cf00a861469c",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "dev@rivtower.com",
+  "famous": false,
+  "operatorWebsite": ""
+}
