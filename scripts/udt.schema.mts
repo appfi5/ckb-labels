@@ -7,7 +7,7 @@ export const udtSchema = z.object({
   symbol: z.string().min(1, { error: "Symbol is required" }), // .max(20),
   icon: z.string().nullable(),
   decimal: z.number().min(0),
-  tags: z.array(z.enum(["rgb++", "layer-1-asset", "layer-2-asset", "supply-limited"])).optional(),
+  tags: z.array(z.enum(["rgb++", "layer-1-asset", "layer-2-asset", "supply-limited"])).nullable(),
   manager: z.string().nullable(),
   type: z.object({
     codeHash: z.string().min(1),
