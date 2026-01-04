@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ttt",
+  "symbol": "20:10",
+  "icon": null,
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckt1qqcyvyzy40qa0ee42uzg2p6lw7vmrdjjtqtpg3avg84g3c9c8n8usqge2zf8qmuyffyttlqqgdjn0wlgtqarq4pjxqarzvqnm4r99",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x3222aa44fc6b8993b178204d7d170d9066ab2ee20b19690c950ca167916932bc"
+  },
+  "typeHash": "0x6913dfe4e565f4b35751697151f15fa9a099a3a67ee167db4a668c883ec4f1a2",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

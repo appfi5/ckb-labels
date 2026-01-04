@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "UUIO",
+  "symbol": "UUIO",
+  "icon": "logo.jpeg",
+  "decimal": 6,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkwlp6gugxe2pqcxm0lgx9lwc5smgypda40mlkxt3dps22f92vmqcqqqqqqppudjf",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1988900bafb113b97c91dc9e87d08c941ccedc521fea7b08a516faa11b730b5a"
+  },
+  "typeHash": "0xbb6aa6b3447a040bd48799e824ef7e831f9aa20a0f848a84935d3474f6268f18",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "dev@rivtower.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

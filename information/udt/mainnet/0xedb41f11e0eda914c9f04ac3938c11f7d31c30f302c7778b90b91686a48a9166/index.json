@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "MOON",
+  "symbol": "MOON",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqpqvg3qsxnmggk2g9lusnc8lm8v8p4x2k7hyc3pp4xnymqngvetv4qa2dma",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x95d165f55dae0367d0cc91d2a5a597c7d25996e34b659c7ae962b72ad7888398"
+  },
+  "typeHash": "0xedb41f11e0eda914c9f04ac3938c11f7d31c30f302c7778b90b91686a48a9166",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

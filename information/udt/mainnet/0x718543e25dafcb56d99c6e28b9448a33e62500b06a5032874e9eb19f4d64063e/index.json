@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Wrapped BTCB (ForceBridge from BSC)",
+  "symbol": "BTCB|bsc",
+  "icon": "https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=002",
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqtfudy7ndgjymk7020nj67qhjutzs5t20jeaks6smuk99jmrsr4msz2sqqqqrq7phxyenqepjgycnys3egfpky3jpv56xvv3kxv6xgwpkx3qnz3t9x9pk2v69v9jrjccdum6du",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x9ea7beb4a36469e00bb30dbac75e93672441b483d519556ba9d1424b9294eae5"
+  },
+  "typeHash": "0x718543e25dafcb56d99c6e28b9448a33e62500b06a5032874e9eb19f4d64063e",
+  "description": null,
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": true,
+  "operatorWebsite": null
+}

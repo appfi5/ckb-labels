@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RBG--",
+  "symbol": "RBG--",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqp9v3pj2fp7nrthakfuhvmv3wsmy2tul2h7aujq5muqgg4avtqwrzgrcdh3",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xef64ec4447bb8238fa024d7f3b9d9c7052d15711e2321484f3d38efcadab2d48"
+  },
+  "typeHash": "0x86056ded9a2ea301e0f0b0ff58e17b326ffab5fb8e042ff5a1528688cc8a780d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

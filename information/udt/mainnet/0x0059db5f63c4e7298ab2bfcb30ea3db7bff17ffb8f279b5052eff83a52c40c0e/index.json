@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BTCAI",
+  "symbol": "BTCAI",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqqleuda8yj03rrv5d3c950dc58rz0vjy87yzh55cvuwstpyz4lu3mg0x7gr",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x9f90b89ffcf3a753946fc8d388b5c5f96eebe4e3c523684ae7147356866256cf"
+  },
+  "typeHash": "0x0059db5f63c4e7298ab2bfcb30ea3db7bff17ffb8f279b5052eff83a52c40c0e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

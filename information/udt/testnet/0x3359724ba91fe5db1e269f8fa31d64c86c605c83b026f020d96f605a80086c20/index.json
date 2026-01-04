@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "NDX Token",
+  "symbol": "NDX",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgptlzscnld72e3xghswpmey92hhy8n273eqq4qnhd3",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x6af30bab19ec3a07b75936e7742756bbac95c8111e1b4882dfd4130476ddee5c03"
+  },
+  "typeHash": "0x3359724ba91fe5db1e269f8fa31d64c86c605c83b026f020d96f605a80086c20",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

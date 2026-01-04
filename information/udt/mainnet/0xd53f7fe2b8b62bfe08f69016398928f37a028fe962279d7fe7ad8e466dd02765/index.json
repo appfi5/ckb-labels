@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Girl",
+  "symbol": "Girl",
+  "icon": "logo.png",
+  "decimal": 8,
+  "tags": [
+    "rgb++",
+    "layer-1-asset",
+    "supply-limited"
+  ],
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqpxe98790hch0amzc0nggtvcsxjay87re98tvz2wpj2uf0p9ecj2v66psv8",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xc750bcf7e97690994a05a00832a3a17d35740abe302371530ca91f9c866a721f"
+  },
+  "typeHash": "0xd53f7fe2b8b62bfe08f69016398928f37a028fe962279d7fe7ad8e466dd02765",
+  "description": "Crypto is not just boy’s club, The more $Girl users there are, the more popular crypto becomes.",
+  "udtType": "xudt",
+  "published": true,
+  "email": "skillxx58@gmail.com",
+  "famous": true,
+  "operatorWebsite": "https://x.com/girlsrgbpp"
+}

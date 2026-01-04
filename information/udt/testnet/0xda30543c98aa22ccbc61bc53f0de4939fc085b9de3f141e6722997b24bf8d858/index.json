@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "KONG Token",
+  "symbol": "KONG",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5g0tkz4h8nwwej5ltxu4pqtwps768dt40z5r7r64ynsqlqj93q9cqqqqqqdwyvs9ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5g0tkz4h8nwwej5ltxu4pqtwps768dt40z5r7r64ynsqlqj93q9cqqqqqqdwyvs9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x0bb601619f70a97d1be686485ae3b25a308f56e9be4763da762ac2f4c2ee391d"
+  },
+  "typeHash": "0xda30543c98aa22ccbc61bc53f0de4939fc085b9de3f141e6722997b24bf8d858",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

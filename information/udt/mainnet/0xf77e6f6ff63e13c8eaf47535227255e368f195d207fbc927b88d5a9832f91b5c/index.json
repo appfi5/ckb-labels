@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "yuchen610517",
+  "symbol": "qiu@x",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqqxercwelyu0gywcfdkvey8wkzpun8vdpu64snal3nsv5pe3p2nncpjmy8y",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xc2e41cb5778e2c285b8185a3d4d3ad54f380c375559ee95abeec9fe6d3c29d02"
+  },
+  "typeHash": "0xf77e6f6ff63e13c8eaf47535227255e368f195d207fbc927b88d5a9832f91b5c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

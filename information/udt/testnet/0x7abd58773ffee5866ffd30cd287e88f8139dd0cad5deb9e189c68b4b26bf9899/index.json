@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Rebase Test Simple Token",
+  "symbol": "RTST",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qyqwtq7qhg6j9hfqxnndmxyzmlamn85dhs7sjn8rsl",
+  "type": {
+    "codeHash": "0x48dbf59b4c7ee1547238021b4869bceedf4eea6b43772e5d66ef8865b6ae7212",
+    "hashType": "data",
+    "args": "0x0466a2e7b55dad9353271614ca3a1b6016d3c6b69e3239c6ba7e37ef1bbe0a0e"
+  },
+  "typeHash": "0x7abd58773ffee5866ffd30cd287e88f8139dd0cad5deb9e189c68b4b26bf9899",
+  "description": "",
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

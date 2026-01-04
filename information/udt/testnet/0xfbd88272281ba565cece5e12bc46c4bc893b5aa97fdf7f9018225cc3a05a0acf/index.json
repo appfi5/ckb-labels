@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CT Token",
+  "symbol": "CT",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgftqzfuyghepeh7hkv07kjt3acu4hc8vsnyjzfw",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x84c25522a8889f0bd2b839b66eee44758de8215d923b14875dd7ae4e8c57468c"
+  },
+  "typeHash": "0xfbd88272281ba565cece5e12bc46c4bc893b5aa97fdf7f9018225cc3a05a0acf",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

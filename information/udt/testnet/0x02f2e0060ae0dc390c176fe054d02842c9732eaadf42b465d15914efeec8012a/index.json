@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "OOXX Test Token",
+  "symbol": "OOXX",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwp0g2t9twvyc6whapkqlvaspvdkpthm8c3m7s8u",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xe8b6fc749031f8bc2e4b0d7ad0fbff91c56560ec6e64e3a722a92f30d9062908"
+  },
+  "typeHash": "0x02f2e0060ae0dc390c176fe054d02842c9732eaadf42b465d15914efeec8012a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

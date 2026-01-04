@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "A789",
+  "icon": null,
+  "decimal": 1,
+  "tags": null,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgpx6pt86437j3ejhm30sgk79mh0v7rqhewqq7ce8sm",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xbd5c22513b0d4b93ea2dd5fe751f53dd39ddbdc3eed0436d0d37ee33db6c5c3c"
+  },
+  "typeHash": "0x3597228be6829d7c7b29961396f1e8bdd87006462742b976e0d6b2b2d2d5a556",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

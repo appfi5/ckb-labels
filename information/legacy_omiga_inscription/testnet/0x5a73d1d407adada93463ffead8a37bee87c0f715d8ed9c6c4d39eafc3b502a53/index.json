@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ABBEY",
+  "symbol": "ABBEY",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqypq0wl002wm79qlc4dlxjvlenmphf444syc30s9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xaaec7c37613c41159768f1ba0300afc894fe2d8fc25ab0468d3e263f8186d05f"
+  },
+  "typeHash": "0x5a73d1d407adada93463ffead8a37bee87c0f715d8ed9c6c4d39eafc3b502a53",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

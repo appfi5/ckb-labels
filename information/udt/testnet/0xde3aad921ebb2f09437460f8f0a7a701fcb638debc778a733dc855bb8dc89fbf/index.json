@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "gf",
+  "symbol": "ad",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q50t45dhykty4l7w25wkxfpjeha5h2656fxpqxy26gsdj7g38j4pcqqqqqqmenjep",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x940d7e99aedbb22fc6021302cf5221cc675227bc9d72926a8d8b6290ac1b96e8"
+  },
+  "typeHash": "0xde3aad921ebb2f09437460f8f0a7a701fcb638debc778a733dc855bb8dc89fbf",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

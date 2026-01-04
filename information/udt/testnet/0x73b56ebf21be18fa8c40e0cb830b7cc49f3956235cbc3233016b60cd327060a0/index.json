@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "people4",
+  "symbol": "people4",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkl8k2v4uyk09wgftw52afvxm0zj3z4gcygj7uzc47uj5hxagwt75qqqqqqpk3mk4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x5294a021a4c485ce66213ede38d9f13d729eab1041f6dcd8afc4cff6a2ad7e57"
+  },
+  "typeHash": "0x73b56ebf21be18fa8c40e0cb830b7cc49f3956235cbc3233016b60cd327060a0",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

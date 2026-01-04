@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "BULL",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyxz7fexv3askdcjlgu9u8qsej87wrkz7qtxn092",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x7c27f985c14b83e2a7eb64974e3ecef73a08445ec09dffdcde41f000819fa5c4"
+  },
+  "typeHash": "0x64d0302ac12591152fb2021ebeaec232616d03f9a952528801cc75d711513906",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

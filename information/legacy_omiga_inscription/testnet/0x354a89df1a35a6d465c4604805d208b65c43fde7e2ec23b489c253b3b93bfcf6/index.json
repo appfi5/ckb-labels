@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "TESTREBASE1",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9gtxvx297t0vdlc62dcfxv0tjmhhfumrsgqfew9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xdef6e12decaf79343e14bc8848053e4254f9953cefb10e5aa4ecde20bd66cc6f"
+  },
+  "typeHash": "0x354a89df1a35a6d465c4604805d208b65c43fde7e2ec23b489c253b3b93bfcf6",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

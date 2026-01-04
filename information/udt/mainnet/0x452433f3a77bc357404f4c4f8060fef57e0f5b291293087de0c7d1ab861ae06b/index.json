@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "-OvO-",
+  "symbol": "-OvO-",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqg8qqqqp3ya3tnr5mk6wklhxsytl8p9wysrd2fdsz9qygsvffj5k6myuvr7ce2z3q",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x16f10e5337adfae7ec7ff6fe689a5a7844ee0f30bb9246942b24d8a9db4b81ae"
+  },
+  "typeHash": "0x452433f3a77bc357404f4c4f8060fef57e0f5b291293087de0c7d1ab861ae06b",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

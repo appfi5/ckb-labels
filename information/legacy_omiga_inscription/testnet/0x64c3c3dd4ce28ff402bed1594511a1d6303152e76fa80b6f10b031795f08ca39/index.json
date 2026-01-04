@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Hetty",
+  "symbol": "HETTY",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9rq5qtc6qvflyvsv54xsew6dnx38ffgfqzz82wq",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x594e7534883c50e51dc0135d7dd429170730275a310bcae4fcb7504c5d7b14fb"
+  },
+  "typeHash": "0x64c3c3dd4ce28ff402bed1594511a1d6303152e76fa80b6f10b031795f08ca39",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

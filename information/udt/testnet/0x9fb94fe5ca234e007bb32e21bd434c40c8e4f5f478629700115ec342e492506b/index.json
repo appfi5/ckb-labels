@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "lxlololol",
+  "symbol": "LXLOL",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x82b108d41891366487f6d00a71a60257363e1d60e52e5e81c1c323b935aadad2"
+  },
+  "typeHash": "0x9fb94fe5ca234e007bb32e21bd434c40c8e4f5f478629700115ec342e492506b",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

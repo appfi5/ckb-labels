@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TERMINUS",
+  "symbol": "TERMINUS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5gdw3ehcprd3hffnw09wkdv27cxd059327p9755da57psagl5z95qqqqqqz96g3u",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x484fa8ee7547caf0fa4424f4c9566ce27a32ed1e6d1364414d6635cb0cb4e876"
+  },
+  "typeHash": "0xcd93dff72ca881f1ca9a8a3e548a215c44c6e5c34c73bb61fa3b9e903c0384c7",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

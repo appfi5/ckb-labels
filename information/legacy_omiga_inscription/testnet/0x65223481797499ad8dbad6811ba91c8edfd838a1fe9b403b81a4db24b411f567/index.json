@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "LONG Spring Festival",
+  "symbol": "LONGI",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq94kzlx2nvegcpn75chp3gq2wk3af2xknvtk3lut",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1aa92c8620c7069bc99c3d34b7db59e1fcd454b7fbb0128e0f892683947e9a34"
+  },
+  "typeHash": "0x65223481797499ad8dbad6811ba91c8edfd838a1fe9b403b81a4db24b411f567",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

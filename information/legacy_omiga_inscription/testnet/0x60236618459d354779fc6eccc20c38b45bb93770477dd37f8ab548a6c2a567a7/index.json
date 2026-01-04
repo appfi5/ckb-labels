@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "JOYID",
+  "symbol": "JOYTOKEN",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq98cmde3jda6lh4cgyascntf95py9rcsrsluf05n",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2c4e48f82b22dc1b9965ca88469209009731302b6a93195aec67648581e06332"
+  },
+  "typeHash": "0x60236618459d354779fc6eccc20c38b45bb93770477dd37f8ab548a6c2a567a7",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-MUBI",
+  "symbol": "R-MUBI",
+  "icon": null,
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qtkxuet29htrf3e3vgrunx25y67sm00tljd24pyj22a4z6",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xf586ddcdc4f03f48b6d770bc065784dd4381c4188561682beae75b425f2e1980"
+  },
+  "typeHash": "0x6c67af5880a63af5976070605225398040afb4636221fffcf2d74adba6e23b65",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

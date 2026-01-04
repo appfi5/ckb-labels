@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "regulation",
+  "symbol": "REG",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qh9suc90kkmz9czneg3yawn9cdpu33p27n2qqufggrpcdrg7jrv5yqqqqqqldswzc",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x98821352fdeefef17b0ff9645a7e3ea8ad25d3d952172a9f9ab77b7a2bda1988"
+  },
+  "typeHash": "0x6ecb0c9e39390e87729c53106d7a2ec707df9655805a1f11a606544b1ed2dd26",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

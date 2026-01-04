@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Dob and Token for XIAN City Memorial Badge",
+  "symbol": "XIAN",
+  "icon": null,
+  "decimal": 0,
+  "tags": null,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkrk8wha7uqyhq3rwp7nzfwkrk0q520php3lpn0502ntx6zdw026gqqqqqqm6ch7h",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x60da06509d369bf0f32fea9881a39ba3758ac45119ed1448fd8e71360ecea89f"
+  },
+  "typeHash": "0xa5a96ae0bddab3a1226cdbd1e5829c93f73fc365edf850ec54e3fee217cb8c4f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

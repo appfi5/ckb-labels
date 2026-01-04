@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BTC",
+  "symbol": "BTC",
+  "icon": null,
+  "decimal": 0,
+  "tags": null,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq37pat307js9675dhvwk792lk9ptvv4qndgnezh4ha0x62xje0tvyzshvck",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x54aa0ca2fc1c0c51a71e6f7cc3b3c1a541bf02278a0ecb9d88d51989b07739d2"
+  },
+  "typeHash": "0xc1d44b523021c3d3c056d76ec8a3b0f1416d62deba3f161d5653eb340b45cae6",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

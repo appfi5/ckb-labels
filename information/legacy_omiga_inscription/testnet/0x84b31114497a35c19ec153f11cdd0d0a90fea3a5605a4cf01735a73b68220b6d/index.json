@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "JoyID Dex Test Inscription",
+  "symbol": "JDI",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8ephekfd5ss89rdx7s7azpqz8m4xz5j5u8t07zv",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xf14fa8429f8f94906f986b9c26ee8d66bb2d49aaa0e72df6aa09ac8d184f088b"
+  },
+  "typeHash": "0x84b31114497a35c19ec153f11cdd0d0a90fea3a5605a4cf01735a73b68220b6d",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

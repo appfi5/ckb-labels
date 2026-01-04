@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "CKBTOTHEMOON",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgpasek6r8n2ntygsxxhe2r29299ftdn6rzqq5muska",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x4f56882074e17b32c61feaa4738c2bd1ea566412fa0563673d423828f0c7d079"
+  },
+  "typeHash": "0x02cc5d9e81d9d21983a81a94b4ed93e570322d8e2fd72cf7f28382b0ee24411a",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

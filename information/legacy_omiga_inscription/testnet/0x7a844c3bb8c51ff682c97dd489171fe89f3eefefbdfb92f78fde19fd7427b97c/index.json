@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Joy Ride",
+  "symbol": "JRD",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq85je0veqtjngw457f86g5elv203rfcn8yvusq0k",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x463d4927719eb71c2c2b15a610574fa7f02de6df0144a86dfd6750455592bf9b"
+  },
+  "typeHash": "0x7a844c3bb8c51ff682c97dd489171fe89f3eefefbdfb92f78fde19fd7427b97c",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

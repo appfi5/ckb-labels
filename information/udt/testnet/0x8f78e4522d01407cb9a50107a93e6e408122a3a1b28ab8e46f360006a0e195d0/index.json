@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Tes",
+  "symbol": "FLY",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qn32m5tae70p7pyt75cm2qhqd8l2sqem7dfka95patamnavw6z5ssqqqqqqjay7hd",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xae55bfb3511d6eb4251c5ee67ba8198013db44d44b456452a0e26ae9cbc22b90"
+  },
+  "typeHash": "0x8f78e4522d01407cb9a50107a93e6e408122a3a1b28ab8e46f360006a0e195d0",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "测试 @V2",
+  "symbol": "Dot",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x8726112a2af01094c5cc1a6c0f65b9123357f8a02efc992791a4e01b3074542b"
+  },
+  "typeHash": "0x7a9bc8f6e5d616f8b85264c31937ff2f795d5317dcabcb76077fcb1e5920d623",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

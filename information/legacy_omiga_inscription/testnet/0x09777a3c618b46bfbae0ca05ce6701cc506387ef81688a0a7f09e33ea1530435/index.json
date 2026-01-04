@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "SWY",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyu032q3tdwufgjgnl6vvnreng0tak508sn6czx6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x26d2f6c56d6d2fa48b2806e4a0c6eb48f9332e8655980dd494bbd6784738e8eb"
+  },
+  "typeHash": "0x09777a3c618b46bfbae0ca05ce6701cc506387ef81688a0a7f09e33ea1530435",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

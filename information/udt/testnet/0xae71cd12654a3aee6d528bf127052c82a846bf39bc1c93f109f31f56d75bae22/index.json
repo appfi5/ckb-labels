@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "m/mm",
+  "symbol": "ma-a",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqg3swv020ucc68r60t0h9dm65q0gh9920gvt3rea",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xaf3dcb11ac5dad6c7653eb3a317cbe156ab208783d925a8f2e6782e5d5881e93"
+  },
+  "typeHash": "0xae71cd12654a3aee6d528bf127052c82a846bf39bc1c93f109f31f56d75bae22",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

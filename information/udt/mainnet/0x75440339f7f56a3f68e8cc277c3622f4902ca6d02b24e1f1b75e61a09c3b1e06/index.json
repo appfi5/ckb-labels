@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ENJOY",
+  "symbol": "ENJOY",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqqq5y5sfq55lqlw8e9csytyaelnu554ay3sk4ez03vzx2f2l054cgfa39as",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x2729865041ece8559a118e8c0e7886f90941b0a7090143a545103044001d78a8"
+  },
+  "typeHash": "0x75440339f7f56a3f68e8cc277c3622f4902ca6d02b24e1f1b75e61a09c3b1e06",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

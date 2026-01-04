@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "XTTS1",
+  "symbol": "XTTS1",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qsessjl3nhcg9c3fm4vqmd3wdhxr3exzcwxm8x3mgvs47w89u2kavqqqqqqcjdgm4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa3f2b040e3f0036c5063f11df13c90bbe2acb7ef17d54ac7b4feb433850f41ec"
+  },
+  "typeHash": "0xe18b1af1799ffb511b719cc339d17ae3a4660a8e0f59122afd1bd133fcc37fd9",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "XToken UDT",
+  "symbol": "XTOKEN",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xc70047bff0740496912d78ddbacd18ce65a9539dda3045ebdceb606777f3fd15"
+  },
+  "typeHash": "0xf105d88734994dac81653b925b290e302289a8827d2b913d19357937d25d7ac9",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

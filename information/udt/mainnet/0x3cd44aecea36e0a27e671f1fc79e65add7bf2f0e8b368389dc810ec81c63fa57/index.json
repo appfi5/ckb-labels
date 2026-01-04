@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ccBTC",
+  "symbol": "BTC",
+  "icon": "logo.png",
+  "decimal": 8,
+  "tags": [
+    "rgb++",
+    "layer-2-asset"
+  ],
+  "manager": "ckb1qzdcr9un5ezx8tkh03s46m9jymh22jruelq8svzr5krj2nx69dhjvqgx6gsml975rhjhy23mjnlg227kgskgycpsqqnr3s4r",
+  "type": {
+    "codeHash": "0x092c2c4a26ea475a8e860c29cf00502103add677705e2ccd8d6fe5af3caa5ae3",
+    "hashType": "type",
+    "args": "0x68e64ba4b0daeeec45c1f983d6d574fca370442cafb805bc4265ef74870a4ac8"
+  },
+  "typeHash": "0x3cd44aecea36e0a27e671f1fc79e65add7bf2f0e8b368389dc810ec81c63fa57",
+  "description": "Cross-Chain Tokens (ccTokens) are the tokens backed 1:1 with native assets like BTC. All ccTokens’ reserves are safeguarded by qualified third-party custodians. ",
+  "udtType": "xudt_compatible",
+  "published": true,
+  "email": "alice.du@mycactus.com",
+  "famous": true,
+  "operatorWebsite": "https://www.crosschain.network/"
+}

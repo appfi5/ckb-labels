@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "33111",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgph8hsdk43vcaxg9wlze2mc2e940cfxtz3qq93ah8v",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2e0aa4bf9ba769fefe3ccac779fa8823ba398ab7fd037e212a0792fe620c5f64"
+  },
+  "typeHash": "0x783d8abdf52c8902898d59720f0e1a427a32f9aeefce1f2a743c763113eeaa3a",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

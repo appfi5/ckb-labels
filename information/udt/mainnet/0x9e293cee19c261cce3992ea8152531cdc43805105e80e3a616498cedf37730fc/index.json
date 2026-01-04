@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BAILOUT",
+  "symbol": "BAILOUT",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkfx4xvmeayj2xsk82zksr5ustpkx62jeu9etf9ckculrhmhy2u55qqqqqqz9jgvr",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x723f7503407397d0a05d389b2c8dfc30c56572a6d31ce7d8a27b09fc387cd2c4"
+  },
+  "typeHash": "0x9e293cee19c261cce3992ea8152531cdc43805105e80e3a616498cedf37730fc",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

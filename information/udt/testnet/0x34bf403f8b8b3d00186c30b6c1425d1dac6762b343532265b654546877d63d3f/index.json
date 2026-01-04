@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "COCKbyte",
+  "symbol": "COCKb",
+  "icon": "logo.png",
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqsx9jvu98urepwlwd4nkdz6ehxfy772je6k773dcannrpk9cae5mc9szxa3",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x5834ab27cbf2291215ff2b85b3ee60df930f0dcd7b44a8890efd3a6d3d1a3141"
+  },
+  "typeHash": "0x34bf403f8b8b3d00186c30b6c1425d1dac6762b343532265b654546877d63d3f",
+  "description": "COCKBytes much better than ckb ",
+  "udtType": "xudt",
+  "published": true,
+  "email": "digibytedude@gmail.com",
+  "famous": false,
+  "operatorWebsite": "x.com"
+}

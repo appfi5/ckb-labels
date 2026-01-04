@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Silenceport",
+  "symbol": "PORT",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8jwadlk257kknxjg3rtxp725xkxq4dvlcxanune",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb0bfea3022e73877176d2599e050d35948fb53ca28b4d932e25551e182334798"
+  },
+  "typeHash": "0x12645a9aa3d48013a4ebf364a892bbe446e0af2862313f62e89ad37d56cec55f",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

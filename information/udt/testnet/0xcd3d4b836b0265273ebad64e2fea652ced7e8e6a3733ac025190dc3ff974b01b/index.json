@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "cctm",
+  "symbol": "cctm",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgpqqqqpkk8zgw5chx563gy3sf0c34thdmw29p36erakkalja408y9c22dql8fk3v",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xf9db741d577da30f525d67d0f9dd444790cf4b09efbc99a9c5367918b3a1d7d8"
+  },
+  "typeHash": "0xcd3d4b836b0265273ebad64e2fea652ced7e8e6a3733ac025190dc3ff974b01b",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

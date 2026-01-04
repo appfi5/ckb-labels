@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Betacoin",
+  "symbol": "BETA",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvaqnmu9tgdthz8q4japx4qcmg7l2nwpxs6f4c6p",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x03c59f13ef5a394a7f8f722674146e6eccaba443a192b1dc2361e0a481c39267b6"
+  },
+  "typeHash": "0xdcfa2292466ba30d565d03f32c4fe6f355c80d5af7934b9c83966d029c16f863",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

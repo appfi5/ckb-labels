@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "龙年大吉",
+  "symbol": "LONG",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq84jvusvtu44ppwjkyffn4490qxdmpccv58spnk6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x4752f7bd3300d8ead5b99632eedf4018cea8aec575189cdba6c0834a43a56c0a"
+  },
+  "typeHash": "0x9ff04905956180063c781119acf2c029a7247b19d46b48dcdb8244536fd008ff",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

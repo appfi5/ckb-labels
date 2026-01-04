@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-SATOSHI•NAKAMOTO",
+  "symbol": "R-SATOSHI•NAKAMOTO",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qfdchesktvfn5glut3ppf45ha7j83ekvrpcxscrqvps8geryvma307",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xbbd97b946cbf63fd197f0a84743ccc1cce9dec14c40253160991632c2016def3"
+  },
+  "typeHash": "0x525a045ace2af779bc2c99b740123bccbd7112cd8f0377b255190e86520926f6",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

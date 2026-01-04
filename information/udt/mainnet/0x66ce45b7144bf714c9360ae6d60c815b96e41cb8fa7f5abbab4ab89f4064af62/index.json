@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "monk",
+  "symbol": "Ba1+",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqg2qqqqp2j0jlv34vggpchs486yt5hmfayphw0807rm5ej5vhuqjsv3q3szelelvg",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x6bacb3f06e749730088dcc41c286683fafa5b3f958f4a95e1b26f9e64f9698aa"
+  },
+  "typeHash": "0x66ce45b7144bf714c9360ae6d60c815b96e41cb8fa7f5abbab4ab89f4064af62",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

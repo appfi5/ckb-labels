@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "NICE",
+  "symbol": "NICE",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqc3l0fhfpaf8k9w25ma896d6wfaevj9pgjyvmcanspx2z8g8hjjwz8twlk",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xdae74cee9cd7ef2f66c822c74b7629cd774880be6ae6082cc8ef173206d9cab8"
+  },
+  "typeHash": "0x165f34b3e8f6f5cb9674a8e1a29da244a5c6782c6bd8ec8014cd81b94d6842e4",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

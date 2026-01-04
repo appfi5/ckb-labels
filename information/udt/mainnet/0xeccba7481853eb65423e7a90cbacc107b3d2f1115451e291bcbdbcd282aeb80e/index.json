@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "MSTR",
+  "symbol": "MSTR",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qspw90c3688kx93dr2tu8g77dp3f4a0cp4f3a2tef4fgu0ne4rquuqqqqqqty0mak",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xa40a4abe34915f6c2436553fb949ad7d125123fb87ead79235ce34550e8bb3e2"
+  },
+  "typeHash": "0xeccba7481853eb65423e7a90cbacc107b3d2f1115451e291bcbdbcd282aeb80e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

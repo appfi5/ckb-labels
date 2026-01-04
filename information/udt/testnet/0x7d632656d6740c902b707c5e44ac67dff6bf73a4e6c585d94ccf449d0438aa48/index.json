@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DETH",
+  "symbol": "DETH",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkzxpeql5apqkvv9zm6dhg5kmcl42jnwtws82q48qwgp253cls4ugqqqqqquhd4g3",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x6bbd133bb5529d8c87259f336b79282a99d7b6fb94071cf9d4f7866f31c1a813"
+  },
+  "typeHash": "0x7d632656d6740c902b707c5e44ac67dff6bf73a4e6c585d94ccf449d0438aa48",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

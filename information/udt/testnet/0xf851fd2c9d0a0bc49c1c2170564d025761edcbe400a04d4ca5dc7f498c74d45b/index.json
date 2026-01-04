@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TTKC",
+  "symbol": "TTKC",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5g4qs5k3pf4vpsymftzplyfeqapadtrznn6syuacj6edx9gtpjn5qqqqqq6rj5es",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xc92bfda732d71c8bdf8218e59e6fa71f7c48528e707a170ca0bebb2dd5f1437a"
+  },
+  "typeHash": "0xf851fd2c9d0a0bc49c1c2170564d025761edcbe400a04d4ca5dc7f498c74d45b",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

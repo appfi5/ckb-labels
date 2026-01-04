@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "MAKE MORE",
+  "symbol": "MORE",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8r4dy5qu6p9szw8w7qenjr6t9dunx3dav52u69u",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x58f68e89caead73e6700df4b6d83befcfc4248cf7fb53665daf0026b20fab139"
+  },
+  "typeHash": "0xebf13e37e7d6dfb13df6ff8b95609051f85a54b844651306d4b1d691e666a996",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

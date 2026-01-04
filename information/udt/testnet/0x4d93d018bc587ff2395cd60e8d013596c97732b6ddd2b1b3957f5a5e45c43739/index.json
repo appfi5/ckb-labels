@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TTK1223",
+  "symbol": "TTK1223",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q56xap0umxf4a2gq8g722s3cuacsu7m29laj3ak3u5plwk4uy3yzvqqqqqq9vscxj",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa1b4958f6eb5e0d14b8db636a210c11f0b8fb9ce38eb89e4ae16a6b3b6ae602c"
+  },
+  "typeHash": "0x4d93d018bc587ff2395cd60e8d013596c97732b6ddd2b1b3957f5a5e45c43739",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

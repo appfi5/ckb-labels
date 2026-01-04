@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "sdf",
+  "symbol": "aaa",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyu4s03urlfnt8ds3s07whl3rmrw590hkcvnzxrx",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2e01d39d9073e0b09e8424a7f66bce2ebb90557856da7631038594c6ab352b27"
+  },
+  "typeHash": "0x2767a6639f71c796a4ba5f9219b1535e323fc0d7b99d5d86b77fb3b1ef34c965",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

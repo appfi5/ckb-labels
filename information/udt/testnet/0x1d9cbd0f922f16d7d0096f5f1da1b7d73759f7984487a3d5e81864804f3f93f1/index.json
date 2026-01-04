@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Mintwave",
+  "symbol": "MINTWAVE",
+  "icon": null,
+  "decimal": 6,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhjxqccucmpgfllwqtxgn4mcm4jrdenqxrscwzhznztm848adaz4uqqqqqq2y89w4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x73c6739739174c745e6a5a272c2983cfead48e0e5947f0393a6beb08e5fa4ef9"
+  },
+  "typeHash": "0x1d9cbd0f922f16d7d0096f5f1da1b7d73759f7984487a3d5e81864804f3f93f1",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

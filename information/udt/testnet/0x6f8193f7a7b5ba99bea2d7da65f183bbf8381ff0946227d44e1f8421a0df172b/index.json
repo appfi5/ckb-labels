@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Retest",
+  "symbol": "CCC",
+  "icon": null,
+  "decimal": 1,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3g5rh02t7fqdmrcka32zqyrnsczvwzr6cumxc3dp2xcj40jwsa45qqqqqqf7ez4d",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd3241f4cbe76488f63512439cb844ae994df4fdc4a1d270918bbbbaa07f4d254"
+  },
+  "typeHash": "0x6f8193f7a7b5ba99bea2d7da65f183bbf8381ff0946227d44e1f8421a0df172b",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

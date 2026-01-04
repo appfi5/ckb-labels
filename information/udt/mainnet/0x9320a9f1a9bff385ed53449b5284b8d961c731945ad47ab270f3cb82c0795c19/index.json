@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BITCAT",
+  "symbol": "BITCAT",
+  "icon": "logo.jpeg",
+  "decimal": 8,
+  "tags": [
+    "supply-limited",
+    "rgb++"
+  ],
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q4nxqd8jkut2pavag09ff7t7z6s4xl2kp0ph0uwkqmjmnyr97h6nvqqqqqqszw94u",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x8b15a621bc7f91cfebc4e37e66fbe97ddee269694559a1d37eac9dfe06480721"
+  },
+  "typeHash": "0x9320a9f1a9bff385ed53449b5284b8d961c731945ad47ab270f3cb82c0795c19",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "chenyu@magickbase.com",
+  "famous": true,
+  "operatorWebsite": "https://www.bitcatcoin.org/"
+}

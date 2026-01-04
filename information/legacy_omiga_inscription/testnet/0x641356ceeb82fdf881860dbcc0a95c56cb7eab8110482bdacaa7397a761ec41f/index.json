@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "YUY Inscription",
+  "symbol": "YUYNB",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf9umzklmetha4et0ndxuwj7x3n93jf88sqws3a7",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2aea9026908df4fb546c462db9eb876e2823555d544ed564ae3136b4cb842536"
+  },
+  "typeHash": "0x641356ceeb82fdf881860dbcc0a95c56cb7eab8110482bdacaa7397a761ec41f",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

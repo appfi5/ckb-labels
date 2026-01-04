@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Bome",
+  "symbol": "Bome",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqpzy8nwrv8u78vvaky3727c7dvp6ghkt8kduga9p8hu79nrfevxsrwap3lx",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xdc2734f6b47c972eddaa1f8ce6bf6ecb72ff89cbc70cdbb8dc6efd58cc362f90"
+  },
+  "typeHash": "0xa4a0a094c469f5d574cfe0c17cc3fee1cdcdec11a32921f4626beec8e422a844",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

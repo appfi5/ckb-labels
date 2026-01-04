@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "test-on-app",
+  "symbol": "tapp",
+  "icon": "",
+  "decimal": 6,
+  "tags": null,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xea1332badb91f6805e4c69344216ce7a79a14e8a5065f63fbe33e0c108ca9c9e"
+  },
+  "typeHash": "0x3365fb1d7f1709e9c07e9530250ca35abbe69be007bb66d003421ffa98cb06b0",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

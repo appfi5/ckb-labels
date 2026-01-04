@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BTC10",
+  "symbol": "BTC10",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqpucgs8uptmuykfmer9fd7wtd5nmw5uqrqn997ys4ask8l7jgw0hsghrxjw",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xf2bf8bd959c1f8ab7d33c3e13b7aa98eddfeecb5b4b3daaf505b9e66d63b9fff"
+  },
+  "typeHash": "0x2e5b4e17580c6b730e74c375eab17ff1cced09ef395469e5f997e8992be18699",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

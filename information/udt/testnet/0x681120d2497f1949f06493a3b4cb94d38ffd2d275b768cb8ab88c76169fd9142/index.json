@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "LTO",
+  "symbol": "LTO",
+  "icon": "logo.jpeg",
+  "decimal": 6,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q375c98gsp3h3ypva256ydgx6azxprx5g89sueznckgrj9dhfszq5qqqqqqz3rxw0",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xbdc8d51cb7faa33b34631dba67109cc7a6dc0528e690880dd0ce7dbc548d74ab"
+  },
+  "typeHash": "0x681120d2497f1949f06493a3b4cb94d38ffd2d275b768cb8ab88c76169fd9142",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "dev@rivtower.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

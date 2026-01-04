@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "zzdzz",
+  "symbol": "zzzz",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqggqqqqplam2kh9ld5mp7l99hmre4ycwfcwfllzvmdhgem0cxcv78sk8flnhaufngckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqggqqqqplam2kh9ld5mp7l99hmre4ycwfcwfllzvmdhgem0cxcv78sk8flnhaufng",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x8ee5dd213f79a427bdcf538e7f01c89261a63e21c0c084e1d849e53f69ddf6cf"
+  },
+  "typeHash": "0xe20c58323634ca66268c0fcfa0954e907baad6fb92679c9c4f1d56413676ccd9",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

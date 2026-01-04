@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TTK0109",
+  "symbol": "TTK0109",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjjy2a6mzvd0egetq3fle4zlqwwuctrvs9v2280rf66v55vfxqr2uqqqqqqr2053k",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x59ac970373498311a4744401efd0c6b679ab7234545092d50beb57fb8b7b7f95"
+  },
+  "typeHash": "0x8675b151cc103836c4e28e5e4d5f499433382ef39ba934562c9ae1d314e8a78e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

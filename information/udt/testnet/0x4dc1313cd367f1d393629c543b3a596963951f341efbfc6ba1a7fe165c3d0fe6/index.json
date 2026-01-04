@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Hhh",
+  "symbol": "Hhh",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrqrstjpp88ldzj02djyrspxd5hz9u5q3es4wvffey5fac89uhk5xqkrwuknxl8dww6ewcwms93acfjy7d7efqmwevcamez487ujhvx0kqa6a7k5",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa76bff17984db2c02725c4b9bb9b01d9082cd6f9be334c58baa4a5103686e9d2"
+  },
+  "typeHash": "0x4dc1313cd367f1d393629c543b3a596963951f341efbfc6ba1a7fe165c3d0fe6",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Doge",
+  "symbol": "RGB++Doge",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2zpln7nt5tnm04wwncynqkj8ehnak97zqdw2raf",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2df3463e02fc4e732460ee33a7bec95d27878c6d3260cb56ae050a1f641dcdcc"
+  },
+  "typeHash": "0xf7f11de156a5eef6e8c765d73b8716001c7d55f68f8d31ad4b22494411b53972",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

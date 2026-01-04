@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "K",
+  "symbol": "K",
+  "icon": null,
+  "decimal": 4,
+  "tags": null,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqn7p28zayg2hf5jn2cq40hj223hfyr92z9ts5jdwhw5fdznls8znuwfqlh6",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x702a726f1c8b08e1bb05e2621d2a0d76ad2ad905f1fb33a31b2ae23aaf8f61f1"
+  },
+  "typeHash": "0xdc48acb261c21ca32584f4421c343315c4358932c9b8b2f576d257fed09d701d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "XUDT Test Token",
+  "symbol": "PDD",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwkemt4jmnuaw59lhjk8rr5h67n9x7mxqs9vklk9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x93b1223e6f56047275d559949950a06250c376dc3509c910ab6f8467839ba3d4"
+  },
+  "typeHash": "0xa3d0b6e165a598d417dfbdc9dd928bd45108b80a3e18b80d4a8c9e73628e8b7c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

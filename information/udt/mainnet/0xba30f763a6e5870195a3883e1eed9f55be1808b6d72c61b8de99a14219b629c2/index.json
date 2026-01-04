@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Tips",
+  "symbol": "Tips",
+  "icon": "logo.png",
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqp2eyxmrr66t0jvjjhucf9yhl2td8g5gf8ft6a8nd8jfzlqnz24euugrdpk",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x0cd0ee1d908e72c6130d502b49f812cc6bdaf571d235175a055fd6739596de2d"
+  },
+  "typeHash": "0xba30f763a6e5870195a3883e1eed9f55be1808b6d72c61b8de99a14219b629c2",
+  "description": "Tips",
+  "udtType": "xudt",
+  "published": true,
+  "email": "Mhank1028@gmail.com",
+  "famous": false,
+  "operatorWebsite": "https://explorer.nervos.org/xudt/0xba30f763a6e5870195a3883e1eed9f55be1808b6d72c61b8de99a14219b629c2"
+}

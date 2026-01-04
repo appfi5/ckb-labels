@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "cells",
+  "symbol": "CC",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyxq0ytvsem029tzngmdljm0amnmzfqaayege8dr",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x67ea58e62084d423ffd1ebdf8e68f5364bbfb928c56a94f9e12581a1526a1b04"
+  },
+  "typeHash": "0x45c25cdfec21f1302b462438218a086f6ea55d005c047d529612559ec9a7c11f",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

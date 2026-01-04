@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ffs",
+  "symbol": "ffs",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqkwjvyn3zjw7lacv7an2j4c2kvryafhss2rj0q25e5y4vrjvudls5k2utdp",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x60085801438e0f4326e9c0f1e81020cf4a56c2bbd503755ab12a3c4a70a0744e"
+  },
+  "typeHash": "0x45e69202ca8ee0879b85e49e87b99eab7dd5ee48368b13e0deb51de93ac62834",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

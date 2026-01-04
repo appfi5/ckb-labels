@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "One Piece",
+  "symbol": "NIKA",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqq2ttt6k57wx25cysyk3xh63rjumz96rfdwhxacsqhq9ygt8l4u257uvdh2",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xfeab6b963645b3be59ddba21d0c1cb394a8416740f4e13fc3c185ace5ce8754a"
+  },
+  "typeHash": "0x2b2540294539b44693ae6d10aeb7d21af5bb1a3fb00251272d3a3e42b629d6e8",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

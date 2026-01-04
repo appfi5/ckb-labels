@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TTA_Name",
+  "symbol": "TTA",
+  "icon": "",
+  "decimal": 0,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvg355hhlxmdqmqjc6wvysxpj4y9zpwszqp3wmdg",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0x81b6427f13e8302cbbcc4d663d6a8730381c718eb8a4a81740063dee6f3e533a"
+  },
+  "typeHash": "0xdc1bb25ee34a5e02913d1586e60ba19d8923b614f8cd9d837ab4042f0435a8cf",
+  "description": "",
+  "udtType": "sudt",
+  "published": true,
+  "email": "rauxbc@gmail.com",
+  "famous": false,
+  "operatorWebsite": "http://tta.com"
+}

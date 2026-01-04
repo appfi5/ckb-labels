@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "CBC",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxpjdfme3s6rnkhjufv5mfzj5ka9kqwtlv2mdkqh",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xf4622eecc3a35960c0ffb98f1d8ac31976663b9cc488ba4e7b491c86f68e9583"
+  },
+  "typeHash": "0xe05ef27055847f1428cbbe282714239bc7c0a19b0a83108a845509cfbd56b4ec",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ABC",
+  "symbol": "ABC",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q4jr3wzu47ct399qqcy9n6x2vs4nx4v834ugwwfjfncgfqwsk7ntvqqqqqqsg0gnv",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xc8dad273c2551fcabe9a9a2840daa7a2d858b7b591f1a666596a8e2571da0d7a"
+  },
+  "typeHash": "0xc6c701cc09545cff87294c900f8a8d5e5ca02ab4ab6fa407c3338042df03ec0a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

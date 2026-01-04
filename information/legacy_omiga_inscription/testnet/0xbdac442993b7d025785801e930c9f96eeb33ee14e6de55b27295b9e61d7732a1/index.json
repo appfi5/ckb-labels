@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "LONGIII",
+  "symbol": "LONGIII",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy8rglnydeu8ca8x97v8lmcjeay92c3alyjuren6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xcd50c262d92180f1cf86c62f68b4797f0099464337d33ef69eddfd02db3ec15b"
+  },
+  "typeHash": "0xbdac442993b7d025785801e930c9f96eeb33ee14e6de55b27295b9e61d7732a1",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

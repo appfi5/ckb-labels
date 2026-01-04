@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "NevDEX Token",
+  "symbol": "NDX",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgph3cad7fngrx0enhuf056yq4p0ahzv9hvqq3sqqht",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xdf559b06fcd5eb5c7e8448f15713116de58a4ac751abb1cdd97f19c59178ad69"
+  },
+  "typeHash": "0x6302bef07a94eb90607c1beec104dacf536399501c33d93f4f8b0b1df9923765",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DETA",
+  "symbol": "DETA",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qs5hyypn5wxryrvxl7gj7guyv8qw2ft3cmf25qsfmdkqj0za37pxgqqqqqqll67xy",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x41fb0db5f25d4db0a128643b3d4d8471cb7192ca8e31da057d662973303183e5"
+  },
+  "typeHash": "0x8d1693ae7dbb7399dd21d01c9c92b381bff439630846920e67ee8042a61698b0",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DZ10",
+  "symbol": "DZ10",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqqujkmalcsxfwkhx9nfxeecmsutehh9j5wu77xtcv2mz6prqgatgjkw69h9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x57db482d22e3859e26e3b997895448e076c1a85382d29fd29fcc924b69c47363"
+  },
+  "typeHash": "0xffb68e75ab04270c4fbe223b978cdf28516137fb5f9074266cb9f0e43d194cb0",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

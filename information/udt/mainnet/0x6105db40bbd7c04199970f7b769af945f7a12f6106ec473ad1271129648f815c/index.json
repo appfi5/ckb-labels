@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Fiber",
+  "symbol": "FIBER",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0avpnfastsuwlf2lxumgs9cug9079z7mc25e7ra",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xa0320d60d518fc6d5b4aebf5dcb8888cba4d3f836d1a813524c11d7d7382d110"
+  },
+  "typeHash": "0x6105db40bbd7c04199970f7b769af945f7a12f6106ec473ad1271129648f815c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

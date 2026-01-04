@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Joy",
+  "symbol": "JOYID",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq85usztfzsp6uxkhpxffzspeduhyll88fvh7mm59",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x76264350b6bb4ce748ac74ca407ab6ca8af68bf5e750912f7ceea0017c6724df"
+  },
+  "typeHash": "0x3bf039d7a930a2562c828d1410ae16cbcd1c7b82aad990b0429ef38ef10b7a7b",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

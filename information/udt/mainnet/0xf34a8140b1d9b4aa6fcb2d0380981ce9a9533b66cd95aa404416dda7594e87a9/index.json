@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "leafstar10",
+  "symbol": "HuHub",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqq6wk6qd8yqhtlglhjnn55hvwvqrl38le8xnq0p6ulz2qcxuy3vjdljt3rn",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x1f7cea81413a6c76f4b6dc3fb36ba4445dc0f9e7c043ed50cd133ab25be4f63a"
+  },
+  "typeHash": "0xf34a8140b1d9b4aa6fcb2d0380981ce9a9533b66cd95aa404416dda7594e87a9",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

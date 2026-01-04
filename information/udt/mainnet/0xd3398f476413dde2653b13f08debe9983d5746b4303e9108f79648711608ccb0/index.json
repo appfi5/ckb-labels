@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGBCAT",
+  "symbol": "CAT++",
+  "icon": "logo.png",
+  "decimal": 8,
+  "tags": [
+    "rgb++",
+    "layer-2-asset"
+  ],
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2nen92swwc5nc6f43u88nt0ftjgs5fregffvunq",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x26f72274077d39aca09f75e09e41ff9daa67c1bf59d30d19e1f52d3fc226209b"
+  },
+  "typeHash": "0xd3398f476413dde2653b13f08debe9983d5746b4303e9108f79648711608ccb0",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "chenyu@magickbase.com",
+  "famous": true,
+  "operatorWebsite": "https://utxoswap.xyz/swap/CKB/0xd3398f476413dde2653b13f08debe9983d5746b4303e9108f79648711608ccb0"
+}

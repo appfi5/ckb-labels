@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "XUDT Test Token",
+  "symbol": "UJJ",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgvrmcvdtakug97fef3ttw0v2eldfg6lkq2e8l9p",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xdec25e81ad1d5b909926265b0cdf404e270250b9885d436852b942d56d06be38"
+  },
+  "typeHash": "0x9081ad17ff19fde25cf4aaa3424e769afb016037f0f0bf79d0e2dbee303a061c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "I•NEED•TEST•RUNES",
+  "symbol": "ᚱ",
+  "icon": null,
+  "decimal": 2,
+  "tags": null,
+  "manager": "ckt1qqcyvyzy40qa0ee42uzg2p6lw7vmrdjjtqtpg3avg84g3c9c8n8usqv26hcmly85jjv8r3almsl5thm5n9y2lrpjx5urgvenxvarxwglscysy",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x717b8cdfbf574dff73615cef1346c488774becb1eddea9250115da43185a697d"
+  },
+  "typeHash": "0x683df8751d1322377026361f330345a8adf8921c48b90ed3049aa7997f4e5ba8",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

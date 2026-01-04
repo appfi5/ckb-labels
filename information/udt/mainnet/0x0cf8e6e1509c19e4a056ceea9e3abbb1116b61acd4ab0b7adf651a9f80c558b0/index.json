@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TEST_TRC20_JumpY",
+  "symbol": "TEST",
+  "icon": null,
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqqus4jgpujjhdayn5p8ettwdu9k62kg5zrs523ygdkky77vq2zkwwu6ulds",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xe5bf6409179f593b582e3cf78f99f8b3143b8b7746658f56b0cbbf80eb05f518"
+  },
+  "typeHash": "0x0cf8e6e1509c19e4a056ceea9e3abbb1116b61acd4ab0b7adf651a9f80c558b0",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

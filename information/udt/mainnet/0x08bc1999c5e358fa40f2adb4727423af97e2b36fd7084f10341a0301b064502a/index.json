@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SEOUL",
+  "symbol": "SEOUL",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqzuynfaa3v36f7hv7grwvf8vlkgsdq3ve3d3dx57haw7wt40l845wg0fq7",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xfd87fd9fe3cd776bfe66f5c68e925e365f950a5715ebccbd7ea13b69d97d207d"
+  },
+  "typeHash": "0x08bc1999c5e358fa40f2adb4727423af97e2b36fd7084f10341a0301b064502a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

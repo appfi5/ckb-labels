@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Kintjudd",
+  "symbol": "KJC",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq90qkrdqe86rte2q08pz5gcl9kdh7kqut50v9cr6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x50e3b0923b3490b200d92a82b250e415dfc3c9154de4d3f998460ee8585ea0d9"
+  },
+  "typeHash": "0xc5fe79fbb43296660b521087661c141ac40f2343816b2ee73299e8d46eede9a9",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "STXO",
+  "symbol": "STXO",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqq9kjm8sa2llercg566cxvmufxr4dlymk63cgn2wmv4hrjekk3djnw2ws59",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x8d6aabaa66dc8e68b0a13e66cb89062cb41234a72d84741affec335445760f4f"
+  },
+  "typeHash": "0x69a724adfa7cacf6aed333953b65e2a6e3a64f755330c2e9580a1f4f7c52b8da",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

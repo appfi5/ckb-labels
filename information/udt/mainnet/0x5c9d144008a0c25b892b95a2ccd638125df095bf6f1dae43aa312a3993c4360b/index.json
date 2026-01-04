@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SVP++_SRC20_LeapX",
+  "symbol": "SVP++",
+  "icon": null,
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqq8v5fqvfmfseejgvt9p3n8envvj253l264k9uxqj8m2u8r2d8s643rc5x7",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x3eb6acc4b1e1db563e18be16fb11d64f1274ae77f55adf48ef4e25efee1a8ae8"
+  },
+  "typeHash": "0x5c9d144008a0c25b892b95a2ccd638125df095bf6f1dae43aa312a3993c4360b",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

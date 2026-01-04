@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "USDC",
+  "symbol": "USDC",
+  "icon": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=002",
+  "decimal": 6,
+  "tags": null,
+  "manager": "ckb1qjfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjhcqqqqpqqqqqqcqqqqqxyqqqqx9l6dpjrvlncdcsgv3fwch68xe5segdg9zdaxxxwtum0dtvmlp35qj5qqqqqc8ssfsvgurvwfex93nvv338p3rxdnrx9jrzw2yx3snyefeg43rqc69xvmrqdn9gg6rs9clmyf",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x5c4ac961a2428137f27271cf2af205e5c55156d26d9ac285ed3170e8c4cc1501"
+  },
+  "typeHash": "0x797bfd0b7b883bc9dba43678e285999507c6d0b971a2740c76623f70636f4080",
+  "description": null,
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": true,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Engine Wealth",
+  "symbol": "EGW",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq85je0veqtjngw457f86g5elv203rfcn8yvusq0k",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x05a10c7513eed50fd2eca5f51ad1c121bfc2ba40006e15a10f806445f74f2dd3"
+  },
+  "typeHash": "0x8c8c0b69e114ac15c3d08e75910a35c5618b54ca420d84e11ea09728e7e3b6b5",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BASE",
+  "symbol": "BASE",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqq78gzqc0sw0l9zwjtfr05fxy5we6kclyveyn8mnrjn3y6st0pwesfcufd",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x4ff847aa60e66c7e5f9cd3264b51685a8999b23e14d6c195cf1a8a74b96693ab"
+  },
+  "typeHash": "0x13d177dfaa8056094ac90e3c923d0ad856eca97a17b9940373ea4e6f4fa1a0a5",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

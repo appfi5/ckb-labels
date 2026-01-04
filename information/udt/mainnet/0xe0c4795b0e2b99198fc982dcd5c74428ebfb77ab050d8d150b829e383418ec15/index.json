@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGBPP Eco Token",
+  "symbol": "RET",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqqsy9s2e6xws97expfn0wtfttp0uwq7zr4hw6rr44fc4tkn67c5wysp6905",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x069dd5704cdb664cfedf8515304a9d36aae105d914500983fa645e9447b8d65b"
+  },
+  "typeHash": "0xe0c4795b0e2b99198fc982dcd5c74428ebfb77ab050d8d150b829e383418ec15",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

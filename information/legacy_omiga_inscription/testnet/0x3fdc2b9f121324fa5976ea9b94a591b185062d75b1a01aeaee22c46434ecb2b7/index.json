@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BTC+ETH=CKB",
+  "symbol": "BTCETH",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8gc5rx883men6wspkpy2g5yf2zcfr7gfuvacff2",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2d9b9f7c396a718cfdd6927a833192faf33f9b3d4a49b742e0dc15019e21cf79"
+  },
+  "typeHash": "0x3fdc2b9f121324fa5976ea9b94a591b185062d75b1a01aeaee22c46434ecb2b7",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

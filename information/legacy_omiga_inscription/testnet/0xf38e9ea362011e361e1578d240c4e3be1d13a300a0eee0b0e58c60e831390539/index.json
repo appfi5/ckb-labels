@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Omega UD",
+  "symbol": "UD",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy6ynuzsdrdd5fkrdsntfgt503jjxppzvg3mjgtr",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xae67945181ef9419fcae5357670b30c59afcef94689e19b1bfc4ca5ef72cdb45"
+  },
+  "typeHash": "0xf38e9ea362011e361e1578d240c4e3be1d13a300a0eee0b0e58c60e831390539",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

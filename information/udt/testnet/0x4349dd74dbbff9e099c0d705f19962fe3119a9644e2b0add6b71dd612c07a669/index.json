@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "YHTS",
+  "symbol": "YHTS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq22jcrtfkf6s2e4dxn3nzpcxpemr7wpu9qapm2en",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa8b341695efbd0fdfa2621e3e351f8055535f17ea7d7a7d3ab8ac46a8db7ee5c"
+  },
+  "typeHash": "0x4349dd74dbbff9e099c0d705f19962fe3119a9644e2b0add6b71dd612c07a669",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

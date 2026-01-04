@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Kdkdj",
+  "symbol": "DKDJ",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qn48wdet96v6ka4jxv5jw4jqu7dakeupwf5fpqgf7cjma72c5vtssqqqqqq78s2q4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x7e1a385d891e118a52d87a105fdda20396d5ad3151c4a6535727f59d8ced0f91"
+  },
+  "typeHash": "0x1c178fa9866ca43570fe8f36fc695a0e01c91cdbf49a256b69f6c44c42e30bca",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

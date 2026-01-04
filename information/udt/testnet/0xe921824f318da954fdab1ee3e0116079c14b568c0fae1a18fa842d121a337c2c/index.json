@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "e god",
+  "symbol": "EGOD",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgyqqqqpxadp60mtfp6juhqn00t5xk73ftwzupws3pz6u65fy32a97nqavy4y3za9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb2a3a38353f9d8d6b3605e829f6f3f0fcadd2b894b34c2bbc5ffefe300035bc2"
+  },
+  "typeHash": "0xe921824f318da954fdab1ee3e0116079c14b568c0fae1a18fa842d121a337c2c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

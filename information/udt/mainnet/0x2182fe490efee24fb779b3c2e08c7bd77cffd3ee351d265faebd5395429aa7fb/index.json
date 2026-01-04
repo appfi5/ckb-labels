@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Y",
+  "symbol": "Y",
+  "icon": null,
+  "decimal": 4,
+  "tags": null,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqngpfjtvnm9qf54lcmgny7vyk3jfdg2t6cc4cyk449achc0evwysg02rfjg",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x374f479c51920902299781ce552382b4cc90cffe7c02e1def781f84c6151a8b3"
+  },
+  "typeHash": "0x2182fe490efee24fb779b3c2e08c7bd77cffd3ee351d265faebd5395429aa7fb",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

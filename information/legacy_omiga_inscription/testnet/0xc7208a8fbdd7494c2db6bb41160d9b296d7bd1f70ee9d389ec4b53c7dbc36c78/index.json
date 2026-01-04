@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Test launchpad 3rd",
+  "symbol": "TESTLAUNCHPAD3",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9gtxvx297t0vdlc62dcfxv0tjmhhfumrsgqfew9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x9bf42688ee15c40e0bbf6286de221b0011caabe0c629bead78110a836cfcd398"
+  },
+  "typeHash": "0xc7208a8fbdd7494c2db6bb41160d9b296d7bd1f70ee9d389ec4b53c7dbc36c78",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

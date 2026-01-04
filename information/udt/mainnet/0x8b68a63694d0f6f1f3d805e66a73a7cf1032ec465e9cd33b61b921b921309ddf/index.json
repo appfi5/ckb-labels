@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-SATS•BITCOIN•RUNE",
+  "symbol": "R-SATS•BITCOIN•RUNE",
+  "icon": null,
+  "decimal": 0,
+  "tags": null,
+  "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qfdchesktvfn5glut3ppf45ha7j83ekvrpcx5enqd3s8gerjdfslm4ttn",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x793009edd08b8d867564bfe8d9df66668f132074b44513209001bd1975ab1733"
+  },
+  "typeHash": "0x8b68a63694d0f6f1f3d805e66a73a7cf1032ec465e9cd33b61b921b921309ddf",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

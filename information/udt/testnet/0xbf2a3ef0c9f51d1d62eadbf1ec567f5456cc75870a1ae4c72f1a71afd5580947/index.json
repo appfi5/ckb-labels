@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SU QU",
+  "symbol": "SUQ",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5kk4eskwakrtx3wacvvp2h3sqkplx53f7d6acqpx3d235a9p889qqqqqqqyt0fyl",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x03dafcb070413692bcfa85685b0ac1d65c52a80fd40631732366c78b647b48b2"
+  },
+  "typeHash": "0xbf2a3ef0c9f51d1d62eadbf1ec567f5456cc75870a1ae4c72f1a71afd5580947",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

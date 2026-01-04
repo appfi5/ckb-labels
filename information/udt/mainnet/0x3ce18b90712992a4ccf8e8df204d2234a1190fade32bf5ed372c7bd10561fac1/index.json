@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGBStone",
+  "symbol": "STONE",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqp507z6cs8r3n9n5jma69j3n9z9n5mzm46pu2m0ejpkz4wvd4zzve74gq97",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x21ee5e9b53839abc6633c2ad6a034ba8c22f745fdc1090966a626e9d11b3cd11"
+  },
+  "typeHash": "0x3ce18b90712992a4ccf8e8df204d2234a1190fade32bf5ed372c7bd10561fac1",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

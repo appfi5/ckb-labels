@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BOOL-TEST",
+  "symbol": "TBOL",
+  "icon": null,
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckt1qpenukfkctnywuhlnx6ljhge56kwpkv5q8p8tgmpnvvg06c3lqte2qgjp9py7n6v942y2565q32yyn6v6fjrpf",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd3c99d78f70deb3f399580e4555f6c436e030d45125c2a785ad79508879a3fb4"
+  },
+  "typeHash": "0x1ea2ebbecdbc09836a42b90cfd0ac01e271d3cf1f660b9ce04361c8f8ce3c6d0",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

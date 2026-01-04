@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Binance USD",
+  "symbol": "43",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqypkqx2llypfkk95j65eguhflr9htpxtegp9rdm2",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x9d0154de1fdef451db00907e1a053aaac13b4c145c53415609bfa2d888a446e0"
+  },
+  "typeHash": "0x954de1a5a0755f5559393b2b6e90f5ec85190766232ceea94e55510c3fae8962",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

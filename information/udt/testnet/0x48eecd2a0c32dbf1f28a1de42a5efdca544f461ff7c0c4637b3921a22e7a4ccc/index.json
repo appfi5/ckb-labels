@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Test LANUCH Token",
+  "symbol": "LANUCH",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgama0dvs55zcq5tt8hwchtr4sdqldh78shhzmn9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x8bca676cac4bc57cdcbdd0938421093e6ec3c36d2cab7b5cf1eb1406e0718019"
+  },
+  "typeHash": "0x48eecd2a0c32dbf1f28a1de42a5efdca544f461ff7c0c4637b3921a22e7a4ccc",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

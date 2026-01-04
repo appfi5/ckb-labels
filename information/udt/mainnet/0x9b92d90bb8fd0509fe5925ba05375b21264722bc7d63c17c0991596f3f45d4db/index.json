@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Tek",
+  "symbol": "Tek",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjkaugsqa3d3wadrek43az5t7a7he7a5xurlqy4vkax0dyad7gvwqqqqqqq4vdz7z",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x76f257a4c7b0b05333088a17bd21cce5a5073d16bdd3f75d1492c29658c895bf"
+  },
+  "typeHash": "0x9b92d90bb8fd0509fe5925ba05375b21264722bc7d63c17c0991596f3f45d4db",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

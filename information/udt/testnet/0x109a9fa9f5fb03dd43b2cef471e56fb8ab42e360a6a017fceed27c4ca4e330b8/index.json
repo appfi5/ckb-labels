@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TEST-USDC1",
+  "symbol": "TEST-USDC1",
+  "icon": null,
+  "decimal": 6,
+  "tags": null,
+  "manager": "ckt1qqcyvyzy40qa0ee42uzg2p6lw7vmrdjjtqtpg3avg84g3c9c8n8usqdz740y9z9480zhphrtqdr68c2nls6tk67md43h80hm05pyzjptfmj4dxd8k0uj8cacxq4aeykx6jpjyh3yq5l7vsdr",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xc580c3470cbb899d53289c9fb24160082af5a270c9850916eb8f897c07fd8094"
+  },
+  "typeHash": "0x109a9fa9f5fb03dd43b2cef471e56fb8ab42e360a6a017fceed27c4ca4e330b8",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

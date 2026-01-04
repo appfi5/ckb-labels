@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "XUDT Test Token23",
+  "symbol": "XTT23",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdvgak96dj3sqs2j8dz2zh0t4858kqnuwcl7saeq",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x78f569b97d6a984edd734f3304bf3581d45b5be7338ebb7d840247aab72b896023"
+  },
+  "typeHash": "0xd9e5a7708f50120137fb1d408e55d32151e365ddc2d621ee8dc05aa5344a1b88",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

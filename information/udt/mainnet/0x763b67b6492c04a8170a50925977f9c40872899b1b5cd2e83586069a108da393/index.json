@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "YFI",
+  "symbol": "YFI",
+  "icon": "https://cryptologos.cc/logos/yearn-finance-yfi-logo.svg?v=013",
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqchlf5xgdn70phzppj99mzlgumxjr9p4q5fh5ccee0nda4dn0uxxsz2sqqqqrq7psvf3n2v3evvcrqsekxscrzc29gcmygv3jxppy2wzrxezkzvfkxcm5vdjpvsunxeg7fg6rf",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x7658a43a8ae5f3f9d24c2001815617a31c29a4131bf2d2a67a4006f553116e11"
+  },
+  "typeHash": "0x763b67b6492c04a8170a50925977f9c40872899b1b5cd2e83586069a108da393",
+  "description": null,
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": null
+}

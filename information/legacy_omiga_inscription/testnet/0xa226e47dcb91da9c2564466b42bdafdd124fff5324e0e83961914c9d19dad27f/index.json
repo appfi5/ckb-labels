@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKBees BEE Asset",
+  "symbol": "BEE",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqywtaxm2sxn64n0d3956nkqvg6pazacxfsurhq9t",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xfe6c0679a2f5dc6c5bf2c3033264e5ef6e7db22ed6600f4b39d30b864d2878bc"
+  },
+  "typeHash": "0xa226e47dcb91da9c2564466b42bdafdd124fff5324e0e83961914c9d19dad27f",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

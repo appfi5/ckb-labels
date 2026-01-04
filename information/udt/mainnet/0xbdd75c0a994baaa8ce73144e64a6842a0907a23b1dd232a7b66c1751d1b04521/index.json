@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Tianming",
+  "symbol": "Tianming",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qs8vdxnrskvmxt7zxjpen0daz5nu6vruevp2q7tlazjew08rrdar5qqqqqqngzqgv",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x606a497593c0804ba45c1083cc553c68cd7a496647ddccec4d79f5c8cf77abea"
+  },
+  "typeHash": "0xbdd75c0a994baaa8ce73144e64a6842a0907a23b1dd232a7b66c1751d1b04521",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

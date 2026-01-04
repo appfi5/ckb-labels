@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Ethscriptions",
+  "symbol": "ETHS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxx400vgr9p0ghnvqvtwnpar23xj4glk0v3c3s2s",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x8a2a53d15711e8dd4b7ec4d22c3d5cade5e16eed286034011df7e5c0e227cec8"
+  },
+  "typeHash": "0x3792054a9983df40cf04ffc79c8178d79d60e436571e62466bdfd189b00ecf77",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

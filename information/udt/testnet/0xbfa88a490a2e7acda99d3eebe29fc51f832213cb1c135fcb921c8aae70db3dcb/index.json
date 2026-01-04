@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TT8_Name",
+  "symbol": "TT8",
+  "icon": "",
+  "decimal": 0,
+  "tags": null,
+  "manager": null,
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0x9d2dab815b9158b2344827749d769fd66e2d3ebdfca32e5628ba0454651851f5"
+  },
+  "typeHash": "0xbfa88a490a2e7acda99d3eebe29fc51f832213cb1c135fcb921c8aae70db3dcb",
+  "description": "",
+  "udtType": "sudt",
+  "published": true,
+  "email": "rauxbc@gmail.com",
+  "famous": false,
+  "operatorWebsite": "http://tt8.com"
+}

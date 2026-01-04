@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "dragontest22",
+  "symbol": "dragontest22",
+  "icon": "",
+  "decimal": 2,
+  "tags": null,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqntwdxd27wtvmf2ja3hacfvzyf7zvvwzumeaq0ckraeqle5qd5sqgdvkxjd",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x5c5183be0ca0ebc0196ba97f6019f7877d35d1eb2462f567e88fef2193e5502c"
+  },
+  "typeHash": "0xb7926c07ac21b6b2d6a5c80d8248f70b194f79122996bce5662c4552e7d8e66b",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

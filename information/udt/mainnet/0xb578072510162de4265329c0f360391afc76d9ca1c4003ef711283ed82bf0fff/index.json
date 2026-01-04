@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "$UTXO",
+  "symbol": "$UTXO",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqpvtr7pt8qczpu2jr80zvjt7qwt7t2skf2crxayln7sq5c66cxxd39f4mm7",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x30d135b481d25064f3bb1958d4c653cf73eae4d807c70eb586a705d91aae2542"
+  },
+  "typeHash": "0xb578072510162de4265329c0f360391afc76d9ca1c4003ef711283ed82bf0fff",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

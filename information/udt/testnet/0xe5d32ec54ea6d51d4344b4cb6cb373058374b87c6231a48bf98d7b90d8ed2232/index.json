@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BTD",
+  "symbol": "BTD",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjqrmphd6tvumx0efqzw2v2gurk2y5d9a2cmzj8tf2t7q0thzk26cqqqqqqr2hamh",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x23f41d69a30f111eec3a863a54106a99b68452270f26e8a40f96345cb49f41e9"
+  },
+  "typeHash": "0xe5d32ec54ea6d51d4344b4cb6cb373058374b87c6231a48bf98d7b90d8ed2232",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

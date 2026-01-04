@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGB DEFI",
+  "symbol": "DEFI",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqpjacvymvy3pfx2aqeft9r9tyrve577pg9cwhasx7samk5l90f47rnw97kd",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x8b362520881c0faa6f46186726784a1d05b9c33aad24b13896102e45ed7e1f6e"
+  },
+  "typeHash": "0xce6719ac44ef446e38ef28431eb96a39c74e4478af162074ceb9cc94c65a340f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

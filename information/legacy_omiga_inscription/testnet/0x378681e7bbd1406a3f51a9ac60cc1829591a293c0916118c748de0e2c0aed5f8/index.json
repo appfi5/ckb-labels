@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Let's go",
+  "symbol": "LETSGO",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9gtxvx297t0vdlc62dcfxv0tjmhhfumrsgqfew9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xfac35841ce85926b97c9836ff5d35ecc0da456179448e732698426f6fe0297e3"
+  },
+  "typeHash": "0x378681e7bbd1406a3f51a9ac60cc1829591a293c0916118c748de0e2c0aed5f8",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

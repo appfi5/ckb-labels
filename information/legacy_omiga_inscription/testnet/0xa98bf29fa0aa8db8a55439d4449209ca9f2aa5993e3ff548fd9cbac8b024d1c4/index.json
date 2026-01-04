@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Poligon usdt",
+  "symbol": "KUSD",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxcj527edvt64rh8y3tgpzpykae30jtuwvttfvfl",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x84903b786a0a3cac9ea5e35ec47808250729218ba0649e48e8fbba4390fbde76"
+  },
+  "typeHash": "0xa98bf29fa0aa8db8a55439d4449209ca9f2aa5993e3ff548fd9cbac8b024d1c4",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

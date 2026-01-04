@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Nova",
+  "symbol": "NOVA",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqq4t6j58j3wyyvfnjqh86yy6cpd9hw3f4yzy36jdsa0ej8huqqqqqta3fnf",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x45df8a3400df3abc6a83cf84bf61328152d610ce67e17399f8fa51bd9f604095"
+  },
+  "typeHash": "0xfe2e1ffe5c0bac0d3835f7f0aab3c07ca0e0604efeaee7bfb0a5f8367e6adee6",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

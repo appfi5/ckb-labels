@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "gitt",
+  "symbol": "gitt",
+  "icon": null,
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckt1qpenukfkctnywuhlnx6ljhge56kwpkv5q8p8tgmpnvvg06c3lqte2qt8d968g6zxc03",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xbc28ec0e3235c8f3289e07db3f9a7cb1f99ea4f03b89e18866a6bb2a72b117b5"
+  },
+  "typeHash": "0x95dbcd4c20c3f290da9dc09d3c8b9987719aa9654c19a583b55d7dca2c21133e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

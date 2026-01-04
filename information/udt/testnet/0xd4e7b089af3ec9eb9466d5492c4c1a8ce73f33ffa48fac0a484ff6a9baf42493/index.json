@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CCCNB",
+  "symbol": "CCC",
+  "icon": null,
+  "decimal": 0,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjv3my5g80vd946vwym33zr5lc6f5pg97tc3cmf8svx6xyaxpd6a5qqqqqqk77d23",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x74fc0b7c0096c7cfd095674cdf8965c90c0c7b0cf6249e56f203292a8ac229bc"
+  },
+  "typeHash": "0xd4e7b089af3ec9eb9466d5492c4c1a8ce73f33ffa48fac0a484ff6a9baf42493",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

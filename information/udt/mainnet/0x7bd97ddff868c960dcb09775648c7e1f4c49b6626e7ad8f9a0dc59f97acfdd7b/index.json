@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "MASK",
+  "symbol": "MASK",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqq8lhmy6ke72nea3f47xdqceuud5qhva64pvmdkw60yanr2cph3s8nnpr3v",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x7910d46016471596876658c1d66b024806504036613ae1f0fed60e1f69c6337b"
+  },
+  "typeHash": "0x7bd97ddff868c960dcb09775648c7e1f4c49b6626e7ad8f9a0dc59f97acfdd7b",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

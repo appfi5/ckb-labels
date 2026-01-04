@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "LP-UTXOSwap V1",
+  "icon": "",
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qrgqep8saj8agswr30pls73hra28ry8jlnlc3ejzh3dl2ju7xxpjxqgqqyr6sq06fgujg46c4cggvaye624cq3hlev6u2asx",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x29273406698f36e9bdf46db404176859b0ba3a6bdf7025833f7fd3b49150609a00000040"
+  },
+  "typeHash": "0x17e3a05e0a33dd00eb601ee4f0115039168930a5ce98c5455e5be456e2ba2de8",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "Mhank1028@gmail.com",
+  "famous": false,
+  "operatorWebsite": "https://explorer.nervos.org"
+}

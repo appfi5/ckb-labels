@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "天安门",
+  "symbol": "8964",
+  "icon": null,
+  "decimal": 0,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqx89m8hgjxhw2u020gmlqc779as5y78fcvav0dpg",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb580c0e74e1f00bb7994e0f65f1e1ffdace67f1c1ec7c8d32a1a1fb340f488ce"
+  },
+  "typeHash": "0xacff04b5599b7edbfc3e9dfc0bf1c0df1e87858185c2b2bf94688f0ac01d6f16",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

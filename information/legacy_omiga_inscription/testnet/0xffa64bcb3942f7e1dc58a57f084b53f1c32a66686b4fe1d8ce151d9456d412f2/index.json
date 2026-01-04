@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Sammy USD",
+  "symbol": "SAMKX",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxlycpu9zj84vl53djqj47rr4ktpdfq45cuhwc5p",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x97717281b1c89ca195d2eff12c714635930c5f1de1996ba2bae99b339eb394cf"
+  },
+  "typeHash": "0xffa64bcb3942f7e1dc58a57f084b53f1c32a66686b4fe1d8ce151d9456d412f2",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

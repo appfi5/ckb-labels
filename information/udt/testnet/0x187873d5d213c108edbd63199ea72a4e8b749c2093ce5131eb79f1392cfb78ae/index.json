@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "doris",
+  "symbol": "DORS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2munhuh7c5s5szevpmwt5x0ulha6va9xcfqarye",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd907f8ed578f8dbae706fe043113331e829e1a60df07a907e7094120d9a0acdb"
+  },
+  "typeHash": "0x187873d5d213c108edbd63199ea72a4e8b749c2093ce5131eb79f1392cfb78ae",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

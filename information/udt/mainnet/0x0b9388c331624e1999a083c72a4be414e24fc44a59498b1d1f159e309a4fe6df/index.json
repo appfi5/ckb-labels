@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Cipher is an arrogant SB",
+  "symbol": "CKBSB",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqpezxw8kpp7qc6t0aua42g3y94jrh0l88repeyt9vw7s6aawq58ulav9pj4",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xe164f9d23e450d815c639d0699121bb3ae3e8b10863a006ee93f8e76c2fe5694"
+  },
+  "typeHash": "0x0b9388c331624e1999a083c72a4be414e24fc44a59498b1d1f159e309a4fe6df",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

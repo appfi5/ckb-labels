@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "LP-UTXOSwap V1",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgyl7dlxatt3h045mq6xl7ffj0er0ehet6kqq3kgvpp",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x69a316417d0006614d3fe0588473897ad7b52a91c1feecbbfaa5ccb78614963600000040"
+  },
+  "typeHash": "0x97c51ad0f64b1e533979a8ee6f33bbdb4223dc812260bed49c1d715fc57613ed",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

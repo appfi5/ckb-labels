@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "C++",
+  "symbol": "C--",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqddl3lp5zjmyl5trja9kv9r99rr38fredsw5xx4f",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x452fbf936b97213d1219a654e9674f4e782f4c69b409117a55e1f787f7ca0dd5"
+  },
+  "typeHash": "0xb6c2b4f26b3514d126b4d838d806376fca0d42f04c1d09b32bf42260c10b8b76",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

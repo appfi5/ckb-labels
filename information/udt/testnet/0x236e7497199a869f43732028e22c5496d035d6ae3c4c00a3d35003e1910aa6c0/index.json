@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ttke",
+  "symbol": "ttke",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q4rd7h5kf46z98q0hgj3lflutawpm94wzt7hjvcfumhl0tseplyt5qqqqqqagvtk4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1b785bfade7a1a6c7b1b135c45f2af36293ba8b0e40efb417b8207e061b98a1f"
+  },
+  "typeHash": "0x236e7497199a869f43732028e22c5496d035d6ae3c4c00a3d35003e1910aa6c0",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

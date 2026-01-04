@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TRY",
+  "symbol": "TRY++",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqd3hm4nsshqcnz63s5cw8cr3u7dpgdfp2c4rlapq",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xade36663e2c91c3f3a383fc7604ac3713d51e40b4804c4780b2a79565deb96f4"
+  },
+  "typeHash": "0xa340aba37594532bdfc863b4653bfd8faab25d986cc4586a20f6e9d2ac2ddb62",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

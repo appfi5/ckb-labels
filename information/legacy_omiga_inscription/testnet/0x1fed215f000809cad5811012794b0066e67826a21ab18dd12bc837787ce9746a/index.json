@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "QQOP",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxcqljg5dlmthxjjswlvkmzzuh3z8wyamgvuu8uc",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x80e44bb74236bbb2dc0cda60ad1454a809d53b3dbbbb83942cc12fa49b71e4e8"
+  },
+  "typeHash": "0x1fed215f000809cad5811012794b0066e67826a21ab18dd12bc837787ce9746a",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

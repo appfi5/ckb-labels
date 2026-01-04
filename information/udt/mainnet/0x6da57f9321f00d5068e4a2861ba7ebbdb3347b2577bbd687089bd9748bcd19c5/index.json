@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKBTC++  without c",
+  "symbol": "+KBT+",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqf828jhgjjsnmd809u6ljm9nvqn7qyua5wdrj33uasspcvq0zlmeu8jlcc",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x69cc2cd622419cac841cea56b7dfa0e8c587140c20d0fe7988a955235553e8a5"
+  },
+  "typeHash": "0x6da57f9321f00d5068e4a2861ba7ebbdb3347b2577bbd687089bd9748bcd19c5",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

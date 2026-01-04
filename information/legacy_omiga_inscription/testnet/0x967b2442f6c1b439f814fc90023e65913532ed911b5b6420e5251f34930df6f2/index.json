@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ckb   sb",
+  "symbol": "CKB   SB",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8azg3psuulv2xxcd0p26zz2m3ln4z3rmsy7cq3u",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x4d211eb443acb17d1042c5a02e3a0685f013766a409436b27e984802109ba5cb"
+  },
+  "typeHash": "0x967b2442f6c1b439f814fc90023e65913532ed911b5b6420e5251f34930df6f2",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

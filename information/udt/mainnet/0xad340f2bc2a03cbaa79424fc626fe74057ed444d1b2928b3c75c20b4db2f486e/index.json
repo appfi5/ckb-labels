@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Rune",
+  "symbol": "Rune",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgtqqqqptlyehj3r6u0nxet0ezhxjp4e0lwx769f76tdjnu9t3aqc3n07x650axr7",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x53dc7e14e549c5f840d1ccddd3aad5896ff92360f83bf3851fd106f045571da4"
+  },
+  "typeHash": "0xad340f2bc2a03cbaa79424fc626fe74057ed444d1b2928b3c75c20b4db2f486e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

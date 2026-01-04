@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DGS Coin",
+  "symbol": "DGS",
+  "icon": "logo.jpeg",
+  "decimal": 6,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qk3ejtajra9m57kvu62q33m2auq430ucsgllmuh20sgez8sewrgqgqqqqqqv70ehcckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qk3ejtajra9m57kvu62q33m2auq430ucsgllmuh20sgez8sewrgqgqqqqqqv70ehc",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x56eb6fbee112b65291548b8e053bc7b60d61a186f6f3e21533d7e4e2978e8506"
+  },
+  "typeHash": "0x03a3d5da914664bfa5f38f3da3ba12541303ce9c5f7f08fb8cd8744adfaa8444",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "dev@rivtower.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

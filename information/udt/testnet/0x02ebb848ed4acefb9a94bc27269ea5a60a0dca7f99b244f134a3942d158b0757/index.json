@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DETN",
+  "symbol": "DETN",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x0d2a8b3457fd44ac5e55069e3af1b5e961dd08437240bdf0513e03b3dd9c485f"
+  },
+  "typeHash": "0x02ebb848ed4acefb9a94bc27269ea5a60a0dca7f99b244f134a3942d158b0757",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

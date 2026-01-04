@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Eazybankz usd",
+  "symbol": "EZBZ",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxnfuxczqncd2e5xat8e25lxhzuukcr05uzrvl90",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2e2b6386319a58c03b514cbad30d630715505ada89486d46c7e00d82178b4372"
+  },
+  "typeHash": "0x8437d079a54b4de1107f7f3bd981388c0ff7fd46aa3c76dba62136199d8e1c69",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

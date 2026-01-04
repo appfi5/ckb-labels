@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "WUKONG",
+  "symbol": "WUKONG",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3t07hq42e37xq44qxjzcrdcq3fhww6h5422vskgypn62w2ah7x4vqqqqqqnk2mgf",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xeb8558ac47279bf22ead65f0a972ea777cef5db89528c55c2142e8965a41e459"
+  },
+  "typeHash": "0x4b121546f31338faa2f3190c1d4babbca94091917027c6fa49684e513e378ff7",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

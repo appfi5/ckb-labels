@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "WANJIACOIN",
+  "symbol": "WANJIA",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjlq8sv9tnu0grgen3qp269xydlz9kjywg5wpxsev0gva2pcdsqvcqqqqqqgewm8x",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x850bd65904b7811ff83492a81a29f12ac9f5ce3b80f48b9de04eb5fe9eb30e4c"
+  },
+  "typeHash": "0x48b30500677c96cbadfaaecdae164fb0cd0942dcce6bbb81d47565990aada029",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

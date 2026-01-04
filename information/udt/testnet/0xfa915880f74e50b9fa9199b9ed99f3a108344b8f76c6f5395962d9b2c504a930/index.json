@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TTK0116",
+  "symbol": "TTK0116",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qsf6fs04zjyv3kshc7f03lan46zu3nauugd3l92d6c5rv08slzvccqqqqqq9v8xpw",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x431c4a68c1f4d1344b3dd3d1d3e46f768e45b76212f9042d17fb1d007850ab0f"
+  },
+  "typeHash": "0xfa915880f74e50b9fa9199b9ed99f3a108344b8f76c6f5395962d9b2c504a930",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

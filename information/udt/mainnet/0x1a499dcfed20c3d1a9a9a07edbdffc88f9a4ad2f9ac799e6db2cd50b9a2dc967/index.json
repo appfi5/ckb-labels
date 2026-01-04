@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RGBR",
+  "symbol": "RGBR",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqpdapq6k302kdtegfkd4g3fe8c0rqqmmaf40q7wjn2f2qamjn8skcmyaqm9",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x1c36a94dcc4c0e98206943b0bae40e242c816b70633863731eef5f605d9a5abd"
+  },
+  "typeHash": "0x1a499dcfed20c3d1a9a9a07edbdffc88f9a4ad2f9ac799e6db2cd50b9a2dc967",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

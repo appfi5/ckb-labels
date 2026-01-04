@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "It's so over",
+  "symbol": "ITSOVER",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq84048fsptkqyrpmraejycjase5rl3ndfcxvjphj",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x9e28eeacaaf5df38ba50c6cff8c2ca82a20e13394db27fd995c64aa75cdd557b"
+  },
+  "typeHash": "0x5a993283173c11f09d3be20d0ecaf2bd0f86ddbd06ae71572b9035062e92cdac",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

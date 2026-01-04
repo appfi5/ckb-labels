@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Palm Wine Tapper",
+  "symbol": "JAND",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8znmr4nv0jx3c06kjh6usf44hvwrhlg5yfy6r69",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x36d585508e571b00f3812e66fd35b584d9a1cce29b1b3477a42998069569acc3"
+  },
+  "typeHash": "0x634637916bbbbf2bef846b4378c1dda22123c66ad1c7817204abdb53d7cf8416",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

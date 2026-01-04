@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "JAPAN",
+  "symbol": "JAPAN",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqq85t55qul9feyxz382mzsw4lw4x9vpqu6ayc6cgcu0tjcwta4gxjn0mdty",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xb0ac8ec64688850d779a6e2107f6c2c991740cddc5e2c169c82cc55285f6c9d0"
+  },
+  "typeHash": "0x21018efeb178896e95f7c12bbf660355dd14a3cf85f6f1b696e255a0b7f8a968",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

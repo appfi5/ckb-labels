@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schema.json",
+  "name": "STB",
+  "symbol": "STB",
+  "icon": "logo.png",
+  "decimal": 8,
+  "tags": [
+    "supply-limited",
+    "rgb++"
+  ],
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5sd9nm5h56cxd3nx6zt8wx5hqhuc5vulseje5z7vmqq2tdytct5sqqqqqqnzpy8u",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xd7b5e6117759193f963b77aa255416e080c20fa041cca521f0141e48f7904999"
+  },
+  "typeHash": "0x7aaab7f33ff85618e9b1d88f57dc5607554cfd5ae347f295b47bd1f16ae84a1a",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "chenyu@magickbase.com",
+  "famous": true,
+  "operatorWebsite": "https://www.stablepp.xyz/"
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "COMP",
+  "symbol": "COMP",
+  "icon": "https://cryptologos.cc/logos/compound-comp-logo.svg?v=013",
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqchlf5xgdn70phzppj99mzlgumxjr9p4q5fh5ccee0nda4dn0uxxsz2sqqqqrq7rrxqcx2wf5gd3rvd3jgven2v3sxgury3fkvc6nwvfhxgcngvpsx3qnwe3jxcurswqech6sv",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x82a6b63b13d9980c98b17810eb2599dc94c144c0ddd24fd24e8a7881d93323ff"
+  },
+  "typeHash": "0x3d3a84a2c2310c0ef024528e3dc7a17db77602ed3b08fb77d818df6023f5c783",
+  "description": null,
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": null
+}

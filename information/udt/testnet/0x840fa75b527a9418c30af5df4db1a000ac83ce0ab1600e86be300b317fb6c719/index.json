@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "egod 2",
+  "symbol": "Egod2",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqp6hdnmvtejm2n26x5p5pay4ktul0y49syk0q5t9lkh5fteq0yhd92gz66v",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x5a88469183ac33ede9a92d1008c29574a5ce79ed4776c26eda55920a53d8cf24"
+  },
+  "typeHash": "0x840fa75b527a9418c30af5df4db1a000ac83ce0ab1600e86be300b317fb6c719",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

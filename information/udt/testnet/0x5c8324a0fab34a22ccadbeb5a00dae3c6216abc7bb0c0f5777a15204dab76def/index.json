@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ABCD",
+  "symbol": "ABCD",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq25j93rnpwh90v4yr6m3d5t8k0cdl6glucqvgyw7",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb8fedf07542918f3ee7c7beaf73ae230b927c13dc4fd6fb75a58beefd81e6ccd"
+  },
+  "typeHash": "0x5c8324a0fab34a22ccadbeb5a00dae3c6216abc7bb0c0f5777a15204dab76def",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

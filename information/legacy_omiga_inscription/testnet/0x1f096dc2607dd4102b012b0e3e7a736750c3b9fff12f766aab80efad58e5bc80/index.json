@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "LONG Spring Festival II",
+  "symbol": "LONGS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy8rglnydeu8ca8x97v8lmcjeay92c3alyjuren6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x91d8d3b23c007977bece92ad77a803e20251d44693dd23df9841df8049cc2552"
+  },
+  "typeHash": "0x1f096dc2607dd4102b012b0e3e7a736750c3b9fff12f766aab80efad58e5bc80",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

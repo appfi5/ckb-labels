@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "F",
+  "symbol": "F",
+  "icon": null,
+  "decimal": 0,
+  "tags": null,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqntzkhan8vta08eu0vztusj96kf0lqzaqp9ddh22w7x2hxalhskaqctnly5",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x012243a7295ddab8ddd9c6be9974df846334802561b23709dfab4e854bf85c01"
+  },
+  "typeHash": "0x176f6c51064190aaa16382e9662937bbab3eeb7acdbaaa8e0f347a232113a3dc",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

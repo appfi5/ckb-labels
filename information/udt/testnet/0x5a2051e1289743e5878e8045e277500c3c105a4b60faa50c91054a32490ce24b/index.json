@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "SUDT Demo",
+  "icon": null,
+  "decimal": 2,
+  "tags": null,
+  "manager": "ckt1qq6pngwqn6e9vlm92th84rk0l4jp2h8lurchjmnwv8kq3rt5psf4vq2pryt5e96vvhmq0580k3rrcd6y6da93aqa5u0pn",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0x0312d9de80cfc5af5d5f3eb8df5f2ebecb80c0b9dc5648bc6a005aed92759f6e"
+  },
+  "typeHash": "0x5a2051e1289743e5878e8045e277500c3c105a4b60faa50c91054a32490ce24b",
+  "description": "This is a demo token for sudt management",
+  "udtType": "sudt",
+  "published": true,
+  "email": "286065910@qq.com",
+  "famous": false,
+  "operatorWebsite": "https://www.magickbase.com"
+}

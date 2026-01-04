@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "QL Test Token6",
+  "symbol": "QLT6",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf2c6v4dvvwzpzxezazx2ql8wkq7d4stxc29622d",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x29a38ca780e145f3a699a11dc7ba2378470f73499f07d6325ea740c85acb4486"
+  },
+  "typeHash": "0x9b87d41c35d92e1a747401eb4019ed8d8798d02900aeeeddfa779a255b22e74e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

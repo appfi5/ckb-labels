@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "fujitang",
+  "symbol": "fuji",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgyqqqqqftnvvsj6qkmedvjmxf9v9a9x7jsvrcjm3jleachwtlsw6s83w59nawwf9",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xc57b6555cdc9133fb53674a756e26c5b9c3946eaef9a4d107745b74304f815bd"
+  },
+  "typeHash": "0x45c07169606a8f1797af79c37bad80c149b5c5d4d27f6683737b367464099391",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

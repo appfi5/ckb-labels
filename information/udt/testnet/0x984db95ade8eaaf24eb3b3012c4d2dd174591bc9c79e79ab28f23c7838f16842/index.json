@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Tay",
+  "symbol": "FLY",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qnn97ptxw4gwvczvd2x9k3a8j8gnxhlunp8rr4c4hehu4venztm8gqqqqqqtzlqlk",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x037b2f8a37d8ce6ed7309c345bf4e10f5eaa74f395fa368426bf46d6590a1700"
+  },
+  "typeHash": "0x984db95ade8eaaf24eb3b3012c4d2dd174591bc9c79e79ab28f23c7838f16842",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

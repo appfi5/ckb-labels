@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "哈哈哈哈",
+  "symbol": "哈哈哈哈",
+  "icon": null,
+  "decimal": 3,
+  "tags": null,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqksv62dmuahh0593g7jxfrcldkftjd2c9ug6hacgtv2z86q9a99ggz7yjqt",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x259ee1cb7517b6f39885cdd638012ae5383a35455b143e07518b53bdfafa584a"
+  },
+  "typeHash": "0x1ed08ccf034d4d91f0cded2befe91c4fdc49be2240b1f613284ef361a804a338",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

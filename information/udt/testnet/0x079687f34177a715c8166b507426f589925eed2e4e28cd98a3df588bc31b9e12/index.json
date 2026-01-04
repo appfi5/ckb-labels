@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Shitcoin 1",
+  "symbol": "Shit1",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgpqqqqqgfes9ua8s30z9fjrq8fq4vpvyu6rfh7kmjuhdah6rds7v2amqyvnwn0gg",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x3d51d36b02963bf520c129a32eaaf0404c1b67e9e654037646408b9586133439"
+  },
+  "typeHash": "0x079687f34177a715c8166b507426f589925eed2e4e28cd98a3df588bc31b9e12",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

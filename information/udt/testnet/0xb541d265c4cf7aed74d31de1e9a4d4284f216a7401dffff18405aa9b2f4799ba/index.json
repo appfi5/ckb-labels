@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "xUDT Token A8",
+  "symbol": "xTTA8",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwajtny5flv643fafcgzw8m9jlcf3sg5xcs3mj73ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwajtny5flv643fafcgzw8m9jlcf3sg5xcs3mj73",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x725cb240a34a20ade96416e9d53d49545b2717e53dc0ac17adf834ee2a8c7e9717"
+  },
+  "typeHash": "0xb541d265c4cf7aed74d31de1e9a4d4284f216a7401dffff18405aa9b2f4799ba",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

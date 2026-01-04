@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "xUDT Pan Token",
+  "symbol": "xPT",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq03kcym4e40p9h6gzqph35ll9p743udknglrvx7d",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x7a5c1b649c1d87adf3000cfb8ba173ad09c9493fe9da94d35618dbed80e27bbf"
+  },
+  "typeHash": "0x95ef767e58c5fd356008e9dc7764bbe49b577ff1b3c7c6d6167b9d2353db252f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-PUPS•WORLD•PEACE",
+  "symbol": "R-PUPS•WORLD•PEACE",
+  "icon": null,
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qfdchesktvfn5glut3ppf45ha7j83ekvrpcxscrqvps8g6rzkj9y3g",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x7264fa7d94fdc3799f3a007728b0384c08ef28201cffa5c557ddf3e321221dd4"
+  },
+  "typeHash": "0xb535cc723cf03f19203c36184c1cd1c55ffa73bdac9336cdb9239f63268e0d56",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

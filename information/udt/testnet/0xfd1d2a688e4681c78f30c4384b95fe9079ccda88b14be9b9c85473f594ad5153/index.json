@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "cctoken",
+  "symbol": "cctoken",
+  "icon": null,
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qj46gdm4wu32x8zzpqzynjps3ylt682usln0uxmr557ttu4nnjv0qqqqqqqehzscyckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qj46gdm4wu32x8zzpqzynjps3ylt682usln0uxmr557ttu4nnjv0qqqqqqqehzscy",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x638c26cf1e0d4a3787feab50022df93f47748abf3a53c0b3ad481beae5abc553"
+  },
+  "typeHash": "0xfd1d2a688e4681c78f30c4384b95fe9079ccda88b14be9b9c85473f594ad5153",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

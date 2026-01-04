@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "CBKS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyu032q3tdwufgjgnl6vvnreng0tak508sn6czx6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x172f783a7856ab7a0f9eba1f8e02fb55f2e96c81df69476ff8c8986ac0ab4204"
+  },
+  "typeHash": "0x311fb75599c569cbf50ea51e86ed64d65f73374f678a25ea236bc33df11aa238",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

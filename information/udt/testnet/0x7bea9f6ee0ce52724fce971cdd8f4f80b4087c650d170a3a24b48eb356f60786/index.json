@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ERER TOK",
+  "symbol": "ERR",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhl7xtdgq2e8hg8mfvf89t950tkvulxwvq2qkcluqempelne5s0pgqqqqqqmw78mg",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1421563c9330e462849001be79ec1aa5d859e598b99e2e621dff2b96fdacbe3f"
+  },
+  "typeHash": "0x7bea9f6ee0ce52724fce971cdd8f4f80b4087c650d170a3a24b48eb356f60786",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

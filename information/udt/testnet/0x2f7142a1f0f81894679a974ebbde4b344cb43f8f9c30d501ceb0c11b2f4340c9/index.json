@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "FLC",
+  "icon": "",
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qqv5y9k3qetmhqakdzychtdq2dxhq8qucpmnk53s24k0e3l6nz5xsqspqqqqpht9yvqsqqqqqqqsqqqqqqqqqqqqu86s2qqqqqqqpeqt2spqqqqqqqqqqqqqqqqqqqzq0gg0xksqqqqqqqqqqqqqqqqzrmetxckt1qqv5y9k3qetmhqakdzychtdq2dxhq8qucpmnk53s24k0e3l6nz5xsqspqqqqpht9yvqsqqqqqqqsqqqqqqqqqqqqu86s2qqqqqqqpeqt2spqqqqqqqqqqqqqqqqqqqzq0gg0xksqqqqqqqqqqqqqqqqzrmetx",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x3db160638c5fba992cc3505a20c4734760752fb9476050c11b40d2085fc7bf0300000000"
+  },
+  "typeHash": "0x2f7142a1f0f81894679a974ebbde4b344cb43f8f9c30d501ceb0c11b2f4340c9",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

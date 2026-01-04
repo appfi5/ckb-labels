@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "USDT Token",
+  "symbol": "USDT",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgptlzscnld72e3xghswpmey92hhy8n273eqq4qnhd3",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x6af30bab19ec3a07b75936e7742756bbac95c8111e1b4882dfd4130476ddee5c00"
+  },
+  "typeHash": "0xe6319a79ae87efc5a93bfe8d7115d6ba7427281e1b69dd90a45f13a6014bc634",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CAT",
+  "symbol": "CATS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqw2ktyu2ylrzrkum4cqfjvf957ggp5327u9aadpyhgt4d6mfhxgkk2gn9h",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x78b32b3501d7dbcd939aee9515c0210408a460a8e4ef7799dd1e698ba02ab3fa"
+  },
+  "typeHash": "0xe675a9a120734116242b824d37b863346b4a6fd8380f73dc5eea07671c97cae8",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

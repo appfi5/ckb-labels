@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "PERL",
+  "symbol": "PERL",
+  "icon": "https://cryptologos.cc/logos/perlin-perl-logo.svg?v=002",
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckb1qjfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjhcqqqqpqqqqqqcqqqqqxyqqqqx9l6dpjrvlncdcsgv3fwch68xe5segdg9zdaxxxwtum0dtvmlp35qj5qqqqqc8setrvyuryvfcx4skgs69xsmkvveevvmrsdpnx5eyyvp5xvukvvpnxpnrsd3sxvcnstewn5a",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x34ae46f1112be6a0f3d17bdf34d64e8508c4e6a6c23ae352d0915e24ac767224"
+  },
+  "typeHash": "0x6c9d59ba10b86b3a41150ee8eb7ee6c3a0e3fb5960845b25c8c4d25074f581b7",
+  "description": null,
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": null
+}

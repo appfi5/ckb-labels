@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKB TO  MOON",
+  "symbol": "CTM",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq84mczwql6egzxns45rm3uf3resc50utzqqz9kp4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2df5b0ed58c3a143421fc82ded80dc6b17f09a3b5f0ebe47e7cbe939201613ec"
+  },
+  "typeHash": "0xc100a5e808a538838c81758e065e909c32f60eb86ca43caad2360f2c2b6b97f6",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

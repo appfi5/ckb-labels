@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Where's Sam?",
+  "symbol": "$SAM",
+  "icon": "logo.jpeg",
+  "decimal": 0,
+  "tags": null,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qshfuk46ajc2rsdhdxxrrqqmg8q626jglwqqpgatrucfw08l5l4ucqqqqqq4xj0lf",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xeea32e04aa3ef56f59efa23ae12f8db88ac193470ca248bff370f95e725ec19a"
+  },
+  "typeHash": "0x259d9ad48e1a159fb99b32629111b6c2e2281859861e07c356c213fa78212f50",
+  "description": "This token has been discontinued",
+  "udtType": "xudt",
+  "published": true,
+  "email": "telmoecdsilva@gmail.com",
+  "famous": false,
+  "operatorWebsite": "https://nowhere.com"
+}

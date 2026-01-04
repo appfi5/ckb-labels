@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "people3",
+  "symbol": "people3",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhtksl8qfxx55flcle06606npjwgrpg8yhndue0s7fz0kzfy5hxkuqqqqqqpgyl9d",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x586b9e983fb3017839375e91731a7798b994acce465fb3c8de601b33f956d2e9"
+  },
+  "typeHash": "0x26a308b064e6b6ddabcff5b4a458cda399bff02c6691e7f8acb79b06125d63e7",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

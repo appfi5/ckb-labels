@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "QL Test Token3",
+  "symbol": "QLT3",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfn3njm7lzym3p7tfw3zwgep9whmz09ncc9nlx7k",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x97d5fc775d8298f0a8bb14e7ceb6a370f1bc837dd714af428ef5d9813ed0a243"
+  },
+  "typeHash": "0x3ebcc7792a14fa113a517db525cfc06e5cf822155acd582776e367b297763988",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "BUBBLE",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy7eurfzhzzpmj0xvdzcqj0tkcj4tfa43gmk0lsc",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb317b2bcb6e32387e5c8df8e15dd6fff68caa90f907c0a8e13dafca55174ed35"
+  },
+  "typeHash": "0x246f60c653d33817fec28a65b46988c40c64be5bbcacf7bb9135291c824bdf79",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

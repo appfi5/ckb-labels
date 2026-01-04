@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BUTTCOIN",
+  "symbol": "BUTT",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qs57mkv9mcc5ef3a6lw8t9qv8aurfatxyfsq454jpmm75wc2cqjucqqqqqqkdkyeq",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xbb248e70cc4eb68c0fee155d16d7bed4478181b0a664115517b4040a7cf7b07d"
+  },
+  "typeHash": "0x7b665d2c4ff189f1e2366c08f639c1cfc43ebfe2272f942ac9462feb5394a83b",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

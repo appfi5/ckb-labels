@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "QL Test Token9",
+  "symbol": "QLT9",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf2zfng2rj0fkga79rdj5q22slr4w8lvpgcuxy2g",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x15f86f3b748a4dc32414a4e7d8ae2dfc23cbaa4ba07c9c49995f8813b4c0b202"
+  },
+  "typeHash": "0x32e4b8ed29b9039cb380f599653dd3fe33830c2148fe33a4b86fe4910fe2c25d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Sosa ESA",
+  "symbol": "ESA",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyn5hem50kfwkdwdvtcwjv2ctk6c5mgslg4k9hxk",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xbffab938a79ad0b0394d436f8dbf6be08d2ce1fa92e0b8a9961deb9fe0543025"
+  },
+  "typeHash": "0xda8e3a7114237590f9729966f30be5d1fb613c94b65fc21174461a04ca45d2f3",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

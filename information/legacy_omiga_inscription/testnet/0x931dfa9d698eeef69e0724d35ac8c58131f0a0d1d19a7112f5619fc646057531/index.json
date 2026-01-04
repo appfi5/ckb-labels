@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "TOM",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8zs3kwhd95w9zjtvtnw8messm8klhhd9q9h6wfq",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x63f03a051c38773d217eba5df9d5cbc7f019770062d0ed0af35c0a8992dea7cf"
+  },
+  "typeHash": "0x931dfa9d698eeef69e0724d35ac8c58131f0a0d1d19a7112f5619fc646057531",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

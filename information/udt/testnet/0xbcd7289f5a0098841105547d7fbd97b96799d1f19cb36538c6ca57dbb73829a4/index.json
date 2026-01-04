@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Stable++",
+  "symbol": "USDPP",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwj4fypc9fwg62n4wnvynqx9znreq5euuc0wn7ud",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2e6a534a1e7cac0e97b2f252bd3f2b090cab2ca966b84fef079e8e5cbb4d2889"
+  },
+  "typeHash": "0xbcd7289f5a0098841105547d7fbd97b96799d1f19cb36538c6ca57dbb73829a4",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

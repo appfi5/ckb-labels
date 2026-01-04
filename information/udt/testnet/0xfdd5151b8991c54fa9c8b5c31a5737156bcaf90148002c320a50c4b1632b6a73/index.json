@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TTRuD4",
+  "symbol": "DDTuR4",
+  "icon": null,
+  "decimal": 6,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qn5cf34yd6c0hgh62567ru30m2ftwc98rs65pszsqdsqhpwctzg95qqqqqq73st83",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xf780e80e4e105ece8b65604d6f0d9813fd58c5dafca9082b7b6d02b51d822f4d"
+  },
+  "typeHash": "0xfdd5151b8991c54fa9c8b5c31a5737156bcaf90148002c320a50c4b1632b6a73",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

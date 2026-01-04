@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "wpeoifddfwefjwef",
+  "symbol": "woefjwsddsfwef",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgcl99s8v298ztzl9sw0fvd2j97vzaj5jq8ddtdj",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xeb38965de7dd76a8903e4ae6de5112df1e35248d67f7bb21f2aee86bbce9a6d5"
+  },
+  "typeHash": "0x3136ccb6ea448a1c80d91795bdb6e06b1240235657d7a892635ed9de9b172a62",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

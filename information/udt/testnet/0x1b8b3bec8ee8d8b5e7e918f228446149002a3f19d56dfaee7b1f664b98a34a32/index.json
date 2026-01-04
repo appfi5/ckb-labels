@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TTKB",
+  "symbol": "TTKB",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhavl8utz077fu7neywdcv8rdvzes7x9pjs7shuqacnpxtnajez0uqqqqqqkje6jp",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x7527cee1927cab4c3403c71a10aaca5ba77daa7f1e0c089bca52695efb0549b2"
+  },
+  "typeHash": "0x1b8b3bec8ee8d8b5e7e918f228446149002a3f19d56dfaee7b1f664b98a34a32",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

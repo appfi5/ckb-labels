@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "XUDT Test Token",
+  "symbol": "cli_token",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf2tay0g975x4ayqz0nhhznky8n0vgq52ch05dq5",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xe091b9fe53d114793234f1fe8c2fcd35b221cf8bf5754cf53f7cdb76327356ca"
+  },
+  "typeHash": "0x07ef55d8a58aab9f58fb8ee0427ede86a8a1eeed69dc439f4948da1608dd7089",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

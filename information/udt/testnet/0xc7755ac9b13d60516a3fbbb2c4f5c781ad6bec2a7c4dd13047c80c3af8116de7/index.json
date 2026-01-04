@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "xtextmetX",
+  "symbol": "xtextmetX",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqnglqgm7agvzwuzpzmxty7d54zqtytf9maguka0qnat3xuwtahvyclla3zp",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xeaf0640287551474c0bff2675eed4f64ab8000fdd9126542988b92e7534a0883"
+  },
+  "typeHash": "0xc7755ac9b13d60516a3fbbb2c4f5c781ad6bec2a7c4dd13047c80c3af8116de7",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

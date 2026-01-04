@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "EFT BTC",
+  "symbol": "EFTBTC",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxce9sva0we4tljcmmvxl4chsqr9guy3e50jcxxv",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x419fff903fafcfd883d18ef34397e0a1b98593c0cfb1fde19065db6e3ce7ad6e"
+  },
+  "typeHash": "0x409764ba857cfed907f0e0dca68a228ccf332141b4228450b028e004464426f1",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

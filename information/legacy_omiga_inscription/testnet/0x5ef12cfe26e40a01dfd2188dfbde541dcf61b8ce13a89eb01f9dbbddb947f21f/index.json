@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "IOS",
+  "symbol": "IOS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqym3st4r7zc6d4kkklzcrv4055mxrylg4yz4qt3k",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xaf3564eaa99dfe659d21b7d02df1618d708efa0c967a3a35504da1a0720c9370"
+  },
+  "typeHash": "0x5ef12cfe26e40a01dfd2188dfbde541dcf61b8ce13a89eb01f9dbbddb947f21f",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

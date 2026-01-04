@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "PUSSY",
+  "symbol": "PUSSY",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgxsarcesmdwzqn27f9twqpr228ld6dpns8jecz8",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x5dceed6027ac9e467a4d97fbc517a6158aa959b18d58a9b288532d1ff6890225"
+  },
+  "typeHash": "0xe6fe5fe9eae829bf1f6d3070feeb9c7d6298fb09625739fee999dffe5217cf61",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

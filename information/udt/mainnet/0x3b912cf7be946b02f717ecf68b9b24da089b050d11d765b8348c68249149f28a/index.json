@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RUNE",
+  "symbol": "RUNE",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqpv8rsuaehyv696puspte3w8scnhv07dwma0vqu0t5uyvd76exale73xrxx",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x6311dce9f104ef9b1bf827a44c0804035052842c83446d9792ac5e76b5184b4e"
+  },
+  "typeHash": "0x3b912cf7be946b02f717ecf68b9b24da089b050d11d765b8348c68249149f28a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "abcde abcde abcde abcde abcde abcde abcd",
+  "symbol": "T123",
+  "icon": null,
+  "decimal": 1,
+  "tags": null,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgp0fjtq620tf0l9vhpc7eqrnzndl9zu9l2qqmyern6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x786f4f82a48edb9642f405be8c11a3c1162921c44f2e2c68ff750a8c8ce05799"
+  },
+  "typeHash": "0x4dc31e607f15678b71666af1096997f136623c5016303b92865b71bce4a9c45f",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

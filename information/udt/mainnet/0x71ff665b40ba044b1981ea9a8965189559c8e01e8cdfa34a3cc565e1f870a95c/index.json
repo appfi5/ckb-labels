@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RUSD",
+  "symbol": "RUSD",
+  "icon": "",
+  "decimal": 8,
+  "tags": [
+    "rgb++",
+    "layer-2-asset"
+  ],
+  "manager": "ckb1qpt0kce2zw4a44es35hqxja2u89sf85w3lere37qk62ynash2jtnxqtmqecp56kf2jx65zdgr0983xgmeglmku62zhqrxz78r0klaqrv2cssrj8t",
+  "type": {
+    "codeHash": "0x26a33e0815888a4a0614a0b7d09fa951e0993ff21e55905510104a0b1312032b",
+    "hashType": "type",
+    "args": "0x360c9d87b2824c357958c23e8878f686001e88e9527a08ea229e7d9ba7fe39a7"
+  },
+  "typeHash": "0x71ff665b40ba044b1981ea9a8965189559c8e01e8cdfa34a3cc565e1f870a95c",
+  "description": "",
+  "udtType": "xudt_compatible",
+  "published": true,
+  "email": "hahhahahhah@qq.com",
+  "famous": true,
+  "operatorWebsite": "https://www.baidu.com"
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "PEPE++ @pepe_on_rgbpp",
+  "symbol": "PEPE",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwe0tf0j9mpkcvmyqhzlcvakxqm2f2lkpcdav6qf",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x22057ee6fd68fe647ab7a5e2c61020dc812275906371da6b4c0748d7ab81da3a"
+  },
+  "typeHash": "0x07fa059adb9702a81fe7be1956f70ba09a31389057ffc9690f2c7007f0311d8a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

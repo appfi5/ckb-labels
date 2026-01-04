@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Memes",
+  "symbol": "MEMES",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgxlcmrdmuzyncyp5c48kaa7np0dhswczq654fzw",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x024a4b7ac6d6c67ecd24f3d9afd3b0cf82c0136fefd1eea6e928484b896fa204"
+  },
+  "typeHash": "0xbd8bad3357d65de9bacb6b21b2d7154682527e808a025bbd03537628d7d2aa06",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

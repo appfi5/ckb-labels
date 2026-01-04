@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "12345",
+  "symbol": "12345",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqpl2cfjpqj73e997aplv8ykt9x90vr86qlj9pchany39hka8pr6lkr864ny",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x04e16e426a292bf0efa417cd9d5afc191bc8a86c15dbd85cc0f49b57370d93fa"
+  },
+  "typeHash": "0x73c17d02ef8b1bd38cfabbbed2260e1d7380891a0be62c047ed5bc8ede6d5ca2",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

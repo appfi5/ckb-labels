@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Jinggx",
+  "symbol": "JINGGX",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxrsvcha6emta5grc7j6cjj99yq5pvpmasw3yqmz",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x60a365a0aa73d81d3427cf661458908843fd13ee16f746388d4e726e9db4792d"
+  },
+  "typeHash": "0x3a9fdb0bf914cdc25f1e9485cc965d986466c54ebbd2dbfbf98550c0b8534855",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

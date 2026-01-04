@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "abc",
+  "symbol": "ABC",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxh9effcgprltdvysrr9ghzcd3v7am5ymgyyw98h",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x03e3963e9bc013dbc8ce6b7f031c93e1beabe95255b84b4fa83c46c17e872802"
+  },
+  "typeHash": "0xe871710ccc586d5aa7b019444c2f4ac145baed96996b174e6efa77eda2489a97",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

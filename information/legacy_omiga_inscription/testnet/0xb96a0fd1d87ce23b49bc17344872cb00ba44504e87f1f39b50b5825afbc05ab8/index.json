@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SpaceX",
+  "symbol": "SPX",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8jtjjnkscnam2la4039ppyrg46kfwljeujn83wy",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x4db6f63e7f0c8007f8e249a022fe63a771f7644d4b329fa1c3e62eecb3deefd2"
+  },
+  "typeHash": "0xb96a0fd1d87ce23b49bc17344872cb00ba44504e87f1f39b50b5825afbc05ab8",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

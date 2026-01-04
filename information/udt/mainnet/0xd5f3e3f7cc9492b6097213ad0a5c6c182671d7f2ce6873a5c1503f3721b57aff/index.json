@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "I",
+  "symbol": "I",
+  "icon": null,
+  "decimal": 4,
+  "tags": null,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqnuwry0ur69dvpe2u9vz5vx0ee3vl8h8lm3fcndrch3e6y93lr0y5gnay38",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x72ef6bbe63e2e24355f4095c6293e145b0adc4aabb179d3a0282136f52baece8"
+  },
+  "typeHash": "0xd5f3e3f7cc9492b6097213ad0a5c6c182671d7f2ce6873a5c1503f3721b57aff",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

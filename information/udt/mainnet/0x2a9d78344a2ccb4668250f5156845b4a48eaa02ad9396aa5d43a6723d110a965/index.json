@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Bmusk",
+  "symbol": "Bmusk",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqq8jx062lvhtrlkyvjn856ukj07cnttexfqyyhjd4ly6rsadhmr7dcn0af4",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xe73a6b3ed138324471b6c6280ade9f3fc4efc343d0dbacda2f08efc497f9317f"
+  },
+  "typeHash": "0x2a9d78344a2ccb4668250f5156845b4a48eaa02ad9396aa5d43a6723d110a965",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "YanHaoCoin",
+  "symbol": "YHC",
+  "icon": "logo.png",
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckb1qyq0shp2fyt26xds54637u8m488zare8wtssqlfv7l",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x4a3e817cad9ee919dac32660dd9b423f57704f1e7ff6cb8696b5a4d9ac3f51f1"
+  },
+  "typeHash": "0x2e729176a75e0766901faabe7cc2dae7e88cdf221aaed5cbeb11325279d31bf6",
+  "description": "A digital coin in the name of YanHao",
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

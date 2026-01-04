@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "PI Network",
+  "symbol": "PI",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqx38tw552ncnc8y08m5mwdy39gc5xu9l3shnl9dw",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd0e51642ff90445505bcd8a9aa898d03aed12687fb6427f9911c76bcbcf21cd6"
+  },
+  "typeHash": "0x31ad039b12947a1ed74989c77772ef786ea7012b8eb6527dd1651d5fe1988588",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Moonbit Test Token",
+  "symbol": "MTT",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgqqqqqqju3hqzxvxmt9eyg3ztnqudmyugddrlwxgw5rhsue655s4fqhwgnxjul7e",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xaa6a56a925321eab8abbd042aa496760a31397985d232d5076c7a6c21ae5b7a8"
+  },
+  "typeHash": "0x575ac00349775b141b240291e5337eb91e495182ce2aed92095b6453fa24bfc6",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

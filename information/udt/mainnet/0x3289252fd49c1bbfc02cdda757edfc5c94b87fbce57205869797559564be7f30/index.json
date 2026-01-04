@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Trump",
+  "symbol": "Trump",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqpfwr5qmk8h9yqlyj2u028n4mnzlld5kfca9hlxw9s9dl2fykxauakwd9kt",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xa43ad67a562878f229e06168cce94602727f5cfae8074f31fde56b008f9144f6"
+  },
+  "typeHash": "0x3289252fd49c1bbfc02cdda757edfc5c94b87fbce57205869797559564be7f30",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

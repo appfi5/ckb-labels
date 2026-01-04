@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "xUDT CMS Token3#",
+  "symbol": "xCMST3",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtkq3xy5pdzztnc8ujzdh54atn5j24m97cht2vt4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1d6a488501ec0606d09b074488953983cc03c6f8a1d0dfb36020f1876a5b68c503"
+  },
+  "typeHash": "0xa70bd7fe0894789cbe1899944e44e04efc473a61793230e07e24c1096dab1a5a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

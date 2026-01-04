@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DOG++",
+  "symbol": "DOG++",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqe80wwv26rnmpyxtcmj46rpc4k7makg5vurc2kcjpa9hzxnj9haxuz85n3",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x3e3c3acb9f722d3e208323d0b015f162c6ae09e06f1bc79da1759b36118f67f2"
+  },
+  "typeHash": "0xafacb9d6fa2bfdc6a866a95c74cf5b518e60cedf32c92f13ecaab46e0acc3d51",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

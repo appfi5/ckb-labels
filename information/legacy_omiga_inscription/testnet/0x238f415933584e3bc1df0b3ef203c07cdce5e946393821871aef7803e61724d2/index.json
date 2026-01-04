@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CORE BHAI",
+  "symbol": "BHAI",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqye38lepgd0ea38pwupkvanl5y33hz6myufckpnl",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x442046dfc073da09d6898f4e0f2650fffd0f2e5b657bc4cb477641e5ee281702"
+  },
+  "typeHash": "0x238f415933584e3bc1df0b3ef203c07cdce5e946393821871aef7803e61724d2",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKB++ Isomorphic",
+  "symbol": "CKB++",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqqkl0ujhrf5a7pse40jysjj7g0g96wwzl58s58cjdwdl673eakcgryssa4e",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xc1a967f40f11ed0dbfe066ae18a062f023c65d15dcdeca4074d2992b3807c0c0"
+  },
+  "typeHash": "0x105de868602dc344b97e0f23e84a460ee5b6b599bd13756d9e3f95ea755a6a85",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

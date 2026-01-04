@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "xUDTS isomorphics",
+  "symbol": "xUDTS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqp32fuy3sy84h6pum46nt35nk9j4v3g73kkvq0r22e9ff985pktcwwkndrm",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x14f529d10bd7b79abf8ad6a3ebcc94c5aecd2e554e5a64d5e8d10636e72f7ccf"
+  },
+  "typeHash": "0x1031c9d3f121f0fb097666274ee9fabaa419c79a3f6a4acbc23dd128eeb8e47b",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

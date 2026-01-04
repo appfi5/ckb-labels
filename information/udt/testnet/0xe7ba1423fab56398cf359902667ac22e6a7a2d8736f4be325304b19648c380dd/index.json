@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "XUDT Test Token",
+  "symbol": "RFSSSS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqd060tgd74qdjzsltxlktkx8hvcqwrevwgmjw9qt",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xbdcfe9552e286770cde1e933dfaf21bb7f5a3e44465d758c6b2dafad39f9f3fb"
+  },
+  "typeHash": "0xe7ba1423fab56398cf359902667ac22e6a7a2d8736f4be325304b19648c380dd",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

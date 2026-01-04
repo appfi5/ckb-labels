@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "rgb--",
+  "symbol": "rgb--",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqp4ztvvmklxmkfrjx73qu3cxaxaltwwcja00vvwwtl0dr0uq79mj8wk6qyg",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xc7d597ac49ea6ad5544d627444348f5c7bca6a5b39130c0bd55437f76aa4399a"
+  },
+  "typeHash": "0xe8a5b93970f5ef154380bad55556e26f4c065f1cfce9f034c9b56c82a92ddca4",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

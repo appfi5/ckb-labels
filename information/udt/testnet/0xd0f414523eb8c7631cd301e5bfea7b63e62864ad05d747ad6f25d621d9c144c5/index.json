@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "G++D",
+  "symbol": "G++D",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvz924fnk3ftagylatcznaxvl8n9s4ufds3dqf7r",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x10d3e76b93a355c94543ca22a4d9a59417f86ed0ed7cedd9ec96ebc693ef2cc9"
+  },
+  "typeHash": "0xd0f414523eb8c7631cd301e5bfea7b63e62864ad05d747ad6f25d621d9c144c5",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

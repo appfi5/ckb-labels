@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ALICE Inscription",
+  "symbol": "ALICE",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq04arz2ypwdphr5kl5wwlqqvwurfehs02qwuuf40",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xaa9dcdf3c48db3ac651ba3edc3efc7fac2aad1089e0741a119383de99bde5e08"
+  },
+  "typeHash": "0xd06173e03b811fb91ae8c855be6b793102f3efef71f4ec65cbd15032a2c4714a",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

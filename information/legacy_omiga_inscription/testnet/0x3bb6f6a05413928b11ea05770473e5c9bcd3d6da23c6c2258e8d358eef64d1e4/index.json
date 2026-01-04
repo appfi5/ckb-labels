@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "GGG",
+  "symbol": "GGGG",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9g5x636wgegl5ceyqjqnre0vm08dkle35yd5q4a",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x935180c28a72b45d46599c00d9f9b03f8045adf88982c039d93171e7e501a8cf"
+  },
+  "typeHash": "0x3bb6f6a05413928b11ea05770473e5c9bcd3d6da23c6c2258e8d358eef64d1e4",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

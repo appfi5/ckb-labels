@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SAVAGE FX",
+  "symbol": "SVFX",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8lrvhz6nczyeva4xh7pezgyrh0wndus0usurhmy",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x198ed81e3c5b509c6a08a83d41dee8ec5b46b47ffc4468cdf53beafc11c7ada6"
+  },
+  "typeHash": "0x3bde81c8bc626186f314a695e811047c7de078c23ec16dfa818b7094cc4fce6f",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

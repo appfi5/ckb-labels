@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "USD++",
+  "symbol": "USD++",
+  "icon": "logo.jpeg",
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqqskd266a50wna8vl9wak4n3v9xzefm3k8l3cx8qqvql7sgq4qrsvlxptua",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x4556e0eeac5cf52753cdfea5f3aca40189ad6e453bead8b0fa20897b70bd4a50"
+  },
+  "typeHash": "0x48b15fc211f1facbc7aa860b4a77be55a22c768c385a7245d8d11657f0973a9f",
+  "description": "123",
+  "udtType": "xudt",
+  "published": true,
+  "email": "lujin@magickbase.com",
+  "famous": false,
+  "operatorWebsite": "https://www.magickbase.com"
+}

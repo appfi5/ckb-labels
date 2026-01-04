@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "hjhgg333",
+  "symbol": "hjhgg333",
+  "icon": null,
+  "decimal": 0,
+  "tags": null,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xadf92952b19accb1f246a3ee073b9b1ae587cbe7262fc36d3f131cbafa2fe122"
+  },
+  "typeHash": "0xed4f84d823197a6a82c138cd4ba6d27d4acff205d40ce3698a5f6acdb9c511b3",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

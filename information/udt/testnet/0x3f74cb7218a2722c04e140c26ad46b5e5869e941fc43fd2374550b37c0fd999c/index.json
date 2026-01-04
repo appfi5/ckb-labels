@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "FORGEmeup",
+  "symbol": "FORGE",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5d54s7mvcmujq3a5zsxsjwxu3x5wgwt3266xaa8fjpn6leq9s6dgqqqqqq8yrel4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x3bd2be50d4339345e3312aca0346d28001729ef636a2c3cc2ddb255e665724dd"
+  },
+  "typeHash": "0x3f74cb7218a2722c04e140c26ad46b5e5869e941fc43fd2374550b37c0fd999c",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

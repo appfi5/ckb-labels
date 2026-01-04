@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Test Joy",
+  "symbol": "Test Joy",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqnv7cv959lf7gn7tv77vrgqjyrx73z9hzxjtyeq64m4csxxq8854grkz48m",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1b404a840b5b96c3a93531e14d68eb4fbcafa152f1e86d35348e714a2cda0e3a"
+  },
+  "typeHash": "0x503405f380a1b8b4d69961f5c6319499dd0cc8bfb19955847c8a48ca21b935a0",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

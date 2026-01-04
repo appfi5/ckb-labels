@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "COOL",
+  "symbol": "COOL",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqpztm0that39trysghwl7r40lsync3lpekm8zq4x0xelsdy4zs6e0eucyfr",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x81cf001aa168a96d4ea861aac3eb2dd0ed6a61867491f6d9322cf5d2da2fa8aa"
+  },
+  "typeHash": "0x5c0f5bb608bd4ececcf3edf61cdf57624ed2572852c39a02bc9254f1279fdfbd",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

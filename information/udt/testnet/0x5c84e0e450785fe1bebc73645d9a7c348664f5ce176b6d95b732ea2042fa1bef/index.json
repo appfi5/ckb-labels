@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "OK TEST++",
+  "symbol": "OK++",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvhdat7xwtneawpyjlkd9kzzxlyg4lxx3clduchc",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xae3408216dd69620160b88e5045f8df256c4d185be9a8836ed8374a3d4feb631"
+  },
+  "typeHash": "0x5c84e0e450785fe1bebc73645d9a7c348664f5ce176b6d95b732ea2042fa1bef",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

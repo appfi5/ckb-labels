@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "consummer2",
+  "symbol": "consummer2",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb303cf61a1d8a47682051ead3a9855ea1d5f09958260a966fbb273f49b612443"
+  },
+  "typeHash": "0x6814af3e03d1bbd4f98096cc1c4318bdc87a2a2fd85196f483568f499114a119",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

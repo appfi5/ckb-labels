@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TSX Token",
+  "symbol": "TSX",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qn4zmewrhcmy59qt9g8slsw94furd9zuxwu7jsc3wdu9ad7vgng9gqqqqqqt4jh2d",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa815fd080dbef64b8ea4201440236c354449d5748a22d868d1ea3aa930a456c0"
+  },
+  "typeHash": "0x42075231bd8ae15d9166cf5239e0a71e931e318c17049d67e8b3a4fa94feaeb6",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

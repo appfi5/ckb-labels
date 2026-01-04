@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Bringer4",
+  "symbol": "Bringer4",
+  "icon": null,
+  "decimal": 0,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5dusvlpunwgjs2ryl4amc3uv8xrj0apmeukwuy9rdyrzna6vuujuqqqqqqnvq8jr",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x452f96742a14baa829c52d9ceb742dd8fa62f923c035e21b8ac2520f2aa9261e"
+  },
+  "typeHash": "0x6cb3e3496526c3377050559dd6f03b54d1953d81ec6e91e47b00222025a0e5f2",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

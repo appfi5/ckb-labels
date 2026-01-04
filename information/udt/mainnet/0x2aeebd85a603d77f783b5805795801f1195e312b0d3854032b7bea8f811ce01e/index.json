@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "FAIR FAIR FAIR",
+  "symbol": "FAIR",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwx4ct6dcp54equq9phwn9r3nwgktmkxmc67xcav",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x2eb5fc54b1a4f58d625fa456646412aed2577503b6ff084ced37c960bab65030"
+  },
+  "typeHash": "0x2aeebd85a603d77f783b5805795801f1195e312b0d3854032b7bea8f811ce01e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

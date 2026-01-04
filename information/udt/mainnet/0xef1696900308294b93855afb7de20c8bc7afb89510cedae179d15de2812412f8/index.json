@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "USDT",
+  "symbol": "USDT",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qrgqep8saj8agswr30pls73hra28ry8jlnlc3ejzh3dl2ju7xxpjxqgqq9lmemc248r2z7d0kcefncndvpauz5wp2cvhfq06",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xe0852068ecdaf18978ba21455f5962a9337319c57fddddcbcd963db0d488e099"
+  },
+  "typeHash": "0xef1696900308294b93855afb7de20c8bc7afb89510cedae179d15de2812412f8",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

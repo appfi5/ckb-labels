@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Lorrys",
+  "symbol": "LRY",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8kcfy9f4dh8x0tzk88g384ersgvf40mschk73z9",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x77eeb34e979e929f34169bb2131e2440c561944bc8db6bb561d2836b99d52354"
+  },
+  "typeHash": "0x78787b1736d8c9c9680426a9f3e6d1415c1e63300b79187060ffff54c2d24f2f",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

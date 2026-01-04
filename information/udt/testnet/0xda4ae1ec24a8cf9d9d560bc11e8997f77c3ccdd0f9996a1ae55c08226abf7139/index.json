@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DDyR4",
+  "symbol": "DDyR4",
+  "icon": null,
+  "decimal": 6,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qsqr4ksm46eed3ky33r00068s3t4535u33yc0tzf5979fszearg5uqqqqqqm9r8zn",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x926ee05c7f30f64d5c85f6235e3da9e5de3d6126b7ab051d8a6690ff3c6bec6a"
+  },
+  "typeHash": "0xda4ae1ec24a8cf9d9d560bc11e8997f77c3ccdd0f9996a1ae55c08226abf7139",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

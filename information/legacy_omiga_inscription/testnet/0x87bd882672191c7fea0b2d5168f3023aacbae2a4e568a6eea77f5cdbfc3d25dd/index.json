@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "KAYX",
+  "symbol": "KAYX",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxg0yvmz535ztf9p33skkj6kx5759gr7ts4q526j",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xeb7cc336ed2d144ebedddd142e5f5d4bb14702b9184bd0c8d735b6c406137c91"
+  },
+  "typeHash": "0x87bd882672191c7fea0b2d5168f3023aacbae2a4e568a6eea77f5cdbfc3d25dd",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

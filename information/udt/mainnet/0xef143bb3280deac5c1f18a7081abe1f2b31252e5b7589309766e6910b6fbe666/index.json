@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ffs2",
+  "symbol": "ffs2",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq42g7dhpqgcea9692l82wjhefg396mvg6vhft37ng2mruyrqcrg85k0whrc",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xb2883b9f3c8d59beaefed21ed950db04360aec893fe8159baf3e02e2daf02a94"
+  },
+  "typeHash": "0xef143bb3280deac5c1f18a7081abe1f2b31252e5b7589309766e6910b6fbe666",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

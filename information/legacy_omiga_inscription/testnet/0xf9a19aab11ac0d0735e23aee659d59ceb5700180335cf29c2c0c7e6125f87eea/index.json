@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Blowmind",
+  "symbol": "BLOW",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq854cy7mrqt0krq7nt2aaa68f9hljx6akys827vc",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xde884d21c4101735c4f8d01738db218b0971b2e7d505ded863cd8f858a31d614"
+  },
+  "typeHash": "0xf9a19aab11ac0d0735e23aee659d59ceb5700180335cf29c2c0c7e6125f87eea",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

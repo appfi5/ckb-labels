@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Food of Seal",
+  "symbol": "Fish",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqg7qqqqpg488kflrqyrpmk08tswpu8wlcnsckp3yjk8eyujfxpesxh9ngsyszjvn6",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xa878f923796cb97f5e6dc9cf0424c94b8426b3e82141b3224b82fbb7832ddb64"
+  },
+  "typeHash": "0x2660402bdc950eeb59a233f9878a35bcbdbe87313ca9804e524aa09ae2e95e38",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

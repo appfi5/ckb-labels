@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKBINSS",
+  "symbol": "CKBINSS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9srhmqhwh206xtk6w9fqm8gyaqs7ms49shjqkv8",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x47e5dfed081cff4eeaef8fa589d7745066b9a0bdf1488bfb72c00825bec8eb4a"
+  },
+  "typeHash": "0xce7690edd9616e7166b3cb7d072d90ba1ece8ea6d9556124b07a29f226850866",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

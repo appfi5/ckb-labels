@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RBTC",
+  "symbol": "RBTC",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqghqqqqpzl0sp528a95ykmpk6gnfc3waqrzd3g2xep5sygwjh3rtlarl2m5ccgvr2",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x8673d395722e2e3f10dea33f9e01e0ca49164313443eb80247f90c199b293de6"
+  },
+  "typeHash": "0xef6da9102951e3012bfc066e555e460dab425872777ee679bcf0d4f60259971f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

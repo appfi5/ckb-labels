@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "比亚迪",
+  "symbol": "BYD",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8y09dy53l8vlypu5k7vndefgs7qu63m2yknjp0m",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x79a23b194fc0a0d140fd9e3cba16369e4516cec5e191cf37181600ecc9731a2d"
+  },
+  "typeHash": "0xbc3f83623d4a95b8b1805e9f8d96773c501e944954359ad4ed0c6541ef8c6660",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "bit did community",
+  "symbol": "Bit++",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqprzc07m8xvgu9syx3ws3l6rvqrevezapmvw9c5ju759srtcn80zj62c74a",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x1a59cf9fb20bdabbf08d21313204b9f9dbd35f2d7f2c487da536484389633b4b"
+  },
+  "typeHash": "0x4fcd3f8bf17f5b58241cd4c247529a03022892f0372b226c0a3595ce00fa7fc4",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

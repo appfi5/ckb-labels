@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKB2.0",
+  "symbol": "CKB20",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxs2jcse854e28gd66k2qdqxz93z9477hupmhgzn",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xfbcd0202dcd65d00484d2a6ef6ea759a70a6f0b38206bb9e5d6e21116635905f"
+  },
+  "typeHash": "0x9dfdae96e99898c6a78f35c53112bd1ec227ae895f90a3dd24add2844515e355",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

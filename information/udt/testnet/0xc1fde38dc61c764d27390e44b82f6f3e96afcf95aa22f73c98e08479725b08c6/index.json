@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SilentBerry Test Token",
+  "symbol": "SBTT",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgqqqqqplnj3x7vkv7cs8anuhvkd9zx42sardx93exz9lg7n79ttu7a8vw0arrv3u",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xc1f2386306e8fe4d16546bb468fd099448ac7fac449a8f37367e5114acba8fa2"
+  },
+  "typeHash": "0xc1fde38dc61c764d27390e44b82f6f3e96afcf95aa22f73c98e08479725b08c6",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

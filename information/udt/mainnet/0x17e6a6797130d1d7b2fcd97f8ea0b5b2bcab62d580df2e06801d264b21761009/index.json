@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "atomicals",
+  "symbol": "ATOM",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqppvcynxl07mggf8g6f64fjxzxjqpz3l58h7jmt9dntez0kqzczxapvkwg7",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xe60b2aca636443d7c37edb296a7ecdb892d1e78a5af3636dfdd022a472dbab49"
+  },
+  "typeHash": "0x17e6a6797130d1d7b2fcd97f8ea0b5b2bcab62d580df2e06801d264b21761009",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

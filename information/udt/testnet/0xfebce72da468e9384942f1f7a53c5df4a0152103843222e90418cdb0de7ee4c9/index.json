@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CHEY++",
+  "symbol": "CHYYY",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwqgxlatn0ffqyx4tfpwh3rahs8dqrtg3cfsjukw",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2b02995aa523fecf8abb51f6c4dd1868acc41d25f9535d7c58da2606b1d12357"
+  },
+  "typeHash": "0xfebce72da468e9384942f1f7a53c5df4a0152103843222e90418cdb0de7ee4c9",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

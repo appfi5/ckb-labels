@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Binance USD",
+  "symbol": "KRKUSD",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8pn5hatx80dwaca80wcvg8q57h6d0yte5yxxuup",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x197a566383b65ceccfb13465b97994bb7b0e9ec3c4f6671a43081c5a9aff5831"
+  },
+  "typeHash": "0x30003fca9f31cbb739bc7a86288003f0c1881698f4bdb962058dc19a5106ceb2",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

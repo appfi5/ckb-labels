@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "FIS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9jedq8zehp2ksddssmwcwluhea2mv5fj5pne7jc",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x4c7d8a3120d3f2e53363f413ced4da9cd273cd335c75b628e682adaf0a6ceab7"
+  },
+  "typeHash": "0x1d5c0319ddb9b89c9647e9f14792d1d95140a78c14d120515479790ad5b3f05d",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

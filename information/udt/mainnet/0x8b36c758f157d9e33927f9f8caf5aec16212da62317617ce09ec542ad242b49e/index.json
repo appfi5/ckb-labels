@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Hal Finney",
+  "symbol": "HALF",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q59dkd56dl3hn8gxd366yyfel3uy7h2hu6ylglht8n9ss6fv65ltcqqqqqqn0u8mr",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xb24fd72c07e3ab49ad2aed3ca36eb299167f588438541c49c64d31471d9dbab6"
+  },
+  "typeHash": "0x8b36c758f157d9e33927f9f8caf5aec16212da62317617ce09ec542ad242b49e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

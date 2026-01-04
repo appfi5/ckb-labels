@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Neuromancer",
+  "symbol": "NEUR",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq89t88evqll0g9pxdusvn7rwg34evpegrgx9dnrr",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x9a895b3e589bfe4a413413fb7a987a2544ce3951cc128310b9870ae15900049d"
+  },
+  "typeHash": "0x370968dbce4a9e96aee0596720bc533210f33f3c02a483ca0b01b4fa9a2de89d",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

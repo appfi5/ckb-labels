@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Wizard",
+  "symbol": "ward",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqqgu0ufdcs2ufkvt8m8wlz8e42wzwuumcslzw6knwqjpkq836qw2ykl88u4",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xfebd256a8aca6fe62a4b00f3d131d4fbcca471a4fae9494e8006cb7bc7e31366"
+  },
+  "typeHash": "0x5a8d4417334485d255b16cf2767a2e949a70588740dd90ee080820cce275def6",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

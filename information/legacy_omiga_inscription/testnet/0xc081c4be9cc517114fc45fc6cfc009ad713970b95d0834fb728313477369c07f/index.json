@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CTT",
+  "symbol": "CKBTOKENTEST",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8rycfqh36wqxmslm587hfg26umu73z92um66v3y",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x3342987ab00e214413b9a3b4f869d38328c3b9e12c82508bada8c4944f65a204"
+  },
+  "typeHash": "0xc081c4be9cc517114fc45fc6cfc009ad713970b95d0834fb728313477369c07f",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "dot bit coin 3",
+  "symbol": "DBT3",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qpa0qahsffdrsxtuu97tc2u2wzwaeel3dc7fjjm3vurvtggrggqquqgxd2rexe039umz2g47a5auv8g0v222sj0vqqfdhvks",
+  "type": {
+    "codeHash": "0x98701eaf939113606a8a70013fd2e8f27b8f1e234acdc329f3d71f9e9d3d3233",
+    "hashType": "type",
+    "args": "0x3d0166bcb15f51562dea3b0044c6141660824dc3fc92663545d1b0898c7f0c29"
+  },
+  "typeHash": "0x5c9e4f58de614e46541d078c957c0dfd2727a7022476c919c59d00cadbae6330",
+  "description": null,
+  "udtType": "xudt_compatible",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

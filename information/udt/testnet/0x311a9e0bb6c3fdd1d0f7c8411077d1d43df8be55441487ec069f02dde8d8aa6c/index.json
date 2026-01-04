@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "MUBTC",
+  "icon": null,
+  "decimal": 1,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqv6nd3ce6k4fr3gt4gd772yxgu0q3nlekq94qx5l",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0x94dc982a53fcc0ec9244140570f817d9ab6cc82f74c7d10a125e4858ad72e181"
+  },
+  "typeHash": "0x311a9e0bb6c3fdd1d0f7c8411077d1d43df8be55441487ec069f02dde8d8aa6c",
+  "description": "for mock",
+  "udtType": "sudt",
+  "published": true,
+  "email": "test@gmail.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

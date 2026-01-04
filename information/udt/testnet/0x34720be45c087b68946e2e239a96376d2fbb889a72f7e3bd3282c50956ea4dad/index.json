@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "UFO",
+  "icon": "",
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qqv5y9k3qetmhqakdzychtdq2dxhq8qucpmnk53s24k0e3l6nz5xsqspqqqqq7mjyvqsqqqqqqqsqqqqqqqqqqqqu86s2qqqqqqqpeqt2spqqqqqqqqqqqqqqqqqqq9qwf8pszgqqqqqqqqqqqqqqqqgpchxrckt1qqv5y9k3qetmhqakdzychtdq2dxhq8qucpmnk53s24k0e3l6nz5xsqspqqqqq7mjyvqsqqqqqqqsqqqqqqqqqqqqu86s2qqqqqqqpeqt2spqqqqqqqqqqqqqqqqqqq9qwf8pszgqqqqqqqqqqqqqqqqgpchxr",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd9d269e65ae81cb5bcf8d5348e908697748ef327c516c52f01801ecb264b2ab300000000"
+  },
+  "typeHash": "0x34720be45c087b68946e2e239a96376d2fbb889a72f7e3bd3282c50956ea4dad",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

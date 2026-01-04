@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "DAO",
+  "icon": "",
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qqv5y9k3qetmhqakdzychtdq2dxhq8qucpmnk53s24k0e3l6nz5xsqspqqqqp7mnyvqsqqqqqq9qqqqqqqqqqqqqe2drkqqqqqqqp6rkfqtsqqqqqqqqqqqqqqqqqq9qwf8pszgqqqqqqqqqqqqqqqqdllyqyckt1qqv5y9k3qetmhqakdzychtdq2dxhq8qucpmnk53s24k0e3l6nz5xsqspqqqqp7mnyvqsqqqqqq9qqqqqqqqqqqqqe2drkqqqqqqqp6rkfqtsqqqqqqqqqqqqqqqqqq9qwf8pszgqqqqqqqqqqqqqqqqdllyqy",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xe456691f9f497583d4bb3488308f1633561359818eb3f2c45c494fc975d91e8200000000"
+  },
+  "typeHash": "0x1de9b4d0ac698604d4e8d4bfc72188bc3928924f0b98581123fca00bed6f754a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

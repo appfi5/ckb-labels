@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "llcldl",
+  "symbol": "LVLV",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x208d3cba9a797242c747adf38e11809db6f19caf50df7ff2d6c943b6011f31b3"
+  },
+  "typeHash": "0xb9693753910793d82d92ef55facc22a2969ec49d75eafef8e21daaebd7879c65",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

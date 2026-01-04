@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKB i",
+  "symbol": "CKBS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq84jvusvtu44ppwjkyffn4490qxdmpccv58spnk6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x41fe71798f4affcc95ca34b8f76fd36ef1f5c78a480ecb9cb4307935f6f20d82"
+  },
+  "typeHash": "0xbe02d4c20a0a78ed2cab7cc7719303ea09ccf57381b273bd89452a4dc2c34668",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

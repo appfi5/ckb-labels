@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DLC",
+  "symbol": "DLC",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qnll9ftlp25n3s7zr9zeaanlqdf6ase52eht6syky0fvy8fcsughyqqqqqqudu4yp",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa7e24424064c596d0ddf1ada493d2166a40b7eca80364ea90d129cceb2e672ba"
+  },
+  "typeHash": "0x79ade26671cb6b40d4e3c35dbb1e25f62afda64a04119f3ef636f459071751fb",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

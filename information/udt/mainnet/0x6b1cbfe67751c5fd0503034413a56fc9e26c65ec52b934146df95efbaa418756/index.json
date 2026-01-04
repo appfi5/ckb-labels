@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "STAMP_SRC20_LeapX",
+  "symbol": "STAMP",
+  "icon": null,
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqpewzmcx8nry9tdq49j2hxd32v8vw0a6cx2ngpe37mpsn30896ncymyvjzt",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x14d4e97bface56aba254315b4ae114c760fc184277071ffcb29173a54777553c"
+  },
+  "typeHash": "0x6b1cbfe67751c5fd0503034413a56fc9e26c65ec52b934146df95efbaa418756",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

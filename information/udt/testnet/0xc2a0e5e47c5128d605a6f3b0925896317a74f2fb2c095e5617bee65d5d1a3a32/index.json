@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "XUDT Test Token",
+  "symbol": "UTYY",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0axtygq3wtne6qjwgldxh56z7awwlffvgyqjkaj",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x32d568aec547a0e5f0033b2d759eec657149e1cf2abdaae7a18c7cc4979e17fb"
+  },
+  "typeHash": "0xc2a0e5e47c5128d605a6f3b0925896317a74f2fb2c095e5617bee65d5d1a3a32",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

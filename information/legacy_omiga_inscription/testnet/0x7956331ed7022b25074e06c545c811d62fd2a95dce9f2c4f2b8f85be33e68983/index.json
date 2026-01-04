@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "zzt",
+  "symbol": "ZZT",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqx8jp7uvuf7jtqtgld422flqnxqspzcajugjmvjz",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x791754213ac583885f8f2b0334f45fdbb88e19a8014f1ed9d9990d3c7547971a"
+  },
+  "typeHash": "0x7956331ed7022b25074e06c545c811d62fd2a95dce9f2c4f2b8f85be33e68983",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "drver",
+  "symbol": "drver",
+  "icon": null,
+  "decimal": 7,
+  "tags": null,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x25570b63d262b021d6e1fdd4f6bfd1d2eabb5caf1a840a5dccea9541bccb2646"
+  },
+  "typeHash": "0x54dd527064b6007c90779ae12cba2fc0080b7b6d98d10a6ba0d86be05ed9cf83",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

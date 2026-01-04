@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TTRD3",
+  "symbol": "DDTR3",
+  "icon": "",
+  "decimal": 6,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3td6vutkcvtap0hmp80aw5p8kqsm9trmyl46y78gy030kpjfdcqsqqqqqqjzjsu0",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xf17a25ffb22cc859dd85113f790848853829b4a91c37423ae2a8ffaa05a35085"
+  },
+  "typeHash": "0x1464670289e22c1b57b96224781a2e679deba759e5fddeb53cfe62ea083b5f69",
+  "description": "zjcaee-record",
+  "udtType": "xudt",
+  "published": true,
+  "email": "jianglei@rivtower.com",
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "gujbgfv",
+  "symbol": "gujbgfv",
+  "icon": null,
+  "decimal": 3,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qk2e6yh2cg9sh3altlvd6fmlupdvvac7k9lg76asgpjzv8wm8dxxyqqqqqq5h2cj5",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x088558e1c39d66e2123f88ee8e4ca01d27827ac3a6fbb6144cc064b0690cafcf"
+  },
+  "typeHash": "0xc7f9b0511a3bfcfa870552debe752e64b8f0b413e44d48f0ce0adbeed08f2c1a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "hhub",
+  "symbol": "hhub",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqphmrmfm7yyzx06cgy9ujcmg6u5s3snq3uc9kezuevg6p9ancpvs77dcgew",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xf9a00e8fe2813850ebd04b4624aa4fa65e957ccd120cb943200d0873c957f663"
+  },
+  "typeHash": "0xd51a42c93b80c5bb78ee392de8180ce34c3b4af8162628f66cbb1e63411dcf2d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

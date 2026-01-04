@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "cusd",
+  "symbol": "cusd",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqh0rncp7t6xwn7pfyul80mjlffkpwy6ryre9yepljj955a4kfkunudeknc6ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqh0rncp7t6xwn7pfyul80mjlffkpwy6ryre9yepljj955a4kfkunudeknc6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa9f3d6d30c1b3fa3fedaf7fff75e6383e28c07ee651df26e78e68373a44b48f8"
+  },
+  "typeHash": "0x5cf06fb154d2f160c55536706731f7f483a99330242554a18db39c61ce4e0309",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

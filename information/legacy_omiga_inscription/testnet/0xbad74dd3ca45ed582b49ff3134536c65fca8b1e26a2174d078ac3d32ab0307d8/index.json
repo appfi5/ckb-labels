@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Tick",
+  "symbol": "SILT",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9qm65sur0lmgra3fy7dhrpl5flvxfqlqgg0xaat",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xf2c7d408921b2f5d89664264c9286a01116d1136e6358c1ad02ba9a66a7fc555"
+  },
+  "typeHash": "0xbad74dd3ca45ed582b49ff3134536c65fca8b1e26a2174d078ac3d32ab0307d8",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Spong",
+  "symbol": "SPONGEBOB",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9qx20je9sjs4ap38uwkm7wycrrv06qdhcje0f67",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x903b2fa2e27a633e60ac6846e117b6957da6a6402a73329426904d5014697aa8"
+  },
+  "typeHash": "0xf90e7a7e356fc65295ee2d04743ad7a02cb2049a0110a55ea0360bd792800710",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ckUSDT-Test",
+  "symbol": "ckUSDT-Test",
+  "icon": "logo.png",
+  "decimal": 6,
+  "tags": null,
+  "manager": "ckt1qj6z7a4cxwj0uedtut2p9luzspsr7nrts05c3qttm6k92f448lu2f70eejqfwq2jne0rjmeddrxm8l3w8cv7ua9rm02cx869e58nqq4ms7jeklq4kx67dx4tt0hpps85u7gwqxjaj8klj8nau42myvh3fxh732uj4zf65feswvd9eq",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0x3488f0e6ba1e573fd0a315b13dcd5e58755dfddbc44d0f601b34ba56f249e47f"
+  },
+  "typeHash": "0xf6f245958d6975f23bd9b7c5bb21002a8cf28c01071f998856d187a37e16b2f8",
+  "description": "",
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

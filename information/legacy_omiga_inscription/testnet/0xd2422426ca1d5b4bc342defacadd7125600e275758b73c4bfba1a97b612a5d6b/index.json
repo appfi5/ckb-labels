@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Big usd",
+  "symbol": "BIGUSD",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8r49p8m8fmq7vvkllyr9hf2yh6w72q80qe78u7v",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x06978cad88e2322f3f03c567822fc4ad600074b4044ccf102cf840ad50ef3a89"
+  },
+  "typeHash": "0xd2422426ca1d5b4bc342defacadd7125600e275758b73c4bfba1a97b612a5d6b",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

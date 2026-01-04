@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Eusd",
+  "symbol": "ELIZ",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxykul4lqtszwuh2vhs48lvgvg80wmmr3u3g8hkx",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x8de04c213307b8b4ef6d254f96cac7989f0b715ab485a89f9da29bcba122f77a"
+  },
+  "typeHash": "0xe2cd9235082033747bc0b7174bb7f612e47e7746aa604634f1807ab888db5681",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

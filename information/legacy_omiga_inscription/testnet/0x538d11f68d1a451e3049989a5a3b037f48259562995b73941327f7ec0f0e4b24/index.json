@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "CKBCKBCKBCKBCKBCKBCKBCKBCKBCKBCKBCKBCKBCCKBCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCCKCKCKCKCKCKCKCKCCKCKCKCKCKCKCKCKCCKCKCKCKCKCKCKCKCKCKCCCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCCK",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9g5x636wgegl5ceyqjqnre0vm08dkle35yd5q4a",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x0ef7dbd6746808892b9e6b1646c4d3417f33798292639f969df2091c03ea91b9"
+  },
+  "typeHash": "0x538d11f68d1a451e3049989a5a3b037f48259562995b73941327f7ec0f0e4b24",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

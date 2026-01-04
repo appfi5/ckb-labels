@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "bugd",
+  "symbol": "bugd",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqq5kjpfg0j2s96htgpdp35lrwk03wfu27hwr0u4cdr56gxvztdre9fclc95",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x6d257a9edab41652b4d49732ef90c5f153bae374bbc1adac22b30ad5b2b99b96"
+  },
+  "typeHash": "0xbea8eebd84e7eac8f4547b3387288e5fa669ca0a16595d42c13b871a7c4f45c5",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

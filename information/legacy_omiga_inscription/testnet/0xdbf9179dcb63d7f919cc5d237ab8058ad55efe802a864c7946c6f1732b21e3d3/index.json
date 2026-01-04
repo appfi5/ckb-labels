@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "MIRACOIN",
+  "symbol": "MIRA",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9jgn0lztg69wrk2lxngmtcfrdk2h3n6juxmeqj2",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xe76ee1b9b7aaaf8096c2650b524f6b9db6d6ac59261bb2bb3b79d12236ba6db6"
+  },
+  "typeHash": "0xdbf9179dcb63d7f919cc5d237ab8058ad55efe802a864c7946c6f1732b21e3d3",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

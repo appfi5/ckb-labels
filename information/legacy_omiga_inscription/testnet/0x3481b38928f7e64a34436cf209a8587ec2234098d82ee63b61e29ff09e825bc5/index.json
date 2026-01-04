@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Spyrok",
+  "symbol": "SPK",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9n9xr453j4jugdsrvqzkgyws3e68c4kzspwn3tk",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x519b2a2686f378bb7dad4c105c914a69e11cd293f25fee0f815b3dc1bc259a11"
+  },
+  "typeHash": "0x3481b38928f7e64a34436cf209a8587ec2234098d82ee63b61e29ff09e825bc5",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

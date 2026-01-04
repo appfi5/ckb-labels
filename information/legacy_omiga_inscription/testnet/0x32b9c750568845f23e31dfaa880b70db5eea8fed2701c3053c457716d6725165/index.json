@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BINANCE KDS",
+  "symbol": "KDS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqx65nmkppnplszpypdunrl6e99q0unm2xqqjzjnc",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x77c7deb04f974fd3a09cc53edcc384798f5c871a72cbb887b1d0c38d358a8c50"
+  },
+  "typeHash": "0x32b9c750568845f23e31dfaa880b70db5eea8fed2701c3053c457716d6725165",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

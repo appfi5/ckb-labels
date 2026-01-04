@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DRG04TEST",
+  "symbol": "DRG04TEST",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqju0267w0qm0f4n3dcz88u99k7skpcnjghjcqdm8quw4rl5alwpcq76squt",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x200df8c2e990cf175a5194ae8f29c0dafbcb3484da9cd41c414ca5a478abc35f"
+  },
+  "typeHash": "0xf5c460aa98611967ee1fb2758678c13858fe31ddd48ea11c7c9f6aa6a0eb46b3",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

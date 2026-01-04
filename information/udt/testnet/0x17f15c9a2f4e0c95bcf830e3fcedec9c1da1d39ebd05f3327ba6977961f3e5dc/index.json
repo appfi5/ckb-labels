@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "LLPO",
+  "symbol": "LLPO",
+  "icon": "logo.jpeg",
+  "decimal": 6,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qj0p4vmsyde0k85k09yny0gt5gt3srpsyye2c0vrr6rllvcneth25qqqqqqq5wku7",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x5bf7faae90a4048c0c59c55066d1bf5513d4fdc415b72bfe6ee3e5699316dbe0"
+  },
+  "typeHash": "0x17f15c9a2f4e0c95bcf830e3fcedec9c1da1d39ebd05f3327ba6977961f3e5dc",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "dev@rivtower.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

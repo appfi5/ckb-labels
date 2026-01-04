@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Test xUDT tokens issued by Alive24",
+  "symbol": "ALIVE",
+  "icon": null,
+  "decimal": 6,
+  "tags": null,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqs7yqllnuyk94cmyjc56wju92wvmu74pwph60laux0dqvah5n5s5uwy53du",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x296be9e710c02bfe8bd8771f29ce8f250d4aebc0158893f8c5267940bef389aa"
+  },
+  "typeHash": "0xe451448787d9135a6aeba3b04049a0cc6ba7a66dc138984785aaaa56d2f27b37",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

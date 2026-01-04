@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "lodmemo",
+  "symbol": "nuomi",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqpta2ztzqsjdxpfj96mw2ceecpncfred3srxxrfprec62v44zmqn67tey3f",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xe9f07f2d1194741f7ccf4518ce8ed3f1377fc877794fe01da16a42d8e1b9c746"
+  },
+  "typeHash": "0x62a2d2d7ee654d03d5a50a197aa945298e37b595fbaa8fc306e242824ee9836d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

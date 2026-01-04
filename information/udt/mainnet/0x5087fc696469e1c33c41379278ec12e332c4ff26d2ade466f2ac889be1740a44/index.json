@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CTB",
+  "symbol": "CTB",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwzer8qp4wy5l8vr6k0985texrppjral7g4scwxp",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xcbc07716f9ad92a5ecf334ef5b7d7c48a2328abc4f740fa898e152a04f7452e5"
+  },
+  "typeHash": "0x5087fc696469e1c33c41379278ec12e332c4ff26d2ade466f2ac889be1740a44",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

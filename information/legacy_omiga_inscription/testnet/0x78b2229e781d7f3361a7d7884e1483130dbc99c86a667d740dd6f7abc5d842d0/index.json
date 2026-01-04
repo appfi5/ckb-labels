@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "New SDK test",
+  "symbol": "NEWSDK",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgpv3se7nm9mjen690t26r3zfccuxkwzme5qqenycef",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x30faf541061cb0fbab773ea1d4725d9ca32f868a3ed108787b05db49a2b95fd8"
+  },
+  "typeHash": "0x78b2229e781d7f3361a7d7884e1483130dbc99c86a667d740dd6f7abc5d842d0",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "JJJ of yr Group @3j_rgbpp",
+  "symbol": "JJJ",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgt4s2dqt6ncv4a6qcdal9afh4dpzjzdfq9djvak",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xfde852320d476c033eb4bc3d26cd039f10de83b1d932bd6dfad4cc725b490487"
+  },
+  "typeHash": "0xb06fc67472810bbd2e3b30a886590c64fb65025000a5fcb85f719c717dc97c68",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SAM",
+  "symbol": "SAM",
+  "icon": "logo.png",
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3zda0d2x3047ngnfaqk0md2tm5u538q4hvhvk8nzjs5xqy04ptt5qqqqqqkfm2dl",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xe9fff91e16a5cf0e2073dffe0372034197e961c3fcda88dbd641a5f107f98727"
+  },
+  "typeHash": "0xd949f8ab80690f0492d855bdad637c082658e84d7af262067d892a4518f9f80e",
+  "description": "SAM Token: A meme token inspired by the mysterious disappearance of the Findora Fractal CEO, $SAM symbolizes overpromised dreams and vanishing acts. Playfully elusive, just like its namesake.",
+  "udtType": "xudt",
+  "published": true,
+  "email": "telmoecdsilva@gmail.com",
+  "famous": false,
+  "operatorWebsite": "https://x.com/wheressh"
+}

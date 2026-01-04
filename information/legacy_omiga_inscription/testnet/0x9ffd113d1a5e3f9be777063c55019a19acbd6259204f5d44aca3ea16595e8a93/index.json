@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "QUIMAC",
+  "symbol": "QUI",
+  "icon": null,
+  "decimal": 7,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9ty03fgt9k5usx8k2q9gkgrjfwngk0h0cy5pr95",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xcca491542fdf9d498aba77f38d4914aa7485c72496b40664e07d1f8615743d15"
+  },
+  "typeHash": "0x9ffd113d1a5e3f9be777063c55019a19acbd6259204f5d44aca3ea16595e8a93",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

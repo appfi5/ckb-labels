@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Mama coco",
+  "symbol": "COCO",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9h8w63mxe7ep22txcghrygayyg8gc2r0u0e52e4",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa104384a22f959cfb76ca958760e15563f92e32b09675f5d8df4b992b716f9a0"
+  },
+  "typeHash": "0xc4498909a1f59bf053461c0c9003c153c602533c24f72e84ed81d72289e4c7e8",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

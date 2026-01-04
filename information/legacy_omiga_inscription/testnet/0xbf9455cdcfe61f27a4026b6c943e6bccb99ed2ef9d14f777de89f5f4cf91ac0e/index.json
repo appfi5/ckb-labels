@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Here is a description of the Duolingo Av",
+  "symbol": "DUOLINGO AVENGERS INSCRIPTION",
+  "icon": null,
+  "decimal": 6,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyfs5pcxz6f47u67fqhekywvwxmcnmd7ugt40m59",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa21d2fc9e0312ba819c8c8b910da29424002fab16168c502a8b1f3fab7eb687b"
+  },
+  "typeHash": "0xbf9455cdcfe61f27a4026b6c943e6bccb99ed2ef9d14f777de89f5f4cf91ac0e",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

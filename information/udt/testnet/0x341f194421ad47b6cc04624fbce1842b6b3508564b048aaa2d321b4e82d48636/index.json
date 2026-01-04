@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TT5_Name",
+  "symbol": "TT5",
+  "icon": "",
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgrpvgdswj3zef9lq3wdqcqq09qhv64rys9t8q52",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0xd55516fa17f2b78d3a18fbf110085c6519ebc974ba948348933d35727ae5d6be"
+  },
+  "typeHash": "0x341f194421ad47b6cc04624fbce1842b6b3508564b048aaa2d321b4e82d48636",
+  "description": "Token de pruebas TT5",
+  "udtType": "sudt",
+  "published": true,
+  "email": "rauxbc@gmail.com",
+  "famous": false,
+  "operatorWebsite": "http://tt5.com"
+}

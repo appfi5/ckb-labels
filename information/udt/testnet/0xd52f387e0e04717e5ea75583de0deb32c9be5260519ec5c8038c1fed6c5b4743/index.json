@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "XUDT Test Token",
+  "symbol": "XTT",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwa25lgn76qzhszdqt9fgh7gayanyl4xwszray4e",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb986a18a9ea38cbfc08c2152124c3ca5f8df0d5b38aa23ce465df559ec4ff724"
+  },
+  "typeHash": "0xd52f387e0e04717e5ea75583de0deb32c9be5260519ec5c8038c1fed6c5b4743",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

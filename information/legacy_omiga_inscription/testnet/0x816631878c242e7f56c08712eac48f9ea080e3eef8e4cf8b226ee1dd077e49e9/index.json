@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "MNB",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyyvpqdyvx5km8l3ez64853ceucanxnwugtx3l89",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xac1c4fee090ac81eb3ac295f7f6ba52326703124868d0fdd8f7f0aa0450757cd"
+  },
+  "typeHash": "0x816631878c242e7f56c08712eac48f9ea080e3eef8e4cf8b226ee1dd077e49e9",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Unique BBQ TEST",
+  "symbol": "UBBQT",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf9umzklmetha4et0ndxuwj7x3n93jf88sqws3a7",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x0433fc9397082830fee912cbffc9091bd95c33b9c2675925c5a83281cd03c47d"
+  },
+  "typeHash": "0xde4cba26c69a1d0927c323758d1225ae7b0cea7161e8f3728736a1d677de1471",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

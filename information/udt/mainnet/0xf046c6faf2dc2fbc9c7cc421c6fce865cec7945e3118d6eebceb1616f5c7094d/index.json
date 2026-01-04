@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Memes Street",
+  "symbol": "Memes",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qnaetqyp4scezwfunclq0rgkrmswvnry025y9jc40al2pvvu7ruucqqqqqq8njv9a",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x2b01b87c71b8f3c9d6a88be04df3816f8674ecc6ed3eb238693540c20d6a5adb"
+  },
+  "typeHash": "0xf046c6faf2dc2fbc9c7cc421c6fce865cec7945e3118d6eebceb1616f5c7094d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

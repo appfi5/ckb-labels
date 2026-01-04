@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "BTCS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq84jvusvtu44ppwjkyffn4490qxdmpccv58spnk6",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x50b6574ca2af40a6ef3bffffc5a3c38eaf9e6635d476a52f3e6cd5273a1e1c9d"
+  },
+  "typeHash": "0xe4d1082653b0cff65b32738129d9626413bb9ae2ad9dac8894792f86bb09774b",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

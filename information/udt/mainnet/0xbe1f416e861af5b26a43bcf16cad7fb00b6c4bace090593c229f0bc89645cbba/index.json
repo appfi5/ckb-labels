@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BTC2024",
+  "symbol": "2024",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqplnpmaqx9rxnymnvsz5zdxrc3257yqw8xhswsrgshpqw27gmy2q2f24re3",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x541c338758f87399fd64856e6d78b771c2723ca1a6dbd7a60cacd497e8df5622"
+  },
+  "typeHash": "0xbe1f416e861af5b26a43bcf16cad7fb00b6c4bace090593c229f0bc89645cbba",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

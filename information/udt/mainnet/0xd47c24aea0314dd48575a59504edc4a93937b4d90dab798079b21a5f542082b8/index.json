@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "CKBro",
+  "symbol": "CKBro",
+  "icon": null,
+  "decimal": 0,
+  "tags": null,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq4mxp7jcjpe9fprjq4u65k0z056fq66vsu67z2q7ltm8kmwxr6nnunw4ssa",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x596f3f201aad44bee11ce5e7daf04bb6f816b6b38fb1eb5f6fc0a57d0a4e9d12"
+  },
+  "typeHash": "0xd47c24aea0314dd48575a59504edc4a93937b4d90dab798079b21a5f542082b8",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

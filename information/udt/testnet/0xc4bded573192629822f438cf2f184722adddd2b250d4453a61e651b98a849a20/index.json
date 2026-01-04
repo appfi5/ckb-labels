@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TOT2",
+  "symbol": "TOT2",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjhpztzkd2j9877k5lqy3kvr35ulh6awyr00v7szj3r0awlncyzfcqqqqqqml3mhe",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd501821154f936336db99f2dbe1dd50a56fb230edc1f1401a2d0fd7fddc1d02b"
+  },
+  "typeHash": "0xc4bded573192629822f438cf2f184722adddd2b250d4453a61e651b98a849a20",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

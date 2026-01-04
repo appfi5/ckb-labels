@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Education coin",
+  "symbol": "EDU",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxvmtft9j6n5rfnj4970qwdr7mf5s8h7wvergv43",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xb616019c0a3950df2e194215484a3d1e2e2fe567c41a85c46b033535ed4a3f3b"
+  },
+  "typeHash": "0x7a26b774ca7519457152cbf849d1e7b0cdcc4b0c46dc8b3bf4b02c86a3f5e023",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

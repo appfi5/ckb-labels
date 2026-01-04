@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schema.json",
+  "name": "UTXO OGs",
+  "symbol": "UTXOG",
+  "icon": "logo.png",
+  "decimal": 8,
+  "tags": [
+    "rgb++",
+    "layer-1-asset",
+    "supply-limited"
+  ],
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgxqqqqq00gg7p7xrrmwejfsyu42vj0xn52cy9u7ckykwu5yh6teqv9vxpyxlnhp6",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x3eb8f805aa02ee7271698359ed6264f3329ab137c1b74f2ad881432fa2d437bc"
+  },
+  "typeHash": "0xa081c185b9df413416974d276818620c157740fb9f00ee600959814f5a5c2133",
+  "description": "UTXO OGs",
+  "udtType": "xudt",
+  "published": true,
+  "email": "UTXOG@proton.me",
+  "famous": true,
+  "operatorWebsite": "https://explorer.nervos.org/xudt/0xa081c185b9df413416974d276818620c157740fb9f00ee600959814f5a5c2133"
+}

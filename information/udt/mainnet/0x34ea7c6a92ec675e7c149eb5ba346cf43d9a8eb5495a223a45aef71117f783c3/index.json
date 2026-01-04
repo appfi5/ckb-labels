@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ondo",
+  "symbol": "ondo",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqp00tlpnt4tu6sxaunj972384zf98pxhgq4pyrm445hfg3f4dvu8px3dk8l",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x85b4f19de6b45a6f947e6aa85e98c7b7c14bfb90c6fc1ce104f0bcf534a1b093"
+  },
+  "typeHash": "0x34ea7c6a92ec675e7c149eb5ba346cf43d9a8eb5495a223a45aef71117f783c3",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

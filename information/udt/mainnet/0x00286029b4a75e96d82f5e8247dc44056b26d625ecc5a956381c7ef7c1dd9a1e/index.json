@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-ordi",
+  "symbol": "R-ordi",
+  "icon": null,
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qtkxuet29htrf3e3vgrunx25y67sm00tln0wfjxjqgwj6j",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xf283825c247337e4c6048a24daa688570e0055ed18fa026ab169fe42e4b59e4c"
+  },
+  "typeHash": "0x00286029b4a75e96d82f5e8247dc44056b26d625ecc5a956381c7ef7c1dd9a1e",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "GIT",
+  "symbol": "GIT",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8zqewuk2gz0hk27dvkma9h0s4m8wx86xst27fe7",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xda83ac66814d426e591f578f5fee40bcec62b83a586a6a445c2851977354caa5"
+  },
+  "typeHash": "0x7f1561826bff3803181416aa66e4d54a78bd379436ebc12a3cc5c65e48c6d476",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

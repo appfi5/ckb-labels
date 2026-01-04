@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "MAMA",
+  "symbol": "DIA11",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0tz09sjt8e4mws46wq540r9qf9n3axewq7w6r3s",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xc39ac6f6c0c4d824052873ec1fcbbda6048f280b262f23901c53c34394a0fa44"
+  },
+  "typeHash": "0x136e32cd44a769ab083b2e78aa812f761579e5dea9c9ca62e1edb15db81c80ef",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BNT",
+  "symbol": "BNT",
+  "icon": "https://cryptologos.cc/logos/bancor-bnt-logo.svg?v=002",
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckb1qjfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjhcqqqqpqqqqqqcqqqqqxyqqqqx9l6dpjrvlncdcsgv3fwch68xe5segdg9zdaxxxwtum0dtvmlp35qj5qqqqqc8sv2xx5mnx3pkge3rx333xdjrvwpegerrsdp5gg6xx3fnxumnjdryxuukzd6xgcc5xtmauvj",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0x4192873b0a0aaeaa04372aa46ff2cd94a90ac1acaa7569458226febec4d6d5ed"
+  },
+  "typeHash": "0xb9f522c2f00109c462b264bcb450896f879bc0685f8ea1d713918acc6317ec30",
+  "description": null,
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "39",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq96qahwwluvssx0xq6fehd5h6wggpwntpucttkha",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x0eeb1af5426fdc77a61937c2dd204cd9b9c30cd44ce977665fc7a01ba5a63867"
+  },
+  "typeHash": "0x3ea74ac12b493ad3816786eae05e9d3b695cb592e3bcd294a091aba82dbb4ac6",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

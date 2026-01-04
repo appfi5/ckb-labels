@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Wrapped USDC (ForceBridge from BSC)",
+  "symbol": "USDC|bsc",
+  "icon": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=002",
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqtfudy7ndgjymk7020nj67qhjutzs5t20jeaks6smuk99jmrsr4msz2sqqqqrq7pcg9pnwdnpx5ckxceex5cxgwfcxgeygd3cvgurxej9x9qkgwfhggenysmyx5urqeqp9kqjk",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0xcedd0f67f2d218ab992284ab343c2e729d2a124a1612592deaa9f8b8f8a581dd"
+  },
+  "typeHash": "0xec426c6b32073eaadb2be5c843759863bc704503aab12bcb60994270e5831d01",
+  "description": null,
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": true,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Joy MEME",
+  "symbol": "MEME",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8dj8mz65c05qtmc2xnyp7surr8jc8hsa5c9feap",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xf1ac55387b0f341ba337ae2384e3c7a6e4d8ce2326b4513a2743cc72c24a08be"
+  },
+  "typeHash": "0x600c9a7b4520d6217385f2edb01391850a62d418e623610a746e092cbbb1bc29",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

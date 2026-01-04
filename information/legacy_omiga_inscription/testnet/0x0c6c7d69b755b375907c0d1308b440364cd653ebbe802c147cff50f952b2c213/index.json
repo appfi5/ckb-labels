@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "should btc",
+  "symbol": "TBTC",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqx6hm8qe875w4yqc220jckf7j0erkv9anqrw8l9a",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x1cddc6fe52b0d8ebb59e13b3c7d9107d41dac374f745ef5f2cc5e12fc62d83f2"
+  },
+  "typeHash": "0x0c6c7d69b755b375907c0d1308b440364cd653ebbe802c147cff50f952b2c213",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "merlin chain",
+  "symbol": "MERL",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqpdafrv5l0et5tq4h3yu5lhxkyrmurpvzcv2zm9fnu0v6mr4mfs9hq95m5d",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x758a905c566bfbfd08cf97f5e3fd79dfbf5c67938d60310d24d0bcd8154367a5"
+  },
+  "typeHash": "0xc88ac69b849581581e0307d9a53c0599c6ba0375b435bad0cfb7688e7ecd25c4",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

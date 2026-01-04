@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "SNX",
+  "symbol": "SNX",
+  "icon": "https://cryptologos.cc/logos/synthetix-network-token-snx-logo.svg?v=002",
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqchlf5xgdn70phzppj99mzlgumxjr9p4q5fh5ccee0nda4dn0uxxsz2sqqqqrq7zrxqcnzcfhxdjk2wp4xumyvc35xerr23f3vv6nwdf3vdqnxs3egejnqctxxfsnv3ssn63ks",
+  "type": {
+    "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",
+    "hashType": "type",
+    "args": "0xb31800b3c908eaf217a982cb2a0fb8df7ac047485c432634a079a8c158339020"
+  },
+  "typeHash": "0x8ee7351601efbaf209c028e334f87e37bc87014df9c3888d06a084240e76fa99",
+  "description": null,
+  "udtType": "sudt",
+  "published": true,
+  "email": "ckb-explorer@magickbase.com",
+  "famous": false,
+  "operatorWebsite": null
+}

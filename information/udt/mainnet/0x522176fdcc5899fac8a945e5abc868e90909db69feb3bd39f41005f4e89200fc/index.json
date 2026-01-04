@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Lemon Wallet Token",
+  "symbol": "Lemon",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqpch82txp0eljngyxx3cvqluw64umsx8wuct30937l5lg3euhu58mm0f9f2",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x66d422197c0e823b57cfe445d2e223e87f18ab46df2950c5e8e46795f676c200"
+  },
+  "typeHash": "0x522176fdcc5899fac8a945e5abc868e90909db69feb3bd39f41005f4e89200fc",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

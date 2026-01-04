@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "T",
+  "symbol": "T",
+  "icon": null,
+  "decimal": 2,
+  "tags": null,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqn0g5h2st7ya204ve6ahwepskvplqhflrvmj6yrvcnufxunmvpsjg0shujx",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x608ec41e526e21aafb3e6b2cfec72f4334d9c660410cb3b184017622540cb03a"
+  },
+  "typeHash": "0x2d876f09723d40d0f7c5dee3f9ecc0385f21e1043813c54ecc63c377a7ef2573",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

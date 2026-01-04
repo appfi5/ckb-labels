@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Stable++",
+  "symbol": "BTCPP",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqg47radhdj592lsf77x0x95m328yf40thslxr4tj",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x6d0cc2e3a8059f36dbee473e14b2b05d19a4d69f5bfd2a7abdc71fd32eece546"
+  },
+  "typeHash": "0xcc14aba04f0b03a5df5ef2cc2a163ff34c35863fbd65cd137aede0fb40346f66",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

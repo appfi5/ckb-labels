@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "tengli",
+  "symbol": "BTC2",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqpyruyj8n0pt7ava094dq9lv4kcgdjkstyulv8dxd4hr384gr38nj2l926e",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x61f04ac5ee5aaf449f192ddfe02224b555f80fb1f6486a6238a154703968a4c3"
+  },
+  "typeHash": "0xef9e22f6607b0c2a6ada1cfc721fc3acdba533b2f5d9db8794d45e08d208a843",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

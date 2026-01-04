@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "oh fuck wen mint @nomadland",
+  "symbol": "$ofwm",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqv3c7lyjlestyez87l0cunstal0wufscxckukrxn",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xfadc10bbbb8ac098c8a8aa962b67264dec50e64befaffd7225a995a8db04db4f"
+  },
+  "typeHash": "0x6232dec8ea13a4f04b3605ec1e55b769a8d3aacbf7e508bfe6fdc982ab1aedd2",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DDL test token",
+  "symbol": "DDL",
+  "icon": "",
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2gfzslz3we2vckmhyp2trpetzlupgk92gq7d4h7",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0x9961b21d7bff8617f8f28724ea2b19486e8401d8c8517b836c56ea31259a0105"
+  },
+  "typeHash": "0x2c294c757d5aadcaff669f6be3b0af1fe3ae436780cfe63b4b872ee4e7e05776",
+  "description": "DDL",
+  "udtType": "sudt",
+  "published": true,
+  "email": "testDDLtesttoken@gmail.com",
+  "famous": false,
+  "operatorWebsite": "https://moon.io/"
+}

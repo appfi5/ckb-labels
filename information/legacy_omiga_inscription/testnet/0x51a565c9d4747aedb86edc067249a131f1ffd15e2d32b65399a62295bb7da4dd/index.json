@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": null,
+  "symbol": "PPOP",
+  "icon": null,
+  "decimal": 4,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxcqljg5dlmthxjjswlvkmzzuh3z8wyamgvuu8uc",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x0bf6f7a66089a0b256f3a0864ce830efbf48605507527f4c7bffa1ffc70b0ea7"
+  },
+  "typeHash": "0x51a565c9d4747aedb86edc067249a131f1ffd15e2d32b65399a62295bb7da4dd",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

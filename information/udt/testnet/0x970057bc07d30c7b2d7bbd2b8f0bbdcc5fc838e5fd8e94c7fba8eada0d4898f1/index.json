@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "NQBT2",
+  "symbol": "NQBT2",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqggqqqqqjwyqhp3wndtgmu3awq9ffq2pl2aqhallgq5ymvch5ajf43ap4wz0ejaqe",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x33f92ebc1a162751a43a9031eb528e8de40f7742a818c42e467ce18ad8c3feae"
+  },
+  "typeHash": "0x970057bc07d30c7b2d7bbd2b8f0bbdcc5fc838e5fd8e94c7fba8eada0d4898f1",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

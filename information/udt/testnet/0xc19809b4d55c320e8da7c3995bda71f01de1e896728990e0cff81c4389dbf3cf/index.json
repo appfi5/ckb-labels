@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DETQ",
+  "symbol": "DETQ",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd6da4b638de3b735e2e7496ade9eb831cdecffff3c55e753dc78ab6484805550"
+  },
+  "typeHash": "0xc19809b4d55c320e8da7c3995bda71f01de1e896728990e0cff81c4389dbf3cf",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

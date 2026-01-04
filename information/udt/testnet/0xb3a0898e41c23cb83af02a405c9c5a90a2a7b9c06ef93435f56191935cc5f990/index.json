@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DLE",
+  "symbol": "DLE",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5r4s950qxwlz6uz5d02s5pyac5m42agyv6pmtjv44rn68up0epd5qqqqqq7609cp",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd5d1b6a07a267aef8084916e2f5ae4240d9ef68a763e72db8d88da2788f3c488"
+  },
+  "typeHash": "0xb3a0898e41c23cb83af02a405c9c5a90a2a7b9c06ef93435f56191935cc5f990",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

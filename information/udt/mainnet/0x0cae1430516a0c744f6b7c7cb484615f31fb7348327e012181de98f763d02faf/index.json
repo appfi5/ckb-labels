@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "USDI",
+  "symbol": "USDI",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qnztc8sqdyguf9a5wetz5gc8syjuv8670jshpuz5x8p4srkpau9dcqqqqqqldrz74",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x8b98771e622300d748c193adbeccef78a9f86751e70d61cd3037a9aa83cc80f6"
+  },
+  "typeHash": "0x0cae1430516a0c744f6b7c7cb484615f31fb7348327e012181de98f763d02faf",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

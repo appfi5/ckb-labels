@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DECILM3",
+  "symbol": "DECILM3",
+  "icon": null,
+  "decimal": 255,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvhs7km6caktyc4rml9gz62502dpt7zkcgt6l3um",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd22c26ce6425566df45f3f634c45c709f511dea8ec5676b155e8dbe982397edb"
+  },
+  "typeHash": "0xaee3c8980bfb48fe04fc39fc58f113e8eb15c0bef4c26fb5c1531945ab957f3a",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "test for v2",
+  "symbol": "ttkv2",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x5b8c621a4aaa3bf89e2e57a2df39cf103c90334619956819548fcd819ff92dc3"
+  },
+  "typeHash": "0x488a5b9d117dd7a1c33fadbc539816b189fba3aa200c9687739522ec5a57bc3d",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

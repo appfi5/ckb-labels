@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "useful",
+  "symbol": "FUCKKKK",
+  "icon": null,
+  "decimal": 4,
+  "tags": null,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgpszw2jsrsuc3vhe0gxzezharp3e7mhrcwqqk0r605",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x69cb4f9261fdaaef27d7c8ab8d70195bee402712f6f433b766ab55cbf0dcdc66"
+  },
+  "typeHash": "0x30e0d7960c1ffd3f3bbdabbfdc462a3c357bd749e7290d58a30a54e289956a62",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

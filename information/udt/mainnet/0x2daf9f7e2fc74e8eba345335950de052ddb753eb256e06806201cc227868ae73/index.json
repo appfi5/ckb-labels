@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "BTCBro",
+  "symbol": "BTCBro",
+  "icon": null,
+  "decimal": 0,
+  "tags": null,
+  "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqk2l758et3j87gecefkjf4g7p4lq935rts4skrmxxemtdhfc98kfszp89md",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xc4ca7a0e844e2832348d1a7fe0311b8e3e73f0e624b91665ba0186acc530ff6e"
+  },
+  "typeHash": "0x2daf9f7e2fc74e8eba345335950de052ddb753eb256e06806201cc227868ae73",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

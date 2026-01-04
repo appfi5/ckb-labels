@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "NEX TEST",
+  "symbol": "NexTest",
+  "icon": null,
+  "decimal": 18,
+  "tags": null,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x55d6de353ab4dd0d9a10326b7868b92bac47da9e0822730114f9a73551fef0b1"
+  },
+  "typeHash": "0x1af9dc35b9c6ebbd164eef03ed8efad94b485f5ac1e8b3b8732fa2be7e3e218f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

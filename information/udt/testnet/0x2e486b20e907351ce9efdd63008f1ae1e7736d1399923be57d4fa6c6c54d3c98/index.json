@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "zz56",
+  "symbol": "zz56",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqqw5g062junjaqt27awmuw34uthkekq560zvq77hl2ht0dd07xm46dmfam7",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xf1d944f2f9e2a25217a85e93b676de8a207dbc63e0e6f057afafd1b878a312be"
+  },
+  "typeHash": "0x2e486b20e907351ce9efdd63008f1ae1e7736d1399923be57d4fa6c6c54d3c98",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

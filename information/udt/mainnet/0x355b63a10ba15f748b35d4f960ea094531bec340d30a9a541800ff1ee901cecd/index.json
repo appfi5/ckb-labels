@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "JB++",
+  "symbol": "JB++",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqqhxn2awznmtgl5dxw9g66uvfvraukwx5c6tjmcwvj9p9aw7vhq5u8f8nj5",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x9371498b9e9141b21fe514f175528243b5cac26d0e20b631c406e72f3455d72a"
+  },
+  "typeHash": "0x355b63a10ba15f748b35d4f960ea094531bec340d30a9a541800ff1ee901cecd",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

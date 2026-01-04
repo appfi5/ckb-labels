@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Dogg usd",
+  "symbol": "DOGGUSD",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9ga0rqx69fj35s8zdcy3589cytsk2ghtcp4kcml",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x2cce1ca2a61976cbdf93e3bb4b1b45d53e0a616aa6210efa0fb12ed8bf08ccfc"
+  },
+  "typeHash": "0xd3316ecba21c5d9f00133e1d73431ce85128b8512e8f5097c0e545b18f121ae8",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

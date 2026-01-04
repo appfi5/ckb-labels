@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "DYDX",
+  "symbol": "DYDX",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgfqqqqq89sxg8mn8escljmhpzyznjta86508mw6myg95257s5r0pr9taljhlfmdx",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0xb30480a12912c454e5234d58a268957d46a75e8dd4506586a56e717e8bbadbdd"
+  },
+  "typeHash": "0x5824a586b9a21af16fe4bd4269e4b526cedb47d4ca82e464864f6aa987a7b554",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Aws",
+  "symbol": "AWS",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy26shtqttrphzmj5pgffgp9l7yrkhjwlguczwm2",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xdbeef2cff547d461a44e5b5b830c28780eae135be3bb6b8fda67fb86a7a8b647"
+  },
+  "typeHash": "0xe83229a9bb686d13810f68465c5395ab4112fe7ddf0e989740ec49367a7e4881",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

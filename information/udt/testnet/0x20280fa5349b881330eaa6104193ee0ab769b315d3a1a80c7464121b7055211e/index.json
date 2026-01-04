@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "TT4_Name",
+  "symbol": "TT4",
+  "icon": "",
+  "decimal": 0,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtc02efeegasj5mcamjpxspv6hcap5ya9sz8cj6x",
+  "type": {
+    "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",
+    "hashType": "type",
+    "args": "0x775d1eaadf3ab7ec4bed52bc09f731c4566954d85aaf3e493475ce7b0a81801f"
+  },
+  "typeHash": "0x20280fa5349b881330eaa6104193ee0ab769b315d3a1a80c7464121b7055211e",
+  "description": "",
+  "udtType": "sudt",
+  "published": true,
+  "email": "rauxbc@gmail.com",
+  "famous": false,
+  "operatorWebsite": "http://tt4.com"
+}

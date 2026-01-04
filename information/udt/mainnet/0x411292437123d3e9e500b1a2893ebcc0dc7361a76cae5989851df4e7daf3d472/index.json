@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "love",
+  "symbol": "love",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqg3qqqqqqlc4cgcaax8wq379kpuj5xv4he8dcg784stsj0xzusyqugxuurmzlfa3m",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x260f5629db4767032194e121f7e0b38c70abed50e243476b46c5a8bbf45cb65d"
+  },
+  "typeHash": "0x411292437123d3e9e500b1a2893ebcc0dc7361a76cae5989851df4e7daf3d472",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

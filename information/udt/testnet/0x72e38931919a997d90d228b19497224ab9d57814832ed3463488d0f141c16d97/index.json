@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ttt",
+  "symbol": "ttt",
+  "icon": "",
+  "decimal": 8,
+  "tags": null,
+  "manager": null,
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa9f2d9d5af4cd77f024a91c4411dc98bf257cb4e2b698b4846007a528bacf470"
+  },
+  "typeHash": "0x72e38931919a997d90d228b19497224ab9d57814832ed3463488d0f141c16d97",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

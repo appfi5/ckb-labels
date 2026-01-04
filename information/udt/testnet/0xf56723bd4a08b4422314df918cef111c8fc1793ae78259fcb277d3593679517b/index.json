@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "exc",
+  "symbol": "EXC",
+  "icon": "logo.jpeg",
+  "decimal": 6,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q30d4u7h7zku2h94nknm45fsevzk3a3wplqq00skmkc0y3sh5a44vqqqqqqs0adgd",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x8585c543b92d717522d3a24651df733b5bcc889f69d5d1453b6a3974a719568c"
+  },
+  "typeHash": "0xf56723bd4a08b4422314df918cef111c8fc1793ae78259fcb277d3593679517b",
+  "description": "",
+  "udtType": "xudt",
+  "published": true,
+  "email": "dev@rivtower.com",
+  "famous": false,
+  "operatorWebsite": ""
+}

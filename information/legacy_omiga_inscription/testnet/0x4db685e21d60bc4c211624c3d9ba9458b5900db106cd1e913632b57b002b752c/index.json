@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "ZeroOne",
+  "symbol": "ZEROONE",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqy9p043c8q2nvc8uu876wa83uuweh7zg2uyvde7y",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa390171614041255dc72fa779eef47d8d70635353c4974c4b9b399ac47f9b51a"
+  },
+  "typeHash": "0x4db685e21d60bc4c211624c3d9ba9458b5900db106cd1e913632b57b002b752c",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Dhg",
+  "symbol": "JHG",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5scu444texk8yepnacncsz8cv900lrppnreh94387p55zrqyshwyqqqqqqcvmv6q",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xd493e0f0424085b7f67e3efe86a7d8cb4a50cdd0061a2c811817bb3870f1653d"
+  },
+  "typeHash": "0xd2e863ff7e4bae562d3ec50d128533b306e75f24e0222e39519b2cd1811b48f4",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

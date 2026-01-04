@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Color",
+  "symbol": "Color",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqp9eh0y69ns374qem20fzfk8fuzuu0v0k8ag85ej6uhx0jpegnkfknfdus8",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x6260493e6bb1346a065a320171530fe8c56676f2d28b8de88999eb4b59c57bf6"
+  },
+  "typeHash": "0x2f1794c791aab01c229085df9b2162715e01afe8368b01c25335b91bc5d1e192",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

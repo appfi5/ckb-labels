@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "NEXUM",
+  "symbol": "NEXUM",
+  "icon": null,
+  "decimal": 18,
+  "tags": null,
+  "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqkv9wuea9lnfpukkl3a8crsssm8cslnqkapnwkr4j78fj3f9z0mgc8657cf",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa4d44407f13523152e0a4f61c38de5477cc439e456308d25f34499d314021fb0"
+  },
+  "typeHash": "0x015b16ec1ca7af23552f1e7df583ad1f95543eeb6ddea9bb0b1e800e63cfc4aa",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

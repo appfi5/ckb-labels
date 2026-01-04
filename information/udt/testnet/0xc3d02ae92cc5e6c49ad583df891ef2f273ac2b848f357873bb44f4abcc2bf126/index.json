@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Tutu",
+  "symbol": "tutu",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwrt9hk8tz4knmpmlnjrxp7uhg8zg0njxqpapw9q",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x01b15d120c43c14747a71abb43478c1bf20bc07fb14272b08b41c9cbf480e00b"
+  },
+  "typeHash": "0xc3d02ae92cc5e6c49ad583df891ef2f273ac2b848f357873bb44f4abcc2bf126",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

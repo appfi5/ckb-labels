@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Transact",
+  "symbol": "RUN",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqx9g9gcgnacsmqtxsc37m55mcwy5fje9jcsfnsdj",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0x3a92d7a74c11413bbbaa2231eaa35b493bea46d1e8170db32b914093100c3a0e"
+  },
+  "typeHash": "0x4bc7b234e299747353d0acb7dbc4263356e199d0e47732f445a9cb5f3070d70d",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

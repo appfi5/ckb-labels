@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "PUDT with no external dependency",
+  "symbol": "PUDTn",
+  "icon": "logo.svg",
+  "decimal": 6,
+  "tags": null,
+  "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgatm0277z2rkyraf33rmn7hgl424z0lrg79sqam",
+  "type": {
+    "codeHash": "0xb193a0433d22b301b2a3d7c7fe6fb15cc24d2f7fc0ff10aa8dcf3f361922ffce",
+    "hashType": "type",
+    "args": "0x608e6846ba5e83c969aa93349551db03fd450b92dfd6e1ed55970fa5f4635b6a"
+  },
+  "typeHash": "0x7db9d5fa1558270966b8d7ddeca35e6799c7bcd98c76538b73f1687e98ea788a",
+  "description": null,
+  "udtType": "ssri",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

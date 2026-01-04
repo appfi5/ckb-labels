@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "Mint, Just Mint, Just Mint it",
+  "symbol": "MIIIINT",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgp840njmld08k504fwfamy2n2sp9cuvc4xqqt9jsat",
+  "type": {
+    "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",
+    "hashType": "type",
+    "args": "0xa239e2a07a90453820bd01c2fde2ea4e84840b1254b466fc26ff25df16aa920c"
+  },
+  "typeHash": "0xbf07f2e1a785d5aeb264f489e8fc692cb3759d28f43b63efcfebe9ef58bbebca",
+  "description": null,
+  "udtType": "omiga_inscription",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

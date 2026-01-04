@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "RUNES",
+  "symbol": "++R++",
+  "icon": null,
+  "decimal": 8,
+  "tags": null,
+  "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqpvqmlesr3veevyeh33v6jgfws27ffac9gmmfdde8st6rtew4fqg645nhfs",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x90ebded1d39287c29af61f037787edc5b09b85717506f30d08306353476925c2"
+  },
+  "typeHash": "0xd42691bcdacf53f777344af8da6b27237211c083b37b4087bb924488b211120f",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}

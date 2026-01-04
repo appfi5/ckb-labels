@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema.json",
+  "name": "R-NICOLAS•PI•RUNES",
+  "symbol": "R-NICOLAS•PI•RUNES",
+  "icon": null,
+  "decimal": 0,
+  "tags": null,
+  "manager": "ckb1qpr9n80d4pwspvwyje8qwg6mlgyl7fwfmrcux55z4gy9plqugkzj7qfdchesktvfn5glut3ppf45ha7j83ekvrpcxscrxvfj8gerxvqptsyml",
+  "type": {
+    "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
+    "hashType": "data1",
+    "args": "0x24adcf8ffe2aa5f56816dba697877e1603d6084b292d9b9544a3af61027850b2"
+  },
+  "typeHash": "0x7894035840ec068f3c746c796e6778ea37931b9c3eef5b33da40847ddc776029",
+  "description": null,
+  "udtType": "xudt",
+  "published": true,
+  "email": null,
+  "famous": false,
+  "operatorWebsite": null
+}
