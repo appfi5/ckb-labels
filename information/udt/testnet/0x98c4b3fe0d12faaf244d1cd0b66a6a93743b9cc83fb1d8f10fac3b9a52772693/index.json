@@ -4,6 +4,7 @@
   "symbol": "LP-UTXOSwap V1",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxuljmmz6e50x6ndxrtw24hsrg9evx2ccu2326sdckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxuljmmz6e50x6ndxrtw24hsrg9evx2ccu2326sd",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

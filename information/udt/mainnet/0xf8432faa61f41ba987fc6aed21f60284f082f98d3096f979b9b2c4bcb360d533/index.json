@@ -4,6 +4,7 @@
   "symbol": "BITCAT",
   "icon": "logo.jpeg",
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhe7nk6xxd37zlsxsyqdvvlmt9fckj5jdsady96t6nt759ku9yljqqqqqqqrmfd8c",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

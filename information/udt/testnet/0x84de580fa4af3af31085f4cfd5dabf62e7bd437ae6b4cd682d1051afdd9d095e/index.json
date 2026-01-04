@@ -4,6 +4,7 @@
   "symbol": "TST",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qpa0qahsffdrsxtuu97tc2u2wzwaeel3dc7fjjm3vurvtggrggqquqgx25wprexfrm6qyrrsr2u7qrg7qvr68xr8qqtz9q0h",
   "type": {
     "codeHash": "0x98701eaf939113606a8a70013fd2e8f27b8f1e234acdc329f3d71f9e9d3d3233",

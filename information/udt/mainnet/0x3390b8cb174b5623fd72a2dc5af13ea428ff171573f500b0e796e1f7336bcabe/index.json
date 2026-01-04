@@ -4,6 +4,10 @@
   "symbol": "Clown",
   "icon": "logo.png",
   "decimal": 8,
+  "tags": [
+    "rgb++",
+    "layer-2-asset"
+  ],
   "manager": "ckb1qrgqep8saj8agswr30pls73hra28ry8jlnlc3ejzh3dl2ju7xxpjxqgqqy4kuzr7v5xnpedtr9kg9jed3waxygvqjc9nc5jf",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

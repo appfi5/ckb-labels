@@ -4,6 +4,10 @@
   "symbol": "CHA",
   "icon": "logo.jpeg",
   "decimal": 6,
+  "tags": [
+    "supply-limited",
+    "rgb++"
+  ],
   "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qhjzz5s6l9kvgyfzgmlys94a4nclxjjcayz0hdv5k0wc9f3x0e5fuqqqqqqsun3xu",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

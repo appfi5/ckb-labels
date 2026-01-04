@@ -4,6 +4,7 @@
   "symbol": "GIGG",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3g3ws5huc2rqyp0yu6w9gqt9hk5g3wxnypvp0m9nwh2h2updg5uvqqqqqqsc2y2t",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

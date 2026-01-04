@@ -4,6 +4,10 @@
   "symbol": "RUSD",
   "icon": "https://raw.githubusercontent.com/stablepp/media-kit/refs/heads/main/stablecoin-RUSD.svg",
   "decimal": 8,
+  "tags": [
+    "rgb++",
+    "layer-2-asset"
+  ],
   "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq9tn3v8fgf8fegvm3n8y7elvpjza4kd7mcd7aek4",
   "type": {
     "codeHash": "0x1142755a044bf2ee358cba9f2da187ce928c91cd4dc8692ded0337efa677d21a",

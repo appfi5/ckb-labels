@@ -4,6 +4,7 @@
   "symbol": "BUSD|bsc",
   "icon": "https://cryptologos.cc/logos/binance-usd-busd-logo.svg?v=002",
   "decimal": 18,
+  "tags": null,
   "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqtfudy7ndgjymk7020nj67qhjutzs5t20jeaks6smuk99jmrsr4msz2sqqqqrq7r989jnws69gye5getyvdqn2wfcxsmnsvzzv9nxxdfe893ygd3eg9zxgvpcxazr2dsrz70lp",
   "type": {
     "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",

@@ -4,6 +4,7 @@
   "symbol": "RBLDR",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyexq8z8vd3ku3mqg3e6fzmzw0h0rn3jnvc7000w",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

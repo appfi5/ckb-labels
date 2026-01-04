@@ -4,6 +4,7 @@
   "symbol": "O",
   "icon": null,
   "decimal": 0,
+  "tags": null,
   "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq5yht369u5c3jrcnz3pdr3kd7h4h49hs9ltgtkq2kfhfmnlwdej3cqhrw5d",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

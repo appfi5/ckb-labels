@@ -4,6 +4,7 @@
   "symbol": "CKBCKT",
   "icon": null,
   "decimal": 5,
+  "tags": null,
   "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyfs5pcxz6f47u67fqhekywvwxmcnmd7ugt40m59",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

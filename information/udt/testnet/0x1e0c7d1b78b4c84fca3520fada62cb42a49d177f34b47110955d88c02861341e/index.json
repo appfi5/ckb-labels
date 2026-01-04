@@ -4,6 +4,7 @@
   "symbol": "XTT",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgpexasr6ltjl82unqd8e4fkj83q7868kemqq8nq5ya",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

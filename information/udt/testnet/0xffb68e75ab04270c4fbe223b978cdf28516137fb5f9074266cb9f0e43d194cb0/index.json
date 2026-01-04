@@ -4,6 +4,7 @@
   "symbol": "DZ10",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgrqqqqqujkmalcsxfwkhx9nfxeecmsutehh9j5wu77xtcv2mz6prqgatgjkw69h9",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

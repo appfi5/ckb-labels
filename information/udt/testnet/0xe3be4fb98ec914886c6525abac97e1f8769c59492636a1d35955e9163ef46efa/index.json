@@ -4,6 +4,7 @@
   "symbol": "FDT1#",
   "icon": "",
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qyq0j6m8qr0kpltdsj3wz7jute8kqwj7a3wsfxt67g",
   "type": {
     "codeHash": "0x48dbf59b4c7ee1547238021b4869bceedf4eea6b43772e5d66ef8865b6ae7212",

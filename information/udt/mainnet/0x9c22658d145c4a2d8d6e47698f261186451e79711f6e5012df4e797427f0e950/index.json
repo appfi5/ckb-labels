@@ -4,6 +4,7 @@
   "symbol": "ARAB",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgzqqqqpz3uswflhn8lp0fda8lf08snv3lduvghur2a4t890de0adas7c2c8afgtx",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

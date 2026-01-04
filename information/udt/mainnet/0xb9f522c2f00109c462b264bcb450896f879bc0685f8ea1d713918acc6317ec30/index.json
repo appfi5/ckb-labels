@@ -4,6 +4,7 @@
   "symbol": "BNT",
   "icon": "https://cryptologos.cc/logos/bancor-bnt-logo.svg?v=002",
   "decimal": 18,
+  "tags": null,
   "manager": "ckb1qjfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjhcqqqqpqqqqqqcqqqqqxyqqqqx9l6dpjrvlncdcsgv3fwch68xe5segdg9zdaxxxwtum0dtvmlp35qj5qqqqqc8sv2xx5mnx3pkge3rx333xdjrvwpegerrsdp5gg6xx3fnxumnjdryxuukzd6xgcc5xtmauvj",
   "type": {
     "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",

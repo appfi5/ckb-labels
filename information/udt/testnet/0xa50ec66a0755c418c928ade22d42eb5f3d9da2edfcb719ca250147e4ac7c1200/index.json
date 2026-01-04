@@ -4,6 +4,7 @@
   "symbol": "TT7",
   "icon": "logo.png",
   "decimal": 0,
+  "tags": null,
   "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2s0s0fnv4vnupwek7nnve7wmkqlelzdkqyzqyys",
   "type": {
     "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",

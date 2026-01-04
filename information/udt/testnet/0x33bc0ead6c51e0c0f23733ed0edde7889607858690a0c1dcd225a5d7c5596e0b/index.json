@@ -4,6 +4,7 @@
   "symbol": "TT2",
   "icon": "",
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0lm593wks5yat55xh2rvrndhlav8dng9qe9dqfj",
   "type": {
     "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",

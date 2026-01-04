@@ -4,6 +4,7 @@
   "symbol": "DDLO",
   "icon": "",
   "decimal": 6,
+  "tags": null,
   "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqjefv38cw9c9ankprpe438f2mracz06r7n87dprhtlc9kkx8uxzfv9j4270",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

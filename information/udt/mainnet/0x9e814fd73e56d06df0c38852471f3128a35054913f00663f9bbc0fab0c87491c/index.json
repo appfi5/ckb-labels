@@ -4,6 +4,7 @@
   "symbol": "42069",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgrqqqqqzyg2my5h2ll78agp7d8cju2q4d6ga2s7ysetlnfx87hqq2c8pzed88jx6",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

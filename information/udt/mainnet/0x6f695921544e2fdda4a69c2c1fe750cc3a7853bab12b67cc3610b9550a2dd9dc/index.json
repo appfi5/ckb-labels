@@ -4,6 +4,7 @@
   "symbol": "1",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqsyufd58sspw3akywt30sz4juv3f0nahagje43pn78jh67uv6mnsq8rpgcw",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

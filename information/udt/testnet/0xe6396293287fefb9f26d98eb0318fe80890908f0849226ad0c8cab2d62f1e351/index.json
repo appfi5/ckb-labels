@@ -4,6 +4,7 @@
   "symbol": "tBtc",
   "icon": "logo.png",
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2sjx5pg6ewz9rqvl4pg8kevvgsf6xp20cwqd4rl",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

@@ -4,6 +4,10 @@
   "symbol": "DRAGON",
   "icon": "logo.png",
   "decimal": 8,
+  "tags": [
+    "rgb++",
+    "layer-2-asset"
+  ],
   "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqnhm484dhrc5f6gq5ztaxcjgehkq9v2aelmzrprsfvuwp75sma5n5wgvelk",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

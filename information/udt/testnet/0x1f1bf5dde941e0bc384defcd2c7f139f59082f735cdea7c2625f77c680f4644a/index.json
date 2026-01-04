@@ -4,6 +4,7 @@
   "symbol": "CARAS",
   "icon": "logo.png",
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qyq28r846gr5xzg8pg2gyplelhtapp40exvqj6ad52",
   "type": {
     "codeHash": "0x48dbf59b4c7ee1547238021b4869bceedf4eea6b43772e5d66ef8865b6ae7212",

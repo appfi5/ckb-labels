@@ -4,6 +4,7 @@
   "symbol": "PUDT",
   "icon": "logo.svg",
   "decimal": 6,
+  "tags": null,
   "manager": "ckt1qrejnmlar3r452tcg57gvq8patctcgy8acync0hxfnyka35ywafvkqgjq9wlaxnef3x7zqcagqxa7vmjaj6vczxwqq4w7pvj",
   "type": {
     "codeHash": "0x73b47e5506921f6ed7edec12928bb8292ee87ecaa98841600c6f7b39c47aab46",

@@ -4,6 +4,7 @@
   "symbol": "R-ETH",
   "icon": null,
   "decimal": 18,
+  "tags": null,
   "manager": "ckt1qqcyvyzy40qa0ee42uzg2p6lw7vmrdjjtqtpg3avg84g3c9c8n8usqdd30zrqp9h66xajdqwyykzfxu6kahafy9qgqp0wt54cufufytdckl8t9rgqjg62hxlq3ug3q0th9z95rkfjgr0lgdm",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

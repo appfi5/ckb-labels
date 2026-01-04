@@ -4,6 +4,7 @@
   "symbol": "W",
   "icon": null,
   "decimal": 4,
+  "tags": null,
   "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq5gvwyk66g6xyj75ry6pq63c863e5x6qry0er6vaqnrs4sha6nrc5a4hsz2",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

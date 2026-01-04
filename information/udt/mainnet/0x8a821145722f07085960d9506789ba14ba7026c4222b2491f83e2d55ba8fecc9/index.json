@@ -4,6 +4,7 @@
   "symbol": "GYB++",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqpas3ggpph2vcgdaj5a6q2vg7jq7c8n2kkey0k9t58ep8e8atvd4eppqkla",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

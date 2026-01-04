@@ -4,6 +4,7 @@
   "symbol": "LWB",
   "icon": "logo.png",
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qyq2j0he8v9ad923pl0ha2rj3ps0vfgeldsq4vsgrl",
   "type": {
     "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",

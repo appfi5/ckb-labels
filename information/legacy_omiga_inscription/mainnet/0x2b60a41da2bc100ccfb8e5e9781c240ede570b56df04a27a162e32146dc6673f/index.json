@@ -4,6 +4,7 @@
   "symbol": "__TEST_2ND__",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qrgqep8saj8agswr30pls73hra28ry8jlnlc3ejzh3dl2ju7xxpjxqgqq9ykn04hrcpz6u33v7j0h7y946duj6kmwszzxdue",
   "type": {
     "codeHash": "0x5c33fc69bd72e895a63176147c6ab0bb5758d1c7a32e0914f99f9ec1bed90d41",

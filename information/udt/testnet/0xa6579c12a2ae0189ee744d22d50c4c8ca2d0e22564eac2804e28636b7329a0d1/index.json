@@ -4,6 +4,7 @@
   "symbol": "RTT",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qpfxzmnt4kahpzlymmfz9hylu4u3k67s5h233aa44dkdach3s68e2qgfqqqqp2z65emuz7ywe3lz3mmtl27mm0hql5k5sg8jypk3nwn2m3x7lxrqmktg78",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

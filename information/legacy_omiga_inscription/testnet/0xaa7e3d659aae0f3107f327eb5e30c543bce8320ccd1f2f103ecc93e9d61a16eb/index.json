@@ -4,6 +4,7 @@
   "symbol": "BIT",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqxnf4g0g30zu4pvnrx70ngxqexpqtv7ekcfe7eeq",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

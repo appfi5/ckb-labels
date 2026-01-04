@@ -4,6 +4,7 @@
   "symbol": "GGTT",
   "icon": null,
   "decimal": 6,
+  "tags": null,
   "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqnn2nlcztzshwjxyc22866w4atcyv46l5ghfhmw72w9334dzuvf5sud6wuu",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

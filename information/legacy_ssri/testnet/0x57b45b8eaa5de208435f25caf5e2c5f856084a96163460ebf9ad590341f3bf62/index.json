@@ -2,8 +2,9 @@
   "$schema": "../../schema.json",
   "name": "CKBoost Protocol Points",
   "symbol": "POINTS",
-  "icon": "",
+  "icon": "🏆",
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyspmczvpv276a0kwytp8vdn44phe29u5gsjkrp5ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqqyspmczvpv276a0kwytp8vdn44phe29u5gsjkrp5",
   "type": {
     "codeHash": "0xfcb4b762e3222b603771811b8abe6b054a480a0f5d8011fd9fff266d72189a5e",

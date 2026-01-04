@@ -4,6 +4,7 @@
   "symbol": "BLUEBERRY",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3jlg2g7524v7gz2gh3pl60wfs9m0edv5kqk7yaznv4h0pynv2fpuqqqqqqd9vktu",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

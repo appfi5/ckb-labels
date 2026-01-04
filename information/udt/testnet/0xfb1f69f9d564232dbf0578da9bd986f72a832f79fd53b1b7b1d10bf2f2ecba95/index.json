@@ -4,6 +4,7 @@
   "symbol": "drve",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyqn5m9qrk4vr0mhkvxq0f3drwrj8t099e2y8h4cngmhrn89pzaqc3sd7fze7",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

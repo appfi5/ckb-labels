@@ -4,6 +4,7 @@
   "symbol": "MKR",
   "icon": "https://cryptologos.cc/logos/maker-mkr-logo.svg?v=002",
   "decimal": 18,
+  "tags": null,
   "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqchlf5xgdn70phzppj99mzlgumxjr9p4q5fh5ccee0nda4dn0uxxsz2sqqqqrq7pevcuyvdejv9qnjvesx33nss348yekgdf4x4rrzvn9gcmr2wpevdpnxsf4xuu5zvszy36va",
   "type": {
     "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",

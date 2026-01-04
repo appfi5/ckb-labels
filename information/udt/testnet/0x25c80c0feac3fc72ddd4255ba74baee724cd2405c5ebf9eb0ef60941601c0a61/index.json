@@ -4,6 +4,7 @@
   "symbol": "ZMC",
   "icon": "",
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qpalzkekkmm7qr6azv7f0ky88vxpx3gp0d0kd9y42geu344gh7ch5qgqv2lryvkr8g4evqtemcath55awqvd9vawge8fma3taqvnc6l80leqywvm7c",
   "type": {
     "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",

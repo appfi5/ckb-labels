@@ -4,6 +4,7 @@
   "symbol": "USDT|bsc",
   "icon": "https://cryptologos.cc/logos/tether-usdt-logo.svg?v=002",
   "decimal": 18,
+  "tags": null,
   "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqtfudy7ndgjymk7020nj67qhjutzs5t20jeaks6smuk99jmrsr4msz2sqqqqrq7p4x4jrxwfcxverve3e8ycr2wtxgcmnwdf58q6nydpk8yunjvpjxaprxvfexuun2dgjpat43",
   "type": {
     "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",

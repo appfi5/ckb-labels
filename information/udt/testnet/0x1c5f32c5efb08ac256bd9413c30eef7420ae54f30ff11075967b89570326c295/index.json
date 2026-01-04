@@ -4,6 +4,7 @@
   "symbol": "SNB",
   "icon": "logo.png",
   "decimal": 4,
+  "tags": null,
   "manager": "ckt1qyq93d7ztzk03c7x2gg9vx75knzhav8lmcnshmdmah",
   "type": {
     "codeHash": "0x48dbf59b4c7ee1547238021b4869bceedf4eea6b43772e5d66ef8865b6ae7212",

@@ -4,6 +4,10 @@
   "symbol": "JOKER",
   "icon": "logo.png",
   "decimal": 8,
+  "tags": [
+    "supply-limited",
+    "rgb++"
+  ],
   "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qkm39rufp2nmn4nd9g8fzrukq8a83hnahedmxcye27sytxm563zdqqqqqqqvhhhya",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

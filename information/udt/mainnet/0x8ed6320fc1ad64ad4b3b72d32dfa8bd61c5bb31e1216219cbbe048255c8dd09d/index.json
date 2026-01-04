@@ -4,6 +4,7 @@
   "symbol": "UNI",
   "icon": "https://cryptologos.cc/logos/uniswap-uni-logo.svg?v=013",
   "decimal": 18,
+  "tags": null,
   "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqchlf5xgdn70phzppj99mzlgumxjr9p4q5fh5ccee0nda4dn0uxxsz2sqqqqrq7p3vcunsdpsvyur2ep4v9rr2cnxx9zrzdekxfrrjv34gfzyz3rygv6ryvp3gcunsdq64w2y9",
   "type": {
     "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",

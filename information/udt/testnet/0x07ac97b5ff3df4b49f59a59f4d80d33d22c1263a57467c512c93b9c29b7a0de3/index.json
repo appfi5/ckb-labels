@@ -4,6 +4,10 @@
   "symbol": "USDI",
   "icon": "logo.svg",
   "decimal": 6,
+  "tags": [
+    "rgb++",
+    "layer-2-asset"
+  ],
   "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvt29ul8eew7c2kycc3r8hcyxlaed8me9gfnzdaf",
   "type": {
     "codeHash": "0xcc9dc33ef234e14bc788c43a4848556a5fb16401a04662fc55db9bb201987037",

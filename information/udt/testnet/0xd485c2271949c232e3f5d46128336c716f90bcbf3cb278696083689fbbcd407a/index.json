@@ -4,6 +4,9 @@
   "symbol": "iCKB",
   "icon": "logo.png",
   "decimal": 8,
+  "tags": [
+    "rgb++"
+  ],
   "manager": "ckt1qpyald40aewv3tzzykhw4r9cj2932r908nvjl63nw5rg836tzvj55qsjxvwmm",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

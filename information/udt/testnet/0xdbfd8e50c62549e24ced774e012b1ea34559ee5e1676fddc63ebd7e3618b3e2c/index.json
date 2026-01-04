@@ -4,6 +4,7 @@
   "symbol": "ckUSDC",
   "icon": "logo.png",
   "decimal": 6,
+  "tags": null,
   "manager": "ckt1qn7e29wuzh8z8pd2hpd0yxnv38tuqql2cy2ae0get28jntv3d2e3vvcfujyy3afy8h4jukyc7rv9v9hz5azf28cdyfgl2xuglt7fpur0wq30lrvzz4934wux0dvgdx7u6cmv9swsy4kappmrptygvxwa5v6n07y83zwa4g3nqalf2n",
   "type": {
     "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",

@@ -4,6 +4,7 @@
   "symbol": "LINK",
   "icon": "https://cryptologos.cc/logos/chainlink-link-logo.svg?v=002",
   "decimal": 18,
+  "tags": null,
   "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqchlf5xgdn70phzppj99mzlgumxjr9p4q5fh5ccee0nda4dn0uxxsz2sqqqqrq7p4xy6rjvfsxumnzs2x89pkzd34xeskvwp5xpjxve3cxdznsv3kx3zkx33e8qmyxsgpdc44g",
   "type": {
     "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",

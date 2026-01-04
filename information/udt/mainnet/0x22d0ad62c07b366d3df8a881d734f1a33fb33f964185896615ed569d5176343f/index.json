@@ -4,6 +4,10 @@
   "symbol": "wCKB",
   "icon": "logo.svg",
   "decimal": 8,
+  "tags": [
+    "rgb++",
+    "layer-2-asset"
+  ],
   "manager": "ckb1qpt0kce2zw4a44es35hqxja2u89sf85w3lere37qk62ynash2jtnxqgy0qk0s49khvx5zz8vx8cwz0jjlyvf8qz5kmla3sapgwzw672ysy5qsv0l",
   "type": {
     "codeHash": "0x42a0b2aacc836c0fc2bbd421a9020de42b8411584190f30be547fdf54214acc3",

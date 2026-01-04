@@ -4,6 +4,7 @@
   "symbol": "TOKENS1",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qj4gg4l3jlkaa90j869yjdpyl5c7q86g0up9nj4yrz5pg3cef8k4sqqqqqqwnd9hf",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

@@ -4,6 +4,7 @@
   "symbol": "RTST",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qyqwtq7qhg6j9hfqxnndmxyzmlamn85dhs7sjn8rsl",
   "type": {
     "codeHash": "0x48dbf59b4c7ee1547238021b4869bceedf4eea6b43772e5d66ef8865b6ae7212",

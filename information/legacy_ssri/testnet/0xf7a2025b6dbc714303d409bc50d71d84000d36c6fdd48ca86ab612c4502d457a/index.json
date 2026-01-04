@@ -4,6 +4,7 @@
   "symbol": "PUDTn",
   "icon": "logo.svg",
   "decimal": 6,
+  "tags": null,
   "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqflz4emgssc6nqj4yv3nfv2sca7g9dzhscgmg28x",
   "type": {
     "codeHash": "0xb193a0433d22b301b2a3d7c7fe6fb15cc24d2f7fc0ff10aa8dcf3f361922ffce",

@@ -4,6 +4,7 @@
   "symbol": "MMEMES",
   "icon": null,
   "decimal": 1,
+  "tags": null,
   "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqddtwpzrxg7986pf57qxnpcmgsf3r5rk9c9qw87q",
   "type": {
     "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",

@@ -4,6 +4,7 @@
   "symbol": "Apple",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgvqqqqptd2qzftdkj3gftmgsaykex80rv22lt46p862xkt7uze4k9659qgcja4nr",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

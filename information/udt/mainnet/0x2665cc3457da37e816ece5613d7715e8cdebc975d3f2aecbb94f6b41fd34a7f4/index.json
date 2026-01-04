@@ -4,6 +4,7 @@
   "symbol": "sex",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qqkl2w6e9ke6ud59kau84h877qej5cg7mwpu50lv5s6cpxtycwhlyq50hpnwsxxhawgv4q28tdmr4kpnz0gqe26f800qnkaltp7hlcwm7vl56fuq",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

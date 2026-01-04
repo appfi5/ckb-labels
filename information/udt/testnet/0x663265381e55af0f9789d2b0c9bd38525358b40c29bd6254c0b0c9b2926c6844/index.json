@@ -4,6 +4,7 @@
   "symbol": "TLT",
   "icon": "logo.png",
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qyqfcefd2lta6sgr72qtdq3v3v8ul47pd7cqjlfef5",
   "type": {
     "codeHash": "0x48dbf59b4c7ee1547238021b4869bceedf4eea6b43772e5d66ef8865b6ae7212",

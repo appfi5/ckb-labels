@@ -4,6 +4,7 @@
   "symbol": "MONEY",
   "icon": null,
   "decimal": 1,
+  "tags": null,
   "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq8clznt6klt3xek9v30qy4u55j4m2yl5jy3cp4g2",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

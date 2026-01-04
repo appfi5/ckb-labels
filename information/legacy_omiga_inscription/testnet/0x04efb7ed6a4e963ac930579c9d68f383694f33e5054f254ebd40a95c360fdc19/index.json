@@ -4,6 +4,7 @@
   "symbol": "WAN",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq98x7q0glf4asym7jcqz6m5p5j56ze6emsx9taey",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

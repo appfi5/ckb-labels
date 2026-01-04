@@ -4,6 +4,7 @@
   "symbol": "COFFEE",
   "icon": "logo.png",
   "decimal": 0,
+  "tags": null,
   "manager": "ckb1qyqzmy2fvxe0chmsj8m7xlg3l5plfs9epuvqgh8ezv",
   "type": {
     "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",

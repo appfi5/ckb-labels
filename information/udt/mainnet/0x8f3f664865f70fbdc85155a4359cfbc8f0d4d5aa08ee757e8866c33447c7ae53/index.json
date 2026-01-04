@@ -4,6 +4,7 @@
   "symbol": "TAI",
   "icon": "logo.png",
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qg56s9rnufyjfcu54y2g4v6hcfyjlm0k2fqcfzm6safe5ldec02rlclf85g06zl5hnud480vtxj37zp4yxe7zxssqampfva48wfn0ykkqsqqqqqvcny6h",
   "type": {
     "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",

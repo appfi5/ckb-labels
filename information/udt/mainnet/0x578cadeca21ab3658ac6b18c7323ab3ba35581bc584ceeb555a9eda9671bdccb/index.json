@@ -4,6 +4,7 @@
   "symbol": "MC",
   "icon": "logo.png",
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qj0n46hjl3pe2jwtepcvv5ehf9p6l94qvk9addgmarvfsvvrum6j7qwuwmr0krmpkts0zfexvxskpygqktc6nzggmzwyxn4hsvlr0rdgjn4xq5tfu222hdxsq5dm466z2elm3y24csrsqnyaqp",
   "type": {
     "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",

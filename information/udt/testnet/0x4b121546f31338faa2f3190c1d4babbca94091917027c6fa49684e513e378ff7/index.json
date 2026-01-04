@@ -4,6 +4,7 @@
   "symbol": "WUKONG",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q3t07hq42e37xq44qxjzcrdcq3fhww6h5422vskgypn62w2ah7x4vqqqqqqnk2mgf",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

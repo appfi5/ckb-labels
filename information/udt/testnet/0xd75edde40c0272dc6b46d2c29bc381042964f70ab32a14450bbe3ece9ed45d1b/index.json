@@ -4,6 +4,7 @@
   "symbol": "GIT",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qq6pngwqn6e9vlm92th84rk0l4jp2h8lurchjmnwv8kq3rt5psf4vqvsrxshje05pu6djchd509mg0dy9epq54cd9wg8w",
   "type": {
     "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",

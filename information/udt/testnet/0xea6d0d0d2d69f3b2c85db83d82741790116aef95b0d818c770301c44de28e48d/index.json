@@ -4,6 +4,7 @@
   "symbol": "jUDT",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qpsu57j8j6jwkxw2fuxsvh9ekyxaeuqz7y8hewupp3cxed4mtseysqgzqqqqpj3t2asj80dkf2j2m8utk4ut36vtepq6xul5vr08fl9kgjmcl6f2ata2wg",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

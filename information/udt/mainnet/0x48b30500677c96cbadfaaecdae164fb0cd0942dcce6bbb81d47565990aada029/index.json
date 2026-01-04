@@ -4,6 +4,7 @@
   "symbol": "WANJIA",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67qjlq8sv9tnu0grgen3qp269xydlz9kjywg5wpxsev0gva2pcdsqvcqqqqqqgewm8x",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

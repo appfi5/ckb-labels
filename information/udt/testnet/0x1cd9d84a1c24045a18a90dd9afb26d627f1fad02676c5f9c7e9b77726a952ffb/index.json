@@ -4,6 +4,7 @@
   "symbol": "King",
   "icon": "",
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qpuljza4azfdsrwjzdpea6442yfqadqhv7yzfu5zknlmtusm45hpuqgpcsqpya80rstgaazyc409t5wyz9fp2yk3qqzgpsu6",
   "type": {
     "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",

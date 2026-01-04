@@ -4,6 +4,7 @@
   "symbol": "DOG++",
   "icon": null,
   "decimal": 5,
+  "tags": null,
   "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgqqqqqqr4nm9rqz0qnjvvcee89f6f89s0fyx5l68rp3xzqcwhwmcl4gltd5g55j9",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

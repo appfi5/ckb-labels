@@ -4,6 +4,7 @@
   "symbol": "PPIG",
   "icon": "logo.jpg",
   "decimal": 6,
+  "tags": null,
   "manager": "ckt1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvntnxh8el5huyeuksnw7s249m4k080yws2sfexx",
   "type": {
     "codeHash": "0xc5e5dcf215925f7ef4dfaf5f4b4f105bc321c02776d6e7d52a1db3fcd9d011a4",

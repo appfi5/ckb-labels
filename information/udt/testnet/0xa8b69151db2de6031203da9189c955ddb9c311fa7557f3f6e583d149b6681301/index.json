@@ -4,6 +4,7 @@
   "symbol": "RT",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qjr2r35c0f9vhcdgslx2fjwa9tylevr5qka7mfgmscd33wlhfykyhp09gqw99tkwn6mpf7vhktevyrulcy9xw82pdvd",
   "type": {
     "codeHash": "0x48dbf59b4c7ee1547238021b4869bceedf4eea6b43772e5d66ef8865b6ae7212",

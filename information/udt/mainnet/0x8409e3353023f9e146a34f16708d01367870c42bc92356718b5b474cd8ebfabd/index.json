@@ -4,6 +4,7 @@
   "symbol": "WBNB|bsc",
   "icon": "https://cryptologos.cc/logos/binance-coin-bnb-logo.svg?v=002",
   "decimal": 18,
+  "tags": null,
   "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqtfudy7ndgjymk7020nj67qhjutzs5t20jeaks6smuk99jmrsr4msz2sqqqqrq7rzvg6yxezz89p5yepnxeprqvtzgsckxsnpg4pyvvjyv5crsepexymnxcnrxqun2ccnrdnqv",
   "type": {
     "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",

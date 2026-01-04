@@ -34,16 +34,23 @@
       "minimum": 0
     },
     "tags": {
-      "type": "array",
-      "items": {
-        "type": "string",
-        "enum": [
-          "rgb++",
-          "layer-1-asset",
-          "layer-2-asset",
-          "supply-limited"
-        ]
-      }
+      "anyOf": [
+        {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "rgb++",
+              "layer-1-asset",
+              "layer-2-asset",
+              "supply-limited"
+            ]
+          }
+        },
+        {
+          "type": "null"
+        }
+      ]
     },
     "manager": {
       "anyOf": [
@@ -140,6 +147,7 @@
     "symbol",
     "icon",
     "decimal",
+    "tags",
     "manager",
     "type",
     "typeHash",

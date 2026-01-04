@@ -4,6 +4,7 @@
   "symbol": "6666",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qrfrwcdnvssswdwpn3s9v8fp87emat306ctjwsm3nmlkjg8qyza2cqgqq87cn4nx0hxaj5wsw9z9q2k9ry5dfrgm6y4f6q9r",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

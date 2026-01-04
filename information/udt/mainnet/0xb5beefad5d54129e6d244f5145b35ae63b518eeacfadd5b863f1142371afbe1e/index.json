@@ -4,6 +4,7 @@
   "symbol": "CARE",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqg9qqqqp805qf4rqm476chdezre3up5nkkgdzjeudwgj3j8lntld5gwgrgud8kvzu",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

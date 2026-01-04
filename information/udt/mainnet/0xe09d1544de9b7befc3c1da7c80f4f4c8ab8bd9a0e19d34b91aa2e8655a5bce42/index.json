@@ -4,6 +4,7 @@
   "symbol": "LTO",
   "icon": "https://cryptologos.cc/logos/lto-network-lto-logo.svg?v=002",
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qjfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjhcqqqqpqqqqqqcqqqqqxyqqqqx9l6dpjrvlncdcsgv3fwch68xe5segdg9zdaxxxwtum0dtvmlp35qj5qqqqqc8sv6yggmyycfkv93rv33ex4jkvetyx9snv3fh8y6xxc2yxsunyejpg9sky33j8y6yga79unv",
   "type": {
     "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",

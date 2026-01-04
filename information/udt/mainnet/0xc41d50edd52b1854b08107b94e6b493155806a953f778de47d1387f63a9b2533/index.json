@@ -4,6 +4,7 @@
   "symbol": "PARC",
   "icon": "logo.png",
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qyqqy84p5874y0mq0fse5fw8sw6a674ryd9qkdrwxf",
   "type": {
     "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",

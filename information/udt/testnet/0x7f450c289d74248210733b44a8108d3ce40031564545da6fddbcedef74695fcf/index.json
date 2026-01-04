@@ -4,6 +4,7 @@
   "symbol": "BTB",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckt1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q5jd3cqvre98n2850tk588gwuug7mh5etds48a4d7ugux2u3mdtcsqqqqqqd96n38",
   "type": {
     "codeHash": "0x25c29dc317811a6f6f3985a7a9ebc4838bd388d19d0feeecf0bcd60f6c0975bb",

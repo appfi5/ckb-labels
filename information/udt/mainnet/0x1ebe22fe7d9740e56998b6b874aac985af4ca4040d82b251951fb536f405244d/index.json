@@ -4,6 +4,7 @@
   "symbol": "KOI",
   "icon": "https://app.stablekoi.com/images/tokens/0xd66eb642eE33837531FdA61eb7Ab15B15658BcaB.svg",
   "decimal": 18,
+  "tags": null,
   "manager": "ckb1qz0n46hjl3pe2jwtepcvv5ehf9p6l94qvk9addgmarvfsvvrum6j7qgpma4tnak67fwm6v238fkvc3que7eppffupq8n2g9gvm8zfnzhk2t6gst958ncz84zw9l8nzd42faw9uf94yhnjdqve5h",
   "type": {
     "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",

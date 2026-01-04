@@ -4,6 +4,7 @@
   "symbol": "ward",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgpqqqqqgu0ufdcs2ufkvt8m8wlz8e42wzwuumcslzw6knwqjpkq836qw2ykl88u4",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

@@ -4,6 +4,7 @@
   "symbol": "iBFR|bsc",
   "icon": "https://assets.coingecko.com/coins/images/18540/large/buffer.png",
   "decimal": 18,
+  "tags": null,
   "manager": "ckb1qzfmc753t57clzuk0z7xc7sh29ecexwwdenthfxl4dtxwtmddytcjq2lqqqqqyqqqqqrqqqqqqcsqqqqtfudy7ndgjymk7020nj67qhjutzs5t20jeaks6smuk99jmrsr4msz2sqqqqrq7rpxgunvc2yx9pngd6xg5mxy3zrxyenxe3n8y6n2d2rx9zrzvfhxapygdf3vepxxdg2s3fwf",
   "type": {
     "codeHash": "0x5e7a36a77e68eecc013dfa2fe6a23f3b6c344b04005808694ae6dd45eea4cfd5",

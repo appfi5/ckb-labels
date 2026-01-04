@@ -4,6 +4,7 @@
   "symbol": "SORRY",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qz7xc452rgxs5z0ks3xun46dmdp58sepg0ljtae8ck0d7nah945nvqgeqqqqqfx9nks94zya85xhmwv4wvtc2m2m5a9er0urqze7ry9v76thwy40tmlmdm",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

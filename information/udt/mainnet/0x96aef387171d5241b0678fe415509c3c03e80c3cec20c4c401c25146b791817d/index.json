@@ -4,6 +4,7 @@
   "symbol": "SITA",
   "icon": null,
   "decimal": 6,
+  "tags": null,
   "manager": "ckb1qzpfq3n62yh9hxnts9jxnv8d4wap7jkywn3gllwkqnp203myg6a67q503cqzrf6x3g50zxyq39dc63s8u0s3vg0gwh3p9d8vp4trhpfnkyqqqqqqtc392a",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",

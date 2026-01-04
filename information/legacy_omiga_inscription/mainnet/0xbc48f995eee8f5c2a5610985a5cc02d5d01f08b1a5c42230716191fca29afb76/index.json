@@ -4,6 +4,7 @@
   "symbol": "OMIGA",
   "icon": null,
   "decimal": 8,
+  "tags": null,
   "manager": "ckb1qrgqep8saj8agswr30pls73hra28ry8jlnlc3ejzh3dl2ju7xxpjxqgqqy28n5m69va267nv0wvsudngtxz8t9jwss3xkhpk",
   "type": {
     "codeHash": "0x50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95",
