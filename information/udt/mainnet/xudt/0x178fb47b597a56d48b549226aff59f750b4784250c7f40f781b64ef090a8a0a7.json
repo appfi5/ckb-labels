@@ -16,6 +16,11 @@
       "hashType": "data1",
       "args": "0x2ae639d6233f9b15545573b8e78f38ff7aa6c7bf8ef6460bf1f12d0a76c09c4e"
     },
-    "famous": true
+    "famous": true,
+    "tags": [
+      "rgb++",
+      "layer-1-asset",
+      "supply-limited"
+    ]
   }
 }

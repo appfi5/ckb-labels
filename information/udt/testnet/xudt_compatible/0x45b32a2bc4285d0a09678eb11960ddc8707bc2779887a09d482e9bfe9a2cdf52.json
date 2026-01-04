@@ -17,6 +17,11 @@
       "hashType": "type",
       "args": "0x878fcc6f1f08d48e87bb1c3b3d5083f23f8a39c5d5c764f253b55b998526439b"
     },
-    "famous": true
+    "famous": true,
+    "tags": [
+      "rgbpp-compatible",
+      "layer-2-asset",
+      "supply-unlimited"
+    ]
   }
 }

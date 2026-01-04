@@ -16,6 +16,11 @@
       "hashType": "type",
       "args": "0x"
     },
-    "famous": true
+    "famous": true,
+    "tags": [
+      "rgb++",
+      "layer-2-asset",
+      "supply-unlimited"
+    ]
   }
 }

@@ -16,6 +16,9 @@
       "hashType": "data1",
       "args": "0xb73b6ab39d79390c6de90a09c96b290c331baf1798ed6f97aed02590929734e800000080"
     },
-    "famous": true
+    "famous": true,
+    "tags": [
+      "rgb++"
+    ]
   }
 }
