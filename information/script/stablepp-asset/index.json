@@ -5,6 +5,7 @@
   "rfc": "",
   "website": "https://www.stablepp.xyz/stablecoin",
   "sourceUrl": "",
+  "decoderType": "udt",
   "deployments": {
     "mainnet": [
       {
@@ -17,6 +18,16 @@
         "cellDeps": []
       }
     ],
-    "testnet": []
+    "testnet": [
+      {
+        "tag": "",
+        "hashType": "type",
+        "dataHash": "0x94a0675388999ac5eaa7d1b7497fd989f712d2c15a021e61c5848ec4f5e999cf",
+        "typeHash": "0x1142755a044bf2ee358cba9f2da187ce928c91cd4dc8692ded0337efa677d21a",
+        "codeHash": "0x1142755a044bf2ee358cba9f2da187ce928c91cd4dc8692ded0337efa677d21a",
+        "deprecated": false,
+        "cellDeps": []
+      }
+    ]
   }
 }
