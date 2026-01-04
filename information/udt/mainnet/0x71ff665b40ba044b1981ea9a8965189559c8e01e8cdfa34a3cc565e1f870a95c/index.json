@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "name": "RUSD",
   "symbol": "RUSD",
-  "icon": "",
+  "icon": "https://raw.githubusercontent.com/stablepp/media-kit/refs/heads/main/stablecoin-RUSD.svg",
   "decimal": 8,
   "tags": [
     "rgb++",
