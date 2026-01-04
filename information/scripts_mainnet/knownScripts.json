@@ -339,6 +339,11 @@
         "name": "Stable++ Vault Lock"
     },
     {
+        "id": 69450987,
+        "history_ids": [],
+        "name": "wCKB Asset"
+    },
+    {
         "id": 69452661,
         "history_ids": [69450393],
         "name": "Stable++ Pool"
