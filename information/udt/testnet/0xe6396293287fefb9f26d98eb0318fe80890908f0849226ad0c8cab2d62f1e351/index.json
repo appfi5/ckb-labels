@@ -16,6 +16,6 @@
   "udtType": "xudt",
   "published": true,
   "email": "chenyu@magickbase.com",
-  "famous": false,
+  "famous": true,
   "operatorWebsite": "https://bitcoin.org/en"
 }
