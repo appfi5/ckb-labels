@@ -16,6 +16,6 @@
   "udtType": "omiga_inscription",
   "published": true,
   "email": null,
-  "famous": true,
+  "famous": false,
   "operatorWebsite": null
 }
